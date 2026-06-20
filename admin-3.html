@@ -1,0 +1,707 @@
+<!DOCTYPE html>
+<html lang="ta">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vetrivel TNPSC — Admin Panel</title>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
+<style>
+  :root{
+    --bg:#0b1220; --card:#121b2e; --card2:#0f1726; --border:#22304a;
+    --text:#e8edf7; --muted:#93a1bb; --blue:#3b82f6; --blue2:#2563eb;
+    --green:#22c55e; --red:#ef4444; --yellow:#eab308; --purple:#a855f7;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:'Segoe UI',Tahoma,sans-serif;background:var(--bg);color:var(--text);min-height:100vh;}
+  .wrap{max-width:980px;margin:0 auto;padding:18px 16px 60px;}
+  header{display:flex;align-items:center;justify-content:space-between;margin-bottom:18px;flex-wrap:wrap;gap:10px;}
+  header h1{font-size:1.3rem;margin:0;background:linear-gradient(90deg,#3b82f6,#a855f7);-webkit-background-clip:text;background-clip:text;color:transparent;}
+  header .sub{color:var(--muted);font-size:.8rem;}
+  .btn{background:var(--blue);color:#fff;border:none;padding:10px 16px;border-radius:10px;font-size:.9rem;cursor:pointer;font-weight:600;}
+  .btn:hover{background:var(--blue2);}
+  .btn.secondary{background:var(--card2);border:1px solid var(--border);color:var(--text);}
+  .btn.danger{background:var(--red);}
+  .btn.green{background:var(--green);}
+  .btn:disabled{opacity:.5;cursor:not-allowed;}
+
+  /* Login screen */
+  #login-screen{display:flex;align-items:center;justify-content:center;min-height:90vh;}
+  .login-card{background:var(--card);border:1px solid var(--border);border-radius:18px;padding:32px 28px;width:100%;max-width:380px;}
+  .login-card h2{margin-top:0;text-align:center;}
+  .login-card .vel{text-align:center;font-size:2.6rem;margin-bottom:6px;}
+  .field{margin-bottom:14px;}
+  .field label{display:block;font-size:.8rem;color:var(--muted);margin-bottom:6px;}
+  .field input,.field select,.field textarea{
+    width:100%;padding:11px 12px;border-radius:10px;border:1px solid var(--border);
+    background:var(--card2);color:var(--text);font-size:.95rem;
+  }
+  .field textarea{font-family:monospace;resize:vertical;}
+  .login-card .btn{width:100%;margin-top:6px;}
+  #login-error{color:var(--red);font-size:.85rem;margin-top:10px;text-align:center;min-height:18px;}
+
+  /* App shell */
+  #app-screen{display:none;}
+  .topbar{display:flex;justify-content:space-between;align-items:center;background:var(--card);border:1px solid var(--border);border-radius:14px;padding:12px 16px;margin-bottom:16px;flex-wrap:wrap;gap:8px;}
+  .topbar .who{font-size:.85rem;color:var(--muted);}
+  .tabs{display:flex;gap:8px;margin-bottom:16px;overflow-x:auto;padding-bottom:4px;}
+  .tab{padding:9px 16px;border-radius:10px;background:var(--card2);border:1px solid var(--border);color:var(--muted);cursor:pointer;font-size:.85rem;white-space:nowrap;font-weight:600;}
+  .tab.active{background:var(--blue);color:#fff;border-color:var(--blue);}
+
+  .card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:18px;margin-bottom:16px;}
+  .card h3{margin-top:0;}
+  .row{display:flex;gap:12px;flex-wrap:wrap;}
+  .row .field{flex:1;min-width:140px;}
+
+  .stat-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:12px;margin-bottom:16px;}
+  .stat{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px;text-align:center;}
+  .stat .num{font-size:1.6rem;font-weight:800;color:var(--blue);}
+  .stat .lbl{font-size:.72rem;color:var(--muted);margin-top:2px;}
+
+  table{width:100%;border-collapse:collapse;font-size:.82rem;}
+  th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--border);}
+  th{color:var(--muted);font-weight:600;}
+  tr:hover{background:rgba(255,255,255,.02);}
+  .qtext{max-width:320px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+  .badge{display:inline-block;padding:2px 8px;border-radius:20px;font-size:.7rem;font-weight:700;}
+  .badge.easy{background:#16341f;color:var(--green);}
+  .badge.moderate{background:#3a3010;color:var(--yellow);}
+  .badge.hard{background:#3a1414;color:var(--red);}
+  .icon-btn{background:none;border:none;color:var(--muted);cursor:pointer;font-size:1rem;padding:4px 8px;}
+  .icon-btn:hover{color:var(--text);}
+  .icon-btn.del:hover{color:var(--red);}
+
+  .opt-row{display:flex;align-items:center;gap:8px;margin-bottom:8px;}
+  .opt-row input[type=text]{flex:1;}
+  .opt-row input[type=radio]{width:18px;height:18px;accent-color:var(--green);}
+
+  #toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:var(--card);border:1px solid var(--border);
+    padding:12px 22px;border-radius:12px;display:none;z-index:999;font-size:.88rem;box-shadow:0 8px 30px rgba(0,0,0,.4);}
+  #toast.show{display:block;}
+  #toast.success{border-color:var(--green);}
+  #toast.error{border-color:var(--red);}
+
+  .empty{text-align:center;color:var(--muted);padding:40px 10px;font-size:.9rem;}
+  .scroll-x{overflow-x:auto;}
+  .helptext{font-size:.78rem;color:var(--muted);margin-top:6px;line-height:1.5;}
+  .filters{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:14px;}
+  .filters select,.filters input{padding:9px 10px;border-radius:9px;border:1px solid var(--border);background:var(--card2);color:var(--text);font-size:.85rem;}
+  #bulk-result{margin-top:12px;font-size:.85rem;white-space:pre-wrap;background:var(--card2);border-radius:10px;padding:12px;display:none;max-height:200px;overflow-y:auto;}
+  .pager{display:flex;justify-content:center;gap:10px;margin-top:14px;align-items:center;font-size:.85rem;color:var(--muted);}
+</style>
+</head>
+<body>
+
+<!-- ===================== LOGIN SCREEN ===================== -->
+<div id="login-screen">
+  <div class="login-card">
+    <div class="vel">🔱</div>
+    <h2>Vetrivel TNPSC<br><span style="font-size:.6em;color:var(--muted)">Admin Panel</span></h2>
+    <div class="field">
+      <label>Email</label>
+      <input type="email" id="login-email" placeholder="admin@example.com">
+    </div>
+    <div class="field">
+      <label>Password</label>
+      <input type="password" id="login-password" placeholder="••••••••">
+    </div>
+    <button class="btn" id="login-btn">உள்நுழைய (Login)</button>
+    <div id="login-error"></div>
+    <div id="debug-box" style="margin-top:14px;font-size:.72rem;color:var(--muted);word-break:break-all;background:var(--card2);border-radius:8px;padding:8px;display:none;"></div>
+    <div class="helptext" style="text-align:center;margin-top:14px;">
+      Firebase Console &gt; Authentication &gt; Users-ல் ஏற்கனவே உள்ள Email/Password account-ஐ பயன்படுத்தவும்.
+    </div>
+  </div>
+</div>
+
+<!-- ===================== APP SCREEN ===================== -->
+<div id="app-screen">
+  <div class="wrap">
+    <header>
+      <div>
+        <h1>🔱 Vetrivel TNPSC</h1>
+        <div class="sub">Admin Panel — Question Bank Manager</div>
+      </div>
+      <div style="display:flex;align-items:center;gap:10px;">
+        <span class="topbar-who who" id="who-email"></span>
+        <button class="btn secondary" id="logout-btn">வெளியேறு</button>
+      </div>
+    </header>
+
+    <div class="stat-grid" id="stat-grid">
+      <div class="stat"><div class="num" id="stat-total">–</div><div class="lbl">மொத்த வினாக்கள்</div></div>
+      <div class="stat"><div class="num" id="stat-subjects">–</div><div class="lbl">பாடங்கள்</div></div>
+      <div class="stat"><div class="num" id="stat-pyq">–</div><div class="lbl">PYQ வினாக்கள்</div></div>
+      <div class="stat"><div class="num" id="stat-today">–</div><div class="lbl">இன்று சேர்க்கப்பட்டவை</div></div>
+    </div>
+
+    <div class="tabs">
+      <div class="tab active" data-tab="add">➕ வினா சேர்</div>
+      <div class="tab" data-tab="bulk">📦 Bulk Import</div>
+      <div class="tab" data-tab="browse">📋 அனைத்து வினாக்கள்</div>
+    </div>
+
+    <!-- ===== TAB: ADD SINGLE QUESTION ===== -->
+    <div class="tab-content" id="tab-add">
+      <div class="card">
+        <h3>புதிய வினா சேர்க்க</h3>
+        <div class="row">
+          <div class="field">
+            <label>பாடம் (Subject) *</label>
+            <select id="f-subject">
+              <option value="tamil">தமிழ்</option>
+              <option value="special">சிறப்புத் தமிழ்</option>
+              <option value="history">வரலாறு</option>
+              <option value="geo">புவியியல்</option>
+              <option value="eco">பொருளாதாரம்</option>
+              <option value="polity">அரசியல்</option>
+              <option value="aptitude">Aptitude</option>
+              <option value="pyq">PYQ</option>
+              <option value="science">பொது அறிவியல்</option>
+              <option value="currentaffairs">நடப்பு நிகழ்வுகள்</option>
+            </select>
+          </div>
+          <div class="field">
+            <label>வகுப்பு / ஆண்டு (Class/Year) *</label>
+            <input type="text" id="f-class" placeholder="எ.கா: 6 அல்லது 2024">
+          </div>
+          <div class="field">
+            <label>கடினத்தன்மை (Difficulty)</label>
+            <select id="f-difficulty">
+              <option value="Easy">Easy</option>
+              <option value="Moderate" selected>Moderate</option>
+              <option value="Hard">Hard</option>
+              <option value="PYQ Level">PYQ Level</option>
+            </select>
+          </div>
+        </div>
+        <div class="row">
+          <div class="field">
+            <label>Topic / Category</label>
+            <input type="text" id="f-topic" placeholder="எ.கா: இலக்கணம், அரசியலமைப்பு">
+          </div>
+          <div class="field">
+            <label>PYQ ஆண்டு (PYQ Year, optional)</label>
+            <input type="text" id="f-pyqyear" placeholder="எ.கா: 2023">
+          </div>
+        </div>
+        <div class="field">
+          <label>வினா (Question Text) *</label>
+          <textarea id="f-question" rows="2" placeholder="வினாவை இங்கே தட்டச்சு செய்யவும்..."></textarea>
+        </div>
+        <div class="field">
+          <label>விடைகள் (Options) — சரியான விடையை select பண்ணவும் *</label>
+          <div class="opt-row"><input type="radio" name="correct" value="0" checked><input type="text" id="f-opt0" placeholder="விடை 1"></div>
+          <div class="opt-row"><input type="radio" name="correct" value="1"><input type="text" id="f-opt1" placeholder="விடை 2"></div>
+          <div class="opt-row"><input type="radio" name="correct" value="2"><input type="text" id="f-opt2" placeholder="விடை 3"></div>
+          <div class="opt-row"><input type="radio" name="correct" value="3"><input type="text" id="f-opt3" placeholder="விடை 4"></div>
+        </div>
+        <div class="field">
+          <label>விளக்கம் (Explanation) *</label>
+          <textarea id="f-explanation" rows="2" placeholder="விடைக்கான விளக்கம்..."></textarea>
+        </div>
+        <button class="btn green" id="add-question-btn">✅ வினாவை சேமி</button>
+        <button class="btn secondary" id="clear-form-btn" style="margin-left:8px;">🔄 Clear</button>
+      </div>
+    </div>
+
+    <!-- ===== TAB: BULK IMPORT ===== -->
+    <div class="tab-content" id="tab-bulk" style="display:none;">
+      <div class="card">
+        <h3>📦 Bulk JSON Import</h3>
+        <div class="helptext">
+          JSON array பேஸ்ட் பண்ணவும். ஒவ்வொரு object-ம் இந்த format-ல் இருக்கணும்:<br>
+          <code style="color:var(--green)">{"c":"Topic name","q":"Question text","o":["opt1","opt2","opt3","opt4"],"a":0,"e":"Explanation"}</code>
+        </div>
+        <div class="row" style="margin-top:12px;">
+          <div class="field">
+            <label>பாடம் (Subject) — இந்த batch முழுவதற்கும் *</label>
+            <select id="bulk-subject">
+              <option value="tamil">தமிழ்</option>
+              <option value="special">சிறப்புத் தமிழ்</option>
+              <option value="history">வரலாறு</option>
+              <option value="geo">புவியியல்</option>
+              <option value="eco">பொருளாதாரம்</option>
+              <option value="polity">அரசியல்</option>
+              <option value="aptitude">Aptitude</option>
+              <option value="pyq">PYQ</option>
+              <option value="science">பொது அறிவியல்</option>
+              <option value="currentaffairs">நடப்பு நிகழ்வுகள்</option>
+            </select>
+          </div>
+          <div class="field">
+            <label>வகுப்பு / ஆண்டு (Class/Year) *</label>
+            <input type="text" id="bulk-class" placeholder="எ.கா: 9 அல்லது 2023">
+          </div>
+          <div class="field">
+            <label>கடினத்தன்மை (Difficulty)</label>
+            <select id="bulk-difficulty">
+              <option value="Easy">Easy</option>
+              <option value="Moderate" selected>Moderate</option>
+              <option value="Hard">Hard</option>
+              <option value="PYQ Level">PYQ Level</option>
+            </select>
+          </div>
+        </div>
+        <div class="field">
+          <label>JSON Array Paste பண்ணவும் *</label>
+          <textarea id="bulk-json" rows="10" placeholder='[
+  {"c":"இலக்கணம்","q":"...","o":["...","...","...","..."],"a":0,"e":"..."},
+  {"c":"இலக்கியம்","q":"...","o":["...","...","...","..."],"a":1,"e":"..."}
+]'></textarea>
+        </div>
+        <button class="btn green" id="bulk-validate-btn">🔍 Validate</button>
+        <button class="btn" id="bulk-upload-btn" disabled>⬆️ Upload to Firestore</button>
+        <div id="bulk-result"></div>
+      </div>
+    </div>
+
+    <!-- ===== TAB: BROWSE ===== -->
+    <div class="tab-content" id="tab-browse" style="display:none;">
+      <div class="card">
+        <div class="filters">
+          <select id="filter-subject">
+            <option value="">அனைத்து பாடங்கள்</option>
+            <option value="tamil">தமிழ்</option>
+            <option value="special">சிறப்புத் தமிழ்</option>
+            <option value="history">வரலாறு</option>
+            <option value="geo">புவியியல்</option>
+            <option value="eco">பொருளாதாரம்</option>
+            <option value="polity">அரசியல்</option>
+            <option value="aptitude">Aptitude</option>
+            <option value="pyq">PYQ</option>
+            <option value="science">பொது அறிவியல்</option>
+            <option value="currentaffairs">நடப்பு நிகழ்வுகள்</option>
+          </select>
+          <input type="text" id="filter-class" placeholder="வகுப்பு/ஆண்டு">
+          <input type="text" id="filter-search" placeholder="🔍 வினா தேடல்...">
+          <button class="btn secondary" id="filter-btn">Filter</button>
+          <button class="btn secondary" id="filter-clear-btn">✕ Clear</button>
+        </div>
+        <div class="scroll-x">
+          <table>
+            <thead><tr><th>பாடம்</th><th>வகுப்பு</th><th>வினா</th><th>கடினம்</th><th></th></tr></thead>
+            <tbody id="browse-tbody"></tbody>
+          </table>
+        </div>
+        <div id="browse-empty" class="empty" style="display:none;">வினாக்கள் இல்லை</div>
+        <div class="pager">
+          <button class="btn secondary" id="prev-page-btn">‹ முந்தைய</button>
+          <span id="page-info">பக்கம் 1</span>
+          <button class="btn secondary" id="next-page-btn">அடுத்து ›</button>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div id="toast"></div>
+
+<script>
+// ============================================================
+// FIREBASE CONFIG
+// ============================================================
+const firebaseConfig = {
+  apiKey: "AIzaSyDRLa2a6UMRrPRlYxOexpUoFfILOF_ufUU",
+  authDomain: "vetrivel-tnpsc.firebaseapp.com",
+  projectId: "vetrivel-tnpsc",
+  storageBucket: "vetrivel-tnpsc.firebasestorage.app",
+  messagingSenderId: "750054070928",
+  appId: "1:750054070928:web:fc8016b63d844bf38a5615",
+  measurementId: "G-Z8YL3F7T72"
+};
+firebase.initializeApp(firebaseConfig);
+const auth = firebase.auth();
+const db = firebase.firestore();
+const QUESTIONS_COLLECTION = "questions";
+
+// ============================================================
+// DEBUG CATCHER (shows JS errors visibly on mobile)
+// ============================================================
+function showDebug(msg){
+  const box = document.getElementById('debug-box');
+  box.style.display = 'block';
+  box.textContent = (box.textContent ? box.textContent + '\n' : '') + msg;
+}
+window.addEventListener('error', e => {
+  showDebug('JS Error: ' + e.message + ' (line ' + e.lineno + ')');
+});
+showDebug('Script loaded OK. Firebase apps: ' + (window.firebase ? firebase.apps.length : 'firebase undefined'));
+
+// ============================================================
+// TOAST
+// ============================================================
+function toast(msg, type="success"){
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.className = 'show ' + type;
+  setTimeout(()=>{ t.className = ''; }, 3200);
+}
+
+// ============================================================
+// AUTH
+// ============================================================
+const loginScreen = document.getElementById('login-screen');
+const appScreen = document.getElementById('app-screen');
+
+auth.onAuthStateChanged(user => {
+  if(user){
+    loginScreen.style.display = 'none';
+    appScreen.style.display = 'block';
+    document.getElementById('who-email').textContent = user.email;
+    loadStats();
+    loadBrowseList();
+  } else {
+    loginScreen.style.display = 'flex';
+    appScreen.style.display = 'none';
+  }
+});
+
+document.getElementById('login-btn').addEventListener('click', async () => {
+  showDebug('Login button clicked.');
+  const email = document.getElementById('login-email').value.trim();
+  const pw = document.getElementById('login-password').value;
+  const errEl = document.getElementById('login-error');
+  errEl.textContent = '';
+  if(!email || !pw){ errEl.textContent = 'Email மற்றும் Password இரண்டையும் போடவும்.'; showDebug('Validation failed: empty field'); return; }
+  showDebug('Attempting signIn for: ' + email);
+  try{
+    await auth.signInWithEmailAndPassword(email, pw);
+    showDebug('signIn call succeeded.');
+  }catch(e){
+    errEl.textContent = 'Login தோல்வி: ' + (e.message || 'தெரியாத பிழை');
+    showDebug('signIn error code: ' + e.code + ' | message: ' + e.message);
+  }
+});
+
+document.getElementById('login-password').addEventListener('keydown', e=>{
+  if(e.key === 'Enter') document.getElementById('login-btn').click();
+});
+
+document.getElementById('logout-btn').addEventListener('click', () => {
+  auth.signOut();
+});
+
+// ============================================================
+// TABS
+// ============================================================
+document.querySelectorAll('.tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));
+    tab.classList.add('active');
+    document.querySelectorAll('.tab-content').forEach(c=>c.style.display='none');
+    document.getElementById('tab-' + tab.dataset.tab).style.display = 'block';
+    if(tab.dataset.tab === 'browse'){ loadBrowseList(); }
+  });
+});
+
+// ============================================================
+// STATS
+// ============================================================
+async function loadStats(){
+  try{
+    const snap = await db.collection(QUESTIONS_COLLECTION).get();
+    const total = snap.size;
+    const subjects = new Set();
+    let pyqCount = 0;
+    let todayCount = 0;
+    const todayStr = new Date().toDateString();
+    snap.forEach(doc => {
+      const d = doc.data();
+      if(d.subject) subjects.add(d.subject);
+      if(d.subject === 'pyq' || d.isPYQ) pyqCount++;
+      if(d.createdAt && d.createdAt.toDate && d.createdAt.toDate().toDateString() === todayStr) todayCount++;
+    });
+    document.getElementById('stat-total').textContent = total;
+    document.getElementById('stat-subjects').textContent = subjects.size;
+    document.getElementById('stat-pyq').textContent = pyqCount;
+    document.getElementById('stat-today').textContent = todayCount;
+  }catch(e){
+    console.error(e);
+  }
+}
+
+// ============================================================
+// ADD SINGLE QUESTION
+// ============================================================
+document.getElementById('add-question-btn').addEventListener('click', async () => {
+  const subject = document.getElementById('f-subject').value;
+  const klass = document.getElementById('f-class').value.trim();
+  const difficulty = document.getElementById('f-difficulty').value;
+  const topic = document.getElementById('f-topic').value.trim();
+  const pyqYear = document.getElementById('f-pyqyear').value.trim();
+  const question = document.getElementById('f-question').value.trim();
+  const opts = [
+    document.getElementById('f-opt0').value.trim(),
+    document.getElementById('f-opt1').value.trim(),
+    document.getElementById('f-opt2').value.trim(),
+    document.getElementById('f-opt3').value.trim()
+  ];
+  const correctIndex = parseInt(document.querySelector('input[name=correct]:checked').value, 10);
+  const explanation = document.getElementById('f-explanation').value.trim();
+
+  if(!klass || !question || opts.some(o=>!o) || !explanation){
+    toast('தயவுசெய்து அனைத்து * கட்டாய புலங்களையும் நிரப்பவும்.', 'error');
+    return;
+  }
+
+  const btn = document.getElementById('add-question-btn');
+  btn.disabled = true; btn.textContent = 'சேமிக்கிறது...';
+
+  try{
+    await db.collection(QUESTIONS_COLLECTION).add({
+      subject: subject,
+      class: klass,
+      topic: topic || null,
+      difficulty: difficulty,
+      isPYQ: subject === 'pyq',
+      pyqYear: pyqYear || null,
+      questionText: question,
+      options: opts,
+      correctAnswerIndex: correctIndex,
+      explanation: explanation,
+      active: true,
+      createdAt: firebase.firestore.FieldValue.serverTimestamp(),
+      createdBy: auth.currentUser.email
+    });
+    toast('✅ வினா வெற்றிகரமாக சேமிக்கப்பட்டது!', 'success');
+    document.getElementById('clear-form-btn').click();
+    loadStats();
+  }catch(e){
+    toast('❌ பிழை: ' + e.message, 'error');
+  }finally{
+    btn.disabled = false; btn.textContent = '✅ வினாவை சேமி';
+  }
+});
+
+document.getElementById('clear-form-btn').addEventListener('click', () => {
+  document.getElementById('f-class').value = '';
+  document.getElementById('f-topic').value = '';
+  document.getElementById('f-pyqyear').value = '';
+  document.getElementById('f-question').value = '';
+  document.getElementById('f-opt0').value = '';
+  document.getElementById('f-opt1').value = '';
+  document.getElementById('f-opt2').value = '';
+  document.getElementById('f-opt3').value = '';
+  document.getElementById('f-explanation').value = '';
+  document.querySelector('input[name=correct][value="0"]').checked = true;
+  document.getElementById('f-question').focus();
+});
+
+// ============================================================
+// BULK IMPORT
+// ============================================================
+let validatedBulkData = null;
+
+document.getElementById('bulk-validate-btn').addEventListener('click', () => {
+  const raw = document.getElementById('bulk-json').value.trim();
+  const resultEl = document.getElementById('bulk-result');
+  const uploadBtn = document.getElementById('bulk-upload-btn');
+  resultEl.style.display = 'block';
+  validatedBulkData = null;
+  uploadBtn.disabled = true;
+
+  if(!raw){
+    resultEl.textContent = '❌ JSON காலியாக உள்ளது.';
+    return;
+  }
+
+  let parsed;
+  try{
+    parsed = JSON.parse(raw);
+  }catch(e){
+    resultEl.textContent = '❌ JSON Parse பிழை: ' + e.message + '\n\nசரிபார்க்கவும்: comma, quotes, brackets சரியாக உள்ளதா.';
+    return;
+  }
+
+  if(!Array.isArray(parsed)){
+    resultEl.textContent = '❌ இது ஒரு array இல்லை. [ ] உள்ளே objects இருக்கணும்.';
+    return;
+  }
+
+  const errors = [];
+  parsed.forEach((item, idx) => {
+    if(!item.q) errors.push(`#${idx+1}: 'q' (question) இல்லை`);
+    if(!item.o || !Array.isArray(item.o) || item.o.length < 2) errors.push(`#${idx+1}: 'o' (options) சரியாக இல்லை`);
+    if(item.a === undefined || item.a === null || isNaN(item.a)) errors.push(`#${idx+1}: 'a' (answer index) இல்லை`);
+    if(!item.e) errors.push(`#${idx+1}: 'e' (explanation) இல்லை`);
+  });
+
+  if(errors.length > 0){
+    resultEl.textContent = `❌ ${errors.length} பிழைகள் கண்டுபிடிக்கப்பட்டன:\n\n` + errors.slice(0,15).join('\n') + (errors.length>15 ? `\n...மற்றும் ${errors.length-15} மேலும்` : '');
+    return;
+  }
+
+  validatedBulkData = parsed;
+  resultEl.textContent = `✅ ${parsed.length} வினாக்கள் சரியாக உள்ளன. "Upload to Firestore" அழுத்தவும்.`;
+  uploadBtn.disabled = false;
+});
+
+document.getElementById('bulk-upload-btn').addEventListener('click', async () => {
+  if(!validatedBulkData){ toast('முதலில் Validate பண்ணவும்.', 'error'); return; }
+
+  const subject = document.getElementById('bulk-subject').value;
+  const klass = document.getElementById('bulk-class').value.trim();
+  const difficulty = document.getElementById('bulk-difficulty').value;
+
+  if(!klass){
+    toast('வகுப்பு / ஆண்டு கட்டாயம் வேண்டும்.', 'error');
+    return;
+  }
+
+  const btn = document.getElementById('bulk-upload-btn');
+  const resultEl = document.getElementById('bulk-result');
+  btn.disabled = true; btn.textContent = 'பதிவேற்றுகிறது...';
+
+  let successCount = 0;
+  let failCount = 0;
+  const BATCH_SIZE = 450; // Firestore batch limit is 500
+
+  try{
+    for(let i=0; i<validatedBulkData.length; i+=BATCH_SIZE){
+      const chunk = validatedBulkData.slice(i, i+BATCH_SIZE);
+      const batch = db.batch();
+      chunk.forEach(item => {
+        const docRef = db.collection(QUESTIONS_COLLECTION).doc();
+        batch.set(docRef, {
+          subject: subject,
+          class: klass,
+          topic: item.c || null,
+          difficulty: difficulty,
+          isPYQ: subject === 'pyq',
+          pyqYear: subject === 'pyq' ? klass : null,
+          questionText: item.q,
+          options: item.o,
+          correctAnswerIndex: item.a,
+          explanation: item.e,
+          active: true,
+          createdAt: firebase.firestore.FieldValue.serverTimestamp(),
+          createdBy: auth.currentUser.email
+        });
+      });
+      await batch.commit();
+      successCount += chunk.length;
+      resultEl.textContent = `⏳ பதிவேற்றம்... ${successCount}/${validatedBulkData.length}`;
+    }
+    resultEl.textContent = `✅ வெற்றி! ${successCount} வினாக்கள் Firestore-ல் சேமிக்கப்பட்டன.`;
+    toast(`✅ ${successCount} வினாக்கள் பதிவேற்றப்பட்டன!`, 'success');
+    document.getElementById('bulk-json').value = '';
+    validatedBulkData = null;
+    btn.disabled = true;
+    loadStats();
+  }catch(e){
+    resultEl.textContent += `\n\n❌ பிழை: ${e.message}`;
+    toast('பதிவேற்றத்தில் பிழை: ' + e.message, 'error');
+  }finally{
+    btn.textContent = '⬆️ Upload to Firestore';
+  }
+});
+
+// ============================================================
+// BROWSE / LIST / FILTER / DELETE
+// ============================================================
+let allQuestionsCache = [];
+let currentPage = 1;
+const PAGE_SIZE = 20;
+let filteredList = [];
+
+async function loadBrowseList(){
+  const tbody = document.getElementById('browse-tbody');
+  tbody.innerHTML = '<tr><td colspan="5" style="text-align:center;color:var(--muted);padding:20px;">ஏற்றுகிறது...</td></tr>';
+  try{
+    const snap = await db.collection(QUESTIONS_COLLECTION).orderBy('createdAt','desc').limit(500).get();
+    allQuestionsCache = [];
+    snap.forEach(doc => {
+      allQuestionsCache.push({ id: doc.id, ...doc.data() });
+    });
+    applyFilters();
+  }catch(e){
+    tbody.innerHTML = `<tr><td colspan="5" style="text-align:center;color:var(--red);padding:20px;">பிழை: ${e.message}</td></tr>`;
+  }
+}
+
+function applyFilters(){
+  const subj = document.getElementById('filter-subject').value;
+  const klass = document.getElementById('filter-class').value.trim().toLowerCase();
+  const search = document.getElementById('filter-search').value.trim().toLowerCase();
+
+  filteredList = allQuestionsCache.filter(q => {
+    if(subj && q.subject !== subj) return false;
+    if(klass && !(q.class||'').toLowerCase().includes(klass)) return false;
+    if(search && !(q.questionText||'').toLowerCase().includes(search)) return false;
+    return true;
+  });
+  currentPage = 1;
+  renderBrowseTable();
+}
+
+function renderBrowseTable(){
+  const tbody = document.getElementById('browse-tbody');
+  const emptyEl = document.getElementById('browse-empty');
+  tbody.innerHTML = '';
+
+  if(filteredList.length === 0){
+    emptyEl.style.display = 'block';
+    document.getElementById('page-info').textContent = 'பக்கம் 0';
+    return;
+  }
+  emptyEl.style.display = 'none';
+
+  const start = (currentPage-1)*PAGE_SIZE;
+  const pageItems = filteredList.slice(start, start+PAGE_SIZE);
+  const totalPages = Math.ceil(filteredList.length / PAGE_SIZE);
+  document.getElementById('page-info').textContent = `பக்கம் ${currentPage} / ${totalPages} (மொத்தம் ${filteredList.length})`;
+
+  const subjectLabels = {tamil:'தமிழ்',special:'சிறப்பு தமிழ்',history:'வரலாறு',geo:'புவியியல்',eco:'பொருளாதாரம்',polity:'அரசியல்',aptitude:'Aptitude',pyq:'PYQ',science:'அறிவியல்',currentaffairs:'நடப்பு'};
+  const diffClass = {Easy:'easy',Moderate:'moderate',Hard:'hard','PYQ Level':'hard'};
+
+  pageItems.forEach(q => {
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+      <td>${subjectLabels[q.subject]||q.subject}</td>
+      <td>${q.class||'-'}</td>
+      <td class="qtext" title="${(q.questionText||'').replace(/"/g,'&quot;')}">${q.questionText||''}</td>
+      <td><span class="badge ${diffClass[q.difficulty]||'moderate'}">${q.difficulty||'-'}</span></td>
+      <td>
+        <button class="icon-btn del" data-id="${q.id}" title="நீக்கு">🗑️</button>
+      </td>`;
+    tbody.appendChild(tr);
+  });
+
+  tbody.querySelectorAll('.icon-btn.del').forEach(btn => {
+    btn.addEventListener('click', async () => {
+      if(!confirm('இந்த வினாவை நீக்கவா? இது மாற்ற முடியாது.')) return;
+      try{
+        await db.collection(QUESTIONS_COLLECTION).doc(btn.dataset.id).delete();
+        toast('வினா நீக்கப்பட்டது.', 'success');
+        loadBrowseList();
+        loadStats();
+      }catch(e){
+        toast('நீக்குவதில் பிழை: ' + e.message, 'error');
+      }
+    });
+  });
+}
+
+document.getElementById('filter-btn').addEventListener('click', applyFilters);
+document.getElementById('filter-clear-btn').addEventListener('click', () => {
+  document.getElementById('filter-subject').value = '';
+  document.getElementById('filter-class').value = '';
+  document.getElementById('filter-search').value = '';
+  applyFilters();
+});
+document.getElementById('filter-search').addEventListener('keydown', e=>{
+  if(e.key==='Enter') applyFilters();
+});
+document.getElementById('prev-page-btn').addEventListener('click', () => {
+  if(currentPage > 1){ currentPage--; renderBrowseTable(); }
+});
+document.getElementById('next-page-btn').addEventListener('click', () => {
+  const totalPages = Math.ceil(filteredList.length / PAGE_SIZE);
+  if(currentPage < totalPages){ currentPage++; renderBrowseTable(); }
+});
+</script>
+</body>
+</html>
