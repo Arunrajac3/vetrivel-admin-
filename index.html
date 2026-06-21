@@ -7,6 +7,7 @@
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
 <style>
   :root{
     --bg:#0b1220; --card:#121b2e; --card2:#0f1726; --border:#22304a;
@@ -89,6 +90,19 @@
   .filters select,.filters input{padding:9px 10px;border-radius:9px;border:1px solid var(--border);background:var(--card2);color:var(--text);font-size:.85rem;}
   #bulk-result{margin-top:12px;font-size:.85rem;white-space:pre-wrap;background:var(--card2);border-radius:10px;padding:12px;display:none;max-height:200px;overflow-y:auto;}
   .pager{display:flex;justify-content:center;gap:10px;margin-top:14px;align-items:center;font-size:.85rem;color:var(--muted);}
+
+  /* PDF Import editor */
+  #pdf-file-input{width:100%;padding:10px;border-radius:10px;border:1px solid var(--border);background:var(--card2);color:var(--text);}
+  .pq-card{background:var(--card2);border:1px solid var(--border);border-radius:14px;padding:14px;margin-bottom:14px;position:relative;}
+  .pq-card .pq-num{position:absolute;top:-10px;left:14px;background:var(--blue);color:#fff;font-size:.7rem;font-weight:700;padding:3px 10px;border-radius:10px;}
+  .pq-card .pq-del{position:absolute;top:8px;right:8px;background:none;border:none;color:var(--muted);cursor:pointer;font-size:.95rem;}
+  .pq-card .pq-del:hover{color:var(--red);}
+  .pq-card textarea, .pq-card input[type=text]{width:100%;padding:9px 10px;border-radius:8px;border:1px solid var(--border);background:var(--bg);color:var(--text);font-size:.85rem;margin-top:4px;margin-bottom:8px;}
+  .pq-card label{font-size:.72rem;color:var(--muted);}
+  .pq-opt-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;}
+  .pq-opt-item{display:flex;align-items:center;gap:6px;}
+  .pq-opt-item input[type=radio]{width:16px;height:16px;accent-color:var(--green);flex-shrink:0;}
+  .pq-opt-item input[type=text]{margin:0;}
 </style>
 </head>
 <body>
@@ -139,6 +153,7 @@
     <div class="tabs">
       <div class="tab active" data-tab="add">➕ வினா சேர்</div>
       <div class="tab" data-tab="bulk">📦 Bulk Import</div>
+      <div class="tab" data-tab="pdf">📄 PDF Import</div>
       <div class="tab" data-tab="browse">📋 அனைத்து வினாக்கள்</div>
     </div>
 
@@ -254,6 +269,65 @@
         <button class="btn green" id="bulk-validate-btn">🔍 Validate</button>
         <button class="btn" id="bulk-upload-btn" disabled>⬆️ Upload to Firestore</button>
         <div id="bulk-result"></div>
+      </div>
+    </div>
+
+    <!-- ===== TAB: PDF IMPORT ===== -->
+    <div class="tab-content" id="tab-pdf" style="display:none;">
+      <div class="card">
+        <h3>📄 PDF Import — தமிழ் PDF இருந்து வினாக்கள்</h3>
+        <div class="helptext">
+          PDF upload பண்ணவும் → உரை extract ஆகும் → கீழே "வினாக்களாக பிரி" பட்டனை அழுத்தி ஒவ்வொரு வினாவையும் தனித்தனி பெட்டிகளில் எளிதாக edit பண்ணலாம் → சரிபார்த்து Firestore-க்கு upload பண்ணலாம்.
+        </div>
+
+        <div class="field" style="margin-top:14px;">
+          <label>PDF File தேர்வு செய்யவும்</label>
+          <input type="file" id="pdf-file-input" accept="application/pdf">
+        </div>
+        <div id="pdf-status" class="helptext" style="display:none;margin-top:8px;"></div>
+
+        <div class="field" style="margin-top:14px;">
+          <label>Extract ஆன உரை (தேவைப்பட்டால் இங்கேயே திருத்தலாம்)</label>
+          <textarea id="pdf-extracted-text" rows="10" placeholder="PDF upload பண்ணியதும் இங்கே உரை தோன்றும்..."></textarea>
+        </div>
+
+        <button class="btn secondary" id="pdf-split-btn">✂️ வினாக்களாக பிரி (Auto-Split)</button>
+        <span class="helptext" style="margin-left:8px;">Pattern: 1. கேள்வி... A) ... B) ... C) ... D) ... Answer: B</span>
+
+        <div id="pdf-questions-editor" style="margin-top:18px;"></div>
+
+        <div class="row" id="pdf-upload-row" style="display:none;margin-top:16px;">
+          <div class="field">
+            <label>பாடம் (Subject) — இந்த batch முழுவதற்கும் *</label>
+            <select id="pdf-subject">
+              <option value="tamil">தமிழ்</option>
+              <option value="special">சிறப்புத் தமிழ்</option>
+              <option value="history">வரலாறு</option>
+              <option value="geo">புவியியல்</option>
+              <option value="eco">பொருளாதாரம்</option>
+              <option value="polity">அரசியல்</option>
+              <option value="aptitude">Aptitude</option>
+              <option value="pyq">PYQ</option>
+              <option value="science">பொது அறிவியல்</option>
+              <option value="currentaffairs">நடப்பு நிகழ்வுகள்</option>
+            </select>
+          </div>
+          <div class="field">
+            <label>வகுப்பு / ஆண்டு (Class/Year) *</label>
+            <input type="text" id="pdf-class" placeholder="எ.கா: 9 அல்லது 2023">
+          </div>
+          <div class="field">
+            <label>கடினத்தன்மை (Difficulty)</label>
+            <select id="pdf-difficulty">
+              <option value="Easy">Easy</option>
+              <option value="Moderate" selected>Moderate</option>
+              <option value="Hard">Hard</option>
+              <option value="PYQ Level">PYQ Level</option>
+            </select>
+          </div>
+        </div>
+        <button class="btn green" id="pdf-upload-btn" style="display:none;margin-top:12px;">⬆️ அனைத்தையும் Firestore-க்கு Upload பண்</button>
+        <div id="pdf-upload-result"></div>
       </div>
     </div>
 
@@ -596,6 +670,272 @@ document.getElementById('bulk-upload-btn').addEventListener('click', async () =>
     toast('பதிவேற்றத்தில் பிழை: ' + e.message, 'error');
   }finally{
     btn.textContent = '⬆️ Upload to Firestore';
+  }
+});
+
+// ============================================================
+// PDF IMPORT
+// ============================================================
+if(window['pdfjsLib']){
+  pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+}
+
+document.getElementById('pdf-file-input').addEventListener('change', async (e) => {
+  const file = e.target.files[0];
+  const statusEl = document.getElementById('pdf-status');
+  if(!file) return;
+
+  statusEl.style.display = 'block';
+  statusEl.textContent = '⏳ PDF படிக்கப்படுகிறது...';
+
+  try{
+    const arrayBuffer = await file.arrayBuffer();
+    const pdf = await pdfjsLib.getDocument({data: arrayBuffer}).promise;
+    let fullText = '';
+    for(let i=1; i<=pdf.numPages; i++){
+      statusEl.textContent = `⏳ பக்கம் ${i}/${pdf.numPages} படிக்கப்படுகிறது...`;
+      const page = await pdf.getPage(i);
+      const content = await page.getTextContent();
+      const pageText = content.items.map(item => item.str).join(' ');
+      fullText += pageText + '\n\n';
+    }
+    document.getElementById('pdf-extracted-text').value = fullText.trim();
+    if(fullText.trim().length === 0){
+      statusEl.textContent = '⚠️ உரை எதுவும் கிடைக்கவில்லை. இது ஒரு scanned (image) PDF ஆக இருக்கலாம் — OCR இல்லாமல் இந்த tool scanned PDFs-ஐ படிக்க முடியாது. தயவுசெய்து text-PDF பயன்படுத்தவும்.';
+    } else {
+      statusEl.textContent = `✅ ${pdf.numPages} பக்கங்களிலிருந்து உரை பெறப்பட்டது (${fullText.length} எழுத்துக்கள்). கீழே சரிபார்த்து திருத்தலாம், பின் "வினாக்களாக பிரி" அழுத்தவும்.`;
+    }
+  }catch(err){
+    statusEl.textContent = '❌ பிழை: ' + err.message + ' — PDF சேதமடைந்திருக்கலாம் அல்லது password-protected ஆக இருக்கலாம்.';
+  }
+});
+
+let pdfQuestionCounter = 0;
+
+document.getElementById('pdf-split-btn').addEventListener('click', () => {
+  const text = document.getElementById('pdf-extracted-text').value.trim();
+  if(!text){ toast('முதலில் PDF upload பண்ணவும் அல்லது உரை பேஸ்ட் பண்ணவும்.', 'error'); return; }
+
+  const blocks = splitTextIntoQuestions(text);
+  if(blocks.length === 0){
+    toast('வினாக்கள் கண்டறியப்படவில்லை. கீழே ஒரு காலி வினா பெட்டியை சேர்த்து manual-ஆக நிரப்பலாம்.', 'error');
+    renderQuestionEditors([emptyQuestionBlock()]);
+    return;
+  }
+  renderQuestionEditors(blocks);
+  toast(`${blocks.length} வினாக்கள் கண்டறியப்பட்டன. ஒவ்வொன்றையும் சரிபார்க்கவும்.`, 'success');
+});
+
+function emptyQuestionBlock(){
+  return { question:'', options:['','','',''], answerIndex:0, explanation:'' };
+}
+
+// Attempt to parse common TNPSC-style question patterns:
+// "1. கேள்வி உரை? A) opt1 B) opt2 C) opt3 D) opt4 Answer: B"
+// Falls back to splitting on numbered-question patterns and leaving options blank for manual entry.
+function splitTextIntoQuestions(text){
+  const blocks = [];
+
+  // Normalize line breaks
+  const normalized = text.replace(/\r\n/g, '\n');
+
+  // Split on patterns like "1." "2." "Q1." "வினா 1" at start of line/segment
+  const questionStartRegex = /(?:^|\n)\s*(?:Q\.?\s*\d+|வினா\s*\d+|\d{1,3})[\.\)]\s+/g;
+  const parts = normalized.split(questionStartRegex).map(p => p.trim()).filter(p => p.length > 5);
+
+  parts.forEach(part => {
+    const block = parseOneQuestionBlock(part);
+    if(block) blocks.push(block);
+  });
+
+  return blocks;
+}
+
+function parseOneQuestionBlock(raw){
+  // Try to find options like A) ... B) ... C) ... D) ... or அ) ஆ) இ) ஈ)
+  const optRegex = /(?:^|\s)([A-Dஅஆஇஈ])[\)\.]\s*/g;
+  const matches = [...raw.matchAll(optRegex)];
+
+  let questionText = raw;
+  let options = ['','','',''];
+  let answerIndex = 0;
+  let explanation = '';
+
+  if(matches.length >= 2){
+    // Question text = everything before first option marker
+    questionText = raw.slice(0, matches[0].index).trim();
+
+    // Look for "Answer:" or "விடை:" to split explanation/answer from options text
+    const answerSplitRegex = /(Answer|விடை|பதில்)\s*[:\-]?\s*/i;
+    let tailText = raw.slice(matches[0].index);
+    let answerLetter = null;
+    const answerMatch = tailText.match(answerSplitRegex);
+    let optionsText = tailText;
+    if(answerMatch){
+      optionsText = tailText.slice(0, answerMatch.index);
+      const afterAnswer = tailText.slice(answerMatch.index + answerMatch[0].length).trim();
+      const letterMatch = afterAnswer.match(/^([A-Dஅஆஇஈ])/);
+      if(letterMatch) answerLetter = letterMatch[1];
+      explanation = afterAnswer.replace(/^[A-Dஅஆஇஈ][\)\.]?\s*/, '').split('\n')[0].trim();
+    }
+
+    // Extract each option's text between its marker and the next marker
+    const optMatches = [...optionsText.matchAll(optRegex)];
+    const letterToIndex = {A:0,B:1,C:2,D:3, 'அ':0,'ஆ':1,'இ':2,'ஈ':3};
+    optMatches.forEach((m, idx) => {
+      const letter = m[1];
+      const startPos = m.index + m[0].length;
+      const endPos = idx+1 < optMatches.length ? optMatches[idx+1].index : optionsText.length;
+      const optText = optionsText.slice(startPos, endPos).trim();
+      const li = letterToIndex[letter];
+      if(li !== undefined && li < 4) options[li] = optText;
+    });
+
+    if(answerLetter && letterToIndex[answerLetter] !== undefined){
+      answerIndex = letterToIndex[answerLetter];
+    }
+  } else {
+    // No clear options found — keep whole text as question, leave options blank for manual fill
+    questionText = raw;
+  }
+
+  if(!questionText) return null;
+
+  return { question: questionText, options, answerIndex, explanation };
+}
+
+function renderQuestionEditors(blocks){
+  pdfQuestionCounter = blocks.length;
+  const container = document.getElementById('pdf-questions-editor');
+  container.innerHTML = '';
+
+  blocks.forEach((block, idx) => {
+    container.appendChild(buildQuestionCard(block, idx));
+  });
+
+  document.getElementById('pdf-upload-row').style.display = blocks.length ? 'flex' : 'none';
+  document.getElementById('pdf-upload-btn').style.display = blocks.length ? 'inline-block' : 'none';
+}
+
+function buildQuestionCard(block, idx){
+  const card = document.createElement('div');
+  card.className = 'pq-card';
+  card.dataset.idx = idx;
+
+  const optLetters = ['A','B','C','D'];
+  const optionsHtml = optLetters.map((L,i) => `
+    <div class="pq-opt-item">
+      <input type="radio" name="pq-correct-${idx}" value="${i}" ${block.answerIndex===i?'checked':''}>
+      <input type="text" class="pq-opt" data-i="${i}" value="${escapeAttr(block.options[i]||'')}" placeholder="விடை ${L}">
+    </div>`).join('');
+
+  card.innerHTML = `
+    <div class="pq-num">வினா #${idx+1}</div>
+    <button class="pq-del" title="நீக்கு">🗑️</button>
+    <label>வினா (Question)</label>
+    <textarea class="pq-question" rows="2">${escapeHtml(block.question||'')}</textarea>
+    <label>விடைகள் — சரியான விடையை select பண்ணவும்</label>
+    <div class="pq-opt-grid">${optionsHtml}</div>
+    <label>விளக்கம் (Explanation)</label>
+    <textarea class="pq-explanation" rows="2">${escapeHtml(block.explanation||'')}</textarea>
+  `;
+
+  card.querySelector('.pq-del').addEventListener('click', () => {
+    card.remove();
+  });
+
+  return card;
+}
+
+function escapeHtml(str){
+  return (str||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+function escapeAttr(str){
+  return (str||'').replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+document.getElementById('pdf-upload-btn').addEventListener('click', async () => {
+  const subject = document.getElementById('pdf-subject').value;
+  const klass = document.getElementById('pdf-class').value.trim();
+  const difficulty = document.getElementById('pdf-difficulty').value;
+  const resultEl = document.getElementById('pdf-upload-result');
+
+  if(!klass){ toast('வகுப்பு / ஆண்டு கட்டாயம் வேண்டும்.', 'error'); return; }
+
+  const cards = document.querySelectorAll('#pdf-questions-editor .pq-card');
+  if(cards.length === 0){ toast('வினாக்கள் எதுவும் இல்லை.', 'error'); return; }
+
+  const toUpload = [];
+  const errors = [];
+
+  cards.forEach((card, idx) => {
+    const qText = card.querySelector('.pq-question').value.trim();
+    const opts = [...card.querySelectorAll('.pq-opt')].map(inp => inp.value.trim());
+    const checkedRadio = card.querySelector('input[type=radio]:checked');
+    const explanation = card.querySelector('.pq-explanation').value.trim();
+
+    if(!qText || opts.some(o=>!o) || !checkedRadio || !explanation){
+      errors.push(`வினா #${idx+1}: முழுமையாக நிரப்பப்படவில்லை — தவிர்க்கப்பட்டது.`);
+      return;
+    }
+    toUpload.push({
+      questionText: qText,
+      options: opts,
+      correctAnswerIndex: parseInt(checkedRadio.value, 10),
+      explanation: explanation
+    });
+  });
+
+  if(toUpload.length === 0){
+    resultEl.style.display = 'block';
+    resultEl.textContent = '❌ எந்த வினாவும் முழுமையாக இல்லை. தயவுசெய்து சரிபார்க்கவும்:\n' + errors.join('\n');
+    return;
+  }
+
+  const btn = document.getElementById('pdf-upload-btn');
+  btn.disabled = true; btn.textContent = 'பதிவேற்றுகிறது...';
+  resultEl.style.display = 'block';
+
+  try{
+    const batch = db.batch();
+    toUpload.forEach(item => {
+      const docRef = db.collection(QUESTIONS_COLLECTION).doc();
+      batch.set(docRef, {
+        subject: subject,
+        class: klass,
+        topic: null,
+        difficulty: difficulty,
+        isPYQ: subject === 'pyq',
+        pyqYear: subject === 'pyq' ? klass : null,
+        questionText: item.questionText,
+        options: item.options,
+        correctAnswerIndex: item.correctAnswerIndex,
+        explanation: item.explanation,
+        active: true,
+        source: 'pdf-import',
+        createdAt: firebase.firestore.FieldValue.serverTimestamp(),
+        createdBy: auth.currentUser.email
+      });
+    });
+    await batch.commit();
+
+    let msg = `✅ ${toUpload.length} வினாக்கள் Firestore-ல் சேமிக்கப்பட்டன!`;
+    if(errors.length) msg += `\n\n⚠️ தவிர்க்கப்பட்டவை:\n` + errors.join('\n');
+    resultEl.textContent = msg;
+    toast(`✅ ${toUpload.length} வினாக்கள் பதிவேற்றப்பட்டன!`, 'success');
+
+    document.getElementById('pdf-questions-editor').innerHTML = '';
+    document.getElementById('pdf-extracted-text').value = '';
+    document.getElementById('pdf-file-input').value = '';
+    document.getElementById('pdf-status').style.display = 'none';
+    document.getElementById('pdf-upload-row').style.display = 'none';
+    btn.style.display = 'none';
+    loadStats();
+  }catch(e){
+    resultEl.textContent = '❌ பிழை: ' + e.message;
+    toast('பதிவேற்றத்தில் பிழை: ' + e.message, 'error');
+  }finally{
+    btn.disabled = false; btn.textContent = '⬆️ அனைத்தையும் Firestore-க்கு Upload பண்';
   }
 });
 
