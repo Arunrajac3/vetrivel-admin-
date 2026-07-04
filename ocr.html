@@ -2,26 +2,52 @@
 <html>
 <head>
   <meta charset="UTF-8" />
-  <title>OCR to JSON</title>
+  <title>TNPSC OCR → JSON</title>
+
   <script src="https://cdn.jsdelivr.net/npm/tesseract.js@5/dist/tesseract.min.js"></script>
+
   <style>
-    body { font-family: Arial; padding: 20px; }
-    img { max-width: 300px; margin-top: 10px; }
-    textarea { width: 100%; height: 200px; }
+    body {
+      font-family: Arial;
+      padding: 20px;
+      background: #f5f5f5;
+    }
+
+    input, button {
+      margin-top: 10px;
+    }
+
+    img {
+      max-width: 300px;
+      margin-top: 10px;
+      border: 1px solid #ccc;
+    }
+
+    textarea {
+      width: 100%;
+      height: 220px;
+      margin-top: 10px;
+    }
+
+    button {
+      padding: 10px 15px;
+      cursor: pointer;
+    }
   </style>
 </head>
 
 <body>
 
-<h2>TNPSC Image → JSON</h2>
+<h2>📄 TNPSC Image → JSON Converter</h2>
 
 <input type="file" id="fileInput" accept="image/*" />
-<br><br>
+<br>
 
 <img id="preview" />
-<br><br>
 
-<button onclick="runOCR()">Convert</button>
+<br>
+
+<button onclick="runOCR()">Convert to JSON</button>
 
 <h3>Output:</h3>
 <textarea id="output"></textarea>
@@ -29,14 +55,16 @@
 <script>
 let imageFile;
 
+// file select
 document.getElementById("fileInput").addEventListener("change", function(e){
   imageFile = e.target.files[0];
   document.getElementById("preview").src = URL.createObjectURL(imageFile);
 });
 
+// OCR function
 async function runOCR() {
   if (!imageFile) {
-    alert("Upload image first");
+    alert("Please upload image first");
     return;
   }
 
@@ -53,19 +81,33 @@ async function runOCR() {
   let text = result.data.text;
 
   // CLEAN TEXT
-  text = text.replace(/\r/g, "").replace(/\s+/g, " ").trim();
+  text = text
+    .replace(/\r/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
 
-  // SPLIT LOGIC (safe version)
-  let parts = text.split(/(?=[A-D]\))/g);
+  // SPLIT OPTIONS (A-D detection)
+  let parts = text.split(/(?=[A-D][\)\.])/g);
 
   let question = parts[0] || "";
-  let options = parts.slice(1, 5);
+  let options = parts.slice(1, 5).map(o => o.trim());
 
+  // ensure 4 options
+  while (options.length < 4) {
+    options.push("");
+  }
+
+  // FINAL JSON FORMAT
   const json = {
-    c: "TNPSC",
+    c: "General Tamil",
     q: question.trim(),
-    o: options.length ? options : ["A", "B", "C", "D"],
-    a: 0,
+    o: [
+      options[0],
+      options[1],
+      options[2],
+      options[3]
+    ],
+    a: 1,
     e: "NA"
   };
 
