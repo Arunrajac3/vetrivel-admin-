@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Image to JSON OCR</title>
+  <script src="https://cdn.jsdelivr.net/npm/tesseract.js@5/dist/tesseract.min.js"></script>
+  <style>
+    body { font-family: Arial; padding: 20px; }
+    textarea { width: 100%; height: 200px; }
+    img { max-width: 300px; margin-top: 10px; }
+  </style>
+</head>
+
+<body>
+
+<h2>TNPSC Image → JSON Converter</h2>
+
+<input type="file" id="fileInput" accept="image/*" />
+<br><br>
+
+<img id="preview" />
+<br><br>
+
+<button onclick="runOCR()">Convert to JSON</button>
+
+<h3>Output:</h3>
+<textarea id="output"></textarea>
+
+<script>
+let imageFile;
+
+document.getElementById("fileInput").addEventListener("change", function(e){
+  imageFile = e.target.files[0];
+  document.getElementById("preview").src = URL.createObjectURL(imageFile);
+});
+
+async function runOCR() {
+  if (!imageFile) return alert("Upload image first");
+
+  document.getElementById("output").value = "Processing...";
+
+  const result = await Tesseract.recognize(
+    imageFile,
+    'tam+eng',
+    {
+      logger: m => console.log(m)
+    }
+  );
+
+  const text = result.data.text;
+
+  // SIMPLE PARSER (you can improve later)
+  const json = {
+    c: "TNPSC",
+    q: text.split("\n")[0] || "",
+    o: ["A", "B", "C", "D"],
+    a: 0,
+    e: "NA"
+  };
+
+  document.getElementById("output").value = JSON.stringify(json, null, 2);
+}
+</script>
+
+</body>
+</html>
