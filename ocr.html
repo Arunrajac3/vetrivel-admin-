@@ -77,42 +77,47 @@ async function runOCR() {
       logger: m => console.log(m)
     }
   );
+let text = result.data.text;
 
-  let text = result.data.text;
+// CLEAN
+text = text
+  .replace(/\n/g, " ")
+  .replace(/\s+/g, " ")
+  .trim();
 
-  // CLEAN TEXT
-  text = text
-    .replace(/\r/g, "")
-    .replace(/\s+/g, " ")
-    .trim();
+// FIND QUESTION (first long sentence)
+let sentences = text.split("?");
 
-  // SPLIT OPTIONS (A-D detection)
-  let parts = text.split(/(?=[A-D][\)\.])/g);
+let question = (sentences[0] || text).trim();
 
-  let question = parts[0] || "";
-  let options = parts.slice(1, 5).map(o => o.trim());
+// FIND OPTIONS using loose match
+let optionRegex = /([A-D])[\)\.\-]\s*([^A-D]*)/g;
 
-  // ensure 4 options
-  while (options.length < 4) {
-    options.push("");
-  }
+let matches = [...text.matchAll(optionRegex)];
 
-  // FINAL JSON FORMAT
-  const json = {
-    c: "General Tamil",
-    q: question.trim(),
-    o: [
-      options[0],
-      options[1],
-      options[2],
-      options[3]
-    ],
-    a: 1,
-    e: "NA"
-  };
+let options = matches.map(m => m[2].trim());
 
-  document.getElementById("output").value =
-    JSON.stringify(json, null, 2);
+// fallback
+while (options.length < 4) {
+  options.push("");
+}
+
+const json = {
+  c: "General Tamil",
+  q: question,
+  o: [
+    options[0],
+    options[1],
+    options[2],
+    options[3]
+  ],
+  a: 1,
+  e: "NA"
+};
+
+document.getElementById("output").value =
+  JSON.stringify(json, null, 2);
+  
 }
 </script>
 
