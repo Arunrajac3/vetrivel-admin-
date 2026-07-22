@@ -1,0 +1,1341 @@
+<!DOCTYPE html>
+<html lang="ta">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vetrivel TNPSC — வேலுடன் வெற்றியை நோக்கி</title>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
+<style>
+  :root{
+    --bg:#0b1220; --card:#121b2e; --card2:#0f1726; --border:#22304a;
+    --text:#e8edf7; --muted:#93a1bb; --blue:#3b82f6; --blue2:#2563eb;
+    --green:#22c55e; --red:#ef4444; --yellow:#eab308; --gold:#f5b942;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:'Segoe UI',Tahoma,sans-serif;background:var(--bg);color:var(--text);min-height:100vh;}
+  .wrap{max-width:760px;margin:0 auto;padding:18px 16px 60px;}
+
+  /* ===== Login screen ===== */
+  #login-screen{display:none;position:fixed;inset:0;background:rgba(0,0,0,.75);align-items:center;justify-content:center;padding:16px;z-index:1000;}
+  .login-card{background:var(--card);border:1px solid var(--border);border-radius:18px;padding:32px 26px;width:100%;max-width:380px;position:relative;}
+  .login-card .close-login{position:absolute;top:12px;right:14px;background:none;border:none;color:var(--muted);font-size:1.3rem;cursor:pointer;}
+  .login-card .vel{text-align:center;font-size:2.4rem;margin-bottom:4px;}
+  .login-card h2{margin:0 0 4px;text-align:center;font-size:1.3rem;}
+  .login-card .tag{text-align:center;color:var(--muted);font-size:.82rem;margin-bottom:20px;}
+  .login-field{margin-bottom:14px;}
+  .login-field label{display:block;font-size:.8rem;color:var(--muted);margin-bottom:6px;}
+  .login-field input{width:100%;padding:11px 12px;border-radius:10px;border:1px solid var(--border);background:var(--card2);color:var(--text);font-size:.95rem;}
+  #login-error{color:var(--red);font-size:.83rem;margin-top:10px;text-align:center;min-height:18px;}
+  .login-toggle{text-align:center;margin-top:14px;font-size:.85rem;color:var(--muted);}
+  .helptext{font-size:.78rem;color:var(--muted);line-height:1.5;}
+  .login-toggle a{color:var(--blue);cursor:pointer;text-decoration:underline;}
+  #app-content{display:block;}
+  .user-bar{display:flex;justify-content:space-between;align-items:center;font-size:.78rem;color:var(--muted);margin-bottom:8px;}
+  .user-bar button{background:none;border:none;color:var(--muted);font-size:.78rem;text-decoration:underline;cursor:pointer;}
+
+  /* ===== Header ===== */
+  .hero{text-align:center;padding:20px 10px 10px;}
+  .hero .vel{font-size:2.6rem;}
+  .hero h1{margin:6px 0 2px;font-size:1.5rem;background:linear-gradient(90deg,var(--gold),#fff);-webkit-background-clip:text;background-clip:text;color:transparent;}
+  .hero .tagline{color:var(--muted);font-size:.85rem;margin-bottom:14px;}
+
+  .btn{background:var(--blue);color:#fff;border:none;padding:11px 18px;border-radius:12px;font-size:.92rem;cursor:pointer;font-weight:700;}
+  .btn:hover{background:var(--blue2);}
+  .btn.secondary{background:var(--card2);border:1px solid var(--border);color:var(--text);}
+  .btn.green{background:var(--green);}
+  .btn.full{width:100%;}
+  .btn:disabled{opacity:.5;cursor:not-allowed;}
+
+  /* ===== Subject grid ===== */
+  .section-title{font-size:1rem;font-weight:700;margin:18px 0 10px;color:var(--gold);}
+  .subj-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:14px;}
+  .subj-card{
+    position:relative;
+    background:linear-gradient(160deg, var(--card) 0%, var(--card2) 100%);
+    border:1px solid var(--border);
+    border-radius:18px;
+    padding:20px 14px 16px;
+    text-align:center;
+    cursor:pointer;
+    transition:.18s ease;
+    overflow:hidden;
+    box-shadow:0 4px 14px rgba(0,0,0,.25);
+  }
+  .subj-card::before{
+    content:'';
+    position:absolute; top:0; left:0; right:0; height:4px;
+    background:var(--tile-accent, linear-gradient(90deg,var(--blue),var(--gold)));
+  }
+  .subj-card:hover{border-color:var(--tile-accent-solid, var(--blue));transform:translateY(-3px);box-shadow:0 8px 22px rgba(0,0,0,.35);}
+  .subj-card .emoji{font-size:2rem;margin-bottom:8px;filter:drop-shadow(0 2px 4px rgba(0,0,0,.4));}
+  .subj-card .name{font-weight:800;font-size:.92rem;letter-spacing:.2px;}
+  .subj-card .count{font-size:.72rem;color:var(--muted);margin-top:4px;background:rgba(255,255,255,.05);display:inline-block;padding:2px 10px;border-radius:10px;margin-top:6px;}
+
+  /* Distinct accent colors per subject, applied via inline CSS var from JS */
+  .subj-card.accent-blue{--tile-accent:linear-gradient(90deg,#3b82f6,#60a5fa);--tile-accent-solid:#3b82f6;}
+  .subj-card.accent-gold{--tile-accent:linear-gradient(90deg,#eab308,#f5b942);--tile-accent-solid:#eab308;}
+  .subj-card.accent-green{--tile-accent:linear-gradient(90deg,#22c55e,#4ade80);--tile-accent-solid:#22c55e;}
+  .subj-card.accent-red{--tile-accent:linear-gradient(90deg,#ef4444,#f87171);--tile-accent-solid:#ef4444;}
+  .subj-card.accent-purple{--tile-accent:linear-gradient(90deg,#a855f7,#c084fc);--tile-accent-solid:#a855f7;}
+  .subj-card.accent-teal{--tile-accent:linear-gradient(90deg,#14b8a6,#5eead4);--tile-accent-solid:#14b8a6;}
+
+  /* Random Mix — special highlighted tile, spans full width */
+  .mix-card{
+    position:relative;
+    grid-column:1 / -1;
+    background:linear-gradient(120deg, #1e293b 0%, #312e81 60%, #1e293b 100%);
+    border:1px solid #6366f1;
+    border-radius:18px;
+    padding:18px 16px;
+    cursor:pointer;
+    display:flex;
+    align-items:center;
+    gap:14px;
+    box-shadow:0 4px 18px rgba(99,102,241,.25);
+    transition:.18s ease;
+    margin-bottom:14px;
+  }
+  .mix-card:hover{transform:translateY(-2px);box-shadow:0 8px 26px rgba(99,102,241,.4);}
+  .mix-card .mix-emoji{font-size:2.2rem;}
+  .mix-card .mix-text{flex:1;text-align:left;}
+  .mix-card .mix-title{font-weight:800;font-size:1rem;color:#fff;}
+  .mix-card .mix-sub{font-size:.78rem;color:#c7d2fe;margin-top:2px;}
+  .mix-card .mix-arrow{font-size:1.3rem;color:#c7d2fe;}
+
+  /* ===== Class chips ===== */
+  .chip-row{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px;}
+  .chip{background:var(--card2);border:1px solid var(--border);border-radius:20px;padding:9px 16px;font-size:.85rem;cursor:pointer;font-weight:600;font-family:inherit;color:var(--text);}
+  .chip.active{background:var(--blue);border-color:var(--blue);color:#fff;}
+  .chip .qn{font-size:.7rem;color:var(--muted);margin-left:4px;}
+  .chip.active .qn{color:#dbeafe;}
+
+  .card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:18px;margin-bottom:16px;}
+  .back-btn{background:none;border:none;color:var(--muted);font-size:.85rem;cursor:pointer;margin-bottom:10px;padding:6px 0;}
+  .back-btn:hover{color:var(--text);}
+
+  /* ===== Quiz screen ===== */
+  #quiz-screen{display:none;}
+  .quiz-top{display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;font-size:.85rem;color:var(--muted);}
+  #quiz-timer{font-weight:800;color:var(--gold);font-variant-numeric:tabular-nums;}
+  #quiz-timer.low-time{color:var(--red);}
+  .progress-bar{height:6px;background:var(--card2);border-radius:6px;overflow:hidden;margin-bottom:18px;}
+  .progress-fill{height:100%;background:linear-gradient(90deg,var(--blue),var(--gold));transition:.3s;}
+  .q-cat{font-size:.74rem;color:var(--gold);font-weight:700;margin-bottom:6px;}
+  .q-text{font-size:1.08rem;line-height:1.5;margin-bottom:18px;}
+  .opt{display:block;width:100%;text-align:left;background:var(--card2);border:1.5px solid var(--border);border-radius:12px;padding:13px 16px;margin-bottom:10px;font-size:.92rem;color:var(--text);cursor:pointer;}
+  .opt:hover{border-color:var(--blue);}
+  .opt.selected{border-color:var(--blue);background:rgba(59,130,246,.12);}
+  .opt.correct{border-color:var(--green);background:rgba(34,197,94,.15);}
+  .opt.wrong{border-color:var(--red);background:rgba(239,68,68,.15);}
+  .explain-box{background:var(--card2);border-left:3px solid var(--gold);border-radius:8px;padding:12px 14px;margin-top:12px;font-size:.85rem;color:var(--muted);display:none;}
+  .quiz-actions{display:flex;gap:8px;margin-top:18px;}
+  .quiz-actions .btn{flex:1;padding-left:8px;padding-right:8px;font-size:.85rem;}
+  .btn.full{width:100%;}
+  .qn-cell{aspect-ratio:1;border-radius:8px;border:1px solid var(--border);background:var(--card);color:var(--text);font-size:.78rem;font-weight:700;cursor:pointer;display:flex;align-items:center;justify-content:center;}
+  .qn-cell.answered{background:rgba(34,197,94,.18);border-color:var(--green);color:var(--green);}
+  .qn-cell.skipped{background:rgba(234,179,8,.18);border-color:var(--yellow);color:var(--yellow);}
+  .qn-cell.current{outline:2px solid var(--blue);}
+  .report-overlay{position:fixed;inset:0;background:rgba(0,0,0,.7);z-index:1000;display:flex;align-items:center;justify-content:center;padding:16px;}
+  .report-modal{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:20px;max-width:420px;width:100%;}
+  .report-modal h3{margin-top:0;}
+  .report-modal textarea{width:100%;padding:10px;border-radius:10px;border:1px solid var(--border);background:var(--card2);color:var(--text);font-size:.9rem;margin:10px 0;}
+  .report-modal .actions{display:flex;gap:10px;margin-top:8px;}
+  .report-modal .actions .btn{flex:1;}
+
+  /* ===== Result screen ===== */
+  #result-screen{display:none;text-align:center;}
+  .result-emoji{font-size:3.4rem;}
+  .result-score{font-size:2.2rem;font-weight:800;margin:8px 0;}
+  .result-sub{color:var(--muted);margin-bottom:20px;}
+  .result-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-bottom:20px;}
+  .result-stats .stat{background:var(--card2);border-radius:12px;padding:12px;}
+  .result-stats .stat .n{font-size:1.3rem;font-weight:800;}
+  .result-stats .stat .l{font-size:.7rem;color:var(--muted);}
+
+  .loading{text-align:center;padding:50px 10px;color:var(--muted);}
+  .empty{text-align:center;color:var(--muted);padding:40px 10px;font-size:.9rem;}
+  #toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:var(--card);border:1px solid var(--border);
+    padding:12px 22px;border-radius:12px;display:none;z-index:999;font-size:.88rem;}
+  #toast.show{display:block;}
+</style>
+</head>
+<body>
+
+<!-- ===== LOGIN / SIGNUP SCREEN ===== -->
+<div id="login-screen">
+  <div class="login-card">
+    <button class="close-login" id="close-login-btn" title="மூடு">✕</button>
+    <img src="assets/logo.jpg" alt="Vetrivel TNPSC" style="height:64px;width:auto;border-radius:12px;display:block;margin:0 auto 8px;">
+    <h2>Vetrivel TNPSC</h2>
+    <div class="tag">வேலுடன் வெற்றியை நோக்கி</div>
+    <div class="helptext" style="text-align:center;margin-bottom:16px;">Login பண்ணினால் உங்கள் Quiz Results சேமிக்கப்படும். Login இல்லாமலும் Quiz எடுக்கலாம்.</div>
+    <div class="login-field" id="login-name-field" style="display:none;">
+      <label>பெயர் (Name)</label>
+      <input type="text" id="login-name" placeholder="உங்கள் பெயர்">
+    </div>
+    <div class="login-field">
+      <label>Email</label>
+      <input type="email" id="login-email" placeholder="your@email.com">
+    </div>
+    <div class="login-field">
+      <label>Password</label>
+      <input type="password" id="login-password" placeholder="••••••••">
+    </div>
+    <button class="btn full" id="login-submit-btn">உள்நுழைய (Login)</button>
+    <div id="login-error"></div>
+    <div class="login-toggle">
+      <span id="login-toggle-text">கணக்கு இல்லையா? <a id="show-signup-link">புதிய கணக்கு உருவாக்கு</a></span>
+    </div>
+  </div>
+</div>
+
+<!-- ===== MAIN APP CONTENT ===== -->
+<div id="app-content">
+<div class="wrap">
+  <div class="user-bar">
+    <img src="assets/logo.jpg" alt="Vetrivel TNPSC" style="height:32px;width:auto;border-radius:6px;">
+    <span style="display:flex;align-items:center;gap:10px;">
+      <button id="lang-toggle-btn" title="Language" style="background:none;border:1px solid var(--border);color:var(--text);border-radius:8px;padding:3px 10px;font-size:.75rem;cursor:pointer;">தமிழ் / EN</button>
+      <button id="user-bar-email" style="background:none;border:none;color:var(--muted);font-size:.78rem;cursor:pointer;text-decoration:underline;padding:0;"></button>
+      <button id="logout-link-btn" data-i18n="logout">வெளியேறு (Logout)</button>
+    </span>
+  </div>
+  <div class="hero">
+    <img src="assets/logo.jpg" alt="Vetrivel TNPSC" style="height:90px;width:auto;border-radius:14px;">
+    <h1 data-i18n="appTitle">Vetrivel TNPSC</h1>
+    <div class="tagline" data-i18n="tagline">வேலுடன் வெற்றியை நோக்கி</div>
+  </div>
+
+  <div style="text-align:center;margin-bottom:14px;">
+    <button class="btn secondary" id="my-performance-tab-btn" data-i18n="myPerformance" style="display:none;font-size:.85rem;">📊 எனது செயல்திறன் (My Performance)</button>
+  </div>
+
+  <!-- ===== HOME SCREEN: Subject selection ===== -->
+  <div id="home-screen">
+    <div id="subj-loading" class="loading" data-i18n="loadingSubjects">பாடங்கள் ஏற்றப்படுகிறது...</div>
+    <div id="subj-grid" class="subj-grid"></div>
+    <div id="subj-empty" class="empty" style="display:none;" data-i18n="noQuestionsYet">இன்னும் வினாக்கள் சேர்க்கப்படவில்லை. விரைவில் வரும்! 🚀</div>
+  </div>
+
+  <!-- ===== CLASS SCREEN: pick class/year within subject ===== -->
+  <div id="class-screen" style="display:none;">
+    <button class="back-btn" id="class-back-btn" data-i18n="backToSubjects">‹ பாடங்களுக்கு திரும்பு</button>
+    <div class="section-title" id="class-subject-title"></div>
+    <div id="class-loading" class="loading" style="display:none;" data-i18n="loading">ஏற்றப்படுகிறது...</div>
+    <div class="chip-row" id="class-chip-row"></div>
+  </div>
+
+  <!-- ===== MIX MODE SETUP SCREEN ===== -->
+  <div id="mix-setup-screen" style="display:none;">
+    <button class="back-btn" id="mix-back-btn">‹ பாடங்களுக்கு திரும்பு</button>
+    <div class="card">
+      <h3 style="margin-top:0;">🎲 Random Mix Test</h3>
+      <div class="helptext" style="margin-bottom:16px;">பல பாடங்களையும் கலந்து, ஒரு custom quiz உருவாக்கவும்.</div>
+
+      <div class="field">
+        <label>வினாக்களின் எண்ணிக்கை: <span id="mix-count-display" style="color:var(--gold);font-weight:800;">50</span></label>
+        <input type="range" id="mix-count-slider" min="25" max="200" step="5" value="50" style="width:100%;accent-color:var(--blue);">
+        <div style="display:flex;justify-content:space-between;font-size:.72rem;color:var(--muted);"><span>25</span><span>200</span></div>
+      </div>
+
+      <div class="field">
+        <label>பாடங்களை தேர்வு செய்யவும் (எதுவும் தேர்வு செய்யாவிட்டால் அனைத்தும் சேரும்)</label>
+        <div id="mix-subject-checks" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:8px;margin-top:8px;"></div>
+      </div>
+
+      <div id="mix-available-info" class="helptext" style="margin:12px 0;"></div>
+
+      <button class="btn full" id="mix-start-btn">🚀 Test தொடங்கு</button>
+    </div>
+  </div>
+
+  <!-- ===== QUIZ SCREEN ===== -->
+  <div id="quiz-screen">
+    <div class="card">
+      <div class="quiz-top">
+        <span id="quiz-title-label"></span>
+        <span style="display:flex;align-items:center;gap:8px;">
+          <span id="quiz-timer">⏱ --:--</span>
+          <span id="quiz-progress-label"></span>
+          <button id="report-icon-btn" title="இந்த வினாவில் தவறு உள்ளதா? Report பண்ணு" style="display:none;background:none;border:1px solid var(--yellow);color:var(--yellow);border-radius:8px;padding:4px 8px;font-size:.85rem;cursor:pointer;">🚩</button>
+          <button id="nav-toggle-btn" title="வினா பட்டியல்" style="background:none;border:1px solid var(--border);color:var(--muted);border-radius:8px;padding:4px 8px;font-size:.85rem;cursor:pointer;">☰</button>
+        </span>
+      </div>
+      <div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
+
+      <div id="q-nav-panel" style="display:none;background:var(--card2);border:1px solid var(--border);border-radius:12px;padding:12px;margin-bottom:14px;">
+        <div style="font-size:.78rem;color:var(--muted);margin-bottom:8px;display:flex;gap:14px;flex-wrap:wrap;">
+          <span data-i18n="legendAnswered">🟢 பதில் அளித்தது</span>
+          <span data-i18n="legendSkipped">🟡 Skip செய்யப்பட்டது</span>
+          <span data-i18n="legendUnvisited">⚪ இன்னும் வரவில்லை</span>
+        </div>
+        <div id="q-nav-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(38px,1fr));gap:6px;"></div>
+      </div>
+
+      <div class="q-cat" id="q-cat"></div>
+      <div class="q-text" id="q-text"></div>
+      <div id="opts-container"></div>
+      <div class="explain-box" id="explain-box"></div>
+      <div class="quiz-actions">
+        <button class="btn secondary" id="quit-quiz-btn" data-i18n="exit">✕ வெளியேறு</button>
+        <button class="btn secondary" id="skip-q-btn" data-i18n="skip">⏭ Skip</button>
+        <button class="btn full" id="next-q-btn" disabled data-i18n="next">அடுத்தது ›</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== RESULT SCREEN ===== -->
+  <div id="result-screen">
+    <div class="card">
+      <div class="result-emoji" id="res-emoji">🏆</div>
+      <div class="result-score" id="res-score"></div>
+      <div class="result-sub" id="res-sub"></div>
+      <div class="result-stats">
+        <div class="stat"><div class="n" id="res-correct" style="color:var(--green)"></div><div class="l" data-i18n="correct">சரியானவை</div></div>
+        <div class="stat"><div class="n" id="res-wrong" style="color:var(--red)"></div><div class="l" data-i18n="wrong">தவறானவை</div></div>
+        <div class="stat"><div class="n" id="res-total"></div><div class="l" data-i18n="total">மொத்தம்</div></div>
+      </div>
+      <div style="text-align:center;color:var(--muted);font-size:.82rem;margin-bottom:16px;" id="res-time-info"></div>
+      <button class="btn full green" id="retry-btn" data-i18n="retry">🔄 மீண்டும் முயற்சி</button>
+      <button class="btn full secondary" id="home-btn" style="margin-top:10px;" data-i18n="backHome">🏠 முகப்புக்கு திரும்பு</button>
+    </div>
+  </div>
+
+  <!-- ===== MY PERFORMANCE SCREEN ===== -->
+  <div id="performance-screen" style="display:none;">
+    <button class="back-btn" id="performance-back-btn" data-i18n="backHome">‹ முகப்புக்கு திரும்பு</button>
+    <div class="card">
+      <h3 style="margin-top:0;" data-i18n="myPerformanceTitle">📊 எனது செயல்திறன்</h3>
+      <div id="perf-summary-stats" class="stat-row" style="display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-bottom:16px;"></div>
+      <div id="perf-loading" class="loading" data-i18n="loading">ஏற்றப்படுகிறது...</div>
+      <div id="perf-list"></div>
+      <div id="perf-empty" class="empty" style="display:none;" data-i18n="noTestsYet">நீங்கள் இதுவரை எந்த Test-உம் எடுக்கவில்லை. ஒரு பாடத்தை தேர்வு செய்து தொடங்கவும்! 🚀</div>
+    </div>
+  </div>
+</div>
+</div>
+
+<div id="toast"></div>
+
+<script>
+// ============================================================
+// FIREBASE CONFIG
+// ============================================================
+const firebaseConfig = {
+  apiKey: "AIzaSyDRLa2a6UMRrPRlYxOexpUoFfILOF_ufUU",
+  authDomain: "vetrivel-tnpsc.firebaseapp.com",
+  projectId: "vetrivel-tnpsc",
+  storageBucket: "vetrivel-tnpsc.firebasestorage.app",
+  messagingSenderId: "750054070928",
+  appId: "1:750054070928:web:fc8016b63d844bf38a5615",
+  measurementId: "G-Z8YL3F7T72"
+};
+firebase.initializeApp(firebaseConfig);
+const auth = firebase.auth();
+const db = firebase.firestore();
+const QUESTIONS_COLLECTION = "questions";
+
+// ============================================================
+// AUTH — LOGIN / SIGNUP
+// ============================================================
+let isSignupMode = false;
+
+let currentUserProfile = null; // cached {name, email} for the logged-in user
+
+auth.onAuthStateChanged(async user => {
+  const userBar = document.getElementById('user-bar-email');
+  const loginLinkBtn = document.getElementById('logout-link-btn');
+  const myPerfTab = document.getElementById('my-performance-tab-btn');
+
+  if(user){
+    hideLoginOverlay();
+    loginLinkBtn.textContent = 'வெளியேறு (Logout)';
+    if(myPerfTab) myPerfTab.style.display = 'inline-block';
+
+    // Fetch display name from Firestore users collection (fallback to Auth displayName, then email)
+    let displayName = user.displayName || user.email;
+    try{
+      const userDoc = await db.collection('users').doc(user.uid).get();
+      if(userDoc.exists && userDoc.data().name){
+        displayName = userDoc.data().name;
+      }
+    }catch(e){ /* non-critical */ }
+
+    currentUserProfile = {name: displayName, email: user.email};
+    userBar.textContent = '👤 ' + displayName;
+  } else {
+    currentUserProfile = null;
+    userBar.textContent = '👤 Guest (login இல்லை)';
+    loginLinkBtn.textContent = 'Login / Sign Up';
+    if(myPerfTab) myPerfTab.style.display = 'none';
+  }
+  // App content and subjects are always available — guest or logged-in.
+  loadSubjects();
+});
+
+document.getElementById('user-bar-email').addEventListener('click', () => {
+  if(auth.currentUser) openProfileModal();
+  else showLoginOverlay();
+});
+
+document.getElementById('logout-link-btn').addEventListener('click', () => {
+  if(auth.currentUser){
+    if(confirm('வெளியேறவா?')) auth.signOut();
+  } else {
+    showLoginOverlay();
+  }
+});
+
+function showLoginOverlay(){
+  document.getElementById('login-screen').style.display = 'flex';
+}
+function hideLoginOverlay(){
+  document.getElementById('login-screen').style.display = 'none';
+}
+
+document.getElementById('close-login-btn').addEventListener('click', hideLoginOverlay);
+
+function bindSignupToggle(){
+  const link = document.getElementById('show-signup-link');
+  if(!link) return;
+  link.addEventListener('click', () => {
+    isSignupMode = !isSignupMode;
+    document.getElementById('login-name-field').style.display = isSignupMode ? 'block' : 'none';
+    document.getElementById('login-submit-btn').textContent = isSignupMode ? 'கணக்கு உருவாக்கு (Sign Up)' : 'உள்நுழைய (Login)';
+    document.getElementById('login-toggle-text').innerHTML = isSignupMode
+      ? 'ஏற்கனவே கணக்கு இருக்கா? <a id="show-signup-link">உள்நுழையவும்</a>'
+      : 'கணக்கு இல்லையா? <a id="show-signup-link">புதிய கணக்கு உருவாக்கு</a>';
+    document.getElementById('login-error').textContent = '';
+    bindSignupToggle();
+  }, {once:true});
+}
+bindSignupToggle();
+
+document.getElementById('login-submit-btn').addEventListener('click', async () => {
+  const name = document.getElementById('login-name').value.trim();
+  const email = document.getElementById('login-email').value.trim();
+  const pw = document.getElementById('login-password').value;
+  const errEl = document.getElementById('login-error');
+  errEl.textContent = '';
+
+  if(!email || !pw){ errEl.textContent = 'Email மற்றும் Password இரண்டையும் போடவும்.'; return; }
+  if(pw.length < 6){ errEl.textContent = 'Password குறைந்தது 6 எழுத்துக்கள் வேண்டும்.'; return; }
+  if(isSignupMode && !name){ errEl.textContent = 'உங்கள் பெயரை நிரப்பவும்.'; return; }
+
+  const btn = document.getElementById('login-submit-btn');
+  btn.disabled = true; btn.textContent = 'காத்திருக்கவும்...';
+
+  try{
+    if(isSignupMode){
+      const cred = await auth.createUserWithEmailAndPassword(email, pw);
+      await cred.user.updateProfile({displayName: name});
+      await db.collection('users').doc(cred.user.uid).set({
+        name: name,
+        email: email,
+        createdAt: firebase.firestore.FieldValue.serverTimestamp()
+      });
+      toast('✅ கணக்கு உருவாக்கப்பட்டது! வரவேற்கிறோம், ' + name + '!');
+    } else {
+      await auth.signInWithEmailAndPassword(email, pw);
+    }
+  }catch(e){
+    let msg = e.message;
+    if(e.code === 'auth/email-already-in-use') msg = 'இந்த Email ஏற்கனவே பயன்பாட்டில் உள்ளது. Login பண்ணவும்.';
+    if(e.code === 'auth/invalid-credential' || e.code === 'auth/wrong-password') msg = 'Email அல்லது Password தவறு.';
+    if(e.code === 'auth/user-not-found') msg = 'இந்த Email-க்கு கணக்கு இல்லை. புதிய கணக்கு உருவாக்கவும்.';
+    errEl.textContent = msg;
+  }finally{
+    btn.disabled = false;
+    btn.textContent = isSignupMode ? 'கணக்கு உருவாக்கு (Sign Up)' : 'உள்நுழைய (Login)';
+  }
+});
+
+document.getElementById('login-password').addEventListener('keydown', e => {
+  if(e.key === 'Enter') document.getElementById('login-submit-btn').click();
+});
+
+// ============================================================
+// i18n — Tamil / English toggle
+// ============================================================
+const I18N = {
+  ta: {
+    appTitle: 'Vetrivel TNPSC',
+    tagline: 'வேலுடன் வெற்றியை நோக்கி',
+    logout: 'வெளியேறு (Logout)',
+    myPerformance: '📊 எனது செயல்திறன் (My Performance)',
+    myPerformanceTitle: '📊 எனது செயல்திறன்',
+    loadingSubjects: 'பாடங்கள் ஏற்றப்படுகிறது...',
+    noQuestionsYet: 'இன்னும் வினாக்கள் சேர்க்கப்படவில்லை. விரைவில் வரும்! 🚀',
+    backToSubjects: '‹ பாடங்களுக்கு திரும்பு',
+    loading: 'ஏற்றப்படுகிறது...',
+    legendAnswered: '🟢 பதில் அளித்தது',
+    legendSkipped: '🟡 Skip செய்யப்பட்டது',
+    legendUnvisited: '⚪ இன்னும் வரவில்லை',
+    exit: '✕ வெளியேறு',
+    skip: '⏭ Skip',
+    next: 'அடுத்தது ›',
+    finish: 'முடி ✓',
+    correct: 'சரியானவை',
+    wrong: 'தவறானவை',
+    total: 'மொத்தம்',
+    retry: '🔄 மீண்டும் முயற்சி',
+    backHome: '🏠 முகப்புக்கு திரும்பு',
+    noTestsYet: 'நீங்கள் இதுவரை எந்த Test-உம் எடுக்கவில்லை. ஒரு பாடத்தை தேர்வு செய்து தொடங்கவும்! 🚀',
+  },
+  en: {
+    appTitle: 'Vetrivel TNPSC',
+    tagline: 'Towards Victory with the Vel',
+    logout: 'Logout',
+    myPerformance: '📊 My Performance',
+    myPerformanceTitle: '📊 My Performance',
+    loadingSubjects: 'Loading subjects...',
+    noQuestionsYet: 'No questions added yet. Coming soon! 🚀',
+    backToSubjects: '‹ Back to subjects',
+    loading: 'Loading...',
+    legendAnswered: '🟢 Answered',
+    legendSkipped: '🟡 Skipped',
+    legendUnvisited: '⚪ Not visited yet',
+    exit: '✕ Exit',
+    skip: '⏭ Skip',
+    next: 'Next ›',
+    finish: 'Finish ✓',
+    correct: 'Correct',
+    wrong: 'Wrong',
+    total: 'Total',
+    retry: '🔄 Retry',
+    backHome: '🏠 Back to Home',
+    noTestsYet: "You haven't taken any tests yet. Pick a subject and get started! 🚀",
+  }
+};
+
+let currentLang = localStorage.getItem('vetrivel_lang') || 'ta';
+
+function applyLanguage(){
+  const dict = I18N[currentLang] || I18N.ta;
+  document.querySelectorAll('[data-i18n]').forEach(el => {
+    const key = el.getAttribute('data-i18n');
+    if(dict[key] !== undefined) el.textContent = dict[key];
+  });
+  // The Next/Finish button text depends on quiz state, so re-sync it if the quiz screen is active
+  const nextBtn = document.getElementById('next-q-btn');
+  if(nextBtn && orderQueue && orderQueue.length){
+    const isLast = currentQIndex === orderQueue.length - 1;
+    nextBtn.textContent = isLast ? dict.finish : dict.next;
+  }
+}
+
+document.getElementById('lang-toggle-btn').addEventListener('click', () => {
+  currentLang = currentLang === 'ta' ? 'en' : 'ta';
+  localStorage.setItem('vetrivel_lang', currentLang);
+  applyLanguage();
+});
+
+const SUBJECT_META = {
+  tamil:            {label:"தமிழ்", emoji:"📚", accent:"gold"},
+  special:          {label:"சிறப்புத் தமிழ்", emoji:"✨", accent:"purple"},
+  history:          {label:"வரலாறு", emoji:"🏛️", accent:"red"},
+  geo:              {label:"புவியியல்", emoji:"🌍", accent:"green"},
+  eco:              {label:"பொருளாதாரம்", emoji:"💰", accent:"gold"},
+  polity:           {label:"அரசியல்", emoji:"⚖️", accent:"blue"},
+  aptitude:         {label:"Aptitude", emoji:"🧮", accent:"teal"},
+  pyq:              {label:"PYQ", emoji:"📜", accent:"red"},
+  science:          {label:"பொது அறிவியல்", emoji:"🔬", accent:"teal"},
+  currentaffairs:   {label:"நடப்பு நிகழ்வுகள்", emoji:"📰", accent:"purple"},
+  MIX_MODE:         {label:"Random Mix Test", emoji:"🎲", accent:"purple"}
+};
+
+function toast(msg){
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.className = 'show';
+  setTimeout(()=>{ t.className=''; }, 3000);
+}
+
+// ============================================================
+// SCREEN MANAGEMENT
+// ============================================================
+function showScreen(name){
+  document.getElementById('home-screen').style.display = name==='home' ? 'block' : 'none';
+  document.getElementById('class-screen').style.display = name==='class' ? 'block' : 'none';
+  document.getElementById('mix-setup-screen').style.display = name==='mixsetup' ? 'block' : 'none';
+  document.getElementById('quiz-screen').style.display = name==='quiz' ? 'block' : 'none';
+  document.getElementById('result-screen').style.display = name==='result' ? 'block' : 'none';
+  document.getElementById('performance-screen').style.display = name==='performance' ? 'block' : 'none';
+  window.scrollTo(0,0);
+}
+
+// ============================================================
+// HOME: Load subjects with counts
+// ============================================================
+let allQuestionsCache = [];
+
+async function loadSubjects(){
+  try{
+    const snap = await db.collection(QUESTIONS_COLLECTION).where('active','==',true).get();
+    allQuestionsCache = [];
+    snap.forEach(doc => allQuestionsCache.push({id:doc.id, ...doc.data()}));
+
+    document.getElementById('subj-loading').style.display = 'none';
+
+    if(allQuestionsCache.length === 0){
+      document.getElementById('subj-empty').style.display = 'block';
+      return;
+    }
+
+    const subjectCounts = {};
+    allQuestionsCache.forEach(q => {
+      subjectCounts[q.subject] = (subjectCounts[q.subject]||0) + 1;
+    });
+
+    const grid = document.getElementById('subj-grid');
+    grid.innerHTML = '';
+
+    // Random Mix tile — only worth offering once there's a reasonable pool of questions
+    if(allQuestionsCache.length >= 10){
+      const mixCard = document.createElement('div');
+      mixCard.className = 'mix-card';
+      mixCard.innerHTML = `
+        <div class="mix-emoji">🎲</div>
+        <div class="mix-text">
+          <div class="mix-title">Random Mix Test</div>
+          <div class="mix-sub">பல பாடங்களையும் கலந்து, நீங்கள் விரும்பும் அளவு வினாக்கள் (25–200)</div>
+        </div>
+        <div class="mix-arrow">›</div>`;
+      mixCard.addEventListener('click', openMixModeSetup);
+      grid.appendChild(mixCard);
+    }
+
+    Object.keys(subjectCounts).forEach(subj => {
+      const meta = SUBJECT_META[subj] || {label:subj, emoji:'📘', accent:'blue'};
+      const card = document.createElement('div');
+      card.className = 'subj-card accent-' + (meta.accent || 'blue');
+      card.innerHTML = `<div class="emoji">${meta.emoji}</div><div class="name">${meta.label}</div><div class="count">${subjectCounts[subj]} வினாக்கள்</div>`;
+      card.addEventListener('click', () => openSubject(subj));
+      grid.appendChild(card);
+    });
+  }catch(e){
+    document.getElementById('subj-loading').textContent = 'பிழை: ' + e.message;
+    console.error(e);
+  }
+}
+
+// ============================================================
+// CLASS SCREEN: Show classes within a subject
+// ============================================================
+let currentSubject = null;
+
+function openSubject(subj){
+  currentSubject = subj;
+  const meta = SUBJECT_META[subj] || {label:subj, emoji:'📘'};
+  document.getElementById('class-subject-title').textContent = `${meta.emoji} ${meta.label} — வகுப்பு / ஆண்டு தேர்வு செய்யவும்`;
+
+  const subjectQuestions = allQuestionsCache.filter(q => q.subject === subj);
+  const classCounts = {};
+  subjectQuestions.forEach(q => {
+    const k = q.class || 'பொது';
+    classCounts[k] = (classCounts[k]||0) + 1;
+  });
+
+  const chipRow = document.getElementById('class-chip-row');
+  chipRow.innerHTML = '';
+  sortClassKeys(Object.keys(classCounts)).forEach(klass => {
+    const chip = document.createElement('button');
+    chip.type = 'button';
+    chip.className = 'chip';
+    chip.innerHTML = `${klass} <span class="qn">(${classCounts[klass]})</span>`;
+    chip.addEventListener('click', () => startQuiz(subj, klass));
+    chipRow.appendChild(chip);
+  });
+
+  showScreen('class');
+}
+
+// Natural sort for class/year labels like "6th Term 1", "10th இயல் 1 to 3", "2024", "G4/2025".
+// Extracts the first number found in the string and sorts by that numerically,
+// falling back to alphabetical order when numbers are equal or absent —
+// this ensures "6th ..." sorts before "10th ..." instead of the reverse.
+function sortClassKeys(keys){
+  return keys.slice().sort((a, b) => {
+    const numA = parseInt((a.match(/\d+/) || ['0'])[0], 10);
+    const numB = parseInt((b.match(/\d+/) || ['0'])[0], 10);
+    if(numA !== numB) return numA - numB;
+    return a.localeCompare(b);
+  });
+}
+
+document.getElementById('class-back-btn').addEventListener('click', () => showScreen('home'));
+
+// ============================================================
+// QUIZ LOGIC
+// ============================================================
+let quizQuestions = [];      // fixed-order full list for this quiz
+let orderQueue = [];         // indices still to be shown, in order (skipped ones re-appended at end)
+let currentQIndex = 0;       // pointer into orderQueue
+let answeredCurrent = false;
+let currentSubjectForRetry = null;
+let currentClassForRetry = null;
+let qStatus = [];            // per-question status keyed by index into quizQuestions: 'unattempted' | 'answered' | 'skipped'
+let qSelectedAnswer = [];    // stores the selected option index per question (for review when navigating back)
+// Note: correct/wrong/unanswered counts are always computed fresh from qStatus + qSelectedAnswer
+// (see finishQuiz() and showQuitSummary()) rather than tracked in separate running counters,
+// so that navigating back via the question navigator or re-answering never desyncs the tally.
+
+function startQuiz(subj, klass){
+  const pool = allQuestionsCache.filter(q => q.subject===subj && (q.class||'பொது')===klass);
+  if(pool.length === 0){ toast('இந்த பிரிவில் வினாக்கள் இல்லை.'); return; }
+
+  // Fixed order — no shuffle. Keep whatever order Firestore returned (createdAt desc from loadSubjects).
+  // Reverse so earliest-added questions come first, feels like a natural sequence.
+  const orderedPool = pool.slice().reverse();
+  const meta = SUBJECT_META[subj] || {label:subj, emoji:'📘'};
+  const title = `${meta.emoji} ${meta.label} — ${klass}`;
+
+  startQuizWithPool(orderedPool, title, subj, klass);
+}
+
+// Shared entry point used by both single-subject quizzes and Random Mix Test.
+// isMix questions keep their fixed (Firestore) order for normal quizzes;
+// Mix Mode pre-shuffles the pool itself before calling this, so no extra
+// shuffling happens here either way — this function just wires up state.
+function startQuizWithPool(orderedPool, titleText, subjForRetry, klassForRetry){
+  quizQuestions = orderedPool;
+  orderQueue = quizQuestions.map((_, idx) => idx);
+  currentQIndex = 0;
+  currentSubjectForRetry = subjForRetry;
+  currentClassForRetry = klassForRetry;
+  qStatus = quizQuestions.map(() => 'unattempted');
+  qSelectedAnswer = quizQuestions.map(() => null);
+
+  document.getElementById('quiz-title-label').textContent = titleText;
+  document.getElementById('q-nav-panel').style.display = 'none';
+
+  startTimer(quizQuestions.length);
+  showScreen('quiz');
+  renderQuestion();
+}
+
+// ============================================================
+// RANDOM MIX MODE
+// ============================================================
+let lastMixConfig = null; // {count, subjectFilter} remembered for the Retry button
+
+function shuffleArray(arr){
+  const a = arr.slice();
+  for(let i = a.length - 1; i > 0; i--){
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+function openMixModeSetup(){
+  // Build the subject checkbox list from whatever subjects currently have questions
+  const subjectsPresent = [...new Set(allQuestionsCache.map(q => q.subject))];
+  const checksContainer = document.getElementById('mix-subject-checks');
+  checksContainer.innerHTML = '';
+
+  subjectsPresent.forEach(subj => {
+    const meta = SUBJECT_META[subj] || {label:subj, emoji:'📘'};
+    const count = allQuestionsCache.filter(q => q.subject === subj).length;
+    const wrap = document.createElement('label');
+    wrap.style.cssText = 'display:flex;align-items:center;gap:6px;background:var(--card2);border:1px solid var(--border);border-radius:10px;padding:8px 10px;font-size:.82rem;cursor:pointer;';
+    wrap.innerHTML = `<input type="checkbox" class="mix-subj-check" value="${subj}" style="width:16px;height:16px;accent-color:var(--blue);"> ${meta.emoji} ${meta.label} <span style="color:var(--muted);font-size:.72rem;">(${count})</span>`;
+    checksContainer.appendChild(wrap);
+  });
+
+  // Reset slider to a sensible default each time the setup screen opens
+  const slider = document.getElementById('mix-count-slider');
+  slider.value = 50;
+  document.getElementById('mix-count-display').textContent = 50;
+  updateMixAvailableInfo();
+
+  showScreen('mixsetup');
+}
+
+document.getElementById('mix-back-btn').addEventListener('click', () => showScreen('home'));
+
+document.getElementById('mix-count-slider').addEventListener('input', (e) => {
+  document.getElementById('mix-count-display').textContent = e.target.value;
+  updateMixAvailableInfo();
+});
+
+document.getElementById('mix-subject-checks').addEventListener('change', updateMixAvailableInfo);
+
+function getSelectedMixSubjects(){
+  return [...document.querySelectorAll('.mix-subj-check:checked')].map(cb => cb.value);
+}
+
+function updateMixAvailableInfo(){
+  const selected = getSelectedMixSubjects();
+  const pool = selected.length > 0
+    ? allQuestionsCache.filter(q => selected.includes(q.subject))
+    : allQuestionsCache;
+  const requested = parseInt(document.getElementById('mix-count-slider').value, 10);
+  const infoEl = document.getElementById('mix-available-info');
+
+  if(pool.length < requested){
+    infoEl.innerHTML = `⚠️ தேர்ந்தெடுக்கப்பட்ட பாடங்களில் <strong>${pool.length}</strong> வினாக்கள் மட்டுமே உள்ளன. Test-ல் ${pool.length} வினாக்கள் இடம்பெறும்.`;
+  } else {
+    infoEl.innerHTML = `✅ ${pool.length} வினாக்கள் கிடைக்கின்றன. இதிலிருந்து ${requested} வினாக்கள் Random-ஆக தேர்வு செய்யப்படும்.`;
+  }
+}
+
+document.getElementById('mix-start-btn').addEventListener('click', () => {
+  const requested = parseInt(document.getElementById('mix-count-slider').value, 10);
+  const selected = getSelectedMixSubjects();
+  launchMixQuiz(requested, selected);
+});
+
+function launchMixQuiz(requestedCount, subjectFilter){
+  const pool = (subjectFilter && subjectFilter.length > 0)
+    ? allQuestionsCache.filter(q => subjectFilter.includes(q.subject))
+    : allQuestionsCache;
+
+  if(pool.length === 0){ toast('தேர்ந்தெடுக்கப்பட்ட பாடங்களில் வினாக்கள் இல்லை.', 'error'); return; }
+
+  const shuffled = shuffleArray(pool);
+  const finalPool = shuffled.slice(0, Math.min(requestedCount, shuffled.length));
+
+  lastMixConfig = {count: requestedCount, subjectFilter: subjectFilter};
+
+  const subjectLabel = (subjectFilter && subjectFilter.length > 0)
+    ? subjectFilter.map(s => (SUBJECT_META[s]||{label:s}).label).join(', ')
+    : 'அனைத்து பாடங்களும்';
+  const title = `🎲 Random Mix — ${subjectLabel}`;
+
+  startQuizWithPool(finalPool, title, 'MIX_MODE', String(finalPool.length));
+}
+
+// ============================================================
+// TIMER — TNPSC standard ratio: 200 questions = 3 hours (180 min)
+// i.e. 54 seconds per question, scaled proportionally to question count.
+// ============================================================
+const TNPSC_BASE_QUESTIONS = 200;
+const TNPSC_BASE_MINUTES = 180;
+let timerIntervalId = null;
+let quizStartTimestamp = null;
+let quizEndTimestamp = null;
+
+function startTimer(questionCount){
+  stopTimer();
+  const totalSeconds = Math.round((questionCount / TNPSC_BASE_QUESTIONS) * TNPSC_BASE_MINUTES * 60);
+  quizStartTimestamp = Date.now();
+  quizEndTimestamp = quizStartTimestamp + totalSeconds * 1000;
+  updateTimerDisplay();
+  timerIntervalId = setInterval(updateTimerDisplay, 1000);
+}
+
+function stopTimer(){
+  if(timerIntervalId){ clearInterval(timerIntervalId); timerIntervalId = null; }
+}
+
+function updateTimerDisplay(){
+  const remainingMs = quizEndTimestamp - Date.now();
+  const timerEl = document.getElementById('quiz-timer');
+
+  if(remainingMs <= 0){
+    timerEl.textContent = '⏱ 00:00';
+    stopTimer();
+    toast('⏰ நேரம் முடிந்தது! தேர்வு தானாக சமர்ப்பிக்கப்படுகிறது.', 'error');
+    finishQuiz();
+    return;
+  }
+
+  const totalSec = Math.floor(remainingMs / 1000);
+  const h = Math.floor(totalSec / 3600);
+  const m = Math.floor((totalSec % 3600) / 60);
+  const s = totalSec % 60;
+  const display = h > 0
+    ? `${String(h).padStart(2,'0')}:${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`
+    : `${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`;
+  timerEl.textContent = '⏱ ' + display;
+
+  // Turn red when under 2 minutes remaining
+  if(remainingMs <= 2*60*1000) timerEl.classList.add('low-time');
+  else timerEl.classList.remove('low-time');
+}
+
+function renderQuestion(){
+  const qIdx = orderQueue[currentQIndex];
+  const q = quizQuestions[qIdx];
+  const alreadyAnswered = qStatus[qIdx] === 'answered';
+
+  answeredCurrent = alreadyAnswered;
+
+  document.getElementById('quiz-progress-label').textContent = `${currentQIndex+1} / ${orderQueue.length}`;
+  document.getElementById('progress-fill').style.width = ((currentQIndex)/orderQueue.length*100) + '%';
+  document.getElementById('q-cat').textContent = q.topic || '';
+  document.getElementById('q-text').textContent = q.questionText;
+  document.getElementById('explain-box').style.display = 'none';
+  document.getElementById('explain-box').textContent = '';
+  document.getElementById('report-icon-btn').style.display = 'none';
+  document.getElementById('next-q-btn').textContent = currentQIndex === orderQueue.length-1 ? I18N[currentLang].finish : I18N[currentLang].next;
+  document.getElementById('skip-q-btn').style.display = alreadyAnswered ? 'none' : 'inline-block';
+
+  const optsContainer = document.getElementById('opts-container');
+  optsContainer.innerHTML = '';
+
+  const options = q.options || [];
+  options.forEach((optText, idx) => {
+    const optEl = document.createElement('button');
+    optEl.className = 'opt';
+    optEl.textContent = optText;
+    optEl.addEventListener('click', () => selectOption(idx));
+    optsContainer.appendChild(optEl);
+  });
+
+  document.getElementById('next-q-btn').disabled = !alreadyAnswered;
+
+  if(alreadyAnswered){
+    // Re-render previously chosen answer state (in case user navigated back via the nav grid)
+    const selectedIdx = qSelectedAnswer[qIdx];
+    const correctIdx = q.correctAnswerIndex;
+    const optEls = document.querySelectorAll('#opts-container .opt');
+    optEls.forEach((el, idx) => {
+      if(idx === correctIdx) el.classList.add('correct');
+      else if(idx === selectedIdx) el.classList.add('wrong');
+    });
+    if(q.explanation){
+      const box = document.getElementById('explain-box');
+      box.textContent = '💡 ' + q.explanation;
+      box.style.display = 'block';
+    }
+    document.getElementById('report-icon-btn').style.display = 'inline-block';
+  }
+
+  renderNavGrid();
+}
+
+function selectOption(selectedIdx){
+  if(answeredCurrent) return;
+  answeredCurrent = true;
+
+  const qIdx = orderQueue[currentQIndex];
+  const q = quizQuestions[qIdx];
+  const correctIdx = q.correctAnswerIndex;
+  const optEls = document.querySelectorAll('#opts-container .opt');
+
+  optEls.forEach((el, idx) => {
+    if(idx === correctIdx) el.classList.add('correct');
+    else if(idx === selectedIdx) el.classList.add('wrong');
+  });
+
+  qStatus[qIdx] = 'answered';
+  qSelectedAnswer[qIdx] = selectedIdx;
+
+  if(q.explanation){
+    const box = document.getElementById('explain-box');
+    box.textContent = '💡 ' + q.explanation;
+    box.style.display = 'block';
+  }
+
+  document.getElementById('report-icon-btn').style.display = 'inline-block';
+  document.getElementById('skip-q-btn').style.display = 'none';
+  document.getElementById('next-q-btn').disabled = false;
+  renderNavGrid();
+}
+
+document.getElementById('next-q-btn').addEventListener('click', () => {
+  if(currentQIndex < orderQueue.length - 1){
+    currentQIndex++;
+    renderQuestion();
+  } else {
+    finishQuiz();
+  }
+});
+
+document.getElementById('skip-q-btn').addEventListener('click', () => {
+  if(answeredCurrent) return;
+  const skippedIdx = orderQueue[currentQIndex];
+  qStatus[skippedIdx] = 'skipped';
+  orderQueue.splice(currentQIndex, 1);   // remove from current position
+  orderQueue.push(skippedIdx);           // push to the end of the queue
+
+  if(currentQIndex >= orderQueue.length){
+    // was the last remaining question and got skipped — nothing left unanswered, finish
+    finishQuiz();
+    return;
+  }
+  renderQuestion();
+});
+
+document.getElementById('quit-quiz-btn').addEventListener('click', () => {
+  showQuitSummary();
+});
+
+function showQuitSummary(){
+  const totalInSet = quizQuestions.length;
+  let correctSoFar = 0, wrongSoFar = 0, unansweredSoFar = 0;
+
+  quizQuestions.forEach((q, qIdx) => {
+    if(qStatus[qIdx] === 'answered'){
+      if(qSelectedAnswer[qIdx] === q.correctAnswerIndex) correctSoFar++;
+      else wrongSoFar++;
+    } else {
+      unansweredSoFar++; // covers both 'skipped' and 'unattempted'
+    }
+  });
+
+  const overlay = document.createElement('div');
+  overlay.className = 'report-overlay';
+  overlay.innerHTML = `
+    <div class="report-modal" style="max-width:380px;">
+      <h3 style="text-align:center;">📊 இதுவரை பதில் அளித்தவை</h3>
+      <div class="result-stats" style="margin-top:14px;">
+        <div class="stat"><div class="n" style="color:var(--green)">${correctSoFar}</div><div class="l">சரியானவை</div></div>
+        <div class="stat"><div class="n" style="color:var(--red)">${wrongSoFar}</div><div class="l">தவறானவை</div></div>
+        <div class="stat"><div class="n" style="color:var(--muted)">${unansweredSoFar}</div><div class="l">பதிலளிக்காதவை</div></div>
+      </div>
+      <div style="text-align:center;font-size:.8rem;color:var(--muted);margin-bottom:16px;">மொத்தம் ${totalInSet} வினாக்களில் ${correctSoFar+wrongSoFar} பதிலளிக்கப்பட்டது</div>
+      <div class="actions">
+        <button class="btn secondary" id="quit-cancel-btn">↩ தொடர்</button>
+        <button class="btn" id="quit-confirm-btn" style="background:var(--red);">✕ வெளியேறு</button>
+      </div>
+    </div>
+  `;
+  document.body.appendChild(overlay);
+
+  overlay.querySelector('#quit-cancel-btn').addEventListener('click', () => overlay.remove());
+  overlay.addEventListener('click', e => { if(e.target === overlay) overlay.remove(); });
+
+  overlay.querySelector('#quit-confirm-btn').addEventListener('click', async () => {
+    const btn = overlay.querySelector('#quit-confirm-btn');
+    btn.disabled = true; btn.textContent = 'சேமிக்கிறது...';
+
+    stopTimer();
+    const takenMs = quizStartTimestamp ? (Date.now() - quizStartTimestamp) : 0;
+    await saveResultToFirestore(totalInSet, correctSoFar, wrongSoFar, unansweredSoFar, takenMs, true);
+
+    overlay.remove();
+    showScreen('home');
+  });
+}
+
+// ============================================================
+// QUESTION NAVIGATOR (RRB/SSC style grid)
+// ============================================================
+document.getElementById('nav-toggle-btn').addEventListener('click', () => {
+  const panel = document.getElementById('q-nav-panel');
+  panel.style.display = panel.style.display === 'none' ? 'block' : 'none';
+  if(panel.style.display === 'block') renderNavGrid();
+});
+
+function renderNavGrid(){
+  const panel = document.getElementById('q-nav-panel');
+  if(panel.style.display === 'none') return;
+
+  const grid = document.getElementById('q-nav-grid');
+  grid.innerHTML = '';
+
+  // Show numbers based on original quizQuestions order (stable numbering 1..N),
+  // regardless of the current orderQueue shuffle-on-skip position.
+  quizQuestions.forEach((q, qIdx) => {
+    const cell = document.createElement('div');
+    const status = qStatus[qIdx];
+    let cls = 'qn-cell';
+    if(status === 'answered') cls += ' answered';
+    else if(status === 'skipped') cls += ' skipped';
+    if(orderQueue[currentQIndex] === qIdx) cls += ' current';
+    cell.className = cls;
+    cell.textContent = qIdx + 1;
+    cell.addEventListener('click', () => jumpToQuestion(qIdx));
+    grid.appendChild(cell);
+  });
+}
+
+function jumpToQuestion(qIdx){
+  const posInQueue = orderQueue.indexOf(qIdx);
+  if(posInQueue === -1) return; // shouldn't happen
+  currentQIndex = posInQueue;
+  renderQuestion();
+}
+
+function finishQuiz(){
+  stopTimer();
+  document.getElementById('progress-fill').style.width = '100%';
+  const total = quizQuestions.length;
+
+  let correctFinal = 0, wrongFinal = 0, unansweredFinal = 0;
+  quizQuestions.forEach((q, qIdx) => {
+    if(qStatus[qIdx] === 'answered'){
+      if(qSelectedAnswer[qIdx] === q.correctAnswerIndex) correctFinal++;
+      else wrongFinal++;
+    } else {
+      unansweredFinal++;
+    }
+  });
+
+  const attempted = correctFinal + wrongFinal;
+  const percent = attempted > 0 ? Math.round((correctFinal/attempted)*100) : 0;
+
+  let emoji = '🏆', subMsg = 'அருமை!';
+  if(percent >= 80){ emoji='🏆'; subMsg='அற்புதம்! TNPSC வெற்றி உறுதி!'; }
+  else if(percent >= 60){ emoji='👍'; subMsg='நல்லது! இன்னும் கொஞ்சம் பயிற்சி!'; }
+  else if(percent >= 40){ emoji='💪'; subMsg='தொடர்ந்து பயிற்சி செய்! முன்னேறுவாய்!'; }
+  else{ emoji='📖'; subMsg='மீண்டும் படித்து முயற்சி செய்!'; }
+
+  document.getElementById('res-emoji').textContent = emoji;
+  document.getElementById('res-score').textContent = percent + '%';
+  document.getElementById('res-sub').textContent = subMsg;
+  document.getElementById('res-correct').textContent = correctFinal;
+  document.getElementById('res-wrong').textContent = wrongFinal;
+  document.getElementById('res-total').textContent = total;
+
+  // Time taken display
+  const endTime = Date.now();
+  const takenMs = quizStartTimestamp ? (endTime - quizStartTimestamp) : 0;
+  const takenMin = Math.floor(takenMs / 60000);
+  const takenSec = Math.floor((takenMs % 60000) / 1000);
+  const startStr = quizStartTimestamp ? new Date(quizStartTimestamp).toLocaleTimeString('ta-IN', {hour:'2-digit', minute:'2-digit'}) : '';
+  const endStr = new Date(endTime).toLocaleTimeString('ta-IN', {hour:'2-digit', minute:'2-digit'});
+  document.getElementById('res-time-info').textContent =
+    `⏱ ஆரம்பம்: ${startStr} · முடிவு: ${endStr} · எடுத்த நேரம்: ${takenMin} நிமிடம் ${takenSec} வினாடி`;
+
+  showScreen('result');
+  saveResultToFirestore(total, correctFinal, wrongFinal, unansweredFinal, takenMs, false);
+}
+
+async function saveResultToFirestore(total, correctCount, wrongCount, unansweredCount, takenMs, wasQuit){
+  const user = auth.currentUser;
+  if(!user) return; // guest — results are not tracked, quiz still works fine
+  const attempted = correctCount + wrongCount;
+  const percent = attempted > 0 ? Math.round((correctCount/attempted)*100) : 0;
+  try{
+    await db.collection('results').add({
+      userId: user.uid,
+      userEmail: user.email,
+      subject: currentSubjectForRetry,
+      class: currentClassForRetry,
+      totalQuestions: total,
+      correctCount: correctCount,
+      wrongCount: wrongCount,
+      unansweredCount: unansweredCount,
+      scorePercent: percent,
+      wasQuit: wasQuit,
+      startedAt: quizStartTimestamp ? firebase.firestore.Timestamp.fromMillis(quizStartTimestamp) : null,
+      submittedAt: firebase.firestore.FieldValue.serverTimestamp(),
+      durationMs: takenMs
+    });
+  }catch(e){
+    // Non-critical — don't block the user's flow if this write fails
+    console.error('Result save failed:', e.message);
+  }
+}
+
+document.getElementById('retry-btn').addEventListener('click', () => {
+  if(currentSubjectForRetry === 'MIX_MODE' && lastMixConfig){
+    launchMixQuiz(lastMixConfig.count, lastMixConfig.subjectFilter);
+  } else if(currentSubjectForRetry && currentClassForRetry){
+    startQuiz(currentSubjectForRetry, currentClassForRetry);
+  }
+});
+
+document.getElementById('home-btn').addEventListener('click', () => {
+  showScreen('home');
+});
+
+// ============================================================
+// REPORT / COMMENT ON A QUESTION
+// ============================================================
+document.getElementById('report-icon-btn').addEventListener('click', () => {
+  const qIdx = orderQueue[currentQIndex];
+  const q = quizQuestions[qIdx];
+  openReportModal(q);
+});
+
+function openReportModal(q){
+  const overlay = document.createElement('div');
+  overlay.className = 'report-overlay';
+  overlay.innerHTML = `
+    <div class="report-modal">
+      <h3>🚩 வினாவில் தவறு உள்ளதா?</h3>
+      <div style="font-size:.82rem;color:var(--muted);margin-bottom:6px;">உங்கள் கருத்தை பதிவு செய்யவும் — Admin இதை பரிசீலிக்கிறார்.</div>
+      <textarea id="report-text" rows="4" placeholder="எ.கா: விடை தவறு, விளக்கம் தெளிவில்லை, எழுத்துப்பிழை..."></textarea>
+      <div class="actions">
+        <button class="btn secondary" id="report-cancel-btn">ரத்து</button>
+        <button class="btn green" id="report-submit-btn">அனுப்பு</button>
+      </div>
+      <div id="report-error" style="color:var(--red);font-size:.8rem;margin-top:8px;"></div>
+    </div>
+  `;
+  document.body.appendChild(overlay);
+
+  overlay.querySelector('#report-cancel-btn').addEventListener('click', () => overlay.remove());
+  overlay.addEventListener('click', e => { if(e.target === overlay) overlay.remove(); });
+
+  overlay.querySelector('#report-submit-btn').addEventListener('click', async () => {
+    const text = overlay.querySelector('#report-text').value.trim();
+    const errEl = overlay.querySelector('#report-error');
+    if(!text){ errEl.textContent = 'தயவுசெய்து உங்கள் கருத்தை எழுதவும்.'; return; }
+
+    const btn = overlay.querySelector('#report-submit-btn');
+    btn.disabled = true; btn.textContent = 'அனுப்புகிறது...';
+
+    try{
+      await db.collection('reports').add({
+        questionId: q.id,
+        questionText: q.questionText,
+        subject: q.subject,
+        class: q.class,
+        comment: text,
+        status: 'new',
+        createdAt: firebase.firestore.FieldValue.serverTimestamp()
+      });
+      toast('✅ உங்கள் கருத்து அனுப்பப்பட்டது. நன்றி!');
+      overlay.remove();
+    }catch(e){
+      errEl.textContent = 'பிழை: ' + e.message;
+      btn.disabled = false; btn.textContent = 'அனுப்பு';
+    }
+  });
+}
+
+// ============================================================
+// PROFILE EDIT MODAL
+// ============================================================
+document.getElementById('my-performance-tab-btn').addEventListener('click', () => {
+  showScreen('performance');
+  loadMyPerformance();
+});
+document.getElementById('performance-back-btn').addEventListener('click', () => showScreen('home'));
+
+async function loadMyPerformance(){
+  const user = auth.currentUser;
+  const listEl = document.getElementById('perf-list');
+  const emptyEl = document.getElementById('perf-empty');
+  const loadingEl = document.getElementById('perf-loading');
+  const statsEl = document.getElementById('perf-summary-stats');
+
+  if(!user){ showLoginOverlay(); return; }
+
+  loadingEl.style.display = 'block';
+  listEl.innerHTML = '';
+  emptyEl.style.display = 'none';
+  statsEl.innerHTML = '';
+
+  try{
+    const snap = await db.collection('results')
+      .where('userId', '==', user.uid)
+      .orderBy('submittedAt', 'desc')
+      .limit(100)
+      .get();
+
+    loadingEl.style.display = 'none';
+
+    if(snap.empty){
+      emptyEl.style.display = 'block';
+      return;
+    }
+
+    let results = [];
+    snap.forEach(doc => results.push({id:doc.id, ...doc.data()}));
+
+    // Summary stats across all attempts
+    const totalTests = results.length;
+    const avgPercent = Math.round(results.reduce((sum,r) => sum + (r.scorePercent||0), 0) / totalTests);
+    const totalAnswered = results.reduce((sum,r) => sum + (r.correctCount||0) + (r.wrongCount||0), 0);
+
+    statsEl.innerHTML = `
+      <div class="stat"><div class="n" style="color:var(--blue)">${totalTests}</div><div class="l">Tests எடுத்தவை</div></div>
+      <div class="stat"><div class="n" style="color:var(--gold)">${avgPercent}%</div><div class="l">சராசரி மதிப்பெண்</div></div>
+      <div class="stat"><div class="n" style="color:var(--green)">${totalAnswered}</div><div class="l">மொத்த வினாக்கள்</div></div>
+    `;
+
+    results.forEach(r => {
+      const div = document.createElement('div');
+      div.className = 'card';
+      div.style.cssText = 'margin-bottom:10px;padding:14px;';
+      const meta = SUBJECT_META[r.subject] || {label:r.subject, emoji:'📘'};
+      const dateStr = r.submittedAt && r.submittedAt.toDate ? r.submittedAt.toDate().toLocaleString('ta-IN', {dateStyle:'medium', timeStyle:'short'}) : '';
+      const quitBadge = r.wasQuit ? '<span class="badge hard" style="margin-left:6px;">பாதியில் நிறுத்தியது</span>' : '';
+
+      div.innerHTML = `
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px;">
+          <strong style="font-size:.92rem;">${meta.emoji} ${meta.label} — ${r.class||''}</strong>
+          <span style="font-weight:800;color:var(--gold);">${r.scorePercent||0}%</span>
+        </div>
+        <div style="font-size:.78rem;color:var(--muted);margin-bottom:4px;">${dateStr}${quitBadge}</div>
+        <div style="display:flex;gap:14px;font-size:.82rem;">
+          <span style="color:var(--green);">✓ ${r.correctCount||0}</span>
+          <span style="color:var(--red);">✗ ${r.wrongCount||0}</span>
+          <span style="color:var(--muted);">— ${r.unansweredCount||0}</span>
+          <span style="color:var(--muted);">/ ${r.totalQuestions||0} total</span>
+        </div>
+      `;
+      listEl.appendChild(div);
+    });
+  }catch(e){
+    loadingEl.style.display = 'none';
+    listEl.innerHTML = `<div class="empty" style="color:var(--red);">பிழை: ${e.message}</div>`;
+  }
+}
+
+function openProfileModal(){
+  const user = auth.currentUser;
+  if(!user || !currentUserProfile) return;
+
+  const overlay = document.createElement('div');
+  overlay.className = 'report-overlay';
+  overlay.innerHTML = `
+    <div class="report-modal">
+      <h3>👤 எனது சுயவிவரம்</h3>
+      <div class="login-field">
+        <label>பெயர் (Name)</label>
+        <input type="text" id="profile-name-input" value="${(currentUserProfile.name||'').replace(/"/g,'&quot;')}">
+      </div>
+      <div class="login-field">
+        <label>Email</label>
+        <input type="text" value="${user.email}" disabled style="opacity:.6;">
+      </div>
+      <div class="actions">
+        <button class="btn secondary" id="profile-cancel-btn">ரத்து</button>
+        <button class="btn green" id="profile-save-btn">சேமி</button>
+      </div>
+      <div id="profile-error" style="color:var(--red);font-size:.8rem;margin-top:8px;"></div>
+    </div>
+  `;
+  document.body.appendChild(overlay);
+
+  overlay.querySelector('#profile-cancel-btn').addEventListener('click', () => overlay.remove());
+  overlay.addEventListener('click', e => { if(e.target === overlay) overlay.remove(); });
+
+  overlay.querySelector('#profile-save-btn').addEventListener('click', async () => {
+    const newName = overlay.querySelector('#profile-name-input').value.trim();
+    const errEl = overlay.querySelector('#profile-error');
+    if(!newName){ errEl.textContent = 'பெயரை நிரப்பவும்.'; return; }
+
+    const btn = overlay.querySelector('#profile-save-btn');
+    btn.disabled = true; btn.textContent = 'சேமிக்கிறது...';
+
+    try{
+      await user.updateProfile({displayName: newName});
+      await db.collection('users').doc(user.uid).set({
+        name: newName,
+        email: user.email
+      }, {merge: true});
+      currentUserProfile.name = newName;
+      document.getElementById('user-bar-email').textContent = '👤 ' + newName;
+      toast('✅ சுயவிவரம் புதுப்பிக்கப்பட்டது!');
+      overlay.remove();
+    }catch(e){
+      errEl.textContent = 'பிழை: ' + e.message;
+      btn.disabled = false; btn.textContent = 'சேமி';
+    }
+  });
+}
+
+// ============================================================
+// INIT
+// ============================================================
+// loadSubjects() runs inside auth.onAuthStateChanged() for both guest
+// and logged-in users, since Firebase always fires that callback once
+// on page load (with user=null if not logged in). Quiz content is
+// available to everyone; login is optional and only needed to save
+// results under a user's account.
+applyLanguage();
+showScreen('home');
+</script>
+</body>
+</html>
