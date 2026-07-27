@@ -1,9 +1,10 @@
 // Vetrivel TNPSC — Service Worker
-// Caches only the static app shell (HTML/CSS/JS/logo). Firestore requests
-// always go to the network so quiz content, results, and reports are never
-// served stale — this only makes the app itself open instantly / offline.
+// NETWORK-FIRST strategy: every load tries the live GitHub-hosted file first,
+// so any update you push (like the ADMIN_EMAILS change) shows up immediately.
+// The cache is only a fallback for offline use — never the primary source.
+// Firestore/Firebase calls always go straight to the network (untouched).
 
-const CACHE_NAME = 'vetrivel-tnpsc-v1';
+const CACHE_NAME = 'vetrivel-tnpsc-v2'; // bumped: v1 used cache-first and served stale files
 const APP_SHELL = [
   './quiz.html',
   './manifest.json',
@@ -31,12 +32,23 @@ self.addEventListener('activate', (event) => {
 self.addEventListener('fetch', (event) => {
   const url = event.request.url;
 
-  // Never cache Firebase/Firestore/Auth calls — always hit the network.
+  // Never touch Firebase/Firestore/Auth calls — always straight to network.
   if(url.includes('googleapis.com') || url.includes('gstatic.com/firebasejs') || url.includes('firebaseio.com')){
     return;
   }
 
   event.respondWith(
-    caches.match(event.request).then(cached => cached || fetch(event.request))
+    fetch(event.request)
+      .then(response => {
+        // Got a fresh copy from the network — use it, and update the cache
+        // for next time we're offline.
+        const clone = response.clone();
+        caches.open(CACHE_NAME).then(cache => cache.put(event.request, clone));
+        return response;
+      })
+      .catch(() => {
+        // Offline / network failed — fall back to whatever we have cached.
+        return caches.match(event.request);
+      })
   );
 });
