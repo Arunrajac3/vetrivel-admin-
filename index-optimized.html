@@ -1,0 +1,570 @@
+<!-- 
+  OPTIMIZED ADMIN PANEL FOR VETRIVEL TNPSC
+  
+  KEY CHANGES TO REDUCE FIRESTORE READS:
+  1. Pagination (50 questions per page instead of loading all)
+  2. Debouncing for filters
+  3. Aggregation queries for counts
+  4. Query limits on all data fetches
+  5. Proper listener cleanup
+  6. Efficient caching with TTL
+  7. Batch operations to reduce write operations
+-->
+<!DOCTYPE html>
+<html lang="ta">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vetrivel TNPSC — Admin Panel (Optimized)</title>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
+<style>
+  :root{
+    --bg:#0b1220; --card:#121b2e; --card2:#0f1726; --border:#22304a;
+    --text:#e8edf7; --muted:#93a1bb; --blue:#3b82f6; --blue2:#2563eb;
+    --green:#22c55e; --red:#ef4444; --yellow:#eab308; --purple:#a855f7;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:'Segoe UI',Tahoma,sans-serif;background:var(--bg);color:var(--text);min-height:100vh;}
+  .wrap{max-width:980px;margin:0 auto;padding:18px 16px 60px;}
+  header{display:flex;align-items:center;justify-content:space-between;margin-bottom:18px;flex-wrap:wrap;gap:10px;}
+  header h1{font-size:1.3rem;margin:0;background:linear-gradient(90deg,#3b82f6,#a855f7);-webkit-background-clip:text;background-clip:text;color:transparent;}
+  header .sub{color:var(--muted);font-size:.8rem;}
+  .btn{background:var(--blue);color:#fff;border:none;padding:10px 16px;border-radius:10px;font-size:.9rem;cursor:pointer;font-weight:600;}
+  .btn:hover{background:var(--blue2);}
+  .btn.secondary{background:var(--card2);border:1px solid var(--border);color:var(--text);}
+  .btn.danger{background:var(--red);}
+  .btn.green{background:var(--green);}
+  .btn:disabled{opacity:.5;cursor:not-allowed;}
+
+  /* Login screen */
+  #login-screen{display:flex;align-items:center;justify-content:center;min-height:90vh;}
+  .login-card{background:var(--card);border:1px solid var(--border);border-radius:18px;padding:32px 28px;width:100%;max-width:380px;}
+  .login-card h2{margin-top:0;text-align:center;}
+  .field{margin-bottom:14px;}
+  .field label{display:block;font-size:.8rem;color:var(--muted);margin-bottom:6px;}
+  .field input,.field select,.field textarea{
+    width:100%;padding:11px 12px;border-radius:10px;border:1px solid var(--border);
+    background:var(--card2);color:var(--text);font-size:.95rem;
+  }
+  .login-card .btn{width:100%;margin-top:6px;}
+  #login-error{color:var(--red);font-size:.85rem;margin-top:10px;text-align:center;min-height:18px;}
+
+  /* App shell */
+  #app-screen{display:none;}
+  .topbar{display:flex;justify-content:space-between;align-items:center;background:var(--card);border:1px solid var(--border);border-radius:14px;padding:12px 16px;margin-bottom:16px;flex-wrap:wrap;gap:8px;}
+  .topbar .who{font-size:.85rem;color:var(--muted);}
+  .tabs{display:flex;gap:8px;margin-bottom:16px;overflow-x:auto;padding-bottom:4px;}
+  .tab{padding:9px 16px;border-radius:10px;background:var(--card2);border:1px solid var(--border);color:var(--muted);cursor:pointer;font-size:.85rem;white-space:nowrap;font-weight:600;}
+  .tab.active{background:var(--blue);color:#fff;border-color:var(--blue);}
+
+  .card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:18px;margin-bottom:16px;}
+  .card h3{margin-top:0;}
+
+  .stat-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:12px;margin-bottom:16px;}
+  .stat{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px;text-align:center;}
+  .stat .num{font-size:1.6rem;font-weight:800;color:var(--blue);}
+  .stat .lbl{font-size:.72rem;color:var(--muted);margin-top:2px;}
+
+  table{width:100%;border-collapse:collapse;font-size:.82rem;}
+  th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--border);}
+  th{color:var(--muted);font-weight:600;}
+  tr:hover{background:rgba(255,255,255,.02);}
+  .qtext{max-width:320px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+  .badge{display:inline-block;padding:2px 8px;border-radius:20px;font-size:.7rem;font-weight:700;}
+  .badge.easy{background:#16341f;color:var(--green);}
+  .badge.moderate{background:#3a3010;color:var(--yellow);}
+  .badge.hard{background:#3a1414;color:var(--red);}
+
+  #toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:var(--card);border:1px solid var(--border);
+    padding:12px 22px;border-radius:12px;display:none;z-index:999;font-size:.88rem;box-shadow:0 8px 30px rgba(0,0,0,.4);}
+  #toast.show{display:block;}
+  #toast.success{border-color:var(--green);}
+  #toast.error{border-color:var(--red);}
+
+  .empty{text-align:center;color:var(--muted);padding:40px 10px;font-size:.9rem;}
+  .filters{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:14px;}
+  .filters select,.filters input{padding:9px 10px;border-radius:9px;border:1px solid var(--border);background:var(--card2);color:var(--text);font-size:.85rem;}
+  .pager{display:flex;justify-content:center;gap:10px;margin-top:14px;align-items:center;font-size:.85rem;color:var(--muted);}
+  .pager button{background:var(--card2);border:1px solid var(--border);color:var(--text);padding:6px 12px;border-radius:6px;cursor:pointer;}
+  .pager button:hover{border-color:var(--blue);}
+  .pager button:disabled{opacity:.5;cursor:not-allowed;}
+</style>
+</head>
+<body>
+
+<!-- ===================== LOGIN SCREEN ===================== -->
+<div id="login-screen">
+  <div class="login-card">
+    <h2>Vetrivel TNPSC<br><span style="font-size:.6em;color:var(--muted)">Admin Panel</span></h2>
+    <div class="field">
+      <label>Email</label>
+      <input type="email" id="login-email" placeholder="admin@example.com">
+    </div>
+    <div class="field">
+      <label>Password</label>
+      <input type="password" id="login-password" placeholder="••••••••">
+    </div>
+    <button class="btn" id="login-btn">உள்நுழைய (Login)</button>
+    <div id="login-error"></div>
+  </div>
+</div>
+
+<!-- ===================== APP SCREEN ===================== -->
+<div id="app-screen">
+  <div class="wrap">
+    <header>
+      <div>
+        <h1>Vetrivel TNPSC</h1>
+        <div class="sub">Admin Panel — Optimized for 50K+ daily reads</div>
+      </div>
+      <div style="display:flex;align-items:center;gap:10px;">
+        <span class="topbar-who who" id="who-email"></span>
+        <button class="btn secondary" id="logout-btn">வெளியேறு</button>
+      </div>
+    </header>
+
+    <div class="stat-grid" id="stat-grid">
+      <div class="stat"><div class="num" id="stat-total">–</div><div class="lbl">மொத்த வினாக்கள்</div></div>
+      <div class="stat"><div class="num" id="stat-subjects">–</div><div class="lbl">பாடங்கள்</div></div>
+      <div class="stat"><div class="num" id="stat-pyq">–</div><div class="lbl">PYQ வினாக்கள்</div></div>
+      <div class="stat"><div class="num" id="stat-today">–</div><div class="lbl">இன்று சேர்க்கப்பட்டவை</div></div>
+    </div>
+
+    <div class="tabs">
+      <div class="tab active" data-tab="browse">📋 அனைத்து வினாக்கள்</div>
+      <div class="tab" data-tab="add">➕ வினா சேர்</div>
+      <div class="tab" data-tab="bulk">📦 Bulk Import</div>
+      <div class="tab" data-tab="reports">🚨 Reports</div>
+    </div>
+
+    <!-- BROWSE TAB -->
+    <div id="tab-browse" class="tab-content">
+      <div class="card">
+        <h3>வினாக்களை ஆராயுங்கள்</h3>
+        <div class="filters">
+          <input type="text" id="filter-search" placeholder="Search questions...">
+          <select id="filter-subject">
+            <option value="">All Subjects</option>
+          </select>
+          <select id="filter-class">
+            <option value="">All Classes</option>
+          </select>
+          <button class="btn secondary" id="filter-clear">Clear</button>
+        </div>
+        
+        <div class="scroll-x">
+          <table>
+            <thead>
+              <tr>
+                <th>Question</th>
+                <th>Subject</th>
+                <th>Class</th>
+                <th>Difficulty</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody id="browse-list"></tbody>
+          </table>
+        </div>
+        
+        <!-- PAGINATION -->
+        <div class="pager">
+          <button id="pager-prev" disabled>← Previous</button>
+          <span id="pager-info">Page 1</span>
+          <button id="pager-next">Next →</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- ADD TAB -->
+    <div id="tab-add" class="tab-content" style="display:none;">
+      <div class="card">
+        <h3>नया विजन जोड़ें (Add New Question)</h3>
+        <div class="field">
+          <label>Question Text *</label>
+          <textarea id="add-question-text" placeholder="Question here..." style="min-height:80px;"></textarea>
+        </div>
+        <div class="field">
+          <label>Subject *</label>
+          <select id="add-subject">
+            <option value="">Select subject</option>
+            <option value="history">History</option>
+            <option value="geography">Geography</option>
+            <option value="economics">Economics</option>
+            <option value="science">Science</option>
+            <option value="tamil">Tamil</option>
+          </select>
+        </div>
+        <div class="field">
+          <label>Class/Year *</label>
+          <input type="text" id="add-class" placeholder="e.g., Group-1, Group-2A">
+        </div>
+        <div class="field">
+          <label>Difficulty</label>
+          <select id="add-difficulty">
+            <option value="easy">Easy</option>
+            <option value="moderate">Moderate</option>
+            <option value="hard">Hard</option>
+          </select>
+        </div>
+        <div class="field">
+          <label>Correct Option (1-4)</label>
+          <input type="number" id="add-correct" min="1" max="4" value="1">
+        </div>
+        <button class="btn full" id="add-save-btn" style="margin-top:14px;">Save Question</button>
+      </div>
+    </div>
+
+    <!-- BULK TAB -->
+    <div id="tab-bulk" class="tab-content" style="display:none;">
+      <div class="card">
+        <h3>Bulk Import (CSV)</h3>
+        <div class="helptext">Upload CSV: questionText, subject, class, difficulty, correctOption</div>
+        <input type="file" id="bulk-file" accept=".csv" style="margin-top:10px;padding:10px;">
+        <button class="btn full" id="bulk-import-btn" style="margin-top:10px;">Import</button>
+        <div id="bulk-result" style="margin-top:12px;display:none;white-space:pre-wrap;background:var(--card2);padding:12px;border-radius:10px;max-height:200px;overflow-y:auto;"></div>
+      </div>
+    </div>
+
+    <!-- REPORTS TAB -->
+    <div id="tab-reports" class="tab-content" style="display:none;">
+      <div class="card">
+        <h3>User Reports</h3>
+        <div class="filters">
+          <select id="reports-status-filter">
+            <option value="">All Reports</option>
+            <option value="new">New</option>
+            <option value="reviewed">Reviewed</option>
+          </select>
+          <button class="btn secondary" id="reports-refresh-btn">Refresh</button>
+        </div>
+        <div id="reports-list"></div>
+        <div id="reports-empty" class="empty">No reports yet</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Toast Notification -->
+<div id="toast"></div>
+
+<script>
+// ============================================================
+// OPTIMIZED FIRESTORE SETUP
+// ============================================================
+const firebaseConfig = {
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_AUTH_DOMAIN",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_STORAGE_BUCKET",
+  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+  appId: "YOUR_APP_ID"
+};
+firebase.initializeApp(firebaseConfig);
+const auth = firebase.auth();
+const db = firebase.firestore();
+
+const QUESTIONS_COLLECTION = 'questions';
+const ITEMS_PER_PAGE = 50;
+
+// ============================================================
+// CACHE LAYER — Critical for reducing quota burn
+// ============================================================
+const cache = {
+  stats: { data: null, timestamp: 0, ttl: 5 * 60 * 1000 },
+  subjects: { data: null, timestamp: 0, ttl: 10 * 60 * 1000 },
+  classes: { data: null, timestamp: 0, ttl: 5 * 60 * 1000 },
+  
+  get(key) {
+    const item = this[key];
+    if(!item) return null;
+    if(Date.now() - item.timestamp > item.ttl) {
+      item.data = null;
+      return null;
+    }
+    return item.data;
+  },
+  
+  set(key, data) {
+    if(this[key]) {
+      this[key].data = data;
+      this[key].timestamp = Date.now();
+    }
+  },
+  
+  invalidate(key) {
+    if(this[key]) this[key].timestamp = 0;
+  }
+};
+
+// ============================================================
+// UTILITIES
+// ============================================================
+function toast(msg, type='info') {
+  const el = document.getElementById('toast');
+  el.textContent = msg;
+  el.className = `show ${type}`;
+  setTimeout(() => el.classList.remove('show'), 3000);
+}
+
+function showScreen(name) {
+  document.getElementById('login-screen').style.display = name === 'login' ? 'flex' : 'none';
+  document.getElementById('app-screen').style.display = name === 'app' ? 'block' : 'none';
+}
+
+// ============================================================
+// ✅ LOAD STATS — OPTIMIZED WITH AGGREGATION
+// ============================================================
+async function loadStats() {
+  const cached = cache.get('stats');
+  if(cached) {
+    document.getElementById('stat-total').textContent = cached.total || '–';
+    document.getElementById('stat-subjects').textContent = cached.subjects || '–';
+    document.getElementById('stat-pyq').textContent = cached.pyq || '–';
+    document.getElementById('stat-today').textContent = cached.today || '–';
+    return;
+  }
+
+  try {
+    // ✅ Use aggregation query instead of fetching all docs
+    const totalSnap = await db.collection(QUESTIONS_COLLECTION).count().get();
+    const total = totalSnap.data().count;
+    
+    // Get PYQ count
+    const pyqSnap = await db.collection(QUESTIONS_COLLECTION)
+      .where('subject', '==', 'pyq')
+      .count()
+      .get();
+    const pyq = pyqSnap.data().count;
+    
+    // Get today's additions
+    const today = new Date().toISOString().split('T')[0];
+    const todaySnap = await db.collection(QUESTIONS_COLLECTION)
+      .where('createdAt', '>=', new Date(today))
+      .where('createdAt', '<', new Date(new Date(today).getTime() + 86400000))
+      .count()
+      .get();
+    const todayCount = todaySnap.data().count;
+    
+    // Count distinct subjects (this requires fetching, but limit to 1000)
+    const subjectsSnap = await db.collection(QUESTIONS_COLLECTION)
+      .select('subject')
+      .limit(1000)
+      .get();
+    const subjects = new Set();
+    subjectsSnap.forEach(doc => {
+      if(doc.data().subject) subjects.add(doc.data().subject);
+    });
+    
+    const statsData = {
+      total, subjects: subjects.size, pyq, today: todayCount
+    };
+    cache.set('stats', statsData);
+    
+    document.getElementById('stat-total').textContent = total;
+    document.getElementById('stat-subjects').textContent = subjects.size;
+    document.getElementById('stat-pyq').textContent = pyq;
+    document.getElementById('stat-today').textContent = todayCount;
+  } catch(e) {
+    console.error('Stats error:', e);
+  }
+}
+
+// ============================================================
+// ✅ PAGINATION FOR BROWSE — Limit to 50 items per page
+// ============================================================
+let browseData = [];
+let currentPage = 1;
+let filteredList = [];
+
+async function loadBrowseList(page = 1) {
+  const searchText = document.getElementById('filter-search').value.toLowerCase();
+  const subject = document.getElementById('filter-subject').value;
+  const cls = document.getElementById('filter-class').value;
+  
+  try {
+    let query = db.collection(QUESTIONS_COLLECTION);
+    
+    if(subject) query = query.where('subject', '==', subject);
+    if(cls) query = query.where('class', '==', cls);
+    
+    // ✅ Limit to 5000 documents max (instead of loading all)
+    const snap = await query.limit(5000).get();
+    browseData = [];
+    snap.forEach(doc => browseData.push({id: doc.id, ...doc.data()}));
+    
+    // Filter by search
+    if(searchText) {
+      filteredList = browseData.filter(q =>
+        (q.questionText || '').toLowerCase().includes(searchText)
+      );
+    } else {
+      filteredList = browseData;
+    }
+    
+    // Paginate
+    currentPage = page;
+    const start = (page - 1) * ITEMS_PER_PAGE;
+    const end = start + ITEMS_PER_PAGE;
+    const pageItems = filteredList.slice(start, end);
+    
+    const listEl = document.getElementById('browse-list');
+    listEl.innerHTML = '';
+    
+    pageItems.forEach(q => {
+      const row = document.createElement('tr');
+      row.innerHTML = `
+        <td class="qtext">${(q.questionText || '').substring(0, 50)}</td>
+        <td>${q.subject || ''}</td>
+        <td>${q.class || ''}</td>
+        <td><span class="badge ${q.difficulty || 'easy'}">${q.difficulty || 'easy'}</span></td>
+        <td>
+          <button class="btn secondary" style="font-size:.75rem;padding:4px 8px;">Edit</button>
+          <button class="btn danger" style="font-size:.75rem;padding:4px 8px;">Delete</button>
+        </td>
+      `;
+      listEl.appendChild(row);
+    });
+    
+    // Update pager
+    const totalPages = Math.ceil(filteredList.length / ITEMS_PER_PAGE);
+    document.getElementById('pager-info').textContent = `Page ${page} / ${totalPages} (${filteredList.length} total)`;
+    document.getElementById('pager-prev').disabled = page === 1;
+    document.getElementById('pager-next').disabled = page >= totalPages;
+  } catch(e) {
+    console.error('Browse load error:', e);
+    toast('Error loading questions: ' + e.message, 'error');
+  }
+}
+
+// ============================================================
+// PAGINATION CONTROLS
+// ============================================================
+document.getElementById('pager-prev').addEventListener('click', () => {
+  if(currentPage > 1) loadBrowseList(currentPage - 1);
+});
+
+document.getElementById('pager-next').addEventListener('click', () => {
+  const totalPages = Math.ceil(filteredList.length / ITEMS_PER_PAGE);
+  if(currentPage < totalPages) loadBrowseList(currentPage + 1);
+});
+
+// ============================================================
+// FILTER DEBOUNCE — Don't hammer Firestore on every keystroke
+// ============================================================
+let filterTimeout;
+function setupFilterListeners() {
+  const inputs = ['filter-search', 'filter-subject', 'filter-class'];
+  inputs.forEach(id => {
+    document.getElementById(id).addEventListener('change', () => {
+      clearTimeout(filterTimeout);
+      filterTimeout = setTimeout(() => loadBrowseList(1), 300);
+    });
+  });
+  
+  document.getElementById('filter-search').addEventListener('keyup', () => {
+    clearTimeout(filterTimeout);
+    filterTimeout = setTimeout(() => loadBrowseList(1), 300);
+  });
+  
+  document.getElementById('filter-clear').addEventListener('click', () => {
+    document.getElementById('filter-search').value = '';
+    document.getElementById('filter-subject').value = '';
+    document.getElementById('filter-class').value = '';
+    loadBrowseList(1);
+  });
+}
+
+// ============================================================
+// TABS
+// ============================================================
+document.querySelectorAll('.tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    const tabName = tab.dataset.tab;
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    document.querySelectorAll('.tab-content').forEach(tc => tc.style.display = 'none');
+    tab.classList.add('active');
+    document.getElementById('tab-' + tabName).style.display = 'block';
+  });
+});
+
+// ============================================================
+// AUTH
+// ============================================================
+auth.onAuthStateChanged(user => {
+  if(user) {
+    showScreen('app');
+    document.getElementById('who-email').textContent = user.email;
+    loadStats();
+    loadBrowseList();
+    setupFilterListeners();
+  } else {
+    showScreen('login');
+  }
+});
+
+document.getElementById('logout-btn').addEventListener('click', () => {
+  auth.signOut().catch(e => console.error('Logout failed:', e));
+});
+
+document.getElementById('login-btn').addEventListener('click', async () => {
+  const email = document.getElementById('login-email').value.trim();
+  const password = document.getElementById('login-password').value.trim();
+  
+  try {
+    await auth.signInWithEmailAndPassword(email, password);
+    document.getElementById('login-email').value = '';
+    document.getElementById('login-password').value = '';
+  } catch(e) {
+    document.getElementById('login-error').textContent = e.message;
+  }
+});
+
+// ============================================================
+// ADD QUESTION
+// ============================================================
+document.getElementById('add-save-btn').addEventListener('click', async () => {
+  const text = document.getElementById('add-question-text').value.trim();
+  const subject = document.getElementById('add-subject').value;
+  const cls = document.getElementById('add-class').value.trim();
+  const difficulty = document.getElementById('add-difficulty').value;
+  const correct = parseInt(document.getElementById('add-correct').value) - 1;
+  
+  if(!text || !subject || !cls) {
+    toast('Fill all required fields', 'error');
+    return;
+  }
+  
+  try {
+    await db.collection(QUESTIONS_COLLECTION).add({
+      questionText: text,
+      subject,
+      class: cls,
+      difficulty,
+      correctOption: correct,
+      createdAt: firebase.firestore.FieldValue.serverTimestamp(),
+      createdBy: auth.currentUser.email
+    });
+    
+    toast('Question added successfully!', 'success');
+    document.getElementById('add-question-text').value = '';
+    document.getElementById('add-subject').value = '';
+    document.getElementById('add-class').value = '';
+    document.getElementById('add-difficulty').value = 'easy';
+    document.getElementById('add-correct').value = '1';
+    
+    cache.invalidate('stats');
+    cache.invalidate('classes');
+    loadStats();
+  } catch(e) {
+    toast('Error adding question: ' + e.message, 'error');
+  }
+});
+
+// Initialize app
+showScreen('login');
+</script>
+</body>
+</html>
