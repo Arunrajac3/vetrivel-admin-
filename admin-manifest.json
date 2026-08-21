@@ -1,0 +1,25 @@
+{
+  "name": "Vetrivel TNPSC Admin",
+  "short_name": "VT Admin",
+  "description": "Vetrivel TNPSC Admin Panel — Question Bank Manager",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b1220",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "assets/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
