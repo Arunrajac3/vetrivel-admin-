@@ -495,6 +495,25 @@
     "active": true
   },
   {
+    "id": "0TB6ezbx0LQZGUC4RRMt",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உதிர்ந்து - உதிர்த்து’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "உதிர்ந்து = சருகுகள் விழுதல்; உதிர்த்து = பூக்களைப் பறித்தல்",
+      "உதிர்ந்து = பூக்களைப் பறித்தல்; உதிர்த்து = சருகுகள் விழுதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "உதிர்ந்து = தானாக உதிர்தல் (தன்வினை). உதிர்த்து = ஒருவர் உதிர்த்தல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "0TiH0yz1T6V4AJmj8zhD",
     "subject": "pyq",
     "class": "G2 / 2024",
@@ -587,6 +606,25 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "மதுரையில் அமைந்துள்ள அரசுப் பல்கலைக்கழகத்திற்கு காமராசரின் சிறப்பை ஓங்கும் வகையில் 'மதுரை காமராசர் பல்கலைக்கழகம்' எனப் பெயரிடப்பட்டது.",
+    "active": true
+  },
+  {
+    "id": "0a3BcNuF7BdOhxx9NQf3",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வீழ்ந்தது - வீழ்த்தியது’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "வீழ்ந்தது = அருவி வீழ்தல்; வீழ்த்தியது = பகையை அழித்தல்",
+      "வீழ்ந்தது = பகையை அழித்தல்; வீழ்த்தியது = அருவி வீழ்தல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "வீழ்ந்தது = தானாக வீழ்தல் (தன்வினை). வீழ்த்தியது = ஒருவர் தோற்கடித்தல் (பிறவினை).",
     "active": true
   },
   {
@@ -874,6 +912,25 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "ஜாதவ் பயேங் அசாம் மாநிலத்தவர்.",
+    "active": true
+  },
+  {
+    "id": "0r2T8bZIORzZdICy4Dwx",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "இரண்டு வினைச்சொற்களின் வேறுபாடு - அறிமுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வினைச்சொல் என்பதன் பொருள் என்ன?",
+    "options": [
+      "பெயரைக் குறிக்கும் சொல்",
+      "செயலைக் குறிக்கும் சொல்",
+      "இடையைக் குறிக்கும் சொல்",
+      "உரியைக் குறிக்கும் சொல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வினை என்னும் சொல்லுக்குச் செயல் என்பது பொருள். செயலைக் குறிக்கும் சொல் வினைச்சொல் எனப்படும்.",
     "active": true
   },
   {
@@ -3429,6 +3486,25 @@
     "active": true
   },
   {
+    "id": "2z0TS8M6wXcrMIvKNXZ8",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பெருகியது - பெருக்கியது’ ஆகியவற்றில் சரியான பயன்பாடு எது?",
+    "options": [
+      "வெள்ளம் பெருக்கியது; செல்வத்தை வளர்த்தான்",
+      "வெள்ளம் பெருகியது; செல்வத்தை வளர்த்தான்",
+      "இரண்டும் தவறு",
+      "இரண்டும் ஒரே பொருள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பெருகியது = தானாகப் பெருகுதல் (தன்வினை). பெருக்கியது = ஒருவர் பெருக்குதல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "30fAVNIzIdefCSeoyCNk",
     "subject": "eco",
     "class": "Economics",
@@ -3655,6 +3731,25 @@
     ],
     "correctAnswerIndex": 3,
     "explanation": "SDG 6 - சுத்தமான நீர், SDG 11 - நிலையான நகரங்கள், SDG 14 - நீர் வாழ் உயிரிகள், SDG 15 - நில வாழ் உயிரிகள்.",
+    "active": true
+  },
+  {
+    "id": "3ExmP6jUif8ctIcnduAQ",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "மாதிரி வினாக்கள் அடிப்படையிலானவை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சிரி’ மற்றும் ‘அழு’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "சிரி = சோகத்தை வெளிப்படுத்துவது; அழு = மகிழ்ச்சியை வெளிப்படுத்துவது",
+      "சிரி = மகிழ்ச்சியை வெளிப்படுத்துவது; அழு = சோகத்தை வெளிப்படுத்துவது",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "சிரி = மகிழ்ச்சியை வெளிப்படுத்துவது. அழு = சோகத்தை வெளிப்படுத்துவது.",
     "active": true
   },
   {
@@ -4173,6 +4268,25 @@
     "active": true
   },
   {
+    "id": "3i0z74vqhFiA9gb41oTl",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சரிந்து - சரித்து’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "சரிந்து = மரத்தைச் சாய்த்தல்; சரித்து = மண் சரிதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "சரிந்து = மண் சரிதல்; சரித்து = மரத்தைச் சாய்த்தல்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "சரிந்து = தானாக சரிதல் (தன்வினை). சரித்து = ஒருவர் சாய்த்தல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "3j12QhSCFd759ASTuQft",
     "subject": "polity",
     "class": "Polity",
@@ -4513,6 +4627,25 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "நிறுவப்பட்ட ஆண்டுகள்: பாரதிதாசன் பல்கலை. (1982), மனோன்மணியம் சுந்தரனார் பல்கலை. (1990), பெரியார் பல்கலை. (1997), திருவள்ளுவர் பல்கலை. (2002).",
+    "active": true
+  },
+  {
+    "id": "4CEhmDgER0aADGV4lK8K",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘குதித்தது - குதிக்கச்செய்தது’ ஆகியவற்றில் சரியான வாக்கியம் எது?",
+    "options": [
+      "குழந்தை குதிக்கச்செய்தது; குதிரையைத் தாண்டவைத்தான்",
+      "இரண்டும் தவறு",
+      "குழந்தை குதித்தது; குதிரையைத் தாண்டவைத்தான்",
+      "இரண்டும் சரி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "குதித்தது = தானாகக் குதித்தல் (தன்வினை). குதிக்கச்செய்தது = ஒருவர் தாண்டவைத்தல் (பிறவினை).",
     "active": true
   },
   {
@@ -5511,6 +5644,25 @@
     "active": true
   },
   {
+    "id": "58ynpg2VxbDsjh7PgaSY",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நிறைந்து - நிறைத்து’ ஆகியவற்றில் சரியான வாக்கியம் எது?",
+    "options": [
+      "குளம் நிறைத்து இருந்தது; குடத்தை நிறைந்தனர்",
+      "இரண்டும் தவறு",
+      "குளம் நிறைந்து இருந்தது; குடத்தை நிறைத்தனர்",
+      "இரண்டும் சரி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "நிறைந்து = தானாக நிறைதல் (தன்வினை). நிறைத்து = ஒருவர் நிரப்புதல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "59SqAj4e0DRG69mC6ddn",
     "subject": "tamil",
     "class": "6th Term 1",
@@ -6097,6 +6249,25 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "பாடநூல் அடிப்படையில் மூன்று கூற்றுகளும் சரியானவை.",
+    "active": true
+  },
+  {
+    "id": "5cBfpa2Ep1EEFrNDVayC",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கலந்தது - கலக்கியது’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "கலந்தது = குட்டையைச் சேறாக்குதல்; கலக்கியது = பால் கலத்தல்",
+      "கலந்தது = பால் கலத்தல்; கலக்கியது = குட்டையைச் சேறாக்குதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "கலந்தது = தானாகக் கலத்தல் (தன்வினை). கலக்கியது = ஒருவர் கலக்குதல் (பிறவினை).",
     "active": true
   },
   {
@@ -7012,6 +7183,25 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "பரணி இலக்கியம் போரின் வெற்றியைப் பாடுவதாகும்.",
+    "active": true
+  },
+  {
+    "id": "6NCDwPP4EktZIcapD7qw",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நிமிர்ந்து - நிமிர்த்தி’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "நிமிர்ந்து = நேராக நிற்றல்; நிமிர்த்தி = சாய்ந்ததைச் சரி செய்தல்",
+      "நிமிர்ந்து = சாய்ந்ததைச் சரி செய்தல்; நிமிர்த்தி = நேராக நிற்றல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நிமிர்ந்து = தானாக நிமிர்தல் (தன்வினை). நிமிர்த்தி = ஒருவர் நிமிர்த்துதல் (பிறவினை).",
     "active": true
   },
   {
@@ -8023,6 +8213,25 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "ஆசாமி என்னும் சொல் உருதுமொழிச் சொல் ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "7ELY9FI7JwFR8mNOW6Dw",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மறைந்து - மறைத்தது’ ஆகியவற்றில் சரியான பயன்பாடு எது?",
+    "options": [
+      "சூரியன் மறைத்த நேரத்தில் நான் பொருளை மறைந்தேன்",
+      "இரண்டும் தவறு",
+      "சூரியன் மறைந்த நேரத்தில் நான் பொருளை மறைத்து வைத்தேன்",
+      "இரண்டும் சரி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "மறைந்தது = தானாக மறைதல் (தன்வினை). மறைத்தது = ஒருவர் ஒளித்து வைத்தல் (பிறவினை).",
     "active": true
   },
   {
@@ -9603,6 +9812,25 @@
     ],
     "correctAnswerIndex": 0,
     "explanation": "கங்காதேவி தாம் எழுதிய 'மதுரா விஜயம்' என்ற நூலில் தமிழ்நாட்டை 'திராவிட தேசம்' என்றும், தமிழ் மன்னர்களை 'திரமிள ராஜாக்கள்' என்றும் குறிப்பிட்டுள்ளார்.",
+    "active": true
+  },
+  {
+    "id": "8jkhiZ6J7FJCrWku1bMV",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "மாதிரி வினாக்கள் அடிப்படையிலானவை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘படி’ மற்றும் ‘எழுது’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "படி = தகவல்களை உருவாக்கும்; எழுது = தகவல்களைப் பெறும்",
+      "படி = தகவல்களைப் பெறும்; எழுது = தகவல்களை உருவாக்கும்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "படி = தகவல்களைப் பெறும் செயலைக் குறிக்கும். எழுது = தகவல்களை உருவாக்கும் செயலைக் குறிக்கும்.",
     "active": true
   },
   {
@@ -12831,6 +13059,25 @@
     "active": true
   },
   {
+    "id": "BZe8cI6AAbEONGpdfN9L",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆடிக்கொண்டிருந்தது - ஆட்டிக்கொண்டிருந்தது’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "ஆடிக்கொண்டிருந்தது = தானாக ஆடுதல்; ஆட்டிக்கொண்டிருந்தது = ஒருவர் ஆட்டுதல்",
+      "ஆடிக்கொண்டிருந்தது = ஒருவர் ஆட்டுதல்; ஆட்டிக்கொண்டிருந்தது = தானாக ஆடுதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஆடிக்கொண்டிருந்தது = தானாக ஆடுதல் (தன்வினை). ஆட்டிக்கொண்டிருந்தது = ஒருவர் ஆட்டுதல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "Bb11cXFKzeHRR575WTIO",
     "subject": "history",
     "class": "History",
@@ -13097,6 +13344,25 @@
     "active": true
   },
   {
+    "id": "BroJJdRTSdA0B0FWeJwb",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சுழன்று - சுழற்றி’ ஆகியவற்றில் சரியான பயன்பாடு எது?",
+    "options": [
+      "காற்று சுழற்றி வீசியது; கயிற்றைச் சுழன்றான்",
+      "காற்று சுழன்று வீசியது; கயிற்றைச் சுழற்றினான்",
+      "இரண்டும் தவறு",
+      "இரண்டும் ஒரே பொருள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "சுழன்று = தானாக சுழலுதல் (தன்வினை). சுழற்றி = ஒருவர் சுழற்றுதல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "BsEPDZfMuaZlHnGWJeh8",
     "subject": "tamil",
     "class": "8th இயல் 7 to 9",
@@ -13151,6 +13417,25 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "புத்தகத்தின் விடைகளின்படி சரியான விடை: மனிதவளங்கள்.",
+    "active": true
+  },
+  {
+    "id": "Bx5mdTOijL5NwUJhIRbW",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மாறியது - மாற்றியது’ ஆகியவற்றில் சரியான வாக்கியம் எது?",
+    "options": [
+      "காலம் மாற்றியது; திசையைத் திருப்பினான்",
+      "இரண்டும் தவறு",
+      "காலம் மாறியது; திசையைத் திருப்பினான்",
+      "இரண்டும் சரி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "மாறியது = தானாக மாறுதல் (தன்வினை). மாற்றியது = ஒருவர் மாற்றுதல் (பிறவினை).",
     "active": true
   },
   {
@@ -13209,6 +13494,25 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "இந்திய அரசியலமைப்புச் சட்டப்பிரிவு 155-ன் படி, மாநில ஆளுநரைக் குடியரசுத் தலைவர் நியமனம் செய்கிறார்.",
+    "active": true
+  },
+  {
+    "id": "C0DVq3JYKVgavs9adrL9",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அசைந்தது - அசைத்தது’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "அசைந்தது = கிளை அசைதல்; அசைத்தது = வாலை ஆட்டுதல்",
+      "அசைந்தது = வாலை ஆட்டுதல்; அசைத்தது = கிளை அசைதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அசைந்தது = தானாக அசைதல் (தன்வினை). அசைத்தது = ஒருவர் அசைத்தல் (பிறவினை).",
     "active": true
   },
   {
@@ -13380,6 +13684,25 @@
     ],
     "correctAnswerIndex": 3,
     "explanation": "கொடுக்கப்பட்டுள்ள மூன்று கூற்றுகளும் திருக்குறளின் கருத்துகளின்படி சரியானவை ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "CD41PXBqa4uPhKkQBzZ3",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தீர்ந்து - தீர்த்து’ ஆகியவற்றின் சரியான பயன்பாடு எது?",
+    "options": [
+      "பொருள் தீர்த்து போனது; சிக்கலைத் தீர்ந்தான்",
+      "பொருள் தீர்ந்து போனது; சிக்கலைத் தீர்த்தான்",
+      "இரண்டும் தவறு",
+      "இரண்டும் ஒரே பொருள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "தீர்ந்து = பொருள் தானாகத் தீர்தல் (தன்வினை). தீர்த்து = சிக்கலைத் தீர்த்தல் (பிறவினை).",
     "active": true
   },
   {
@@ -13646,6 +13969,25 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "அகர வரிசையில் அறிவியல் சிந்தனைகளைத் தூண்டும் வகையில் 'அறிவியல் ஆத்திச்சூடி' எழுதியவர் நெல்லை சு.முத்து.",
+    "active": true
+  },
+  {
+    "id": "CQijzG1gn1zdfIESvcjK",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘குவிந்து - குவித்து’ ஆகியவற்றில் ‘குவித்து’ என்பது எவ்வகை வினை?",
+    "options": [
+      "தன்வினை",
+      "பிறவினை",
+      "இடைவினை",
+      "உரிவினை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "குவித்து என்பது பிறவினை. ஒரு நபர் அல்லது காரணி ஒரு பொருளை ஒரிடத்தில் ஒன்று சேர்ப்பதைக் குறிக்கும்.",
     "active": true
   },
   {
@@ -14883,6 +15225,25 @@
     ],
     "correctAnswerIndex": 0,
     "explanation": "வெண்பாவிற்குத் திருக்குறளும், ஆசிரியப்பாவிற்குச் சிலப்பதிகாரமும், கலிப்பாவிற்குப் கலித்தொகையும் சிறந்த சான்றுகளாகும்.",
+    "active": true
+  },
+  {
+    "id": "DPboK4jtRfNigVbuWF2t",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மலர்ந்து - மலர்த்தி’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "மலர்ந்து = பூ மலர்தல்; மலர்த்தி = முகத்தைப் பொலிவாக்குதல்",
+      "மலர்ந்து = முகத்தைப் பொலிவாக்குதல்; மலர்த்தி = பூ மலர்தல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மலர்ந்து = தானாக மலர்தல் (தன்வினை). மலர்த்தி = ஒருவர் மலர்த்துதல் (பிறவினை).",
     "active": true
   },
   {
@@ -16489,6 +16850,25 @@
     "active": true
   },
   {
+    "id": "EnBk7PQQqM8fUiQuxWDe",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உணர்ந்து - உணர்த்தி’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "உணர்ந்து = பாடம் கற்பித்தல்; உணர்த்தி = உண்மையை அறிதல்",
+      "உணர்ந்து = உண்மையை அறிதல்; உணர்த்தி = பாடம் கற்பித்தல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "உணர்ந்து = தானாக உணர்தல் (தன்வினை). உணர்த்தி = ஒருவர் உணர்த்துதல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "EoBlfmafLNNE1jocd6E4",
     "subject": "tamil",
     "class": "7th tamil term 1",
@@ -16871,6 +17251,25 @@
     "active": true
   },
   {
+    "id": "FDY3EM5b1rCJOBhO7KEh",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘துங்கியது - துங்கவைத்தது’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "துங்கியது = தாலாட்டுப் பாடுதல்; துங்கவைத்தது = யானை துங்குதல்",
+      "துங்கியது = யானை துங்குதல்; துங்கவைத்தது = தாலாட்டுப் பாடுதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "துங்கியது = தானாகத் துங்குதல் (தன்வினை). துங்கவைத்தது = ஒருவர் துங்கச் செய்தல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "FEN4yPobKjklKWuoPJPm",
     "subject": "tamil",
     "class": "6th Term 3",
@@ -16925,6 +17324,25 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "புவியியல் பரப்பளவின் சரியான ஏறுவரிசை: Personal Area Network (PAN) < Local Area Network (LAN) < Metropolitan Area Network (MAN) < Wide Area Network (WAN).",
+    "active": true
+  },
+  {
+    "id": "FMBc3PhChgH3ZYKJWlwI",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கிழிந்தது - கிழித்தது’ ஆகியவற்றில் சரியான வாக்கியம் எது?",
+    "options": [
+      "துணி கிழித்தது; காகிதத்தை உருக்குலைத்தான்",
+      "இரண்டும் தவறு",
+      "துணி கிழிந்தது; காகிதத்தை உருக்குலைத்தான்",
+      "இரண்டும் சரி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "கிழிந்தது = தானாக கிழிதல் (தன்வினை). கிழித்தது = ஒருவர் கிழித்தல் (பிறவினை).",
     "active": true
   },
   {
@@ -17381,6 +17799,25 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "ஏழாம் ஐந்தாண்டுத் திட்டம் தனியார் துறையின் பங்கேற்பை பொருளாதார வளர்ச்சியில் அங்கீகரித்தது। இலக்கை 5% ஆக வைத்தாலும் 6% வளர்ச்சி அடைந்தது, சந்தை சார்ந்த கொள்கைக்கான மாற்றத்தைக் குறிக்கிறது।",
+    "active": true
+  },
+  {
+    "id": "FrBGqp7qSPr9jybkZHLX",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மடிந்தது - மடித்தது’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "மடிந்தது = உயிர்நீத்தல் / துணி மடிதல்; மடித்தது = ஒருவர் சுருட்டுதல்",
+      "மடிந்தது = காகிதத்தைச் சுருட்டுதல்; மடித்தது = உயிர்நீத்தல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மடிந்தது = தானாக மடிதல் (தன்வினை). மடித்தது = ஒருவர் மடித்தல் (பிறவினை).",
     "active": true
   },
   {
@@ -17936,6 +18373,25 @@
     "active": true
   },
   {
+    "id": "GPGE2R1PxDjwPu47Vi1w",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘புரிந்து - புரியவைத்து’ ஆகியவற்றில் சரியான வாக்கியம் எது?",
+    "options": [
+      "கருத்தைப் புரியவைத்து கொண்டான்; விளக்கம் அளித்தான்",
+      "இரண்டும் தவறு",
+      "கருத்தைப் புரிந்து கொண்டான்; விளக்கம் அளித்தான்",
+      "இரண்டும் சரி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "புரிந்து = தானாகப் புரிதல் (தன்வினை). புரியவைத்து = ஒருவர் விளக்கம் அளித்தல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "GPW0AVIalxjCBiUdOMjd",
     "subject": "pyq",
     "class": "G2 / 2025",
@@ -18370,6 +18826,25 @@
     ],
     "correctAnswerIndex": 2,
     "explanation": "பத்துப்பாட்டு - இயற்கை வாழ்வில்லம்[span_99](start_span)[span_99](end_span).",
+    "active": true
+  },
+  {
+    "id": "GgOBvhwwmHa6zhmCrkKW",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "முந்தைய ஆண்டு வினா அடிப்படையிலானவை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“குவிந்து - குவித்து” ஆகிய வினைச்சொற்களின் பொருள் வேறுபாடு அறிந்து சரியான வாக்கியத்தைத் தேர்க:",
+    "options": [
+      "தானியம் குவித்து கிடந்தது",
+      "வேலன் குப்பைகளைக் குவிந்து எரித்தான்",
+      "தானியம் தரையில் குவிந்து கிடந்தது; உழவன் தானியத்தைக் குவித்து வைத்தான்",
+      "இவை இரண்டும் ஒரே பொருளைத் தரும்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "குவிந்து = தன்வினை (தானாகக் குவிதல்). குவித்து = பிறவினை (ஒருவர் குவித்தல்). C மட்டும் சரியான பயன்பாடு.",
     "active": true
   },
   {
@@ -20015,6 +20490,25 @@
     "active": true
   },
   {
+    "id": "Ic2Hvik1fCVG7SR0njC8",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இயங்கி - இயக்கி’ ஆகியவற்றில் சரியான பயன்பாடு எது?",
+    "options": [
+      "இயந்திரம் இயக்கி ஒடியது; வாகனம் ஒட்டினான்",
+      "இயந்திரம் இயங்கி ஒடியது; வாகனம் ஒட்டினான்",
+      "இரண்டும் தவறு",
+      "இரண்டும் ஒரே பொருள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இயங்கி = தானாக இயங்குதல் (தன்வினை). இயக்கி = ஒருவர் இயக்குதல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "Ie4Sp7yBOMNBsE7cxhzX",
     "subject": "polity",
     "class": "Polity",
@@ -20621,6 +21115,25 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "பிரிவு 15, மதம், இனம், சாதி, பாலினம், பிறப்பிடம் ஆகியவற்றின் அடிப்படையில் பாகுபாடு காட்டுவதைத் தடை செய்கிறது.",
+    "active": true
+  },
+  {
+    "id": "JF6lejMdm3R8Zyi3d7W7",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "மாதிரி வினாக்கள் அடிப்படையிலானவை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஓடு’ மற்றும் ‘நட’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "ஓடு = மெதுவாக நகரும்; நட = வேகமாக நகரும்",
+      "ஓடு = வேகமாக நகரும்; நட = மெதுவாக நகரும்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஓடு = வேகமாக நகரும் செயலைக் குறிக்கும். நட = மெதுவாக நகரும் செயலைக் குறிக்கும்.",
     "active": true
   },
   {
@@ -22279,6 +22792,25 @@
     "active": true
   },
   {
+    "id": "KswURpPdFVTvls1X121e",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கலைத்தல் - களைத்தல்’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "கலைத்தல் = அழித்தல்; களைத்தல் = சோர்தல்",
+      "கலைத்தல் = சோர்தல்; களைத்தல் = அழித்தல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கலைத்தல் = அழித்தல். களைத்தல் = சோர்தல்.",
+    "active": true
+  },
+  {
     "id": "KtdGNsSrolbZAvSyZpnX",
     "subject": "tamil",
     "class": "6th Term 2",
@@ -22447,6 +22979,25 @@
     ],
     "correctAnswerIndex": 0,
     "explanation": "திசையைக் காட்டும் விளக்காகச் செயல்பட்டது.",
+    "active": true
+  },
+  {
+    "id": "L6PTDKcqAuBWHLj5gcVU",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தெளிந்தது - தெளித்தது’ ஆகியவற்றில் சரியான பயன்பாடு எது?",
+    "options": [
+      "நீர் தெளித்தது; நீரைச் சிந்தினான்",
+      "நீர் தெளிந்தது; நீரைச் சிந்தினான்",
+      "இரண்டும் தவறு",
+      "இரண்டும் ஒரே பொருள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "தெளிந்தது = தானாகத் தெளிதல் (தன்வினை). தெளித்தது = ஒருவர் தெளித்தல் (பிறவினை).",
     "active": true
   },
   {
@@ -23707,6 +24258,25 @@
     "active": true
   },
   {
+    "id": "M6V0PrdFt4CBcSo3sCPY",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘விரிந்தது - விரித்தது’ ஆகியவற்றில் சரியான வாக்கியம் எது?",
+    "options": [
+      "மயில் தோகையை விரிந்தது",
+      "பூவின் இதழ்கள் விரித்தன",
+      "இரண்டும் ஒரே பொருள்",
+      "மழைக்காற்று வீசியதால் பூவின் இதழ்கள் விரிந்தன; மயில் தோகையை விரித்தது"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "விரிந்தது = தானாக விரிதல் (தன்வினை). விரித்தது = ஒருவர் விரித்தல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "M6iUZlPXuAnCE4whXNg5",
     "subject": "history",
     "class": "History",
@@ -24829,6 +25399,25 @@
     "active": true
   },
   {
+    "id": "N0KSuaU52w3QHH0VMVEz",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘எழுந்து - எழுப்பி’ ஆகியவற்றில் சரியான பயன்பாடு எது?",
+    "options": [
+      "உறக்கம் எழுப்பி நீங்கியது; மற்றவரை எழுந்தான்",
+      "உறக்கம் எழுந்து நீங்கியது; மற்றவரை எழுப்பினான்",
+      "இரண்டும் தவறு",
+      "இரண்டும் ஒரே பொருள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "எழுந்து = தானாக எழுதல் (தன்வினை). எழுப்பி = ஒருவர் எழுப்புதல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "N2K5YNqzd6UCLYzqoFEo",
     "subject": "eco",
     "class": "Economics",
@@ -24998,6 +25587,25 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "அரிஸ்டாட்டிலின் பகுப்பாய்வுப்படி சிலர் நடத்தும் பொதுநல ஆட்சி 'பிரபுக்கள் ஆட்சி', அதன் சிதைந்த வடிவம் 'சிறுகுழு ஆட்சி' (Oligarchy) ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "NBzzC2xP3t55VYvD0FTF",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "மேலும் சில வேறுபாடுகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பரி - பறி’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "பரி = இரங்கு; பறி = அபகரி",
+      "பரி = அபகரி; பறி = இரங்கு",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பரி = இரங்கு. பறி = அபகரி.",
     "active": true
   },
   {
@@ -25514,6 +26122,25 @@
     "active": true
   },
   {
+    "id": "Ni2dVCvD9D52ShbQE4lr",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "மாதிரி வினாக்கள் அடிப்படையிலானவை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பார்’ மற்றும் ‘கேள்’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "பார் = காதுகளால் கேட்பதைக் குறிக்கும்; கேள் = கண்களால் காண்பதைக் குறிக்கும்",
+      "பார் = கண்களால் காண்பதைக் குறிக்கும்; கேள் = காதுகளால் கேட்பதைக் குறிக்கும்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பார் = கண்களால் காண்பதைக் குறிக்கும். கேள் = காதுகளால் கேட்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
     "id": "NiPUKRGqv0NwUhmV1haQ",
     "subject": "history",
     "class": "History",
@@ -25969,6 +26596,25 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "முத்து மாலைகள் தொங்கவிடப்பட்டிருந்த ஓவியக் கூடம் பற்றிய இவ்வடிகள் சிலப்பதிகாரத்தில் (மனையறம் படுத்த காதை) இடம்பெற்றுள்ளன.",
+    "active": true
+  },
+  {
+    "id": "OHgolXsFGVHApPtNX406",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மிரண்டது - மிரட்டியது’ ஆகியவற்றில் சரியான பயன்பாடு எது?",
+    "options": [
+      "குதிரை மிரட்டியது; ஒருவரைப் பயமுறுத்தினான்",
+      "குதிரை மிரண்டது; ஒருவரைப் பயமுறுத்தினான்",
+      "இரண்டும் தவறு",
+      "இரண்டும் ஒரே பொருள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மிரண்டது = தானாக மிரளுதல் (தன்வினை). மிரட்டியது = ஒருவர் பயமுறுத்துதல் (பிறவினை).",
     "active": true
   },
   {
@@ -26884,6 +27530,25 @@
     ],
     "correctAnswerIndex": 2,
     "explanation": "NA",
+    "active": true
+  },
+  {
+    "id": "PAFUvG8edOL4UH2NwC90",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆறியது - ஆற்றியது’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "ஆறியது = உதவி செய்தல்; ஆற்றியது = புண் ஆறுதல்",
+      "ஆறியது = புண் ஆறுதல்; ஆற்றியது = உதவி செய்தல் / பசி ஆற்றுதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஆறியது = தானாக ஆறுதல் (தன்வினை). ஆற்றியது = ஒருவர் உதவி செய்தல் (பிறவினை).",
     "active": true
   },
   {
@@ -28583,6 +29248,25 @@
     "active": true
   },
   {
+    "id": "QntkYTZNIWDRzN7Rs9oM",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘விலை - விளை’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "விலை = பொருளின் மதிப்பு; விளை = உண்டாக்குதல்",
+      "விலை = உண்டாக்குதல்; விளை = பொருளின் மதிப்பு",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "விலை = பொருளின் மதிப்பு. விளை = உண்டாக்குதல்.",
+    "active": true
+  },
+  {
     "id": "QoYwqdVSfLiGuHjETXPc",
     "subject": "polity",
     "class": "Polity",
@@ -28773,6 +29457,25 @@
     "active": true
   },
   {
+    "id": "R2uSF0p8NP0Of74EQsqb",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஒளிந்து - ஒளித்து’ ஆகியவற்றில் ‘ஒளிந்து’ என்பதன் பொருள் என்ன?",
+    "options": [
+      "பொருளை மறைத்தல்",
+      "ஒருவர் ஒளித்தல்",
+      "பயந்து ஒளிதல்",
+      "பொருளைப் புதைத்தல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஒளிந்து = பயந்து தானாக ஒளிதல் (தன்வினை). ஒளித்து = பொருளை மறைத்தல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "R4MGG0OsvyV2BaNroJAc",
     "subject": "pyq",
     "class": "G4/2024",
@@ -28846,6 +29549,25 @@
     ],
     "correctAnswerIndex": 3,
     "explanation": "புரட்சிக் கவிஞர் என்பது பாரதிதாசனின் சிறப்புப் பெயர். பெருந்தலைவர், கருப்பு காந்தி, படிக்காத மேதை, கர்மவீரர் ஆகியவை காமராசரின் சிறப்புப் பெயர்கள்.",
+    "active": true
+  },
+  {
+    "id": "R56ci8hxZTbfauhs5SHu",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கழிந்தது - கழித்தது’ ஆகியவற்றில் சரியான பயன்பாடு எது?",
+    "options": [
+      "காலம் கழித்தது; பழையவற்றை நீக்கினான்",
+      "காலம் கழிந்தது; பழையவற்றை நீக்கினான்",
+      "இரண்டும் தவறு",
+      "இரண்டும் ஒரே பொருள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "கழிந்தது = தானாகக் கழிதல் (தன்வினை). கழித்தது = ஒருவர் நீக்குதல் (பிறவினை).",
     "active": true
   },
   {
@@ -29876,6 +30598,25 @@
     "active": true
   },
   {
+    "id": "S2vJbc54SnEgfT5ynNwr",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நீந்தியது - நீந்தச்செய்தது’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "நீந்தியது = நீச்சல் பழகுதல்; நீந்தச்செய்தது = மீன் நீந்துதல்",
+      "நீந்தியது = மீன் நீந்துதல்; நீந்தச்செய்தது = நீச்சல் பழகுதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "நீந்தியது = தானாக நீந்துதல் (தன்வினை). நீந்தச்செய்தது = ஒருவர் பழகுதல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "S3i7ICkrOsNUOkVtCL9j",
     "subject": "history",
     "class": "History",
@@ -30123,6 +30864,25 @@
     "active": true
   },
   {
+    "id": "SD6HvRfU0nZsCYDLUO7F",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘காய்ந்தது - காயவைத்தது’ ஆகியவற்றில் சரியான வாக்கியம் எது?",
+    "options": [
+      "வெயிலில் காயவைத்தது; துணியை உலரவைத்தான்",
+      "இரண்டும் தவறு",
+      "வெயிலில் காய்ந்தது; துணியை உலரவைத்தான்",
+      "இரண்டும் சரி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "காய்ந்தது = தானாக காய்வது (தன்வினை). காயவைத்தது = ஒருவர் உலரவைத்தல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "SDSUNx86ynHQetvkATiV",
     "subject": "tamil",
     "class": "7th tamil term 2",
@@ -30215,6 +30975,25 @@
     ],
     "correctAnswerIndex": 3,
     "explanation": "இயேசு கிறிஸ்துவின் வளர்ப்புத் தந்தையான புனித யோவான் எனப்படும் சூசை மாமுனிவரை (வளனார்) பாட்டுடைத் தலைவனாகக் கொண்டு தேம்பாவணி பாடப்பட்டுள்ளது.",
+    "active": true
+  },
+  {
+    "id": "SLi3aRChkpUckKzIhicI",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘விளித்து - விழித்து’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "விளித்து = கண் விழித்தல்; விழித்து = அழைத்தல்",
+      "விளித்து = அழைத்தல்; விழித்து = கண் விழித்தல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "விளித்து = அழைத்தல். விழித்து = கண் விழித்தல்.",
     "active": true
   },
   {
@@ -31035,6 +31814,25 @@
     "active": true
   },
   {
+    "id": "T6FqYgOLX6b8iAlN64HK",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உறங்கி - உறங்கவைத்து’ ஆகியவற்றில் சரியான பயன்பாடு எது?",
+    "options": [
+      "குழந்தையை உறங்கி வைத்தான்; தானாக உறங்கவைத்தான்",
+      "தானாக உறங்கினான்; குழந்தையை உறங்கவைத்தான்",
+      "இரண்டும் தவறு",
+      "இரண்டும் ஒரே பொருள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "உறங்கி = தானாகத் துங்குதல் (தன்வினை). உறங்கவைத்து = ஒருவர் உறங்கச் செய்தல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "T6kkZME0RdK6CZ7RxjEs",
     "subject": "pyq",
     "class": "G4/2024",
@@ -31718,6 +32516,25 @@
     "active": true
   },
   {
+    "id": "TZdOqn66TtRzDtZhgjYm",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கரைந்து - கரைத்து’ ஆகியவற்றில் சரியான வாக்கியம் எது?",
+    "options": [
+      "உப்பு கரைத்து போனது; மாவைத் துளாங்கி கலந்தனர்",
+      "உப்பு கரைந்து போனது; மாவைத் துளாங்கி கலக்கினர்",
+      "இரண்டும் தவறு",
+      "இரண்டும் சரி"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "கரைந்து = தானாக கரைதல் (தன்வினை). கரைத்து = ஒருவர் கரைத்தல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "TaqBEsav3hpV35oox20O",
     "subject": "tamil",
     "class": "8th இயல் 1 to 3",
@@ -32326,6 +33143,25 @@
     ],
     "correctAnswerIndex": 0,
     "explanation": "நீதிபதி கே.ஜி. பாலகிருஷ்ணன் 2007இல் பட்டியலினத்தை சேர்ந்த முதல் தலைமை நீதிபதியாக உயர்ந்தார்.",
+    "active": true
+  },
+  {
+    "id": "U3qzcUwOK2qUSIYtx57B",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "மேலும் சில வேறுபாடுகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இரத்தல் - இறத்தல்’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "இரத்தல் = கையேந்துதல்; இறத்தல் = மரணம்",
+      "இரத்தல் = மரணம்; இறத்தல் = கையேந்துதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "இரத்தல் = கையேந்துதல். இறத்தல் = மரணம்.",
     "active": true
   },
   {
@@ -33740,6 +34576,25 @@
     "active": true
   },
   {
+    "id": "VCC67myBA2kWXZw9ToFf",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "மேலும் சில வேறுபாடுகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இரங்கு - இறங்கு’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "இரங்கு = கருணை காட்டு; இறங்கு = கீழே வா",
+      "இரங்கு = கீழே வா; இறங்கு = கருணை காட்டு",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "இரங்கு = கருணை காட்டு. இறங்கு = கீழே வா.",
+    "active": true
+  },
+  {
     "id": "VEFUGkLuHfDMjzLGAnZf",
     "subject": "tamil",
     "class": "8th இயல் 4 to 6",
@@ -33756,6 +34611,25 @@
     ],
     "correctAnswerIndex": 2,
     "explanation": "தேவாரம், திருவாசகம் இயற்கைத் தவம்[span_23](start_span)[span_23](end_span).",
+    "active": true
+  },
+  {
+    "id": "VFunjQR4TsibemM99QQX",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வளைந்து - வளைத்து’ ஆகியவற்றில் சரியான பயன்பாடு எது?",
+    "options": [
+      "வில் வளைத்து இருந்தது; இரும்பை வளைந்தான்",
+      "வில் வளைந்து இருந்தது; இரும்பை வளைத்தான்",
+      "இரண்டும் தவறு",
+      "இரண்டும் ஒரே பொருள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வளைந்து = தானாக வளைதல் (தன்வினை). வளைத்து = ஒருவர் வளைத்தல் (பிறவினை).",
     "active": true
   },
   {
@@ -34062,6 +34936,25 @@
     ],
     "correctAnswerIndex": 3,
     "explanation": "இந்தியாவின் செவ்வாய் சுற்றுகலன் திட்டத்தின் (மங்கள்யான்) திட்ட இயக்குநரான அருணன் சுப்பையா குறித்த அனைத்துக் கூற்றுகளும் சரியானவை.",
+    "active": true
+  },
+  {
+    "id": "VV8EdURgttZxjrBxtn98",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "மேலும் சில வேறுபாடுகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அடக்கு - அடங்கு’ ஆகியவற்றில் சரியான பயன்பாடு எது?",
+    "options": [
+      "ஆசிரியர் அடங்க, மாணவர்கள் அடக்கினர்",
+      "ஆசிரியர் அடக்க, மாணவர்கள் அடங்கினர்",
+      "இரண்டும் தவறு",
+      "இரண்டும் சரி"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அடக்கு = ஒருவர் அடக்குதல் (பிறவினை). அடங்கு = தானாக அடங்குதல் (தன்வினை).",
     "active": true
   },
   {
@@ -35302,6 +36195,25 @@
     "active": true
   },
   {
+    "id": "WUSLt2J3XKXPW3xqQDpc",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கவிழ்ந்தது - கவிழ்த்தது’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "கவிழ்ந்தது = படகுகள் கவிழ்தல்; கவிழ்த்தது = எதிரி கப்பலை மூழ்கடித்தல்",
+      "கவிழ்ந்தது = எதிரி கப்பலை மூழ்கடித்தல்; கவிழ்த்தது = படகுகள் கவிழ்தல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கவிழ்ந்தது = தானாகக் கவிழ்தல் (தன்வினை). கவிழ்த்தது = ஒருவர் மூழ்கடித்தல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "WUcWtPHpckTSwdz2vIaF",
     "subject": "tamil",
     "class": "7th tamil term 1",
@@ -36102,6 +37014,25 @@
     "active": true
   },
   {
+    "id": "XTqtmuQzgKV0K8K13qbS",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அமைந்தது - அமைத்தது’ ஆகியவற்றில் சரியான வாக்கியம் எது?",
+    "options": [
+      "வாழ்க்கை அமைத்தது; வீடு கட்டினான்",
+      "இரண்டும் தவறு",
+      "வாழ்க்கை அமைந்தது; வீடு கட்டினான்",
+      "இரண்டும் சரி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அமைந்தது = தானாக அமைதல் (தன்வினை). அமைத்தது = ஒருவர் அமைத்தல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "XTsSYJTUb9zThXsFxb6K",
     "subject": "tamil",
     "class": "9th இயல் 4 to 6",
@@ -36426,6 +37357,25 @@
     "active": true
   },
   {
+    "id": "XkznEx5KSYRfQEKhPFTV",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "மேலும் சில வேறுபாடுகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சீரிய - சீறிய’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "சீரிய = பெருமை பெற்ற; சீறிய = கோபம் கொண்ட",
+      "சீரிய = கோபம் கொண்ட; சீறிய = பெருமை பெற்ற",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "சீரிய = பெருமை பெற்ற. சீறிய = கோபம் கொண்ட.",
+    "active": true
+  },
+  {
     "id": "XlLC5WJ3mv31SYm4bJcI",
     "subject": "history",
     "class": "History",
@@ -36594,6 +37544,44 @@
     ],
     "correctAnswerIndex": 0,
     "explanation": "ஸ்டார்ட்அப் நிறுவனங்களுக்கான 3 ஆண்டு வரிச்சலுகை நிதிச் சட்டம் 2016-ன் மூலம் அறிமுகப்படுத்தப்பட்டது.",
+    "active": true
+  },
+  {
+    "id": "XwEKNHx9qOz0oJ8IifPG",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மிதந்து - மிதக்கவிட்டு’ ஆகியவற்றில் சரியான பயன்பாடு எது?",
+    "options": [
+      "நீரில் மிதக்கவிட்டு; படகைப் பயணம் செய்யவைத்தான்",
+      "நீரில் மிதந்து; படகைப் பயணம் செய்யவைத்தான்",
+      "இரண்டும் தவறு",
+      "இரண்டும் ஒரே பொருள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மிதந்து = தானாக மிதத்தல் (தன்வினை). மிதக்கவிட்டு = ஒருவர் மிதக்கவைத்தல் (பிறவினை).",
+    "active": true
+  },
+  {
+    "id": "XxVOrasrHP6wvZz5yOnz",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தேய்ந்து - தேய்த்து’ ஆகியவற்றில் சரியான வாக்கியம் எது?",
+    "options": [
+      "கல் தேய்த்து; துணி துவைத்தான்",
+      "இரண்டும் தவறு",
+      "கல் தேய்ந்து; துணி துவைத்தான்",
+      "இரண்டும் சரி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "தேய்ந்து = தானாகத் தேய்தல் (தன்வினை). தேய்த்து = ஒருவர் தேய்த்தல் (பிறவினை).",
     "active": true
   },
   {
@@ -37013,6 +38001,25 @@
     ],
     "correctAnswerIndex": 2,
     "explanation": "பாய்ச்சுக பணவெட்டம் விலை 20% க்கு மேலாக வேகமாக உயர்ந்துவிடும் நிலை, இது பொருளாதாரத்திற்கு மிகப் பெரிய அபாயகரமாக உள்ளது.",
+    "active": true
+  },
+  {
+    "id": "YMYp5WfYcHAbO5NY3Yqb",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தங்கி - தங்கவைத்து’ ஆகியவற்றில் சரியான வாக்கியம் எது?",
+    "options": [
+      "ஒரிடத்தில் தங்கவைத்து இருந்தான்; விருந்தினரை உபசரித்தான்",
+      "ஒரிடத்தில் தங்கி இருந்தான்; விருந்தினரை உபசரித்தான்",
+      "இரண்டும் தவறு",
+      "இரண்டும் சரி"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "தங்கி = தானாக இருத்தல் (தன்வினை). தங்கவைத்து = ஒருவர் தங்கவைத்தல் (பிறவினை).",
     "active": true
   },
   {
@@ -37492,6 +38499,25 @@
     "active": true
   },
   {
+    "id": "YnqNxi7NnaNJfFEB4eVg",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வளர்ந்து - வளர்த்து’ ஆகியவற்றில் சரியான பயன்பாடு எது?",
+    "options": [
+      "செடி வளர்த்து வந்தது; குழந்தையை வளர்ந்தான்",
+      "இரண்டும் தவறு",
+      "செடி வளர்ந்து வந்தது; குழந்தையை வளர்த்தான்",
+      "இரண்டும் ஒரே பொருள்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "வளர்ந்து = தானாக வளர்தல் (தன்வினை). வளர்த்து = ஒருவர் வளர்த்தல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "YoNFNxTYsHFyDUEIbTR5",
     "subject": "eco",
     "class": "Economics",
@@ -37527,6 +38553,25 @@
     ],
     "correctAnswerIndex": 0,
     "explanation": "சரியான உவமைப் பொருள்: (a) அலை ஓய்ந்த கடல் போல் - அமைதி (3), (b) அடியற்ற மரம் போல் - கீழே வீழ்தல் (4), (c) மத்தில் அகப்பட்ட தயிர்போல் - மனம் அலைபாய்ந்து உடைதல்/தவித்தல் (2), (d) புயலில் சிக்கிய பூங்கொடிபோல் - அச்சத்தால் நடுங்குதல் (1). எனவே 3,4,2,1 என்பது சரி.",
+    "active": true
+  },
+  {
+    "id": "Yovp3IrjC5V03SZzhb8N",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சுருங்கி - சுருக்கி’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "சுருங்கி = துணி சுருங்குதல்; சுருக்கி = பேச்சைக் குறைத்தல்",
+      "சுருங்கி = பேச்சைக் குறைத்தல்; சுருக்கி = துணி சுருங்குதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "சுருங்கி = தானாக சுருங்குதல் (தன்வினை). சுருக்கி = ஒருவர் சுருக்குதல் (பிறவினை).",
     "active": true
   },
   {
@@ -38650,6 +39695,25 @@
     ],
     "correctAnswerIndex": 0,
     "explanation": "ராஜஸ்தான் மாநிலத்தில் உள்ள பத்லா சூரிய மின்சக்தி பூங்கா (Bhadla Solar Park) உலகின் மிகப்பெரிய சூரிய மின்சக்தி திட்டங்களில் ஒன்றாகும்.",
+    "active": true
+  },
+  {
+    "id": "a1rRVJbkefxSfCMc7eBM",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மகிழ்ந்தது - மகிழ்வித்தது’ ஆகியவற்றில் சரியான பயன்பாடு எது?",
+    "options": [
+      "நாடு மகிழ்வித்தது; பரிசு தந்து சந்தோஷப்படுத்தினான்",
+      "நாடு மகிழ்ந்தது; பரிசு தந்து சந்தோஷப்படுத்தினான்",
+      "இரண்டும் தவறு",
+      "இரண்டும் ஒரே பொருள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மகிழ்ந்தது = தானாக மகிழ்தல் (தன்வினை). மகிழ்வித்தது = ஒருவர் மகிழ்வித்தல் (பிறவினை).",
     "active": true
   },
   {
@@ -39895,6 +40959,25 @@
     "active": true
   },
   {
+    "id": "b3BSa9714LpXwshrVxdO",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நகர்ந்து - நகர்த்தி’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "நகர்ந்து = இடம் மாறுதல்; நகர்த்தி = பொருளைத் தள்ளுதல்",
+      "நகர்ந்து = பொருளைத் தள்ளுதல்; நகர்த்தி = இடம் மாறுதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நகர்ந்து = தானாக நகர்தல் (தன்வினை). நகர்த்தி = ஒருவர் நகர்த்துதல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "b3PCthrS8YO1w50T92hF",
     "subject": "tamil",
     "class": "10th இயல் 1 to 3",
@@ -40292,6 +41375,25 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "NA",
+    "active": true
+  },
+  {
+    "id": "bKD6R6MRwfulzxSRzRUI",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘எரிந்து - எரித்து’ ஆகியவற்றில் சரியான வாக்கியம் எது?",
+    "options": [
+      "தீ எரித்து கொண்டிருந்தது; குப்பையை எரிந்தான்",
+      "இரண்டும் தவறு",
+      "தீ எரிந்து கொண்டிருந்தது; குப்பையை எரித்தான்",
+      "இரண்டும் சரி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "எரிந்து = தானாக எரிதல் (தன்வினை). எரித்து = ஒருவர் எரித்தல் (பிறவினை).",
     "active": true
   },
   {
@@ -40903,6 +42005,25 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "NALSA 1987ஆம் ஆண்டு சட்ட சேவைகள் அதிகார சட்டத்தின் கீழ் அமைக்கப்பட்டது.",
+    "active": true
+  },
+  {
+    "id": "bvbfLsKzn3gJFqtN92bT",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "மாதிரி வினாக்கள் அடிப்படையிலானவை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘செல்’ மற்றும் ‘வா’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "செல் = ஒரு இடத்திற்கு வருவதைக் குறிக்கும்; வா = ஒரு இடத்திலிருந்து செல்வதைக் குறிக்கும்",
+      "செல் = ஒரு இடத்திலிருந்து மற்றொரு இடத்திற்குச் செல்வதைக் குறிக்கும்; வா = ஒரு இடத்திற்கு வருவதைக் குறிக்கும்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "செல் = ஒரு இடத்திலிருந்து மற்றொரு இடத்திற்குச் செல்வதைக் குறிக்கும். வா = ஒரு இடத்திற்கு வருவதைக் குறிக்கும்.",
     "active": true
   },
   {
@@ -42392,6 +43513,25 @@
     "active": true
   },
   {
+    "id": "dBRc2qsN6c0Jiqqh8AaH",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வாடியது - வாட்டியது’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "வாடியது = பயிர் வாடுதல்; வாட்டியது = வெயில் வருத்துதல்",
+      "வாடியது = வெயில் வருத்துதல்; வாட்டியது = பயிர் வாடுதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "வாடியது = தானாக வாடுதல் (தன்வினை). வாட்டியது = ஒருவர் வருத்துதல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "dBhR5nPlc7sH4NK3mIWf",
     "subject": "pyq",
     "class": "G4 / 2025",
@@ -42698,6 +43838,25 @@
     "active": true
   },
   {
+    "id": "dNqfiFjk8SH1sXAfnwJc",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உடைந்து - உடைத்து’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "உடைந்து = கண்ணாடி உடைதல்; உடைத்து = கல்லை உடைத்தல்",
+      "உடைந்து = கல்லை உடைத்தல்; உடைத்து = கண்ணாடி உடைதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "உடைந்து = தானாக உடைதல் (தன்வினை). உடைத்து = ஒருவர் உடைத்தல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "dOe7F3RtXujTz5fBVjR2",
     "subject": "pyq",
     "class": "G4/2024",
@@ -42886,6 +44045,25 @@
     ],
     "correctAnswerIndex": 0,
     "explanation": "மெதுரை மாவட்டம் சிந்து நாகரிகத்தின் தெற்கு விஸ்தாரணமுள்ள பகுதிக்கு சொந்தமான பாற்களாக அமைந்துள்ளது.",
+    "active": true
+  },
+  {
+    "id": "dZ8uJHrOZopTUUfciU74",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பறந்தது - பறக்கவிட்டது’ ஆகியவற்றில் சரியான பயன்பாடு எது?",
+    "options": [
+      "காக்கை பறக்கவிட்டது; பட்டத்தைச் செலுத்தினான்",
+      "காக்கை பறந்தது; பட்டத்தைச் செலுத்தினான்",
+      "இரண்டும் தவறு",
+      "இரண்டும் ஒரே பொருள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பறந்தது = தானாகப் பறத்தல் (தன்வினை). பறக்கவிட்டது = ஒருவர் செலுத்துதல் (பிறவினை).",
     "active": true
   },
   {
@@ -43441,6 +44619,25 @@
     "active": true
   },
   {
+    "id": "dzKAWg3kRO8a55eIHunL",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘முடிந்தது - முடித்தது’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "முடிந்தது = வேலையைச் செய்து முடித்தல்; முடித்தது = செயல் முடிதல்",
+      "முடிந்தது = செயல் முடிதல்; முடித்தது = வேலையைச் செய்து முடித்தல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "முடிந்தது = தானாக முடிதல் (தன்வினை). முடித்தது = ஒருவர் முடித்தல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "e1e54CQJRQ0aTB9usufz",
     "subject": "tamil",
     "class": "9th இயல் 1 to 3",
@@ -43840,6 +45037,25 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "தொழிற்சாலை புகையிலிருந்து வெளியாகும் சல்பர் டைஆக்ஸைடு (SO2) மற்றும் நைட்ரஜன் ஆக்ஸைடுகள் (NOx) காற்றில் உள்ள ஈரப்பதத்துடன் வினைபுரிந்து சல்பூரிக் மற்றும் நைட்ரிக் அமிலங்களாக மாறி மழையாகப் பொழிகின்றன.",
+    "active": true
+  },
+  {
+    "id": "eGmG2raz4q6yjZROrHLz",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உயர்ந்து - உயர்த்தி’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "உயர்ந்து = மலை உயர்தல்; உயர்த்தி = கொடியை ஏற்றுதல்",
+      "உயர்ந்து = கொடியை ஏற்றுதல்; உயர்த்தி = மலை உயர்தல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "உயர்ந்து = தானாக உயர்தல் (தன்வினை). உயர்த்தி = ஒருவர் உயர்த்துதல் (பிறவினை).",
     "active": true
   },
   {
@@ -45003,6 +46219,25 @@
     "active": true
   },
   {
+    "id": "fVTAo9PZ0r9nobHBcWT8",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கூடியது - கூட்டியது’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "கூடியது = மக்கள் கூடுதல்; கூட்டியது = கூட்டத்தைக் கூட்டுதல்",
+      "கூடியது = கூட்டத்தைக் கூட்டுதல்; கூட்டியது = மக்கள் கூடுதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கூடியது = தானாகக் கூடுதல் (தன்வினை). கூட்டியது = ஒருவர் கூட்டுதல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "fY1NVLqP8aeY8Ip6zc4Q",
     "subject": "tamil",
     "class": "6th Term 2",
@@ -45170,6 +46405,25 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "அலெக்ஸாண்டர் தனது 16-ஆம் வயதிலேயே தந்தையின் போர்ப்படைக்குத் தளபதியாகப் பொறுப்பேற்றார்.",
+    "active": true
+  },
+  {
+    "id": "fi6iKVkk9q64dkP7rf4g",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "மேலும் சில வேறுபாடுகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பொழிகின்ற - பொலிகின்ற’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "பொழிகின்ற = தருகின்ற; பொலிகின்ற = சிறந்து விளங்குகின்ற",
+      "பொழிகின்ற = சிறந்து விளங்குகின்ற; பொலிகின்ற = தருகின்ற",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பொழிகின்ற = தருகின்ற. பொலிகின்ற = சிறந்து விளங்குகின்ற.",
     "active": true
   },
   {
@@ -46504,6 +47758,25 @@
     "active": true
   },
   {
+    "id": "gjlpQtzwJ71j5OWtsXWt",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘முறிந்து - முறித்து’ ஆகியவற்றில் சரியான பயன்பாடு எது?",
+    "options": [
+      "சங்கிலி முறித்து போனது; எதிர்ப்பை முறிந்தான்",
+      "சங்கிலி முறிந்து போனது; எதிர்ப்பை முறித்தான்",
+      "இரண்டும் தவறு",
+      "இரண்டும் ஒரே பொருள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "முறிந்து = தானாக முறிதல் (தன்வினை). முறித்து = ஒருவர் முறித்தல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "gk55R6TICFXSW29YNhbr",
     "subject": "tamil",
     "class": "10th இயல் 4 to 6",
@@ -47072,6 +48345,25 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "இவை யாவும் தாமரை என்னும் ஒரே பொருளைக் குறிக்கும் பல திரிசொற்கள் ஆகும். இது ஒரு பொருள் குறித்த பல பெயர்த் திரிசொல்.",
+    "active": true
+  },
+  {
+    "id": "hDIQQOFYw6J6jdw6N08p",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘எழுந்தது - எழுப்பியது’ ஆகியவற்றில் சரியான பயன்பாடு எது?",
+    "options": [
+      "ஒலி எழுப்பியது; சங்கு முழங்கினான்",
+      "ஒலி எழுந்தது; சங்கு முழங்கினான்",
+      "இரண்டும் தவறு",
+      "இரண்டும் ஒரே பொருள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "எழுந்தது = தானாக எழுதல் (தன்வினை). எழுப்பியது = ஒருவர் எழுப்புதல் (பிறவினை).",
     "active": true
   },
   {
@@ -47778,6 +49070,25 @@
     "active": true
   },
   {
+    "id": "hgosNvBh910Xgfxrp0AI",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘குவிந்து - குவித்து’ ஆகியவற்றில் ‘குவிந்து’ என்பது எவ்வகை வினை?",
+    "options": [
+      "பிறவினை",
+      "காரணவினை",
+      "தன்வினை",
+      "வேற்றுமை வினை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "குவிந்து என்பது தன்வினை. ஒரு பொருள் தானாகவோ இயல்பாகவோ ஒரிடத்தில் சேர்ந்திருப்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
     "id": "hhIjRzLTChHdd1SuVeJo",
     "subject": "pyq",
     "class": "G4/2024",
@@ -47968,6 +49279,25 @@
     "active": true
   },
   {
+    "id": "hu4ivXI52YMGe7Slz3Pf",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "மேலும் சில வேறுபாடுகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பெரு - பெறு’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "பெரு = பெரிய செயல்; பெறு = மதிப்புப் பெறு",
+      "பெரு = மதிப்புப் பெறு; பெறு = பெரிய செயல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பெரு = பெரிய செயல். பெறு = மதிப்புப் பெறு.",
+    "active": true
+  },
+  {
     "id": "hu8vVYPLu3IBvWUDYFnx",
     "subject": "tamil",
     "class": "8th இயல் 4 to 6",
@@ -48003,6 +49333,25 @@
     ],
     "correctAnswerIndex": 3,
     "explanation": "Punctuation - நிறுத்தக்குறி[span_27](start_span)[span_27](end_span).",
+    "active": true
+  },
+  {
+    "id": "hy4FlywEo491atof6fUh",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "மேலும் சில வேறுபாடுகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஈந்தாள் - ஈன்றாள்’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "ஈந்தாள் = கொடுத்தாள்; ஈன்றாள் = பெற்றெடுத்தாள்",
+      "ஈந்தாள் = பெற்றெடுத்தாள்; ஈன்றாள் = கொடுத்தாள்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஈந்தாள் = கொடுத்தாள். ஈன்றாள் = பெற்றெடுத்தாள்.",
     "active": true
   },
   {
@@ -48575,6 +49924,25 @@
     ],
     "correctAnswerIndex": 0,
     "explanation": "ராகிகர்ஹி இந்தியாவின் ஹரியானா மாநிலத்தில் அமைந்துள்ள முக்கிய ஹரப்பாக் கால நகரமாகும்.",
+    "active": true
+  },
+  {
+    "id": "ihf8wc0YVg170dKGAw55",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஊறியது - ஊறவைத்தது’ ஆகியவற்றில் சரியான பயன்பாடு எது?",
+    "options": [
+      "சுவை ஊறவைத்தது; மிளகாயை ஊறினான்",
+      "சுவை ஊறியது; மிளகாயை ஊறவைத்தான்",
+      "இரண்டும் தவறு",
+      "இரண்டும் ஒரே பொருள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஊறியது = தானாக ஊறுதல் (தன்வினை). ஊறவைத்தது = ஒருவர் ஊறவைத்தல் (பிறவினை).",
     "active": true
   },
   {
@@ -49398,6 +50766,25 @@
     "active": true
   },
   {
+    "id": "jNGpoDEaqHL06OHAM2ik",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘விழித்து - விழிப்பித்து’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "விழித்து = அறிவுறுத்துதல்; விழிப்பித்து = கண் விழித்தல்",
+      "இரண்டும் ஒரே பொருள்",
+      "விழித்து = கண் விழித்தல்; விழிப்பித்து = அறிவுறுத்துதல்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "விழித்து = தானாக விழித்தல் (தன்வினை). விழிப்பித்து = ஒருவர் விழிப்புணர்வு தருதல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "jOHC5u5wvH94jrwUn4FZ",
     "subject": "tamil",
     "class": "7th tamil term 1",
@@ -49853,6 +51240,25 @@
     ],
     "correctAnswerIndex": 0,
     "explanation": "பொ.ஆ.மு. 1900 அளவில் சிந்து சமவெளி நாகரிகம் வீழ்ச்சி அடைந்ததாகக் கணிக்கப்படுகிறது.",
+    "active": true
+  },
+  {
+    "id": "jlXgthE5Pb59wNuzu17N",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உரி - உறி’ ஆகியவற்றில் சரியான பயன்பாடு எது?",
+    "options": [
+      "கிழங்கைத் தோல் உறித்துத் துரக்கிப் போட்டனர்",
+      "கிழங்கைத் தோல் உரித்துத் துரக்கிப் போட்டனர்",
+      "இரண்டும் தவறு",
+      "இரண்டும் சரி"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "உரி = தோலை உரித்தல் (பிறவினை). உறி = உறிஞ்சுதல்.",
     "active": true
   },
   {
@@ -50505,6 +51911,25 @@
     "active": true
   },
   {
+    "id": "kPCvPaGEbuNHb3nKAUyH",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஏறியது - ஏற்றியது’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "ஏறியது = ஏணி ஏறுதல்; ஏற்றியது = சுமையை மேலே ஏற்றுதல்",
+      "ஏறியது = சுமையை மேலே ஏற்றுதல்; ஏற்றியது = ஏணி ஏறுதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஏறியது = தானாக ஏறுதல் (தன்வினை). ஏற்றியது = ஒருவர் ஏற்றுதல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "kQNESlUflF2AuLqvMk45",
     "subject": "tamil",
     "class": "6th Term 2",
@@ -50716,6 +52141,25 @@
     "active": true
   },
   {
+    "id": "karGcZC4yKXDSFeRRBwi",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மூழ்கி - மூழ்கடித்து’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "மூழ்கி = நீருக்குள் செல்லுதல்; மூழ்கடித்து = நீருக்குள் அமிழ்த்துதல்",
+      "மூழ்கி = நீருக்குள் அமிழ்த்துதல்; மூழ்கடித்து = நீருக்குள் செல்லுதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மூழ்கி = தானாக மூழ்குதல் (தன்வினை). மூழ்கடித்து = ஒருவர் அமிழ்த்துதல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "kd5dlx5yIFRJjIvrYAa0",
     "subject": "tamil",
     "class": "6th Term 2",
@@ -50827,6 +52271,25 @@
     ],
     "correctAnswerIndex": 2,
     "explanation": "ஸ்வச் பாரத் இயக்கம் பொது சுகாதாரம் மற்றும் தூய்மை கலாச்சாரத்தை வளர்ப்பதை முதன்மை நோக்கமாகக் கொண்டது.",
+    "active": true
+  },
+  {
+    "id": "kfWC31XxrQaKdKaSCtod",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அவிந்து - அவித்து’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "அவிந்து = உணவை வேகவைத்தல்; அவித்து = நெருப்பு அணைதல்",
+      "அவிந்து = நெருப்பு அணைதல்; அவித்து = உணவை வேகவைத்தல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அவிந்து = தானாக அணைதல் (தன்வினை). அவித்து = ஒருவர் வேகவைத்தல் (பிறவினை).",
     "active": true
   },
   {
@@ -51169,6 +52632,25 @@
     ],
     "correctAnswerIndex": 2,
     "explanation": "எழுத்தாளர் சு.சமுத்திரம் அவர்களின் 'வேரில் பழுத்த பலா' புதினத்திற்குச் சாகித்திய அகாதெமி விருது வழங்கப்பட்டது[span_28](start_span)[span_28](end_span).",
+    "active": true
+  },
+  {
+    "id": "l4kk0M7A1vFP5egpDScv",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘விடிந்தது - விடியவைத்தது’ ஆகியவற்றில் சரியான வாக்கியம் எது?",
+    "options": [
+      "பொழுது விடியவைத்தது; விளக்கேற்றினான்",
+      "இரண்டும் தவறு",
+      "பொழுது விடிந்தது; விளக்கேற்றினான்",
+      "இரண்டும் சரி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "விடிந்தது = தானாக விடிதல் (தன்வினை). விடியவைத்தது = ஒருவர் விளக்கேற்றுதல் (பிறவினை).",
     "active": true
   },
   {
@@ -52541,6 +54023,25 @@
     "active": true
   },
   {
+    "id": "mEgHVmO9NDSBGcVEyN3Z",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பிறந்தது - பிறப்பித்தது’ ஆகியவற்றில் சரியான வாக்கியம் எது?",
+    "options": [
+      "குழந்தை பிறப்பித்தது; ஆணையைப் பிறந்தான்",
+      "இரண்டும் தவறு",
+      "குழந்தை பிறந்தது; ஆணையைப் பிறப்பித்தான்",
+      "இரண்டும் சரி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பிறந்தது = தானாக பிறத்தல் (தன்வினை). பிறப்பித்தது = ஒருவர் பிறப்பித்தல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "mEtHofywoypbk07XpzmK",
     "subject": "tamil",
     "class": "8th இயல் 4 to 6",
@@ -52769,6 +54270,25 @@
     "active": true
   },
   {
+    "id": "mUJG67Mih1oFIbEzu6em",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தாழ்ந்து - தாழ்த்தி’ ஆகியவற்றில் சரியான பயன்பாடு எது?",
+    "options": [
+      "பணிவு தாழ்த்தி கொண்டான்; இழிவுபடுத்தினான்",
+      "இரண்டும் தவறு",
+      "பணிவு தாழ்ந்து கொண்டான்; இழிவுபடுத்தினான்",
+      "இரண்டும் ஒரே பொருள்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "தாழ்ந்து = தானாகப் பணிவு கொள்ளுதல் (தன்வினை). தாழ்த்தி = ஒருவர் இழிவுபடுத்துதல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "mY3cuwv4jAN0t3ywIyGM",
     "subject": "pyq",
     "class": "G4/2024",
@@ -52899,6 +54419,25 @@
     ],
     "correctAnswerIndex": 0,
     "explanation": "மரூஉ.",
+    "active": true
+  },
+  {
+    "id": "mbHGUyzaHKtO7k7Kk1nw",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அகன்றது - அகற்றியது’ ஆகியவற்றில் சரியான வாக்கியம் எது?",
+    "options": [
+      "வெளி அகற்றியது; குப்பையை நீக்கினான்",
+      "இரண்டும் தவறு",
+      "வெளி அகன்றது; குப்பையை நீக்கினான்",
+      "இரண்டும் சரி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அகன்றது = தானாக அகலுதல் (தன்வினை). அகற்றியது = ஒருவர் நீக்குதல் (பிறவினை).",
     "active": true
   },
   {
@@ -54442,6 +55981,25 @@
     ],
     "correctAnswerIndex": 2,
     "explanation": "NA",
+    "active": true
+  },
+  {
+    "id": "ngVIxVTAeLMMyGn3r8I2",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நீண்டது - நீட்டியது’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "நீண்டது = கையை நீட்டுதல்; நீட்டியது = பாதை நீளுதல்",
+      "நீண்டது = பாதை நீளுதல்; நீட்டியது = கையை நீட்டுதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "நீண்டது = தானாக நீளுதல் (தன்வினை). நீட்டியது = ஒருவர் நீட்டுதல் (பிறவினை).",
     "active": true
   },
   {
@@ -56062,6 +57620,25 @@
     "active": true
   },
   {
+    "id": "pAXFsMuGATtKz0CaD9AM",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நிகழ்ந்தது - நிகழ்த்தியது’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "நிகழ்ந்தது = திருவிழா நிகழ்தல்; நிகழ்த்தியது = சொற்பொழிவு ஆற்றுதல்",
+      "நிகழ்ந்தது = சொற்பொழிவு ஆற்றுதல்; நிகழ்த்தியது = திருவிழா நிகழ்தல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நிகழ்ந்தது = தானாக நிகழ்தல் (தன்வினை). நிகழ்த்தியது = ஒருவர் நிகழ்த்துதல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "pD65QCeWGzPgGHxEVyyn",
     "subject": "tamil",
     "class": "7th tamil term 2",
@@ -56363,6 +57940,25 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "சர் ஜான் மார்ஷல் என்பவர் சிந்துவெளி அகழ்வாய்வினை மேற்கொண்டு, திராவிட நாகரிகத்துடன் ஒப்பிட்டு ஆய்வு செய்தார்.",
+    "active": true
+  },
+  {
+    "id": "pQmKpLkTkhsTEDuUup01",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "மாதிரி வினாக்கள் அடிப்படையிலானவை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வாங்கு’ மற்றும் ‘கொடு’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "வாங்கு = ஏதாவது ஒன்றைத் தருவதைக் குறிக்கும்; கொடு = பெறுவதைக் குறிக்கும்",
+      "வாங்கு = ஏதாவது ஒன்றைப் பெறுவதைக் குறிக்கும்; கொடு = தருவதைக் குறிக்கும்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வாங்கு = ஏதாவது ஒன்றைப் பெறுவதைக் குறிக்கும். கொடு = ஏதாவது ஒன்றைத் தருவதைக் குறிக்கும்.",
     "active": true
   },
   {
@@ -57144,6 +58740,25 @@
     ],
     "correctAnswerIndex": 3,
     "explanation": "மூன்று கூற்றுகளும் கம்பரின் வரலாறு மற்றும் நூல் குறிப்பு சார்ந்த சரியான தகவல்கள் ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "q4ULGLqMccy0efq1FeEJ",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இறங்கியது - இறக்கியது’ ஆகியவற்றில் சரியான வாக்கியம் எது?",
+    "options": [
+      "படி இறக்கியது; மூட்டையைத் தரைக்குக் கொண்டுவந்தான்",
+      "இரண்டும் தவறு",
+      "படி இறங்கியது; மூட்டையைத் தரைக்குக் கொண்டுவந்தான்",
+      "இரண்டும் சரி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "இறங்கியது = தானாக இறங்குதல் (தன்வினை). இறக்கியது = ஒருவர் இறக்குதல் (பிறவினை).",
     "active": true
   },
   {
@@ -58136,6 +59751,25 @@
     ],
     "correctAnswerIndex": 2,
     "explanation": "NA",
+    "active": true
+  },
+  {
+    "id": "r93iBv5cFNnThNELKGDJ",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘குறைந்தது - குறைத்தது’ ஆகியவற்றில் சரியான வாக்கியம் எது?",
+    "options": [
+      "மதிப்பு குறைத்தது; செலவைக் கட்டுப்படுத்தினான்",
+      "இரண்டும் தவறு",
+      "மதிப்பு குறைந்தது; செலவைக் கட்டுப்படுத்தினான்",
+      "இரண்டும் சரி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "குறைந்தது = தானாகக் குறைதல் (தன்வினை). குறைத்தது = ஒருவர் குறைத்தல் (பிறவினை).",
     "active": true
   },
   {
@@ -60273,6 +61907,25 @@
     "active": true
   },
   {
+    "id": "tBXzzW8WdVHWYu9zfUCm",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அழிந்தது - அழித்தது’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "அழிந்தது = நகரம் அழிதல்; அழித்தது = எதிரியை நீக்குதல்",
+      "அழிந்தது = எதிரியை நீக்குதல்; அழித்தது = நகரம் அழிதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அழிந்தது = தானாக அழிதல் (தன்வினை). அழித்தது = ஒருவர் அழித்தல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "tCexMuBXerJInNjkJR7l",
     "subject": "polity",
     "class": "Polity",
@@ -60784,6 +62437,25 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "சென்னிக்குளம் அண்ணாமலையார் காவடிச் சிந்துப் பாடல்களைச் சிறந்த முறையில் பாடியதால் 'காவடிச் சிந்தின் தந்தை' எனப் போற்றப்படுகிறார்.",
+    "active": true
+  },
+  {
+    "id": "tnw6RiKgio44nVzpKvXZ",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நனைந்து - நனைத்து’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "நனைந்து = ஒருவர் நனைத்தல்; நனைத்து = தானாக நனைதல்",
+      "நனைந்து = தானாக நனைதல்; நனைத்து = ஒருவர் நனைத்தல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "நனைந்து = மழையில் தானாக நனைதல் (தன்வினை). நனைத்து = ஒருவர் நனைத்தல் (பிறவினை).",
     "active": true
   },
   {
@@ -62351,6 +64023,25 @@
     "active": true
   },
   {
+    "id": "vAMWymVF08dDEK3eQ8MV",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அடங்கி - அடக்கி’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "அடங்கி = விலங்கைக் கட்டுப்படுத்துதல்; அடக்கி = அமைதியாக இருத்தல்",
+      "அடங்கி = அமைதியாக இருத்தல்; அடக்கி = விலங்கைக் கட்டுப்படுத்துதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அடங்கி = அமைதியாக இருத்தல் (தன்வினை). அடக்கி = விலங்கைக் கட்டுப்படுத்துதல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "vArS7h48Yw3wU1nJ7ULv",
     "subject": "tamil",
     "class": "7th tamil term 2",
@@ -62769,6 +64460,25 @@
     "active": true
   },
   {
+    "id": "vWSnNMSfFko8uu5WXcYj",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தெரிந்து - தெரிவித்து’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "தெரிந்து = விபரம் அறிதல்; தெரிவித்து = தகவல் சொல்லுதல்",
+      "தெரிந்து = தகவல் சொல்லுதல்; தெரிவித்து = விபரம் அறிதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தெரிந்து = தானாக அறிதல் (தன்வினை). தெரிவித்து = ஒருவர் தெரிவித்தல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "vWkErnZqgkrjKpeqsT2E",
     "subject": "pyq",
     "class": "G4 / 2025",
@@ -63014,6 +64724,25 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "சிந்துவெளி நாகரிகம் முதன்முதலில் 1921ல் பஞ்சாபின் மாண்ட்கொமரி மாவட்டத்தில் (பாகிஸ்தான்) கண்டறியப்பட்டது.",
+    "active": true
+  },
+  {
+    "id": "vdksRigc7GseVFTe5af6",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அணைந்தது - அணைத்தது’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "அணைந்தது = தீ அணைதல்; அணைத்தது = விளக்கை நிறுத்துதல்",
+      "அணைந்தது = விளக்கை நிறுத்துதல்; அணைத்தது = தீ அணைதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அணைந்தது = தானாக அணைதல் (தன்வினை). அணைத்தது = ஒருவர் அணைத்தல் (பிறவினை).",
     "active": true
   },
   {
@@ -63548,6 +65277,25 @@
     ],
     "correctAnswerIndex": 0,
     "explanation": "கடல் பயணத்திற்கு வானவியலை அறிந்தவர்கள் நீகான்கள்.",
+    "active": true
+  },
+  {
+    "id": "w9grcAtUzKmwAx61xLuU",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘குவிந்தது - குவித்தது’ ஆகியவற்றில் சரியான பயன்பாடு எது?",
+    "options": [
+      "தானியம் குவித்தது; பணத்தைச் சேர்த்தான்",
+      "தானியம் குவிந்தது; பணத்தைச் சேர்த்தான்",
+      "இரண்டும் தவறு",
+      "இரண்டும் ஒரே பொருள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "குவிந்தது = தானாகக் குவிதல் (தன்வினை). குவித்தது = ஒருவர் சேர்த்தல் (பிறவினை).",
     "active": true
   },
   {
@@ -65077,6 +66825,25 @@
     "active": true
   },
   {
+    "id": "xQ8mUESDovsuqKWjtpPl",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உண்ணு - உன்னு’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "உண்ணு = உணவை உண்ணுதல்; உன்னு = உழவர்களை நினைத்தல்",
+      "உண்ணு = உழவர்களை நினைத்தல்; உன்னு = உணவை உண்ணுதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "உண்ணு = உணவை உண்ணுதல். உன்னு = நினைத்தல் / உன்னுதல்.",
+    "active": true
+  },
+  {
     "id": "xQiV3lUk34H0amKgE0py",
     "subject": "eco",
     "class": "Economics",
@@ -65381,6 +67148,25 @@
     "active": true
   },
   {
+    "id": "xumPJm9j1U7zTnwD697w",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உருண்டு - உருட்டி’ ஆகியவற்றில் சரியான வாக்கியம் எது?",
+    "options": [
+      "பந்து உருட்டி வந்தது; மாவை உருண்டையாக்கினான்",
+      "இரண்டும் தவறு",
+      "பந்து உருண்டு வந்தது; மாவை உருண்டையாக்கினான்",
+      "இரண்டும் சரி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "உருண்டு = தானாக உருளுதல் (தன்வினை). உருட்டி = ஒருவர் உருட்டுதல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "xw53PDQW6U43wDeqf6Im",
     "subject": "pyq",
     "class": "G4/2024",
@@ -65511,6 +67297,25 @@
     ],
     "correctAnswerIndex": 2,
     "explanation": "காகத்தைக் குறிக்கும் தூய தமிழ்ப் பெயர்களுள் 'புட்டம்' என்பதும் ஒன்றாகும்.",
+    "active": true
+  },
+  {
+    "id": "y2u0otDChC0NhWstriax",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘முனைத்து - முனைக்கவைத்து’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "முனைத்து = விதை வளர்தல்; முனைக்கவைத்து = விதை ஊன்றுதல்",
+      "முனைத்து = விதை ஊன்றுதல்; முனைக்கவைத்து = விதை வளர்தல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "முனைத்து = தானாக வளர்தல் (தன்வினை). முனைக்கவைத்து = ஒருவர் ஊன்றுதல் (பிறவினை).",
     "active": true
   },
   {
@@ -66105,6 +67910,25 @@
     "active": true
   },
   {
+    "id": "ygKpdSSscFTr6AyWAftv",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தப்பியது - தப்பிக்கவைத்தது’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "தப்பியது = மான் தப்பித்தல்; தப்பிக்கவைத்தது = உயிரைக் காப்பாற்றுதல்",
+      "தப்பியது = உயிரைக் காப்பாற்றுதல்; தப்பிக்கவைத்தது = மான் தப்பித்தல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தப்பியது = தானாகத் தப்பித்தல் (தன்வினை). தப்பிக்கவைத்தது = ஒருவர் காப்பாற்றுதல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "yi2n8tjZE0V5InmOX8a8",
     "subject": "pyq",
     "class": "G2 / 2025",
@@ -66483,6 +68307,25 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "வியாசர் வடமொழியில் எழுதிய மகாபாரதத்தின் ஒரு பகுதியான பாண்டவர் கதையைத் தழுவி பாரதியார் 'பாஞ்சாலி சபதம்' படைத்தார்.",
+    "active": true
+  },
+  {
+    "id": "z88stPPvxhefk0qv9EGj",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘புரண்டு - புரட்டி’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "புரண்டு = பக்கத்தைத் திருப்புதல்; புரட்டி = நீர் புரளுதல்",
+      "புரண்டு = நீர் புரளுதல்; புரட்டி = பக்கத்தைத் திருப்புதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "புரண்டு = தானாக புரளுதல் (தன்வினை). புரட்டி = ஒருவர் புரட்டுதல் (பிறவினை).",
     "active": true
   },
   {
@@ -66983,6 +68826,25 @@
     "active": true
   },
   {
+    "id": "zeLioPR3nfzw813VOyIt",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பரந்து - பறந்து’ ஆகியவற்றில் சரியான வாக்கியம் எது?",
+    "options": [
+      "விதைகள் பறந்து கிடப்பதை உண்ணப் பறவைகள் பரந்து வந்தன",
+      "இரண்டும் தவறு",
+      "விதைகள் பரந்து கிடப்பதை உண்ணப் பறவைகள் பறந்து வந்தன",
+      "இரண்டும் சரி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பரந்து = பரவியிருத்தல். பறந்து = பறவை பறத்தல்.",
+    "active": true
+  },
+  {
     "id": "zf1oLnUsWkoxa1HXrdVG",
     "subject": "pyq",
     "class": "G2 / 2025",
@@ -67230,6 +69092,25 @@
     "active": true
   },
   {
+    "id": "zq2MXpwDkSohb4s1Hfmp",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தேறியது - தேற்றியது’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "தேறியது = மாணவன் தேறுதல்; தேற்றியது = வருந்துவோருக்கு ஆறுதல் கூறுதல்",
+      "தேறியது = ஆறுதல் கூறுதல்; தேற்றியது = மாணவன் தேறுதல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் பிறவினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தேறியது = தானாகத் தேறுதல் (தன்வினை). தேற்றியது = ஒருவர் ஆறுதல் கூறுதல் (பிறவினை).",
+    "active": true
+  },
+  {
     "id": "zsWaoTvEmFlGPrBgvhtQ",
     "subject": "history",
     "class": "History",
@@ -67246,6 +69127,25 @@
     ],
     "correctAnswerIndex": 0,
     "explanation": "ஃபாரிசர்விஸ் கோட்பாட்டின்படி, ஆட்சியாளர்களின் அதிகாரம் பலவீனமடைவதற்கான சாத்தியக்கூறுகள் நகர்ப்புற நிர்வாகத்தின் தோல்விக்கு வழிவகுத்திருக்கலாம்.",
+    "active": true
+  },
+  {
+    "id": "ztIskIgnFzbMWUM19TYW",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - தன்வினை - பிறவினை வேறுபாடு",
+    "topic": "தன்வினை - பிறவினை வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஒடிந்தது - ஒடித்தது’ ஆகியவற்றின் பொருள் வேறுபாடு என்ன?",
+    "options": [
+      "ஒடிந்தது = கிளையை முறித்தல்; ஒடித்தது = கோல் ஒடிதல்",
+      "ஒடிந்தது = கோல் ஒடிதல்; ஒடித்தது = கிளையை முறித்தல்",
+      "இரண்டும் ஒரே பொருள்",
+      "இரண்டும் தன்வினை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஒடிந்தது = தானாக ஒடிதல் (தன்வினை). ஒடித்தது = ஒருவர் ஒடித்தல் (பிறவினை).",
     "active": true
   },
   {
