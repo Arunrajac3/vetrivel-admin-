@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "0BuFBygQawJ6o0szJ1a7",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஆசாரம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "ஒழுக்கம்",
+      "அநாசாரம்",
+      "தீயொழுக்கம்",
+      "குற்றம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'ஆசாரம்' என்பதற்கு 'ஒழுக்கம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "1blDepjvxbH03Tssn1xa",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அகம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "உள்ளம் / மார்பு",
+      "வீடு",
+      "மனம்",
+      "உடல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அகம்' என்பதற்கு 'உள்ளம்' அல்லது 'மார்பு' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "2JWZsj1kURIxkVwYaCm3",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஞாலம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "உலகம் / பூமி",
+      "வானம்",
+      "கடல்",
+      "மலை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'ஞாலம்' என்பதற்கு 'உலகம்' அல்லது 'பூமி' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "3LAqcvvaVGcqe4E6aGNi",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பவ்வம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "கடல்",
+      "ஆறு",
+      "ஏரி",
+      "குளம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'பவ்வம்' என்பதற்கு 'கடல்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "3Yn3xSFrKRgvYIle8HHz",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அயர்வு' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "சோர்வு / களைப்பு",
+      "ஊக்கம்",
+      "ஆர்வம்",
+      "விருப்பம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அயர்வு' என்பதற்கு 'சோர்வு' அல்லது 'களைப்பு' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "3t8xVcebrDy9NnH9Sza0",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'எச்சம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "எஞ்சியது / சந்ததி",
+      "முழுமை",
+      "தொடக்கம்",
+      "முடிவு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'எச்சம்' என்பதற்கு 'எஞ்சியது' அல்லது 'சந்ததி' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "6tPWtPZTi59GX6yP7Uyl",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சகாயம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "உதவி",
+      "தடை",
+      "தீங்கு",
+      "எதிர்ப்பு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'சகாயம்' என்பதற்கு 'உதவி' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "7IgW4XCf0bBtn4jBVcOZ",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அமிர்தம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "அமுது",
+      "தேன்",
+      "நீர்",
+      "பால்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அமிர்தம்' என்பதற்கு 'அமுது' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "7eWzMDuHzJObcJU7Zk1s",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அதிகாரம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "ஆட்சி / ஆளுமை",
+      "அடிமை",
+      "பணி",
+      "சேவை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அதிகாரம்' என்பதற்கு 'ஆட்சி' அல்லது 'ஆளுமை' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "7tDKBNWHj2WtWZEG5L2S",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தேசம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "நாடு / மாநிலம்",
+      "நகரம்",
+      "கிராமம்",
+      "ஊர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'தேசம்' என்பதற்கு 'நாடு' அல்லது 'மாநிலம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "9LYy2vryGTKdImX7TdK7",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஈகை' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "கொடை / வண்மை",
+      "பெறுதல்",
+      "ஏற்றல்",
+      "வாங்குதல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'ஈகை' என்பதற்கு 'கொடை' அல்லது 'வண்மை' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "9Sxz5tKASVEY8O9B0puS",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கானகம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "காடு",
+      "நகரம்",
+      "கிராமம்",
+      "கடல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கானகம்' என்பதற்கு 'காடு' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "9wELiEaK5e1HT6TGpZht",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அபூர்வம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "அரியது",
+      "பொதுவானது",
+      "எளியது",
+      "சாதாரணம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அபூர்வம்' என்பதற்கு 'அரியது' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "AHi5FzEx3sMor6ztuZfd",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஆலயம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "கோயில்",
+      "வீடு",
+      "மடம்",
+      "ஆசிரமம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'ஆலயம்' என்பதற்கு 'கோயில்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "AgDjrgaIqZHqxtgFiihv",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'யாக்கை' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "உடல் / மெய்",
+      "ஆன்மா",
+      "மனம்",
+      "உயிர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'யாக்கை' என்பதற்கு 'உடல்' அல்லது 'மெய்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "BmL6E8gxibPsCITeNCaC",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கழனி' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "வயல்",
+      "காடு",
+      "மலை",
+      "நகரம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கழனி' என்பதற்கு 'வயல்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "CdoAyjcZ1vHsHyTAl3eq",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வெய்யோன்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "சூரியன் / கதிரவன்",
+      "சந்திரன்",
+      "நிலவு",
+      "விண்மீன்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'வெய்யோன்' என்பதற்கு 'சூரியன்' அல்லது 'கதிரவன்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "D0F3oLOvhzZhgdH3rUuM",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அன்னை' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "தாய் / ஈன்றவள்",
+      "அம்மா",
+      "மாதா",
+      "தாயார்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அன்னை' என்பதற்கு 'தாய்' அல்லது 'ஈன்றவள்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "DdSXFF0if0iqtuj6TIL1",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அழுக்காறு' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "பொறாமை",
+      "வெறுப்பு",
+      "கோபம்",
+      "அழுக்கு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அழுக்காறு' என்பதற்கு 'பொறாமை' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "Doz72IFA98MPSyB7UaTy",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'எழில்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "அழகு",
+      "வலிமை",
+      "செல்வம்",
+      "அறிவு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'எழில்' என்பதற்கு 'அழகு' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "Dx5gik1ywIBptA1HY3aV",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கனகம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "பொன் / தங்கம்",
+      "வெள்ளி",
+      "செம்பு",
+      "இரும்பு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கனகம்' என்பதற்கு 'பொன்' அல்லது 'தங்கம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "EoVCMawkkha27ihoLETh",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஊக்கம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "ஆர்வம் / முயற்சி",
+      "சோம்பல்",
+      "மடி",
+      "அசதி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'ஊக்கம்' என்பதற்கு 'ஆர்வம்' அல்லது 'முயற்சி' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "HHKi3SdzbgGtWxo9jcVj",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'விறல்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "வெற்றி / வலிமை",
+      "தோல்வி",
+      "பலவீனம்",
+      "சோர்வு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'விறல்' என்பதற்கு 'வெற்றி' அல்லது 'வலிமை' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "HpAsFthiIqkFx1LgqrOI",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'இணக்கம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "நட்பு / சம்மதம்",
+      "பகை",
+      "வெறுப்பு",
+      "எதிர்ப்பு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'இணக்கம்' என்பதற்கு 'நட்பு' அல்லது 'சம்மதம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "ISecvb3Gsgihw1Ti8V0b",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சித்தம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "உள்ளம் / மனம்",
+      "உடல்",
+      "ஆன்மா",
+      "அறிவு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'சித்தம்' என்பதற்கு 'உள்ளம்' அல்லது 'மனம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "J6bHGpBCZnFIf5OG2tth",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'உலகம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "மேதினி / வையம்",
+      "வானம்",
+      "கடல்",
+      "மலை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'உலகம்' என்பதற்கு 'மேதினி' அல்லது 'வையம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "JW00RJA7JD8Auy7lcefQ",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கேண்மை' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "நட்பு",
+      "பகை",
+      "வெறுப்பு",
+      "அன்பு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கேண்மை' என்பதற்கு 'நட்பு' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "JeW9TQ19hAJPE1JlHY60",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அடவி' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "காடு",
+      "வனம்",
+      "மலை",
+      "பள்ளம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அடவி' என்பதற்கு 'காடு' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "LBGLKqutvSgSV7sLZC9a",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அகழ்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "தோண்டுதல் / பள்ளம்",
+      "மேடு",
+      "மலை",
+      "குன்று"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அகழ்' என்பதற்கு 'தோண்டுதல்' அல்லது 'பள்ளம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "LGrs90oVTy1lODdyYmVR",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அரவம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "பாம்பு / சத்தம்",
+      "நாகம்",
+      "சர்ப்பம்",
+      "ஓசை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அரவம்' என்பதற்கு 'பாம்பு' அல்லது 'சத்தம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "MAkS117FseyzB6NJ9yp6",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'இழிவு' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "தாழ்வு / அவமானம்",
+      "உயர்வு",
+      "பெருமை",
+      "சிறப்பு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'இழிவு' என்பதற்கு 'தாழ்வு' அல்லது 'அவமானம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "NU33gt5LOKtP8sS8m1CT",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அறம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "நற்செயல் / தர்மம்",
+      "தீமை",
+      "பாவம்",
+      "குற்றம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அறம்' என்பதற்கு 'நற்செயல்' அல்லது 'தர்மம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "NXROm7LKqC6UjXSalF3C",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஊருணி' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "நீர்நிலை / பருகும் நீர்நிலை",
+      "ஆறு",
+      "கடல்",
+      "மழை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'ஊருணி' என்பதற்கு 'நீர்நிலை' அல்லது 'பருகும் நீர்நிலை' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "Nq4vTBnVcxraWLNwIX9V",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஆழி' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "கடல்",
+      "ஆறு",
+      "ஏரி",
+      "குளம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'ஆழி' என்பதற்கு 'கடல்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "OLz9TeZLAu0gT96QVuCQ",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'விசும்பு' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "வானம் / ஆகாயம்",
+      "பூமி",
+      "கடல்",
+      "மலை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'விசும்பு' என்பதற்கு 'வானம்' அல்லது 'ஆகாயம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "P5pTQdQsybCR9PBbpCb6",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சான்றோர்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "அறிவுடையோர் / மேலோர்",
+      "சிறியோர்",
+      "இளையோர்",
+      "முதியோர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'சான்றோர்' என்பதற்கு 'அறிவுடையோர்' அல்லது 'மேலோர்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "PV8K9RGuxCRGdoEOstID",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'உன்னதம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "மேன்மை / சிறப்பு",
+      "தாழ்ச்சி",
+      "இழிவு",
+      "சிறுமை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'உன்னதம்' என்பதற்கு 'மேன்மை' அல்லது 'சிறப்பு' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "PVmo9UH3VnQ2lyXdm3cM",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'குடி' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "வம்சம் / இனம்",
+      "தனிநபர்",
+      "குடும்பம் அல்லாதது",
+      "அயலார்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'குடி' என்பதற்கு 'வம்சம்' அல்லது 'இனம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "PW8suhfZXzw9D1ucd1x0",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அண்மை' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "அருகில்",
+      "தொலைவு",
+      "சேய்மை",
+      "தூரம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அண்மை' என்பதற்கு 'அருகில்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "PacHnyJbvtjDYTtNKxmN",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'இலட்சியம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "குறிக்கோள்",
+      "இலக்கு அல்லாதது",
+      "தவறு",
+      "தடை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'இலட்சியம்' என்பதற்கு 'குறிக்கோள்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "Q2daygiZwyIAz2KxihZV",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தரணி' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "உலகம் / புவி",
+      "வானம்",
+      "கடல்",
+      "மலை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'தரணி' என்பதற்கு 'உலகம்' அல்லது 'புவி' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "Qbxlg2NKkmibieu9gcWU",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சலதி' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "கடல்",
+      "ஆறு",
+      "ஏரி",
+      "குளம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'சலதி' என்பதற்கு 'கடல்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "QvwH52sIVXKypu8rMlML",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'குளம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "ஏரி / வாவி / தடாகம்",
+      "ஆறு",
+      "கடல்",
+      "கிணறு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'குளம்' என்பதற்கு 'ஏரி', 'வாவி' அல்லது 'தடாகம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "Rxr9sCHDviN82X5RHVSo",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பிணி' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "நோய் / வியாதி",
+      "ஆரோக்கியம்",
+      "சுகம்",
+      "வலிமை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'பிணி' என்பதற்கு 'நோய்' அல்லது 'வியாதி' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "UeE3OilD72HhPPrxSYQk",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கதிரவன்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "சூரியன்",
+      "சந்திரன்",
+      "நிலவு",
+      "விண்மீன்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கதிரவன்' என்பதற்கு 'சூரியன்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "VQD8GGYVDpSTgEbVySjZ",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அண்டம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "உலகம்",
+      "வானம்",
+      "கடல்",
+      "மலை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அண்டம்' என்பதற்கு 'உலகம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "VYOUYBV1CqCdUugbyCAl",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஆர்கலி' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "கடல் / மழை",
+      "ஆறு",
+      "ஏரி",
+      "குளம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'ஆர்கலி' என்பதற்கு 'கடல்' அல்லது 'மழை' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "Vbx0XnZS3zV0G7AtlfMu",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'இசை' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "புகழ் / பண்",
+      "வசை",
+      "பழி",
+      "ஓசை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'இசை' என்பதற்கு 'புகழ்' அல்லது 'பண்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "VkvDUyhYoiQotgLKZfeO",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அங்காடி' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "கடைவீதி",
+      "சந்தை",
+      "கடை",
+      "வீதி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அங்காடி' என்பதற்கு 'கடைவீதி' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "Wx61UJKgl1LEPKZ9mnVW",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மறை' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "வேதம் / இரகசியம்",
+      "வெளிப்படை",
+      "அறிவு",
+      "கல்வி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'மறை' என்பதற்கு 'வேதம்' அல்லது 'இரகசியம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "XSQIONpZgJCfKAMaQSV1",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வண்மை' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "கொடை / ஈகை",
+      "வறுமை",
+      "பெறுதல்",
+      "வாங்குதல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'வண்மை' என்பதற்கு 'கொடை' அல்லது 'ஈகை' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "YqsYQoofXvb05GROFK9p",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஒளடதம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "மருந்து",
+      "உணவு",
+      "நீர்",
+      "காற்று"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'ஒளடதம்' என்பதற்கு 'மருந்து' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "Z3fX04IyeDme7XSc5m1r",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வெற்பு' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "மலை / ஒங்கல்",
+      "ஆறு",
+      "கடல்",
+      "வானம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'வெற்பு' என்பதற்கு 'மலை' அல்லது 'ஒங்கல்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "ZYB9TjOhy3FpMeFGtdtG",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அதிபதி' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "தலைவன்",
+      "அரசன்",
+      "மன்னன்",
+      "தலைவர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அதிபதி' என்பதற்கு 'தலைவன்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "a90OVuVscxswZctfpRnr",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'புவி' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "உலகம் / பூமி",
+      "வானம்",
+      "கடல்",
+      "மலை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'புவி' என்பதற்கு 'உலகம்' அல்லது 'பூமி' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "aRPydWL8IvGA8CP5EwMb",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மகுந்தன்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "விஷ்ணு",
+      "சிவன்",
+      "பிரம்மா",
+      "முருகன்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'மகுந்தன்' என்பதற்கு 'விஷ்ணு' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "b24PwtfZSL2csCw3IbOn",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஏது' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "காரணம் / ஆதாரம்",
+      "விளைவு",
+      "முடிவு",
+      "தடை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'ஏது' என்பதற்கு 'காரணம்' அல்லது 'ஆதாரம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "c3v3zVUmdB3jsy3tJ1GY",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கொற்றவன்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "மன்னன் / வேந்தன்",
+      "மக்கள்",
+      "அமைச்சர்",
+      "படைத்தலைவன்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கொற்றவன்' என்பதற்கு 'மன்னன்' அல்லது 'வேந்தன்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "cEzarD9FfJDpOqg6bel4",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'காப்பு' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "காவல் / பாதுகாப்பு",
+      "தாக்குதல்",
+      "அழிவு",
+      "தீங்கு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'காப்பு' என்பதற்கு 'காவல்' அல்லது 'பாதுகாப்பு' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "cIYwwfc6qbKlopfbZqef",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நதி' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "ஆறு / புனல்",
+      "கடல்",
+      "ஏரி",
+      "குளம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'நதி' என்பதற்கு 'ஆறு' அல்லது 'புனல்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "cP2wRa3WrbiqmNfGeqdO",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'உவகை' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "மகிழ்ச்சி / களிப்பு",
+      "துன்பம்",
+      "சோகம்",
+      "வருத்தம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'உவகை' என்பதற்கு 'மகிழ்ச்சி' அல்லது 'களிப்பு' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "cpJGWheczxLoQP9NkxVP",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அபாண்டம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "பொய் / வீண்டழி",
+      "உண்மை",
+      "நியாயம்",
+      "நீதி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அபாண்டம்' என்பதற்கு 'பொய்' அல்லது 'வீண்டழி' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "d9KxJZHMgBjj8FNjoD7a",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பொய்கை' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "குளம் / சுனை",
+      "ஆறு",
+      "கடல்",
+      "ஏரி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'பொய்கை' என்பதற்கு 'குளம்' அல்லது 'சுனை' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "dcyyTqR4b2mHIncSDnuC",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஆக்கம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "செல்வம் / வளர்ச்சி",
+      "அழிவு",
+      "வறுமை",
+      "குறைவு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'ஆக்கம்' என்பதற்கு 'செல்வம்' அல்லது 'வளர்ச்சி' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "dpsZZRDhfUKJNVgaFujv",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அரும்பு' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "மலரின் தொடக்க நிலை",
+      "முழு மலர்",
+      "காய்",
+      "இலை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அரும்பு' என்பதற்கு 'மலரின் தொடக்க நிலை' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "e6wrwf9KE59WwmMUdQv7",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தெவ்வர்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "பகைவர் / மாற்றார்",
+      "நண்பர்",
+      "உறவினர்",
+      "அயலார்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'தெவ்வர்' என்பதற்கு 'பகைவர்' அல்லது 'மாற்றார்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "es3VABVjYWU90Rb4q4RB",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஆன்றோர்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "பெரியோர் / அறிவுடையோர்",
+      "சிறியோர்",
+      "இளையோர்",
+      "முதியோர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'ஆன்றோர்' என்பதற்கு 'பெரியோர்' அல்லது 'அறிவுடையோர்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "fRbFyLz9WPXV4ltIgjnt",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'இடும்பை' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "துன்பம்",
+      "இன்பம்",
+      "மகிழ்ச்சி",
+      "ஆனந்தம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'இடும்பை' என்பதற்கு 'துன்பம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "gQhac741gB5vlBeQJubO",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தண்மை' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "குளிர்ச்சி",
+      "வெப்பம்",
+      "சூடு",
+      "எரிச்சல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'தண்மை' என்பதற்கு 'குளிர்ச்சி' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "gUKsTAyZ4CBvTflzg4Sk",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'உச்சி' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "தலை / சிகரம்",
+      "கால்",
+      "இடை",
+      "மார்பு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'உச்சி' என்பதற்கு 'தலை' அல்லது 'சிகரம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "ggpqPLj1pMe8nDrDmjN5",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'விழுப்பம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "மேன்மை / சிறப்பு",
+      "தாழ்ச்சி",
+      "இழிவு",
+      "சிறுமை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'விழுப்பம்' என்பதற்கு 'மேன்மை' அல்லது 'சிறப்பு' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "hqCnyeuuT5yOUdMmBhGP",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மாண்பு' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "சிறப்பு / பெருமை",
+      "தாழ்ச்சி",
+      "இழிவு",
+      "சிறுமை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'மாண்பு' என்பதற்கு 'சிறப்பு' அல்லது 'பெருமை' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "i2kqih9M9YZr2ouTMaLv",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கிரி' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "மலை / வெற்பு",
+      "ஆறு",
+      "கடல்",
+      "வானம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கிரி' என்பதற்கு 'மலை' அல்லது 'வெற்பு' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "i3yHltRoehUX5LVFmx4J",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'இறைவன்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "கடவுள் / அரசன்",
+      "மனிதன்",
+      "தேவன்",
+      "ஆண்டவன்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'இறைவன்' என்பதற்கு 'கடவுள்' அல்லது 'அரசன்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "i89dKmaZx2Ih88EgKX9K",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கடிதம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "மடல் / திருமுகம்",
+      "புத்தகம்",
+      "செய்தித்தாள்",
+      "அறிக்கை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கடிதம்' என்பதற்கு 'மடல்' அல்லது 'திருமுகம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "iQSTpzGcmxaB3oHrcmBd",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நிமித்தம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "காரணம்",
+      "விளைவு",
+      "முடிவு",
+      "தடை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'நிமித்தம்' என்பதற்கு 'காரணம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "iV7aYJgqwiYokJEt46Sd",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வாவி' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "குளம் / நீர்நிலை",
+      "ஆறு",
+      "கடல்",
+      "ஏரி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'வாவி' என்பதற்கு 'குளம்' அல்லது 'நீர்நிலை' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "jRgBv6pocZhfCbOBLuAm",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஒருமை' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "ஒற்றுமை",
+      "வேற்றுமை",
+      "பேதம்",
+      "வித்தியாசம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'ஒருமை' என்பதற்கு 'ஒற்றுமை' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "mi42G57ZC19aIZM9ybnl",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வசை' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "பழி / அவமானம்",
+      "புகழ்",
+      "பாராட்டு",
+      "மெச்சல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'வசை' என்பதற்கு 'பழி' அல்லது 'அவமானம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "nApOE7Js3nEVIbVRJXVi",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கேளிர்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "உறவினர் / நண்பர்",
+      "பகைவர்",
+      "அயலார்",
+      "எதிரி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கேளிர்' என்பதற்கு 'உறவினர்' அல்லது 'நண்பர்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "nsTeHGfhCh7AFuOoeSRN",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அஞ்சல்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "தூது / தபால்",
+      "கடிதம்",
+      "செய்தி",
+      "தூதர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அஞ்சல்' என்பதற்கு 'தூது' அல்லது 'தபால்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "oCrBjCZQwQTfpx5AKFZ3",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பெருமை' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "மாண்பு / பீடு",
+      "சிறுமை",
+      "தாழ்ச்சி",
+      "இழிவு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'பெருமை' என்பதற்கு 'மாண்பு' அல்லது 'பீடு' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "osWoIXMDVQnPIAUmoybG",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சரித்திரம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "வரலாறு",
+      "கதை",
+      "புராணம்",
+      "கற்பனை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'சரித்திரம்' என்பதற்கு 'வரலாறு' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "p0wJz5r4VEiePsGaDzob",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பகடு' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "எருது / ஆண் யானை",
+      "பெண் யானை",
+      "குதிரை",
+      "மாடு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'பகடு' என்பதற்கு 'எருது' அல்லது 'ஆண் யானை' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "plWb39128Z4i5UrdO4kY",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அந்தம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "முடிவு",
+      "தொடக்கம்",
+      "நடு",
+      "தொடர்ச்சி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அந்தம்' என்பதற்கு 'முடிவு' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "qbKVAYf0wbJebjULtkcc",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சுற்றம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "உறவினர் / கிளை",
+      "பகைவர்",
+      "அயலார்",
+      "நண்பர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'சுற்றம்' என்பதற்கு 'உறவினர்' அல்லது 'கிளை' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "sUA8OknrecAxMze6BJ10",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'இகழ்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "பழி / அவமதிப்பு",
+      "புகழ்",
+      "பாராட்டு",
+      "மெச்சல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'இகழ்' என்பதற்கு 'பழி' அல்லது 'அவமதிப்பு' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "sUdVAN7DH6PXz4J0logb",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஆதவன்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "சூரியன் / கதிரவன்",
+      "சந்திரன்",
+      "நிலவு",
+      "விண்மீன்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'ஆதவன்' என்பதற்கு 'சூரியன்' அல்லது 'கதிரவன்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "sYu3iUPiDASOhkxC9rOq",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வேந்தன்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "அரசன் / மன்னன்",
+      "மக்கள்",
+      "அமைச்சர்",
+      "படைத்தலைவன்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'வேந்தன்' என்பதற்கு 'அரசன்' அல்லது 'மன்னன்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "tCkdqMB7WMAqyvvOqQiA",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கபடம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "வஞ்சனை / கள்ளம்",
+      "உண்மை",
+      "நேர்மை",
+      "அன்பு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கபடம்' என்பதற்கு 'வஞ்சனை' அல்லது 'கள்ளம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "u3kJfPLfUIHgE0TUXmMR",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நல்குரவு' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "வறுமை",
+      "செல்வம்",
+      "வளம்",
+      "ஆக்கம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'நல்குரவு' என்பதற்கு 'வறுமை' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "u4ERgXJLG0wb5ReDoURx",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'திங்கள்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "நிலவு / சந்திரன்",
+      "சூரியன்",
+      "விண்மீன்",
+      "கிரகம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'திங்கள்' என்பதற்கு 'நிலவு' அல்லது 'சந்திரன்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "uILJHGten6fFlSKXzYiw",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அனல்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "நெருப்பு",
+      "வெப்பம்",
+      "சூடு",
+      "தீ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அனல்' என்பதற்கு 'நெருப்பு' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "vdr29LRmNAAckhoGpmGC",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'திண்மை' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "உறுதி / வலிமை",
+      "பலவீனம்",
+      "மென்மை",
+      "சோர்வு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'திண்மை' என்பதற்கு 'உறுதி' அல்லது 'வலிமை' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "vpc5htt77PrxHrUZhTcF",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஊழி' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "நீண்ட காலம் / யுகம்",
+      "சிறிய காலம்",
+      "நாள்",
+      "மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'ஊழி' என்பதற்கு 'நீண்ட காலம்' அல்லது 'யுகம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "wm4mEbtEg0sokGkGTzXB",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கேடு' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "தீமை / அழிவு",
+      "நன்மை",
+      "வளர்ச்சி",
+      "செல்வம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கேடு' என்பதற்கு 'தீமை' அல்லது 'அழிவு' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "xTGmtYCfpATSJuGpF9xq",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'உதயம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "எழுச்சி / தோற்றம்",
+      "மறைவு",
+      "அஸ்தமனம்",
+      "இறக்கம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'உதயம்' என்பதற்கு 'எழுச்சி' அல்லது 'தோற்றம்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "xjih9ENbuP07NOgqUnRM",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'குருதி' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "இரத்தம் / செந்நீர்",
+      "நீர்",
+      "பால்",
+      "தேன்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'குருதி' என்பதற்கு 'இரத்தம்' அல்லது 'செந்நீர்' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "yZHYdqOgeVpApGcHcpGo",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'முகில்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "மேகம் / எழிலி",
+      "மழை",
+      "காற்று",
+      "வானம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'முகில்' என்பதற்கு 'மேகம்' அல்லது 'எழிலி' என்று பொருள்.",
+    "active": true
+  },
+  {
+    "id": "yr5FIQQ94FstKo5Z4ce3",
+    "subject": "group4series",
+    "class": "Unit 2-  ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "topic": "ஒரு சொல்லிற்கு இணையான வேறு சொல் அறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'களம்' என்ற சொல்லுக்கு இணையான பொருள் என்ன?",
+    "options": [
+      "இடம் / போர்க்களம்",
+      "வீடு",
+      "காடு",
+      "மலை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'களம்' என்பதற்கு 'இடம்' அல்லது 'போர்க்களம்' என்று பொருள்.",
+    "active": true
+  }
+]

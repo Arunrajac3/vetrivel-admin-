@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "1kaivu7s7W9OaY2p5nOh",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "உயிர் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘எ’ எழுத்திற்கு இன எழுத்து எது?",
+    "options": [
+      "ஏ",
+      "ஓ",
+      "ஐ",
+      "ஒள"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "எ → ஏ என்பது உயிர் இன எழுத்து.",
+    "active": true
+  },
+  {
+    "id": "2DFdzAiBHu3RCV3B0Rf3",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "உயிர் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "நெடிலுக்கு இனமாக அமைவது எது?",
+    "options": [
+      "குறில்",
+      "வல்லினம்",
+      "மெல்லினம்",
+      "இடையினம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நெடிலுக்குக் குறிலும் இன எழுத்துக்கள் ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "2QI2iCmZfsGVyNeVacq6",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தமிழ் எழுத்துகளில் எந்த எழுத்துக்கு மட்டுமே இன எழுத்து இல்லை?",
+    "options": [
+      "உயிரெழுத்து",
+      "மெய்யெழுத்து",
+      "ஆய்த எழுத்து",
+      "உயிர்மெய்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "தமிழ் எழுத்துகளில் ஆய்த எழுத்துக்கு மட்டுமே இன எழுத்து இல்லை.",
+    "active": true
+  },
+  {
+    "id": "38PdZaLSWtuASnulnMx1",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஆறு வல்லின மெய் எழுத்துகளும் ஆறு மெல்லின எழுத்துகளும் எவ்வாறு அழைக்கப்படுகின்றன?",
+    "options": [
+      "உயிர் இனங்கள்",
+      "இன எழுத்துகள்",
+      "ஆய்த எழுத்துகள்",
+      "குறில் நெடில்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஆறு வல்லின மெய் எழுத்துகளும் ஆறு மெல்லின எழுத்துகளும் இன எழுத்துகள் ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "3Bz5ZlgO3IgDQb10D3c5",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கம்பம்’ என்ற சொல்லில் உள்ள இன எழுத்துகள் எவை?",
+    "options": [
+      "ம் - ப்",
+      "ன் - ற்",
+      "ண் - ட்",
+      "ந் - த்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கம்பம் என்ற சொல்லில் ம்-ப் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "3WGu8azznhsH9Rd3EmEq",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ண்’ எழுத்திற்கு இன எழுத்து எது?",
+    "options": [
+      "ட்",
+      "த்",
+      "ப்",
+      "ற்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ண் - ட் இன எழுத்துகள்.",
+    "active": true
+  },
+  {
+    "id": "4aUyaQVP71ChMVYIUa4N",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பின்வரும் சொற்களில் இன எழுத்து உள்ள சொல் எது?",
+    "options": [
+      "கல்வி",
+      "பள்ளி",
+      "அம்பு",
+      "வாக்கு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அம்பு என்ற சொல்லில் ம்-ப் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "4wFfOAIaOXf9ogft0ggF",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தழீஇ’ என்ற சொல் எதைக் குறிக்கிறது?",
+    "options": [
+      "வல்லின இனம்",
+      "மெல்லின இனம்",
+      "அளபெடை",
+      "இடையினம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "தழீஇ என்பது அளபெடைக்கு எடுத்துக்காட்டு.",
+    "active": true
+  },
+  {
+    "id": "54c4WffwmWdDfwfzpRLM",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ந்’ எழுத்திற்கு இன எழுத்து எது?",
+    "options": [
+      "த்",
+      "ப்",
+      "ற்",
+      "க்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ந் - த் இன எழுத்துகள்.",
+    "active": true
+  },
+  {
+    "id": "5h0xvpXqAjMt2lrEyFH4",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சந்தனம்’ என்ற சொல்லில் உள்ள இன எழுத்துகள் எவை?",
+    "options": [
+      "ந் - த்",
+      "ன் - ற்",
+      "ங் - க்",
+      "ஞ் - ச்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "சந்தனம் என்ற சொல்லில் ந்-த் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "8fYobbtoatWV1pXJAeCt",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பந்தல்’ என்ற சொல்லில் உள்ள இன எழுத்துகள் எவை?",
+    "options": [
+      "ந் - த்",
+      "ன் - ற்",
+      "ங் - க்",
+      "ஞ் - ச்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பந்தல் என்ற சொல்லில் ந்-த் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "8u0fP7st3f04RvEuAi3B",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "உயிர் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "சொல்லில் உயிர் எழுத்துகள் சேர்ந்து வருவது எப்போது?",
+    "options": [
+      "எப்போதும்",
+      "அளபெடையில் மட்டும்",
+      "வல்லினத்தில்",
+      "மெல்லினத்தில்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "சொல்லில் உயிர் எழுத்துகள் சேர்ந்து வருவது இல்லை. அளபெடையில் மட்டும் நெடிலைத் தொடர்ந்து அதன் இனமாகிய குறில் எழுத்து சேர்ந்து வரும்.",
+    "active": true
+  },
+  {
+    "id": "9JuqEWolwhXDNl19KtXj",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ன்’ எழுத்திற்கு இன எழுத்து எது?",
+    "options": [
+      "ற்",
+      "க்",
+      "ச்",
+      "ட்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ன் - ற் இன எழுத்துகள்.",
+    "active": true
+  },
+  {
+    "id": "9QWnmwg9z7DKJNEsLi9Y",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ற’ கரத்திற்கு முன் எந்த எழுத்து வரும்?",
+    "options": [
+      "ன",
+      "ண",
+      "ந",
+      "ங"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "‘ற’ கரத்திற்கு முன் ‘ன’ வரும். எ.கா: மன்றம்.",
+    "active": true
+  },
+  {
+    "id": "9vyjQwFt88J7BTZu5JEv",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "இடையின எழுத்துகளின் எண்ணிக்கை எத்தனை?",
+    "options": [
+      "நான்கு",
+      "ஐந்து",
+      "ஆறு",
+      "ஏழு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "இடையினம்: ய், ர், ல், வ், ழ், ள் – ஆறு எழுத்துகள்.",
+    "active": true
+  },
+  {
+    "id": "AxAui6WyeissiatACHK6",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "முந்தைய ஆண்டு வினாக்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தவறான சொல்லை வட்டமிடுக.",
+    "options": [
+      "நண்டு",
+      "கண்டான்",
+      "வெண்ணான்",
+      "வண்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "வெண்ணான் என்பது தவறான சொல். சரியான வடிவம் வென்றான்.",
+    "active": true
+  },
+  {
+    "id": "B5tX8CKnIqZfYIUmhzFi",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பின்வருவனவற்றுள் இன எழுத்து இல்லாத சொல் எது?",
+    "options": [
+      "திங்கள்",
+      "மஞ்சள்",
+      "பள்ளி",
+      "அம்பு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பள்ளி என்ற சொல்லில் மெல்லின-வல்லின இன எழுத்து இல்லை.",
+    "active": true
+  },
+  {
+    "id": "BgBDyOKbeMtDON9CxWNr",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அம்பு’ என்ற சொல்லில் உள்ள இன எழுத்துகள் எவை?",
+    "options": [
+      "ம் - ப்",
+      "ன் - ற்",
+      "ண் - ட்",
+      "ந் - த்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அம்பு என்ற சொல்லில் ம்-ப் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "C0WQjdWxQ2W6nSOY3T0z",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "மெய் எழுத்துக்கள் எத்தனை வகையாகப் பிரிக்கப்படுகின்றன?",
+    "options": [
+      "இரண்டு",
+      "மூன்று",
+      "நான்கு",
+      "ஐந்து"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மெய் எழுத்துக்கள் வல்லினம், மெல்லினம், இடையினம் என மூன்று வகையாகப் பிரிக்கப்படுகின்றன.",
+    "active": true
+  },
+  {
+    "id": "D8seDRd45JDWzL1BMDFo",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பாடலில் ‘பந்தல் முன்பு’ என்ற தொடரில் உள்ள இன எழுத்துச் சொல் எது?",
+    "options": [
+      "பந்தல்",
+      "முன்பு",
+      "நின்றாளே",
+      "கம்பம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பந்தல் என்ற சொல்லில் ந்-த் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "DEMAwd82uhl6CsHIJhhA",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பாடலில் ‘சிங்கப் பொம்மை’ என்ற தொடரில் உள்ள இன எழுத்துச் சொல் எது?",
+    "options": [
+      "சிங்க",
+      "பொம்மை",
+      "தந்தாளே",
+      "பஞ்சு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "சிங்க என்ற சொல்லில் ங்-க் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "Do8IiG8Y87a0X3Jrs2BG",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "உயிர் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஓ’ எழுத்திற்கு இன எழுத்து எது?",
+    "options": [
+      "ஒ",
+      "ஊ",
+      "எ",
+      "ஐ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஓ → ஒ என்பது உயிர் இன எழுத்து.",
+    "active": true
+  },
+  {
+    "id": "EVZoHGgMWs2gIkaZrXny",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ட்’ கரத்திற்கு முன் எந்த எழுத்து வரும்?",
+    "options": [
+      "ண",
+      "ன",
+      "ந",
+      "ங"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "‘ட்’ கரத்திற்கு முன் ‘ண’ வரும். எ.கா: கண்டம்.",
+    "active": true
+  },
+  {
+    "id": "FpJWW65ZAVW8cHIxHjNx",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தமிழில் இன எழுத்து இல்லாத ஒரே எழுத்து எது?",
+    "options": [
+      "ஃ (ஆய்தம்)",
+      "க்",
+      "ங்",
+      "ய்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஆய்த எழுத்துக்கு (ஃ) மட்டுமே இன எழுத்து இல்லை.",
+    "active": true
+  },
+  {
+    "id": "Fs5heRuj9Q1jdtNPoGF3",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘துஏம்’ என்ற சொல் எதைக் குறிக்கிறது?",
+    "options": [
+      "வல்லின இனம்",
+      "மெல்லின இனம்",
+      "அளபெடை",
+      "ஆய்த எழுத்து"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "துஏம் என்பது அளபெடைக்கு எடுத்துக்காட்டு. நெடிலைத் தொடர்ந்து அதன் இன குறில் வரும்.",
+    "active": true
+  },
+  {
+    "id": "G6rEw8BILht94LSIgL1P",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "உயிர் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஒள’ என்னும் எழுத்துக்கு இன எழுத்து எது?",
+    "options": [
+      "அ",
+      "இ",
+      "உ",
+      "ஒ"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஒள என்னும் எழுத்துக்கு உ இன எழுத்தாகும்.",
+    "active": true
+  },
+  {
+    "id": "Gc9l6iqGkT9ccUCreJvB",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மாதிரி வினாக்கள் அடிப்படையிலானவை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "மெல்லினத்திற்கான இன எழுத்து இடம்பெறாத சொல் எது?",
+    "options": [
+      "மஞ்சள்",
+      "வந்தான்",
+      "கண்ணில்",
+      "தம்பி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "கண்ணில் என்ற சொல்லில் மெல்லினத்திற்கான இன எழுத்து இடம்பெறவில்லை.",
+    "active": true
+  },
+  {
+    "id": "GtVwWaKQGyE6CRkwKDDX",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மஞ்சள்’ என்ற சொல்லில் உள்ள இன எழுத்துகள் எவை?",
+    "options": [
+      "ங் - க்",
+      "ஞ் - ச்",
+      "ண் - ட்",
+      "ம் - ப்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மஞ்சள் என்ற சொல்லில் ஞ்-ச் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "IjsFri0dWR1upHzssc3M",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘திங்கள்’ என்ற சொல்லில் உள்ள இன எழுத்துகள் எவை?",
+    "options": [
+      "ங் - க்",
+      "ஞ் - ச்",
+      "ண் - ட்",
+      "ந் - த்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "திங்கள் என்ற சொல்லில் ங்-க் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "IuwRM59uDqa4kYLoLzmJ",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "சொற்களில் மெல்லின மெய் எழுத்தை அடுத்துப் பெரும்பாலும் எது வரும்?",
+    "options": [
+      "அதன் இனமாகிய வல்லின எழுத்து",
+      "உயிரெழுத்து",
+      "ஆய்த எழுத்து",
+      "இடையின எழுத்து"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "சொற்களில் மெல்லின மெய் எழுத்தை அடுத்துப் பெரும்பாலும் அதன் இனமாகிய வல்லின எழுத்து வரும்.",
+    "active": true
+  },
+  {
+    "id": "JUCh4RTR1s9LG9K1spRz",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "முந்தைய ஆண்டு வினாக்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஐ’, ‘ஒள’ என்ற எழுத்துக்களின் இன எழுத்துகளைக் கண்டறிக.",
+    "options": [
+      "அ, இ",
+      "இ, உ",
+      "ஈ, ஊ",
+      "அய், அவ்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஐ எழுத்திற்கு இ, ஒள எழுத்திற்கு உ இன எழுத்துகளாகும்.",
+    "active": true
+  },
+  {
+    "id": "KTN987JYjzvl0RIbRCVr",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "உயிர் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "உயிர் எழுத்துக்களில் குறிலுக்கு இனமாக அமைவது எது?",
+    "options": [
+      "நெடில்",
+      "மெய்",
+      "ஆய்தம்",
+      "உயிர்மெய்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "உயிர் எழுத்துக்களில் குறிலுக்கு நெடிலும், நெடிலுக்குக் குறிலும் இன எழுத்துக்கள் ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "KmzLDpXqfrTF9GLgjIS4",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சிங்க’ என்ற சொல்லில் உள்ள இன எழுத்துகள் எவை?",
+    "options": [
+      "ங் - க்",
+      "ஞ் - ச்",
+      "ண் - ட்",
+      "ம் - ப்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "சிங்க என்ற சொல்லில் ங்-க் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "KzjtbwiKqU8I4Pbxn3Ai",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பின்வருவனவற்றுள் வல்லினம் அல்லாதது எது?",
+    "options": [
+      "க்",
+      "ச்",
+      "ங்",
+      "ட்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ங் என்பது மெல்லினம். க், ச், ட் ஆகியவை வல்லினம்.",
+    "active": true
+  },
+  {
+    "id": "LRa9jvtrfp0ok8sbQ8ZC",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "உயிர் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பின்வருவனவற்றுள் உயிர் இன எழுத்துகள் அல்லாதது எது?",
+    "options": [
+      "அ - ஆ",
+      "இ - ஈ",
+      "உ - ஊ",
+      "க் - ங்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "க் - ங் என்பது மெய் இன எழுத்துகள். மற்றவை உயிர் இனங்கள்.",
+    "active": true
+  },
+  {
+    "id": "Lw80selK0ROLVHZqxkGY",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கன்டம்’ என்ற தவறான சொல்லைத் திருத்தி எழுதுக.",
+    "options": [
+      "கண்டம்",
+      "கன்தம்",
+      "கன்ரம்",
+      "கன்றம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கன்டம் → கண்டம் என்பதே சரி. இதில் ண்-ட் இன எழுத்து உள்ளது.",
+    "active": true
+  },
+  {
+    "id": "MZ3oeIKFX8PVO97MholM",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நன்றி’ என்ற சொல்லைச் சரியாக எழுதுக.",
+    "options": [
+      "நன்றி",
+      "நன்ரி",
+      "நன்ற்இ",
+      "நன்ரீ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நன்றி என்பதே சரியான வடிவம். இதில் ன்-ற் இன எழுத்து உள்ளது.",
+    "active": true
+  },
+  {
+    "id": "NTviBTmKn6bXOAIWGXQg",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கண்ணில்’ என்ற சொல்லில் இன எழுத்து இல்லாததற்குக் காரணம் என்ன?",
+    "options": [
+      "மெல்லினம் இல்லை",
+      "வல்லினம் இல்லை",
+      "மெல்லினத்திற்குப் பின் வல்லினம் வரவில்லை",
+      "உயிரெழுத்து உள்ளது"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "கண்ணில் என்ற சொல்லில் ண் உள்ளது ஆனால் அதன் இனமாகிய ட் வரவில்லை.",
+    "active": true
+  },
+  {
+    "id": "Op4d7oULuiV6VTs3r7Zl",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "உயிர் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அ’ எழுத்திற்கு இன எழுத்து எது?",
+    "options": [
+      "இ",
+      "ஆ",
+      "உ",
+      "எ"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அ → ஆ என்பது உயிர் இன எழுத்து.",
+    "active": true
+  },
+  {
+    "id": "Ps0pWXgjKng6LHS36PIu",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "மெல்லின மெய் எழுத்துக்கள் எவை?",
+    "options": [
+      "க், ச், ட், த், ப், ற்",
+      "ங், ஞ், ண், ந், ம், ன்",
+      "ய், ர், ல், வ், ழ், ள்",
+      "ஐ, ஒள"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மெல்லினம்: ங், ஞ், ண், ந், ம், ன்.",
+    "active": true
+  },
+  {
+    "id": "QbRaOJApbea7tTovTE7y",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "முந்தைய ஆண்டு வினாக்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கீழ்க்கண்டவற்றுள் மெல்லினத்திற்கான இனவெழுத்து இடம் பெறாத சொல் எது?",
+    "options": [
+      "மஞ்சள்",
+      "திங்கள்",
+      "கல்வி",
+      "தென்றல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "கல்வி என்ற சொல்லில் மெல்லினத்திற்கான இன எழுத்து இடம்பெறவில்லை.",
+    "active": true
+  },
+  {
+    "id": "QolZLDY2dzpAceh9msog",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தம்பி’ என்ற சொல்லில் உள்ள இன எழுத்துகள் எவை?",
+    "options": [
+      "ம் - ப்",
+      "ன் - ற்",
+      "ண் - ட்",
+      "ந் - த்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தம்பி என்ற சொல்லில் ம்-ப் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "TCgZ9ibPrupGc18oFev2",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "இடையின மெய் எழுத்துக்கள் எவை?",
+    "options": [
+      "க், ச், ட், த், ப், ற்",
+      "ங், ஞ், ண், ந், ம், ன்",
+      "ய், ர், ல், வ், ழ், ள்",
+      "அ, ஆ, இ, ஈ, உ, ஊ"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "இடையினம்: ய், ர், ல், வ், ழ், ள்.",
+    "active": true
+  },
+  {
+    "id": "TYnQv7SseuPgYAjabGvl",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "உயிர் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உ’ எழுத்திற்கு இன எழுத்து எது?",
+    "options": [
+      "ஊ",
+      "ஓ",
+      "எ",
+      "ஐ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "உ → ஊ என்பது உயிர் இன எழுத்து.",
+    "active": true
+  },
+  {
+    "id": "Tx8w1nWbiqM4rNTNYcK6",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - அறிமுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பிறக்கும் இடம், ஒலிக்கும் முயற்சி மற்றும் வடிவம் ஆகியவற்றில் ஒற்றுமை உடைய எழுத்துக்கள் எவ்வாறு அழைக்கப்படுகின்றன?",
+    "options": [
+      "உயிரெழுத்துக்கள்",
+      "மெய்யெழுத்துக்கள்",
+      "இன எழுத்துக்கள்",
+      "ஆய்த எழுத்து"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பிறக்கும் இடம், ஒலிக்கும் முயற்சி மற்றும் வடிவம் ஆகியவற்றில் ஒற்றுமை உடைய எழுத்துக்கள் இன எழுத்துக்கள் (நட்பு எழுத்துக்கள்) எனப்படும்.",
+    "active": true
+  },
+  {
+    "id": "UJXsNgEfyWfLJ0yAFP9d",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பாடலில் ‘தங்கப் பாப்பா’ என்ற தொடரில் உள்ள இன எழுத்துச் சொல் எது?",
+    "options": [
+      "தங்க",
+      "பாப்பா",
+      "வந்தாளே",
+      "சிங்க"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தங்க என்ற சொல்லில் ங்-க் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "URkkzdHHxnAwepzMnMvV",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பின்வருவனவற்றுள் இடையினம் அல்லாதது எது?",
+    "options": [
+      "ய்",
+      "ர்",
+      "ல்",
+      "ந்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "ந் என்பது மெல்லினம். ய், ர், ல் ஆகியவை இடையினம்.",
+    "active": true
+  },
+  {
+    "id": "UYHwlKupD8rX6p8ysTr5",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - அறிமுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தமிழ் மொழியில் எழுத்துக்கள் எத்தனை வகையாகப் பிரிக்கப்படுகின்றன?",
+    "options": [
+      "உயிர் இனங்கள், மெய் இனங்கள்",
+      "வல்லினம், மெல்லினம்",
+      "குறில், நெடில்",
+      "உயிர், மெய், ஆய்தம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தமிழ் மொழியில் எழுத்துக்கள் உயிர் இனங்கள், மெய் இனங்கள் எனப் பிரிக்கப்படுகின்றன.",
+    "active": true
+  },
+  {
+    "id": "UqgOtvQyOGuqjt0UXe24",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஒஒதல்’ என்ற சொல் எதை விளக்குகிறது?",
+    "options": [
+      "வல்லின விதி",
+      "மெல்லின விதி",
+      "அளபெடை விதி",
+      "ஆய்த விதி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஒஒதல் என்பது அளபெடைக்கு எடுத்துக்காட்டு. நெடிலுக்குப் பின் அதன் இன குறில் வரும்.",
+    "active": true
+  },
+  {
+    "id": "VLqKmX3oMzpwzy6Rc4DX",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வல்லின மெய் எழுத்துக்கள் எவை?",
+    "options": [
+      "க், ச், ட், த், ப், ற்",
+      "ங், ஞ், ண், ந், ம், ன்",
+      "ய், ர், ல், வ், ழ், ள்",
+      "அ, ஆ, இ, ஈ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "வல்லினம்: க், ச், ட், த், ப், ற்.",
+    "active": true
+  },
+  {
+    "id": "VyyQAfFHamdlELOMvcio",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "உயிர் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஏ’ எழுத்திற்கு இன எழுத்து எது?",
+    "options": [
+      "எ",
+      "ஓ",
+      "ஐ",
+      "ஒள"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஏ → எ என்பது உயிர் இன எழுத்து.",
+    "active": true
+  },
+  {
+    "id": "Vzh2WxB34qkQaJnhrumr",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பாடலில் ‘பஞ்சு போன்ற’ என்ற தொடரில் உள்ள இன எழுத்துச் சொல் எது?",
+    "options": [
+      "பஞ்சு",
+      "போன்ற",
+      "கையாலே",
+      "பண்டம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பஞ்சு என்ற சொல்லில் ஞ்-ச் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "WtubrY3aMASo8s3QJl78",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வந்தான்’ என்ற சொல்லில் உள்ள இன எழுத்துகள் எவை?",
+    "options": [
+      "ந் - த்",
+      "ன் - ற்",
+      "ங் - க்",
+      "ஞ் - ச்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "வந்தான் என்ற சொல்லில் ந்-த் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "XShuAdnfEgECSR7giZq1",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கண்டம்’ என்ற சொல்லில் உள்ள இன எழுத்துகள் எவை?",
+    "options": [
+      "ண் - ட்",
+      "ன் - ற்",
+      "ந் - த்",
+      "ம் - ப்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கண்டம் என்ற சொல்லில் ண்-ட் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "XVzlRPI0PxF0hmxOJSs5",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ப்’ எழுத்திற்கு இன எழுத்து எது?",
+    "options": [
+      "ம்",
+      "ன்",
+      "ங்",
+      "ஞ்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ப் - ம் இன எழுத்துகள். எ.கா: அம்பு.",
+    "active": true
+  },
+  {
+    "id": "Z0t6svC1MPQjZ2ecWaNS",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ற்’ எழுத்திற்கு இன எழுத்து எது?",
+    "options": [
+      "ன்",
+      "ந்",
+      "ண்",
+      "ம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ற் - ன் இன எழுத்துகள். எ.கா: தென்றல்.",
+    "active": true
+  },
+  {
+    "id": "ZH6SLil8eOWVGZSrPwYK",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "முந்தைய ஆண்டு வினாக்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கூற்று : ஒலிக்கும் முயற்சி, பிறக்கும் இடம் ஆகியவற்றில் ஒற்றுமை உண்டு. காரணம் : ஒற்றுமை உள்ள எழுத்துக்கள் இன எழுத்துக்கள் எனப்படும். இவை சரியா தவறா?",
+    "options": [
+      "கூற்று சரி, காரணம் சரி",
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று தவறு, காரணம் சரி",
+      "கூற்று தவறு, காரணம் தவறு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கூற்றும் காரணமும் சரியானவை. ஒலிக்கும் முயற்சி மற்றும் பிறக்கும் இடத்தில் ஒற்றுமை உள்ள எழுத்துக்கள் இன எழுத்துக்கள் எனப்படும்.",
+    "active": true
+  },
+  {
+    "id": "ZsXUpRX4uUhTfv8pqcjd",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "உயிர் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஈ’ எழுத்திற்கு இன எழுத்து எது?",
+    "options": [
+      "இ",
+      "அ",
+      "உ",
+      "ஒ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஈ → இ என்பது உயிர் இன எழுத்து.",
+    "active": true
+  },
+  {
+    "id": "a6Pr7zUrOGSEm5x6Q7yS",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஆய்த எழுத்துக்கு இன எழுத்து இல்லாததற்குக் காரணம் என்ன?",
+    "options": [
+      "அது உயிரெழுத்து",
+      "அது மெய்யெழுத்து அல்ல",
+      "அது தனித்தன்மை வாய்ந்தது",
+      "அது குறில்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "தமிழ் எழுத்துகளில் ஆய்த எழுத்துக்கு மட்டுமே இன எழுத்து இல்லை. அது தனித்தன்மை வாய்ந்தது.",
+    "active": true
+  },
+  {
+    "id": "aPtSyqk8eYbh6BZc7bk0",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தென்றல்’ என்ற சொல்லில் உள்ள இன எழுத்துகள் எவை?",
+    "options": [
+      "ன் - ற்",
+      "ந் - த்",
+      "ங் - க்",
+      "ஞ் - ச்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தென்றல் என்ற சொல்லில் ன்-ற் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "aZQg7Cwbfi8J9v71R1Tr",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "உயிர் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குறில் எழுத்து இல்லாத ‘ஐ’ என்னும் எழுத்துக்கு இன எழுத்து எது?",
+    "options": [
+      "அ",
+      "இ",
+      "உ",
+      "எ"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "குறில் எழுத்து இல்லாத ஐ என்னும் எழுத்துக்கு இ இன எழுத்தாகும்.",
+    "active": true
+  },
+  {
+    "id": "abCSBLKdFzG72EU1gqhm",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "உயிர் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அளபெடைக்கு எடுத்துக்காட்டு எது?",
+    "options": [
+      "திங்கள்",
+      "ஒஒதல்",
+      "மஞ்சள்",
+      "அம்பு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஒஒதல், துஏம், தழீஇ போன்றவை அளபெடை எடுத்துக்காட்டுகள்.",
+    "active": true
+  },
+  {
+    "id": "cInTvaz0Ii9fkkgm92wz",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "முந்தைய ஆண்டு வினாக்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கூற்று: ஒலிக்கும் முயற்சி, பிறக்கும் இடம் ஆகியவற்றில் ஒற்றுமை உண்டு. காரணம்: ஒற்றுமை உள்ள எழுத்துக்கள் இன எழுத்துக்கள் எனப்படும். இவை சரியா?",
+    "options": [
+      "கூற்று சரி, காரணம் சரி",
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று தவறு, காரணம் சரி",
+      "கூற்று தவறு, காரணம் தவறு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கூற்றும் காரணமும் சரியானவை. ஒற்றுமை உள்ள எழுத்துக்கள் இன எழுத்துக்கள் எனப்படும்.",
+    "active": true
+  },
+  {
+    "id": "cksWPyD1uNVOqDKGrxBh",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "மெல்லின எழுத்தை அடுத்து வல்லின எழுத்து வராத சொல் எது?",
+    "options": [
+      "திங்கள்",
+      "மஞ்சள்",
+      "கல்வி",
+      "தென்றல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "கல்வி என்ற சொல்லில் மெல்லினத்திற்குப் பின் அதன் இன வல்லினம் வரவில்லை.",
+    "active": true
+  },
+  {
+    "id": "exn047LM4JIe0stkClGr",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "முந்தைய ஆண்டு வினாக்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "இனவெழுத்து இல்லாத தமிழெழுத்து எது?",
+    "options": [
+      "மெய்யெழுத்து",
+      "ஆய்த எழுத்து",
+      "உயிரெழுத்து",
+      "உயிர் மெய்யெழுத்து"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஆய்த எழுத்துக்கு மட்டுமே இன எழுத்து இல்லை.",
+    "active": true
+  },
+  {
+    "id": "f1Qeb5SAT08N6B9qHPyL",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "உயிர் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இ’ எழுத்திற்கு இன எழுத்து எது?",
+    "options": [
+      "ஈ",
+      "ஆ",
+      "உ",
+      "ஒ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "இ → ஈ என்பது உயிர் இன எழுத்து.",
+    "active": true
+  },
+  {
+    "id": "fVF5mpiHj0BK5h7GjQtu",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘க்’ எழுத்திற்கு இன எழுத்து எது?",
+    "options": [
+      "ங்",
+      "ஞ்",
+      "ண்",
+      "ந்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "க் - ங் இன எழுத்துகள். எ.கா: திங்கள்.",
+    "active": true
+  },
+  {
+    "id": "fzXWyVQy61f4Tna8xuqq",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "மெல்லின எழுத்துகளின் எண்ணிக்கை எத்தனை?",
+    "options": [
+      "நான்கு",
+      "ஐந்து",
+      "ஆறு",
+      "ஏழு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "மெல்லினம்: ங், ஞ், ண், ந், ம், ன் – ஆறு எழுத்துகள்.",
+    "active": true
+  },
+  {
+    "id": "grdw2n1Msiu5Ns9gKyWI",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பாடலில் ‘பண்டம் கொண்டு’ என்ற தொடரில் உள்ள இன எழுத்துச் சொல் எது?",
+    "options": [
+      "பண்டம்",
+      "கொண்டு",
+      "வந்தாளே",
+      "பந்தல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பண்டம் என்ற சொல்லில் ண்-ட் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "gwGUeamuTTda10IHcipQ",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பின்வருவனவற்றுள் மெல்லின எழுத்து அல்லாதது எது?",
+    "options": [
+      "ங்",
+      "ஞ்",
+      "ண்",
+      "ழ்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "ழ் என்பது இடையினம். ங், ஞ், ண் ஆகியவை மெல்லினம்.",
+    "active": true
+  },
+  {
+    "id": "h2VQTC0AZlJu8nlnbXsm",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பின்வருவனவற்றுள் இன எழுத்துகள் உள்ள சொல் எது?",
+    "options": [
+      "கல்வி",
+      "பள்ளி",
+      "திங்கள்",
+      "வாக்கு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "திங்கள் என்ற சொல்லில் ங்-க் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "iPWdLWnr8wOBswwR7XzN",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ம்’ எழுத்திற்கு இன எழுத்து எது?",
+    "options": [
+      "ப்",
+      "ற்",
+      "க்",
+      "ச்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ம் - ப் இன எழுத்துகள்.",
+    "active": true
+  },
+  {
+    "id": "j2nVl77VoAd96evhkDDb",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ட்’ எழுத்திற்கு இன எழுத்து எது?",
+    "options": [
+      "ண்",
+      "ந்",
+      "ன்",
+      "ம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ட் - ண் இன எழுத்துகள். எ.கா: மண்டபம்.",
+    "active": true
+  },
+  {
+    "id": "l12ctALqjrMSpxYYHl6O",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பாடலில் ‘தென்றல் காற்றும்’ என்ற தொடரில் உள்ள இன எழுத்துச் சொல் எது?",
+    "options": [
+      "தென்றல்",
+      "காற்றும்",
+      "வந்ததே",
+      "தெவிட்டா"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தென்றல் என்ற சொல்லில் ன்-ற் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "lTwQefR4PjYMLKEPeg4N",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நன்ரி’ என்ற தவறான சொல்லைத் திருத்தி எழுதுக.",
+    "options": [
+      "நன்றி",
+      "நன்ரி",
+      "நன்றீ",
+      "நன்ரீ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நன்ரி → நன்றி என்பதே சரி. இதில் ன்-ற் இன எழுத்து உள்ளது.",
+    "active": true
+  },
+  {
+    "id": "m8Xwzitw1Goluu23X8he",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘த்’ எழுத்திற்கு இன எழுத்து எது?",
+    "options": [
+      "ந்",
+      "ன்",
+      "ம்",
+      "ங்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "த் - ந் இன எழுத்துகள். எ.கா: சந்தனம்.",
+    "active": true
+  },
+  {
+    "id": "npFerDEXkvphTlooKqN3",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பின்வரும் சொற்களில் தவறானது எது?",
+    "options": [
+      "கண்டம்",
+      "மண்டபம்",
+      "வெண்ணான்",
+      "தென்றல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "வெண்ணான் என்பது தவறான சொல். சரியானது வென்றான்.",
+    "active": true
+  },
+  {
+    "id": "oMje2teHx3cPgUoNSHFq",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பின்வருவனவற்றுள் சரியான சொல் எது?",
+    "options": [
+      "வெண்ணான்",
+      "வென்றான்",
+      "வென்ரான்",
+      "வெண்றான்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வென்றான் என்பதே சரியான சொல். இதில் ன்-ற் இன எழுத்து உள்ளது.",
+    "active": true
+  },
+  {
+    "id": "pyBnrGB0Hc2Q3pdXGAyh",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஞ்’ எழுத்திற்கு இன எழுத்து எது?",
+    "options": [
+      "ச்",
+      "ட்",
+      "த்",
+      "ப்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஞ் - ச் இன எழுத்துகள்.",
+    "active": true
+  },
+  {
+    "id": "qGy7NdYLeaDDM2cODt6Q",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ச்’ எழுத்திற்கு இன எழுத்து எது?",
+    "options": [
+      "ங்",
+      "ஞ்",
+      "ண்",
+      "ம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ச் - ஞ் இன எழுத்துகள். எ.கா: மஞ்சள்.",
+    "active": true
+  },
+  {
+    "id": "qNDx9M2QblI8xjibqcpI",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மன்றம்’ என்ற சொல்லில் உள்ள இன எழுத்துகள் எவை?",
+    "options": [
+      "ன் - ற்",
+      "ண் - ட்",
+      "ந் - த்",
+      "ங் - க்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மன்றம் என்ற சொல்லில் ன்-ற் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "r6gS1F4bqDCtna4bobuI",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தங்க’ என்ற சொல்லில் உள்ள இன எழுத்துகள் எவை?",
+    "options": [
+      "ங் - க்",
+      "ஞ் - ச்",
+      "ண் - ட்",
+      "ந் - த்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தங்க என்ற சொல்லில் ங்-க் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "rsUddS5ApRMl8FInGJE7",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பஞ்சு’ என்ற சொல்லில் உள்ள இன எழுத்துகள் எவை?",
+    "options": [
+      "ஞ் - ச்",
+      "ங் - க்",
+      "ண் - ட்",
+      "ன் - ற்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பஞ்சு என்ற சொல்லில் ஞ்-ச் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "s57SBJd9beaE6DHDxleL",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பின்வருவனவற்றுள் மெல்லினம் அல்லாதது எது?",
+    "options": [
+      "ங்",
+      "ஞ்",
+      "ய்",
+      "ண்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ய் என்பது இடையினம். ங், ஞ், ண் ஆகியவை மெல்லினம்.",
+    "active": true
+  },
+  {
+    "id": "s92IVTooK8AWDmYalvl0",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பாடலில் ‘கம்பம் சுற்றி’ என்ற தொடரில் உள்ள இன எழுத்துச் சொல் எது?",
+    "options": [
+      "கம்பம்",
+      "சுற்றி",
+      "வந்தாளே",
+      "தென்றல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கம்பம் என்ற சொல்லில் ம்-ப் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "sXSU9jFn9pCa16x3g5h7",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வண்டு’ என்ற சொல்லில் உள்ள இன எழுத்துகள் எவை?",
+    "options": [
+      "ண் - ட்",
+      "ன் - ற்",
+      "ந் - த்",
+      "ங் - க்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "வண்டு என்ற சொல்லில் ண்-ட் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "sfcTVI0DYTkQrTx6rWkU",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நண்டு’ என்ற சொல்லில் உள்ள இன எழுத்துகள் எவை?",
+    "options": [
+      "ண் - ட்",
+      "ன் - ற்",
+      "ந் - த்",
+      "ம் - ப்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நண்டு என்ற சொல்லில் ண்-ட் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "svqfBXgYBybbYjrD5ek9",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மாதிரி வினாக்கள் அடிப்படையிலானவை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தவறான சொல்லைக் கண்டறிக.",
+    "options": [
+      "கண்டான்",
+      "வெண்ணான்",
+      "நண்டு",
+      "வண்டு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வெண்ணான் என்பது தவறான சொல். சரியான வடிவம் வென்றான்.",
+    "active": true
+  },
+  {
+    "id": "tLyzJjiU39oOZvnfWZLc",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "உயிர் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஊ’ எழுத்திற்கு இன எழுத்து எது?",
+    "options": [
+      "உ",
+      "ஓ",
+      "எ",
+      "ஐ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஊ → உ என்பது உயிர் இன எழுத்து.",
+    "active": true
+  },
+  {
+    "id": "tpKiEOpJRLSFOd7iop1c",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பின்வருவனவற்றுள் வல்லின-மெல்லின இன ஜோடி அல்லாதது எது?",
+    "options": [
+      "க் - ங்",
+      "ச் - ஞ்",
+      "ய் - ர்",
+      "ட் - ண்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ய் - ர் இரண்டும் இடையினம். மற்றவை வல்லின-மெல்லின இன ஜோடிகள்.",
+    "active": true
+  },
+  {
+    "id": "urzfkTRnKbsnGyFAbPRk",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மண்டபம்’ என்ற சொல்லில் உள்ள இன எழுத்துகள் எவை?",
+    "options": [
+      "ண் - ட்",
+      "ந் - த்",
+      "ன் - ற்",
+      "ம் - ப்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மண்டபம் என்ற சொல்லில் ண்-ட் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "w0Vai1LXLXp9lQwivHCc",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ங்’ எழுத்திற்கு இன எழுத்து எது?",
+    "options": [
+      "க்",
+      "ச்",
+      "ட்",
+      "த்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ங் - க் இன எழுத்துகள்.",
+    "active": true
+  },
+  {
+    "id": "wpBV4cKEraA15yweqZHu",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பின்வரும் சொற்களில் இன எழுத்து இல்லாதது எது?",
+    "options": [
+      "திங்கள்",
+      "மஞ்சள்",
+      "கல்வி",
+      "அம்பு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "கல்வி என்ற சொல்லில் மெல்லின-வல்லின இன எழுத்து இல்லை.",
+    "active": true
+  },
+  {
+    "id": "ylrCNitXZ7jf1mubWSfp",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "இடையின எழுத்துகள் ஆறும் எவ்வாறு அமைகின்றன?",
+    "options": [
+      "தனித்தனியாக இனம்",
+      "ஒரே இனமாகும்",
+      "வல்லினத்துடன் இனம்",
+      "மெல்லினத்துடன் இனம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இடையின எழுத்துகள் ஆறும் (ய், ர், ல், வ், ழ், ள்) ஒரே இனமாகும்.",
+    "active": true
+  },
+  {
+    "id": "ynTA4beFBKdKTTyu0YWu",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "மெய் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வல்லின எழுத்துகளின் எண்ணிக்கை எத்தனை?",
+    "options": [
+      "நான்கு",
+      "ஐந்து",
+      "ஆறு",
+      "ஏழு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "வல்லினம்: க், ச், ட், த், ப், ற் – ஆறு எழுத்துகள்.",
+    "active": true
+  },
+  {
+    "id": "z3Udu8XAoqMCUjTp1Jhk",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பின்வருவனவற்றுள் வல்லின எழுத்து அல்லாதது எது?",
+    "options": [
+      "க்",
+      "ச்",
+      "ட்",
+      "ஞ்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "ஞ் என்பது மெல்லினம். க், ச், ட் ஆகியவை வல்லினம்.",
+    "active": true
+  },
+  {
+    "id": "zFjItdgNuqt700H0lY0u",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பண்டம்’ என்ற சொல்லில் உள்ள இன எழுத்துகள் எவை?",
+    "options": [
+      "ண் - ட்",
+      "ந் - த்",
+      "ன் - ற்",
+      "ம் - ப்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பண்டம் என்ற சொல்லில் ண்-ட் இன எழுத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "zKVFqgRt8Tdp47OvFbFq",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "உயிர் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆ’ எழுத்திற்கு இன எழுத்து எது?",
+    "options": [
+      "அ",
+      "இ",
+      "உ",
+      "எ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஆ → அ என்பது உயிர் இன எழுத்து (நெடிலுக்குக் குறில்).",
+    "active": true
+  },
+  {
+    "id": "zeyI1dqxU48FBbSMMQzH",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "இன எழுத்துக்கள் - பொது",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பின்வருவனவற்றுள் இடையின எழுத்து அல்லாதது எது?",
+    "options": [
+      "ய்",
+      "ர்",
+      "ல்",
+      "ங்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "ங் என்பது மெல்லினம். ய், ர், ல் ஆகியவை இடையினம்.",
+    "active": true
+  },
+  {
+    "id": "znWnFNozMFYvwUxpJkUI",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - இன எழுத்துக்கள்",
+    "topic": "உயிர் எழுத்துக்களின் இனங்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஒ’ எழுத்திற்கு இன எழுத்து எது?",
+    "options": [
+      "ஓ",
+      "ஊ",
+      "எ",
+      "ஐ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஒ → ஓ என்பது உயிர் இன எழுத்து.",
+    "active": true
+  }
+]

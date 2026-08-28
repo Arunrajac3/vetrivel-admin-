@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "0PNBuLwUYqozrc7W0OuE",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அக்குளம்’ மற்றும் ‘இக்குளம்’ ஆகியவற்றில் உள்ள சுட்டு வகை எது?",
+    "options": [
+      "அகச்சுட்டு",
+      "புறச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "இடைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அ + குளம், இ + குளம் எனப் பிரிக்க முடியும். எனவே புறச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "0kQD8O0OawIPnNvPOfRR",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இந்த ஆடு’ என்பதில் உள்ள சுட்டு வகை எது?",
+    "options": [
+      "அகச்சுட்டு",
+      "புறச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "சேய்மைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "இந்த என்பது இ என்ற சுட்டின் திரிபு வடிவம். எனவே சுட்டுத் திரிபு.",
+    "active": true
+  },
+  {
+    "id": "2kgIdwMmcehlVy7WwcS6",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அந்த மரம்’ என்பதில் உள்ள சுட்டு வகை எது?",
+    "options": [
+      "அகச்சுட்டு",
+      "புறச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "அண்மைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அந்த என்பது அ என்ற சுட்டின் திரிபு. எனவே சுட்டுத் திரிபு.",
+    "active": true
+  },
+  {
+    "id": "4AFouakScksqIJPd1oON",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உம்பர்’ என்ற சொல்லின் பொருள் என்ன என்பதைக் குறிக்கும் சுட்டு எழுத்து எது?",
+    "options": [
+      "அ",
+      "இ",
+      "உ",
+      "எ"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "உம்பர் என்றால் மேலே என்பது பொருள். இதில் உகரச் சுட்டு பயன்படுத்தப்பட்டுள்ளது.",
+    "active": true
+  },
+  {
+    "id": "75yevN020IzPAR14hxgG",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இப்பூனை’ மற்றும் ‘அம்மரம்’ ஆகியவற்றின் சுட்டு வகைகள் முறையே எவை?",
+    "options": [
+      "சேய்மைச்சுட்டு, அண்மைச்சுட்டு",
+      "அண்மைச்சுட்டு, சேய்மைச்சுட்டு",
+      "அகச்சுட்டு, புறச்சுட்டு",
+      "புறச்சுட்டு, சுட்டுத் திரிபு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இப்பூனை – அருகில் உள்ளதால் அண்மைச்சுட்டு; அம்மரம் – தொலைவில் உள்ளதால் சேய்மைச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "9nJSjnak3fr8ORwKV2yh",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இது’ என்ற சுட்டுச்சொல் எதைக் குறிக்கும்?",
+    "options": [
+      "தொலைவில் உள்ள பொருள்",
+      "அருகில் உள்ள பொருள்",
+      "ஆண்",
+      "பெண்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இது என்பது அருகில் உள்ள பொருளைச் சுட்டிக் காட்டும் சுட்டுச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "AS8dYbcGzBJVk4wW4ROs",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அது’ என்ற சொல் ஆண் பெண் வேறுபாட்டைச் சுட்டுகிறதா?",
+    "options": [
+      "ஆம்",
+      "இல்லை",
+      "சில சமயம்",
+      "எழுத்து வழக்கில் மட்டும்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அது, இது போன்ற சுட்டுச்சொற்கள் ஆண் பெண் வேறுபாட்டைச் சுட்டாமல் பொதுவாகப் பொருளைச் சுட்டுகின்றன.",
+    "active": true
+  },
+  {
+    "id": "AwwlEKCVluUbTSyGJnN0",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மரம்’ என்றால் எதைக் குறிக்கும்?",
+    "options": [
+      "அனைத்து மரங்களையும்",
+      "ஏதோ ஒரு மரத்தை",
+      "குறிப்பிட்ட மரத்தை",
+      "தொலைவில் உள்ள மரத்தை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மரம் என்றால் அது தோப்பில் உள்ள ஏதோ ஒரு மரத்தைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "CIu4yz29l8yWjmfOGrRY",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இம்மலர்’ என்பதில் உள்ள சுட்டு வகை எது?",
+    "options": [
+      "சேய்மைச்சுட்டு",
+      "அண்மைச்சுட்டு",
+      "அகச்சுட்டு",
+      "சுட்டுத் திரிபு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இம்மலர் அருகில் உள்ள மலரைச் சுட்டிக் காட்டுவதால் அண்மைச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "CR8Pwwt5ylMCUK9Q1w79",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அருகில் உள்ள பொருள்களைச் சுட்டிக் காட்டும் சுட்டு வகை எது?",
+    "options": [
+      "சேய்மைச்சுட்டு",
+      "அண்மைச்சுட்டு",
+      "அகச்சுட்டு",
+      "புறச்சுட்டு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இப்புத்தகம், இப்பூனை முதலியன அருகில் உள்ள பொருள்களைச் சுட்டிக் காட்டுகின்றன. எனவே அண்மைச்சுட்டு. அண்மை என்பது அருகில் என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "ClTmbcawuBOWFGbciY4u",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உ’ சுட்டு எழுத்து தற்காலத்தில் எங்கு பயன்படுத்தப்படுகிறது?",
+    "options": [
+      "இந்தியா முழுவதும்",
+      "இலங்கையில் வாழும் தமிழர்கள் மட்டும்",
+      "சிங்கப்பூரில் மட்டும்",
+      "மலேசியாவில் மட்டும்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இக்காலத்தில் இலங்கையில் வாழும் தமிழர்கள் மட்டும் உகரச் சுட்டைப் பயன்படுத்துகின்றனர்.",
+    "active": true
+  },
+  {
+    "id": "DCRgKXlOBEJNgfL4tvIo",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இப்பூனை’ என்பதில் உள்ள சுட்டு வகை எது?",
+    "options": [
+      "சேய்மைச்சுட்டு",
+      "அண்மைச்சுட்டு",
+      "அகச்சுட்டு",
+      "சுட்டுத் திரிபு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இப்பூனை அருகில் உள்ள பொருளைச் சுட்டிக் காட்டுவதால் அண்மைச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "DlCop3JIAlaZPZiT0Yfv",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஒரு சொல்லில் சுட்டு எழுத்தை நீக்கிய பிறகு மீதமுள்ள பகுதி பொருள் தராவிட்டால் அது எந்த வகை?",
+    "options": [
+      "புறச்சுட்டு",
+      "அகச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "அண்மைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அகச்சுட்டில் சுட்டை நீக்கினால் வன், வள் போன்றவை தனியே பொருள் தராது.",
+    "active": true
+  },
+  {
+    "id": "Du7k9YJdfo55hm7rmEBl",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "புறச்சுட்டு என்பதன் பொருள் என்ன?",
+    "options": [
+      "உள்ளே",
+      "வெளியே",
+      "அருகில்",
+      "தொலைவில்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "புறம் என்பது வெளியே என்று பொருள்படும். சொல்லுக்கு வெளியே இருந்து சுட்டுப் பொருளை உணர்த்துவது புறச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "EEbTCstjskoDUNn0CBFE",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அவன், அவள்’ என்னும் சுட்டுச்சொற்கள் எதைச் சுட்டிச் சொல்கின்றன?",
+    "options": [
+      "இடத்தை மட்டும்",
+      "ஆண் பெண் வேறுபாட்டை",
+      "காலத்தை",
+      "எண்ணிக்கையை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அவன், அவள் என்னும் சுட்டுச்சொற்கள் ஆணா, பெண்ணா என்பதையும் சுட்டிச் சொல்லிவிடுகின்றன.",
+    "active": true
+  },
+  {
+    "id": "EQCCLnl9JLCUKMXizYrB",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இந்த’ என்ற சுட்டுச்சொல் எந்த வகையைச் சார்ந்தது?",
+    "options": [
+      "அகச்சுட்டு",
+      "புறச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "சேய்மைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "இந்த என்பது இ என்ற சுட்டின் திரிபு வடிவம். எனவே சுட்டுத் திரிபு.",
+    "active": true
+  },
+  {
+    "id": "F0kFprdXlOQkHfefiQrQ",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஒரு சொல்லில் சுட்டு எழுத்தை நீக்கிய பிறகும் அச்சொல் தனித்து நின்று பொருள் தருமானால் அது எந்த வகை?",
+    "options": [
+      "அகச்சுட்டு",
+      "புறச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "இடைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "புறச்சுட்டில் சுட்டை நீக்கிய பின் வீடு, மனிதன் போன்ற சொற்கள் தனித்து நிற்கும்.",
+    "active": true
+  },
+  {
+    "id": "FytyYhtd5pmNjVcMRN96",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அந்த மரம்’, ‘இந்த வீடு’ போன்றவற்றில் உள்ள சுட்டு வகை எது?",
+    "options": [
+      "அகச்சுட்டு",
+      "புறச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "அண்மைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அ, இ என்ற சுட்டு எழுத்துகள் அந்த, இந்த என்று மாறித் தம் வடிவத்திலிருந்து திரிந்து பொருளைச் சுட்டுகின்றன. எனவே சுட்டுத் திரிபு.",
+    "active": true
+  },
+  {
+    "id": "GuldIco5Nh4H923jajVi",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மரங்கள்’ என்றால் எதைக் குறிக்கும்?",
+    "options": [
+      "ஒரு குறிப்பிட்ட மரத்தை",
+      "தோப்பில் உள்ள அனைத்து மரங்களையும்",
+      "அருகில் உள்ள மரத்தை",
+      "தொலைவில் உள்ள மரத்தை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மரங்கள் என்று சொன்னால் அது அந்தத் தோப்பில் உள்ள மரங்களைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "GuutSg5ha4oOv6uIS6nR",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அகச்சுட்டில் சுட்டு எழுத்தை நீக்கிய பின் என்ன நடக்கும்?",
+    "options": [
+      "சொல் தனித்து நிற்கும்",
+      "சொல் பொருள் இழக்கும்",
+      "சொல் நீளமாகும்",
+      "சொல் மாறாது"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அகச்சுட்டில் சுட்டு எழுத்தை நீக்கினால் மீதமுள்ள பகுதி தனியே நின்று பொருள் இல்லாமல் போகும்.",
+    "active": true
+  },
+  {
+    "id": "I1wLn02rpjGb2EXciVTW",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உதுக்காண்’ என்பதில் உள்ள சுட்டு எழுத்து எது?",
+    "options": [
+      "அ",
+      "இ",
+      "உ",
+      "எ"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "உதுக்காண், உவன், உங்கே போன்ற இடங்களில் உகரம் சுட்டு எழுத்தாக வந்துள்ளது.",
+    "active": true
+  },
+  {
+    "id": "IU1M1JqFnR4vcfIxp6sK",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அவன்’ மற்றும் ‘அவ்வீடு’ ஆகிய இரு சொற்களின் சுட்டு வகைகள் முறையே எவை?",
+    "options": [
+      "அகச்சுட்டு, புறச்சுட்டு",
+      "புறச்சுட்டு, அகச்சுட்டு",
+      "அண்மைச்சுட்டு, சேய்மைச்சுட்டு",
+      "சுட்டுத் திரிபு, அகச்சுட்டு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அவன் – அகச்சுட்டு (சொல்லுக்குள்ளே); அவ்வீடு – புறச்சுட்டு (சொல்லுக்கு வெளியே பிரிக்கலாம்).",
+    "active": true
+  },
+  {
+    "id": "IiTxdwT7MQ5phwhrw36R",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அகச்சுட்டு என்பதன் பொருள் என்ன?",
+    "options": [
+      "வெளியே",
+      "உள்ளே",
+      "அருகில்",
+      "தொலைவில்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அகம் என்பது உள்ளே என்று பொருள்படும். சொல்லுக்கு உள்ளே இருந்து சுட்டுப் பொருளை உணர்த்துவது அகச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "KOY3ZL7b90hD39uuv8JO",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கீழ்க்காணும் சொற்களில் சுட்டுத் திரிபு எது?",
+    "options": [
+      "இவன்",
+      "அம்மலை",
+      "இப்பெட்டி",
+      "அந்த மரம்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அந்த மரம் என்பதில் அந்த என்பது அ என்ற சுட்டின் திரிபு வடிவம். மற்றவை முறையே அகச்சுட்டு மற்றும் புறச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "Kc34erog9ldrfT0IwElH",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அக்கரை’ என்பதில் உள்ள சுட்டு வகை எது?",
+    "options": [
+      "அண்மைச்சுட்டு",
+      "சேய்மைச்சுட்டு",
+      "அகச்சுட்டு",
+      "சுட்டுத் திரிபு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அக்கரை தொலைவில் உள்ளதைச் சுட்டிக் காட்டுவதால் சேய்மைச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "L4BmlSQjyLafPpNk1sB9",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கீழ்க்காணும் எது புறச்சுட்டு அல்ல?",
+    "options": [
+      "அவ்வீடு",
+      "இம்மனிதன்",
+      "அக்குளம்",
+      "அவன்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அவன் அகச்சுட்டு. மற்றவை புறச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "LE7bvDmMQMCBvbrr1RmP",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "சுட்டு எழுத்துகள் பற்றிய சரியான கூற்று எது?",
+    "options": [
+      "நான்கு சுட்டு எழுத்துகள் உள்ளன",
+      "உகரச் சுட்டு இன்றும் இந்தியாவில் வழக்கு",
+      "அகச்சுட்டைப் பிரிக்க முடியாது",
+      "புறச்சுட்டைப் பிரிக்க முடியாது"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அகச்சுட்டில் சுட்டு எழுத்து சொல்லுக்குள்ளே இருப்பதால் பிரிக்க முடியாது. மற்ற கூற்றுகள் தவறு.",
+    "active": true
+  },
+  {
+    "id": "LWJXnzINJAokhyKza4DW",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அவ்வீடு’ என்பதில் உள்ள சுட்டு வகை எது?",
+    "options": [
+      "அகச்சுட்டு",
+      "புறச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "அண்மைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அ + வீடு எனப் பிரிக்க முடியும். சுட்டு எழுத்தை நீக்கிய பின் வீடு தனித்து நிற்கிறது. எனவே புறச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "M2dZxGulrcfJNUtDQBzE",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அம்மரம்’ என்பதில் உள்ள சுட்டு எழுத்து எது?",
+    "options": [
+      "அ",
+      "இ",
+      "உ",
+      "எ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அம்மரம் என்பதில் அ என்ற சுட்டு எழுத்து தொலைவில் உள்ள மரத்தைச் சுட்டிக் காட்டுகிறது.",
+    "active": true
+  },
+  {
+    "id": "MLq9rsQ8Jdc7Chxbnjg6",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கீழ்க்காணும் சொற்களில் எது சுட்டுத் திரிபு?",
+    "options": [
+      "இவன்",
+      "அம்மலை",
+      "இப்பெட்டி",
+      "இந்த வீடு"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "இந்த வீடு என்பதில் இந்த என்பது சுட்டுத் திரிபு.",
+    "active": true
+  },
+  {
+    "id": "MPdobxhUoXL9z9HYxh6f",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அங்கு’ என்ற சுட்டுச்சொல் எதைக் குறிக்கும்?",
+    "options": [
+      "அருகில்",
+      "தொலைவில்",
+      "உள்ளே",
+      "வெளியே"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அங்கு என்பது தொலைவில் உள்ள இடத்தைச் சுட்டிக் காட்டும் சுட்டுச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "NEZv8BsLvm47E9YpmPS6",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "சொல்லின் வெளியே நின்று சுட்டுப் பொருளை உணர்த்துவது எது?",
+    "options": [
+      "அகச்சுட்டு",
+      "புறச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "இடைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "சொல்லுக்கு வெளியே இருந்து சுட்டு எழுத்துகள் சுட்டுப் பொருளை உணர்த்துவதால் புறச்சுட்டு எனப்படும்.",
+    "active": true
+  },
+  {
+    "id": "NJ8wB3KsoT60zAJiBjaM",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உப்பக்கம்’ என்பதன் பொருள் என்ன?",
+    "options": [
+      "முன் பக்கம்",
+      "பின் பக்கம்",
+      "முதுகுப்பக்கம்",
+      "பக்கவாட்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "உப்பக்கம் என்றால் முதுகுப்பக்கம் என்பது பொருள்.",
+    "active": true
+  },
+  {
+    "id": "NtcUAY6m047gatriJPz1",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அண்மைச்சுட்டு என்பதன் பொருள் என்ன?",
+    "options": [
+      "தொலைவில்",
+      "அருகில்",
+      "உள்ளே",
+      "வெளியே"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அண்மை என்பது அருகில் என்று பொருள்படும். அருகில் உள்ள பொருள்களைச் சுட்டிக் காட்டுவது அண்மைச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "OfOvOFHenemSQp750D2W",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தொலைவில் உள்ள பொருள்களைச் சுட்டிக் காட்டும் சுட்டு வகை எது?",
+    "options": [
+      "அண்மைச்சுட்டு",
+      "சேய்மைச்சுட்டு",
+      "அகச்சுட்டு",
+      "புறச்சுட்டு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அவ்வீடு, அம்மரம் முதலியன தொலைவில் உள்ள பொருள்களைச் சுட்டிக்காட்டுகின்றன. எனவே சேய்மைச்சுட்டு. சேய்மை என்பது தொலைவு என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "Pl4Yp5Fv6gpOv9Xn4G9O",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "நன்னூல் குறிப்பிடும் சுட்டு எழுத்துகளில் தற்காலத்தில் வழக்கு இழந்தது எது?",
+    "options": [
+      "அ",
+      "இ",
+      "உ",
+      "அ மற்றும் இ"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "உ என்ற சுட்டு எழுத்து தற்காலத் தமிழில் பெரும்பாலும் வழக்கு இழந்துவிட்டது. இலங்கைத் தமிழில் மட்டும் உள்ளது.",
+    "active": true
+  },
+  {
+    "id": "PsGOofbdIISDEM0eNRs7",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இவள்’ என்ற சொல்லில் உள்ள சுட்டு வகை எது?",
+    "options": [
+      "புறச்சுட்டு",
+      "அகச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "அண்மைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இவள் என்பதில் ‘இ’ நீக்கினால் ‘வள்’ பொருள் இல்லாமல் போகும். எனவே அகச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "SNdAQVTq8Z0kuNzfXhw3",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அல்லீடு’ என்பதில் உள்ள சுட்டு எழுத்து எது?",
+    "options": [
+      "அ",
+      "இ",
+      "உ",
+      "எ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அல்லீடு என்பதில் அ என்ற சுட்டு எழுத்து வீட்டைச் சுட்டிக் காட்டுகிறது.",
+    "active": true
+  },
+  {
+    "id": "TxBgq9n1PNpKfdzk7tyg",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "நன்னூல் நூற்பா 66-இன் படி சுட்டு எழுத்துகள் எவை?",
+    "options": [
+      "அ, இ, உ",
+      "அ, ஆ, இ",
+      "இ, ஈ, உ",
+      "உ, ஊ, எ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அ, இ, உம் முதல் தனிவரின் சுட்டே (66) என்னும் நன்னூல் நூற்பா சுட்டு எழுத்துகளை அ, இ, உ என்று குறிக்கிறது.",
+    "active": true
+  },
+  {
+    "id": "TzpgrZ71BIHhrqBWfBWf",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அம்மரம்’ என்பதில் உள்ள சுட்டு வகை எது?",
+    "options": [
+      "அண்மைச்சுட்டு",
+      "சேய்மைச்சுட்டு",
+      "அகச்சுட்டு",
+      "சுட்டுத் திரிபு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அம்மரம் தொலைவில் உள்ள பொருளைச் சுட்டிக் காட்டுவதால் சேய்மைச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "Uz8TPOI4KZ51ffUvLGVl",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தென்னந்தோப்பில் உள்ள ஒரு குறிப்பிட்ட மரத்தைச் சுட்ட ‘அம்மரம்’ என்பது எந்த வகை?",
+    "options": [
+      "அண்மைச்சுட்டு",
+      "சேய்மைச்சுட்டு",
+      "அகச்சுட்டு",
+      "சுட்டுத் திரிபு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அம்மரம் தொலைவில் உள்ள குறிப்பிட்ட மரத்தைச் சுட்டிக்காட்டுவதால் சேய்மைச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "VUwmOnnzyTaJctaWGS0q",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "இன்று பெருவழக்காக உள்ள சுட்டுச்சொற்கள் எவை?",
+    "options": [
+      "அது, இது, அந்த, இந்த, அங்கு, இங்கு",
+      "உது, உவன், உங்கே",
+      "அவன், அவள் மட்டும்",
+      "அம்மரம், இப்பூனை மட்டும்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அது, இது, அந்த, இந்த, அங்கு, இங்கு என்னும் சுட்டுச்சொற்களே இன்று பெருவழக்காகிவிட்டன.",
+    "active": true
+  },
+  {
+    "id": "WamhheSmBd3LNrCbsP9Q",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கீழ்க்காணும் எது சேய்மைச்சுட்டு?",
+    "options": [
+      "இப்பூனை",
+      "இப்புத்தகம்",
+      "அம்மரம்",
+      "இம்மாடு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அம்மரம் தொலைவில் உள்ளதைச் சுட்டிக் காட்டுவதால் சேய்மைச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "Ws5sA7ec6lhGuurC8xso",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அவன்’ என்ற சொல் எதைச் சுட்டுகிறது?",
+    "options": [
+      "பெண்ணை",
+      "ஆணை",
+      "பொருளை",
+      "இடத்தை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அவன் என்னும் சுட்டுச்சொல் ஆணைச் சுட்டிச் சொல்கிறது.",
+    "active": true
+  },
+  {
+    "id": "YlRf7m9GmaxLRZgb5QO2",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கீழ்க்காணும் எது அண்மைச்சுட்டு?",
+    "options": [
+      "அவ்வீடு",
+      "அம்மரம்",
+      "இப்பூனை",
+      "அக்கரை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "இப்பூனை அருகில் உள்ளதைச் சுட்டிக் காட்டுவதால் அண்மைச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "ZFGSLKPN3bVvCtLnxxnC",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பொருத்தமற்ற இணையைக் கண்டறிக.",
+    "options": [
+      "அண்மைச்சுட்டு - இ",
+      "சேய்மைச்சுட்டு - அ",
+      "சுட்டுத் திரிபு - அந்த, இந்த",
+      "அகச்சுட்டு - அவ்வீடு"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அவ்வீடு புறச்சுட்டு. அகச்சுட்டு என்பது அவன், இவள் போன்றவற்றில் உள்ளே இருக்கும் சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "ZycSc92Bp6VP1TFFUUeW",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அவன்’ – இச்சொல்லில் அமைந்துள்ள சுட்டு வகை எது?",
+    "options": [
+      "புறச்சுட்டு",
+      "அகச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "அண்மைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அவன் என்பதில் அ என்ற சுட்டை நீக்கினால் வன் தனியே பொருள் தராது. எனவே அகச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "aDtvRDIx97T7DRclyRQu",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அது’ என்ற சுட்டுச்சொல் எதைக் குறிக்கும்?",
+    "options": [
+      "அருகில் உள்ள பொருள்",
+      "தொலைவில் உள்ள பொருள்",
+      "ஆண்",
+      "பெண்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அது என்பது தொலைவில் உள்ள பொருளைச் சுட்டிக் காட்டும் சுட்டுச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "aKmakWNCIBHyqpjvU337",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இந்த மலர்’ என்பதில் உள்ள சுட்டு வகை எது?",
+    "options": [
+      "அகச்சுட்டு",
+      "புறச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "அண்மைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "இந்த என்பது இ என்ற சுட்டின் திரிபு. எனவே சுட்டுத் திரிபு.",
+    "active": true
+  },
+  {
+    "id": "aUblCt0NIsyY7aGlYfsO",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "புறச்சுட்டில் சுட்டு எழுத்தை நீக்கிய பின் என்ன நடக்கும்?",
+    "options": [
+      "சொல் பொருள் இழக்கும்",
+      "சொல் தனித்து நிற்கும்",
+      "சொல் மாறும்",
+      "சொல் நீளமாகும்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "புறச்சுட்டில் சுட்டு எழுத்தை நீக்கிய பின் வீடு, மனிதன், குளம், மாடு போன்ற சொற்கள் தனித்து நிற்கின்றன.",
+    "active": true
+  },
+  {
+    "id": "awzAO7sW4EeyYrzr6YbQ",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஒரு பொருளைக் குறிப்பாகச் சுட்டிக் காட்டப் பயன்படும் எழுத்துகள் எவ்வாறு அழைக்கப்படுகின்றன?",
+    "options": [
+      "சுட்டு எழுத்துகள்",
+      "உயிர் எழுத்துகள்",
+      "மெய் எழுத்துகள்",
+      "உயிர்மெய் எழுத்துகள்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஒரு பொருளின் பெயருக்கு முன் வந்து அந்தப் பொருளைக் குறிப்பாகச் சுட்டிக் காட்டும் எழுத்துகள் சுட்டு எழுத்துகள் எனப்படும்.",
+    "active": true
+  },
+  {
+    "id": "bsh4hzTYPLxKK2aUAQlH",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கீழ்க்காணும் சொற்களில் எது புறச்சுட்டு?",
+    "options": [
+      "அவன்",
+      "இவள்",
+      "அது",
+      "அவ்வீடு"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அவ்வீடு என்பதை அ + வீடு எனப் பிரிக்க முடியும். எனவே புறச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "c7wQ6OkZ3SR0RFhUelC7",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இந்த வீடு’ என்பதில் உள்ள சுட்டு வகை எது?",
+    "options": [
+      "அகச்சுட்டு",
+      "புறச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "சேய்மைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "இந்த என்பது இ என்ற சுட்டின் திரிபு. எனவே சுட்டுத் திரிபு.",
+    "active": true
+  },
+  {
+    "id": "cB6ILqCTu7G8ELSqDXrA",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இப்புத்தகம்’ என்பதில் உள்ள சுட்டு வகை எது?",
+    "options": [
+      "சேய்மைச்சுட்டு",
+      "அண்மைச்சுட்டு",
+      "அகச்சுட்டு",
+      "சுட்டுத் திரிபு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இப்புத்தகம் அருகில் உள்ள பொருளைச் சுட்டிக் காட்டுவதால் அண்மைச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "cq4STMRgf8cyAWmfJOLr",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கீழ்க்காணும் எது சுட்டு எழுத்து அல்ல?",
+    "options": [
+      "அ",
+      "இ",
+      "உ",
+      "எ"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "நன்னூல் 66-இன் படி சுட்டு எழுத்துகள் அ, இ, உ மட்டுமே. எ என்பது சுட்டு எழுத்து அல்ல.",
+    "active": true
+  },
+  {
+    "id": "d10y9DrTgVXKNIVyyp9e",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இக்கட்டில்’ என்பதில் உள்ள சுட்டு வகை எது?",
+    "options": [
+      "சேய்மைச்சுட்டு",
+      "அண்மைச்சுட்டு",
+      "அகச்சுட்டு",
+      "சுட்டுத் திரிபு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இக்கட்டில் அருகில் உள்ள பொருளைச் சுட்டிக் காட்டுவதால் அண்மைச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "dVI06GAU2GPlMWhiaVT0",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "சேய்மைச்சுட்டு என்பதன் பொருள் என்ன?",
+    "options": [
+      "அருகில்",
+      "தொலைவில்",
+      "உள்ளே",
+      "வெளியே"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "சேய்மை என்பது தொலைவு என்று பொருள்படும். தொலைவில் உள்ள பொருள்களைச் சுட்டிக் காட்டுவது சேய்மைச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "dr6GH4VtxelNNUWFviOm",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அந்த’ என்ற சுட்டுச்சொல் எந்த வகையைச் சார்ந்தது?",
+    "options": [
+      "அகச்சுட்டு",
+      "புறச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "அண்மைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அந்த என்பது அ என்ற சுட்டின் திரிபு வடிவம். எனவே சுட்டுத் திரிபு.",
+    "active": true
+  },
+  {
+    "id": "e7YGfR6oJdyDJIdtkuVN",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இம்மாடு’ என்பதில் உள்ள சுட்டு வகை எது?",
+    "options": [
+      "அகச்சுட்டு",
+      "புறச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "சேய்மைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இ + மாடு எனப் பிரிக்க முடியும். சுட்டை நீக்கிய பின் மாடு தனித்து நிற்கிறது. எனவே புறச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "eJmS5ktz78j2ILwJlKx7",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உம்பர்’ என்பதன் பொருள் என்ன?",
+    "options": [
+      "கீழே",
+      "மேலே",
+      "அருகில்",
+      "தொலைவில்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "உம்பர் என்றால் மேலே என்பது பொருள்.",
+    "active": true
+  },
+  {
+    "id": "eO4fY7GGgOv6yUrCvKhH",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கீழ்க்காணும் எது அகச்சுட்டு மற்றும் புறச்சுட்டு இரண்டிற்கும் பொருந்தாது?",
+    "options": [
+      "அவன்",
+      "இவள்",
+      "அவ்வீடு",
+      "அந்த மரம்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அந்த மரம் சுட்டுத் திரிபு. மற்றவை முறையே அகச்சுட்டு மற்றும் புறச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "ecp571pe9QuHXgFgH6CB",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அந்த மாடு’ என்பதில் உள்ள சுட்டு வகை எது?",
+    "options": [
+      "அகச்சுட்டு",
+      "புறச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "அண்மைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அந்த என்பது அ என்ற சுட்டின் திரிபு வடிவம். எனவே சுட்டுத் திரிபு.",
+    "active": true
+  },
+  {
+    "id": "g28bofAdPDwYFh6fQyil",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அங்கு இருந்த செடிகள்’ என்பதில் ‘அங்கு’ எந்த வகை சுட்டு?",
+    "options": [
+      "அகச்சுட்டு",
+      "புறச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "இடச்சுட்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அங்கு என்பது அ என்ற சுட்டின் திரிபு வடிவம். எனவே சுட்டுத் திரிபு வகையைச் சார்ந்தது.",
+    "active": true
+  },
+  {
+    "id": "gYOYNMygaOUVzvshHm6j",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அவன்’ என்பதில் ‘அ’ நீக்கினால் என்ன ஆகும்?",
+    "options": [
+      "வன் என்ற சொல் பொருள் தரும்",
+      "வன் என்ற எழுத்து தனியே நின்று பொருள் இல்லாமல் போகும்",
+      "வேறு சொல் உருவாகும்",
+      "எந்த மாற்றமும் இல்லை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அவன் என்பதில் ‘அ’ நீக்கினால் ‘வன்’ தனியே நின்று பொருள் இல்லாமல் போய்விடும். எனவே அகச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "hEBO61YaoBKNpgWaSfTv",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "சுட்டு எழுத்துகள் எந்த இலக்கணப் பகுதியைச் சார்ந்தவை?",
+    "options": [
+      "எழுத்து இலக்கணம்",
+      "சொல் இலக்கணம்",
+      "பொருள் இலக்கணம்",
+      "யாப்பு இலக்கணம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "சுட்டு எழுத்துகள் எழுத்து இலக்கணத்தின் கீழ் வரும். அ, இ, உ ஆகிய எழுத்துகள் சுட்டுப் பொருளில் வருகின்றன.",
+    "active": true
+  },
+  {
+    "id": "hRwXgkwcrLaea9MaPLUD",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கீழ்க்காணும் எது சுட்டுத் திரிபு?",
+    "options": [
+      "இவன்",
+      "அம்மலை",
+      "இப்பெட்டி",
+      "அந்த மரம்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அந்த மரம் என்பதில் அந்த என்பது சுட்டுத் திரிபு.",
+    "active": true
+  },
+  {
+    "id": "hZcXsXQP66Pq2NwhnXRK",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உது’ என்ற சொல்லில் உள்ள சுட்டு எழுத்து எந்தக் காலத்தில் பயன்படுத்தப்பட்டது?",
+    "options": [
+      "தற்காலம்",
+      "அக்காலம்",
+      "இரு காலங்களிலும்",
+      "எப்போதும் இல்லை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "உது, உவன் போன்றவை அக்காலத்தில் பயன்படுத்தப்பட்டன. தற்காலத்தில் உகரச் சுட்டு பெரும்பாலும் இல்லை.",
+    "active": true
+  },
+  {
+    "id": "hifGNqlBmXFnUm3jObs8",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இவள்’ என்ற சொல்லில் உள்ள சுட்டு எழுத்தை நீக்கினால் மீதமுள்ள பகுதி என்ன?",
+    "options": [
+      "வள்",
+      "இள்",
+      "வள் (பொருள் உள்ளது)",
+      "முழு சொல்லும் மாறும்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "இவள் என்பதில் இ நீக்கினால் வள் மீதமிருக்கும். அது தனியே பொருள் தராது.",
+    "active": true
+  },
+  {
+    "id": "hp4BR3yGd2DOrJmMzYrg",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "நன்னூல் எந்த நூற்பாவில் சுட்டு எழுத்துகளைக் குறிப்பிடுகிறது?",
+    "options": [
+      "65",
+      "66",
+      "67",
+      "68"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அ, இ, உம் முதல் தனிவரின் சுட்டே (66) என்னும் நன்னூல் நூற்பா சுட்டு எழுத்துகளைக் குறிக்கிறது.",
+    "active": true
+  },
+  {
+    "id": "i8pXBoweubn1q53nfAT1",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உதுக்காண்’ என்பதன் பொருள் என்ன?",
+    "options": [
+      "அருகில் பார்",
+      "சற்றுத் தொலைவில் பார்",
+      "மேலே பார்",
+      "கீழே பார்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "உதுக்காண் என்றால் சற்றுத் தொலைவில் பார் என்பது பொருள்.",
+    "active": true
+  },
+  {
+    "id": "jBJ25RyXW64xz6R65iK4",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இங்கு உள்ள மலர்கள்’ என்பதில் ‘இங்கு’ எந்த வகை சுட்டு?",
+    "options": [
+      "அகச்சுட்டு",
+      "புறச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "சேய்மைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "இங்கு என்பது இ என்ற சுட்டின் திரிபு வடிவம். எனவே சுட்டுத் திரிபு.",
+    "active": true
+  },
+  {
+    "id": "kG7MH49ULhytAq2MKeBJ",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அவன்’ என்ற சொல்லில் உள்ள சுட்டு எழுத்தை நீக்கினால் மீதமுள்ள பகுதி என்ன?",
+    "options": [
+      "வன்",
+      "அன்",
+      "வன் (பொருள் உள்ளது)",
+      "முழு சொல்லும் மாறும்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அவன் என்பதில் அ நீக்கினால் வன் மீதமிருக்கும். அது தனியே பொருள் தராது.",
+    "active": true
+  },
+  {
+    "id": "lCtkxPzdOrXnuIvp6uvM",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அருகில் உள்ளவற்றிற்கும் தொலைவில் உள்ளவற்றிற்கும் இடையில் இருப்பதைச் சுட்டிக் காட்டப் பயன்பட்ட சுட்டு எழுத்து எது?",
+    "options": [
+      "அ",
+      "இ",
+      "உ",
+      "எ"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அருகில் உள்ளவற்றிற்கும் தொலைவில் உள்ளவற்றிற்கும் இடையில் இருப்பதைச் சுட்டிக் காட்ட உ என்ற சுட்டெழுத்து அக்காலத்தில் பயன்படுத்தப்பட்டது.",
+    "active": true
+  },
+  {
+    "id": "lswev0GQvoWGHdImrHqF",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தற்காலத் தமிழ் மொழியில் உகரச் சுட்டு இடம்பெறுகிறதா?",
+    "options": [
+      "ஆம், முழுவதும்",
+      "இல்லை",
+      "சில இடங்களில் மட்டும்",
+      "எழுத்து வழக்கில் மட்டும்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மற்றபடி இக்காலத் தமிழ் மொழியில் உகரச் சுட்டு இடம்பெறுவதில்லை.",
+    "active": true
+  },
+  {
+    "id": "m0oCwenBHZXcg2S7H64u",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அக்குளம்’ என்பதில் உள்ள சுட்டு வகை எது?",
+    "options": [
+      "அகச்சுட்டு",
+      "புறச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "அண்மைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அ + குளம் எனப் பிரிக்க முடியும். எனவே புறச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "m4LWwIgvDC9mYyeOqfXq",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அவ்வீடு’ என்பதை எவ்வாறு பிரிக்கலாம்?",
+    "options": [
+      "அவ் + வீடு",
+      "அ + வீடு",
+      "அவ்வீ + டு",
+      "அவ்வீடு (பிரிக்க முடியாது)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அ + வீடு எனப் பிரிக்க முடியும். சுட்டை நீக்கிய பின் வீடு தனித்து நிற்கிறது.",
+    "active": true
+  },
+  {
+    "id": "nIS0pOLzMtO2XK3c9Cjd",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தற்காலத் தமிழில் பயன்பாட்டில் இல்லாத சுட்டு எழுத்து எது?",
+    "options": [
+      "அ",
+      "இ",
+      "உ",
+      "எ"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "உ என்ற சுட்டு எழுத்து தற்காலத்தில் பயன்பாட்டில் இல்லை. இலங்கைத் தமிழர்கள் மட்டும் உகரச் சுட்டைப் பயன்படுத்துகின்றனர்.",
+    "active": true
+  },
+  {
+    "id": "nOoqg24zLOrFmUHPLOop",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அந்தப்பக்கம்’ என்ற சொல்லில் உள்ள சுட்டு வகை எது?",
+    "options": [
+      "அகச்சுட்டு",
+      "புறச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "அண்மைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அந்த என்பது அ என்ற சுட்டின் திரிந்த வடிவம். எனவே சுட்டுத் திரிபு.",
+    "active": true
+  },
+  {
+    "id": "neCErx1yPBetmr97VO3s",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இந்தப்பக்கம்’ என்ற சொல்லில் உள்ள சுட்டு வகை எது?",
+    "options": [
+      "அகச்சுட்டு",
+      "புறச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "சேய்மைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "இந்த என்பது இ என்ற சுட்டின் திரிந்த வடிவம். எனவே சுட்டுத் திரிபு.",
+    "active": true
+  },
+  {
+    "id": "oCmnHgipMXGoGsqOU6PH",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "சொல்லுக்கு வெளியே இருந்து சுட்டுப் பொருளை உணர்த்தும் சுட்டு வகை எது?",
+    "options": [
+      "அகச்சுட்டு",
+      "புறச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "இடைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "சொல்லுக்கு வெளியே இருந்து சுட்டு எழுத்துகள் சுட்டுப் பொருளை உணர்த்துவதால் இவை புறச்சுட்டு எனப்படுகின்றன. புறம் என்பது வெளியே என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "oHNnkKgqxYPmkKk3pQiW",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கீழ்க்காணும் சொற்களில் எது சேய்மைச்சுட்டு?",
+    "options": [
+      "இப்பூனை",
+      "இப்புத்தகம்",
+      "அம்மரம்",
+      "இம்மாடு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அம்மரம் தொலைவில் உள்ளதைச் சுட்டிக் காட்டுவதால் சேய்மைச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "pDBuZpm4O6uq4YoOnqxu",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இப்பூனை’ என்பதில் உள்ள சுட்டு எழுத்து எது?",
+    "options": [
+      "அ",
+      "இ",
+      "உ",
+      "எ"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இப்பூனை என்பதில் இ என்ற சுட்டு எழுத்து அருகில் உள்ள பூனையைச் சுட்டிக் காட்டுகிறது.",
+    "active": true
+  },
+  {
+    "id": "pdo3A5D18pJwFb9MTuCT",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "சொல்லுக்கு உள்ளேயே இருந்து சுட்டுப் பொருளை உணர்த்தும் சுட்டு வகை எது?",
+    "options": [
+      "புறச்சுட்டு",
+      "அகச்சுட்டு",
+      "அண்மைச்சுட்டு",
+      "சேய்மைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஒரு சொல்லுக்கு உள்ளே இருந்து சுட்டுப் பொருளையும் உணர்த்துவதால் இவற்றை அகச்சுட்டு என்று கூறுவர். அகம் என்பது உள்ளே என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "qM6qmwUMQLmbPtqg41OR",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அவன்’ என்ற சொல்லில் அமைந்துள்ள சுட்டு வகை எது?",
+    "options": [
+      "புறச்சுட்டு",
+      "அகச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "அண்மைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அவன் என்பதில் ‘அ’ என்ற சுட்டு எழுத்தை நீக்கினால் ‘வன்’ தனியே நின்று பொருள் இல்லாமல் போய்விடும். எனவே இது அகச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "rHKtAQHW65PKTuna9As0",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அவள்’ என்ற சொல் எதைச் சுட்டுகிறது?",
+    "options": [
+      "ஆணை",
+      "பெண்ணை",
+      "பொருளை",
+      "இடத்தை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அவள் என்னும் சுட்டுச்சொல் பெண்ணைச் சுட்டிச் சொல்கிறது.",
+    "active": true
+  },
+  {
+    "id": "rPNFL7aZP3Yaa01rVKEt",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஒரு தென்னந்தோப்பில் உள்ள ஒரு குறிப்பிட்ட மரத்தைச் சுட்டிக் காட்ட எந்தச் சொல் பயன்படும்?",
+    "options": [
+      "மரம்",
+      "மரங்கள்",
+      "அம்மரம்",
+      "இம்மரம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அம்மரம் என்று சொன்னால் அத்தோப்பில் உள்ள ஒரு குறிப்பிட்ட மரம் சுட்டிக்காட்டப்படுகிறது.",
+    "active": true
+  },
+  {
+    "id": "tOBka9GVn7LLd0FRIRmo",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இம்மலர் அழகாக உள்ளது. அம்மலர் பெரியதாக உள்ளது’ – இதில் இம்மலர், அம்மலர் முறையே எந்த வகை?",
+    "options": [
+      "சேய்மை, அண்மை",
+      "அண்மை, சேய்மை",
+      "அக, புற",
+      "புற, அக"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இம்மலர் – அருகில் (அண்மைச்சுட்டு); அம்மலர் – தொலைவில் (சேய்மைச்சுட்டு).",
+    "active": true
+  },
+  {
+    "id": "tu0z7IgcUfaNSiFYayJz",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இவள்’ என்பதில் ‘இ’ நீக்கினால் என்ன ஆகும்?",
+    "options": [
+      "வள் பொருள் தரும்",
+      "வள் தனியே பொருள் இல்லாமல் போகும்",
+      "வேறு சொல் உருவாகும்",
+      "மாற்றம் இல்லை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இவள் என்பதில் ‘இ’ நீக்கினால் ‘வள்’ தனியே பொருள் இல்லாமல் போகும். எனவே அகச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "tzqwhWkdcLyVomq1oz9q",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உங்கே’ என்பதில் உள்ள சுட்டு எழுத்து எது?",
+    "options": [
+      "அ",
+      "இ",
+      "உ",
+      "எ"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "உங்கே என்பதில் உகரம் சுட்டு எழுத்தாக வந்துள்ளது.",
+    "active": true
+  },
+  {
+    "id": "uKWygEsKBYqDPQm8RZz9",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இங்கு’ என்ற சுட்டுச்சொல் எதைக் குறிக்கும்?",
+    "options": [
+      "தொலைவில்",
+      "அருகில்",
+      "உள்ளே",
+      "வெளியே"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இங்கு என்பது அருகில் உள்ள இடத்தைச் சுட்டிக் காட்டும் சுட்டுச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "uP8Nbg8GiuHI1RAYVTxl",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அ, இ சுட்டெழுத்துக்கள் தனியே நின்று சுட்டும் போது எதைச் சுட்டுகின்றன?",
+    "options": [
+      "ஆண் பெண் அனைவரையும் பொதுவாக",
+      "ஆணை மட்டும்",
+      "பெண்ணை மட்டும்",
+      "பொருளை மட்டும்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அ, இ சுட்டெழுத்துக்கள் தனியே நின்று சுட்டும் போது, ஆண் பெண் அனைவரையும் பொதுவாகச் சுட்டுகின்றன.",
+    "active": true
+  },
+  {
+    "id": "ubv99Wk5W8wwiwPaFQFN",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இம்மனிதன்’ என்பதை எவ்வாறு பிரிக்கலாம்?",
+    "options": [
+      "இம் + மனிதன்",
+      "இ + மனிதன்",
+      "இம்மனி + தன்",
+      "பிரிக்க முடியாது"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இ + மனிதன் எனப் பிரிக்க முடியும். எனவே புறச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "vn7L51QhNEhiPsfTLXXp",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கீழ்க்காணும் எது அகச்சுட்டு அல்ல?",
+    "options": [
+      "அவன்",
+      "இவள்",
+      "அது",
+      "அவ்வீடு"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அவ்வீடு புறச்சுட்டு. மற்றவை அகச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "wRaXkKO7iRCLV8qc5VS8",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உவன்’ என்பதில் உள்ள சுட்டு எழுத்து எது?",
+    "options": [
+      "அ",
+      "இ",
+      "உ",
+      "எ"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "உவன் என்பதில் உகரம் சுட்டு எழுத்தாக வந்துள்ளது.",
+    "active": true
+  },
+  {
+    "id": "x4HenOBsu20R8u2IKcTJ",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அம்மலர்’ என்பதில் உள்ள சுட்டு வகை எது?",
+    "options": [
+      "அண்மைச்சுட்டு",
+      "சேய்மைச்சுட்டு",
+      "அகச்சுட்டு",
+      "சுட்டுத் திரிபு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அம்மலர் தொலைவில் உள்ள மலரைச் சுட்டிக் காட்டுவதால் சேய்மைச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "xuGk9KnwiPiazvkImger",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "சுட்டு எழுத்துகள் எத்தனை?",
+    "options": [
+      "இரண்டு",
+      "மூன்று",
+      "நான்கு",
+      "ஐந்து"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அ, இ, உ ஆகிய மூன்று எழுத்துகளும் சுட்டு எழுத்துகள் ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "yLH2PB9OEaiuzPqPOnhP",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கீழ்க்காணும் சொற்களில் எது அண்மைச்சுட்டு?",
+    "options": [
+      "அவ்வீடு",
+      "அம்மரம்",
+      "இப்புத்தகம்",
+      "அக்கரை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "இப்புத்தகம் அருகில் உள்ளதைச் சுட்டிக் காட்டுவதால் அண்மைச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "yNwE2h9t7iEiA9OYEQG9",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கீழ்க்காணும் சொற்களில் எது அகச்சுட்டு?",
+    "options": [
+      "அவ்வீடு",
+      "இம்மனிதன்",
+      "அவன்",
+      "அக்குளம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அவன் என்பதில் சுட்டு எழுத்து சொல்லுக்குள்ளே உள்ளது. மற்றவை புறச்சுட்டு.",
+    "active": true
+  },
+  {
+    "id": "ydJvEodlNz0aGhkigUPp",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அங்கு’ மற்றும் ‘இங்கு’ ஆகியவை எந்த வகை சுட்டுச்சொற்கள்?",
+    "options": [
+      "அகச்சுட்டு",
+      "புறச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "இடைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அங்கு, இங்கு ஆகியவை அ, இ என்ற சுட்டுகளின் திரிந்த வடிவங்கள். எனவே சுட்டுத் திரிபு.",
+    "active": true
+  },
+  {
+    "id": "z0fomXv1eApp1G01ZxaV",
+    "subject": "group4series",
+    "class": "Unit 1 - சுட்டு எழுத்துகள்",
+    "topic": "சுட்டு எழுத்துகள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அந்த மலர்’ என்பதில் உள்ள சுட்டு வகை எது?",
+    "options": [
+      "அகச்சுட்டு",
+      "புறச்சுட்டு",
+      "சுட்டுத் திரிபு",
+      "சேய்மைச்சுட்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அந்த என்பது அ என்ற சுட்டின் திரிபு. எனவே சுட்டுத் திரிபு.",
+    "active": true
+  }
+]

@@ -1,0 +1,2282 @@
+[
+  {
+    "id": "06bVO1loHWSC7cYVxzzu",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மெய் + மயக்கம் = மெய்ம்மயக்கம்’ என்பதில் என்ன மிகுகிறது?",
+    "options": [
+      "வல்லினம்",
+      "மெல்லினம்",
+      "உடம்படுமெய்",
+      "சாரியை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "யகர ஈற்றுச் சொற்கள் முன் மெல்லினம் மிகும்.",
+    "active": true
+  },
+  {
+    "id": "0qVscEdyQgzhzAusNpB8",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "இரு சொற்களுக்கு இடையில் எழுத்தோ சாரியையோ தோன்றுவது எந்த விகாரம்?",
+    "options": [
+      "திரிதல் விகாரம்",
+      "கெடுதல் விகாரம்",
+      "தோன்றல் விகாரம்",
+      "இயல்பு விகாரம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "இரு சொற்களுக்கு இடையில் எழுத்தோ, சாரியையோ தோன்றுவது தோன்றல் விகாரம் எனப்படும். எ.கா. பூ + கொடி = பூங்கொடி.",
+    "active": true
+  },
+  {
+    "id": "0xaQZ3pgm2C57MwM91Tb",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "விகாரப்புணர்ச்சியை நன்னூலார் எத்தனை வகைப்படுத்தினார்?",
+    "options": [
+      "இரண்டு",
+      "மூன்று",
+      "நான்கு",
+      "ஐந்து"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "நன்னூலார் தோன்றல் விகாரம், திரிதல் விகாரம், கெடுதல் விகாரம் என மூன்று வகைப்படுத்திக் காட்டுகிறார்.",
+    "active": true
+  },
+  {
+    "id": "1SgxcML6Y5cEiGRMTi5r",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குற்றியலுகரத்தின் முன் உயிரெழுத்து வந்தால் என்ன நடக்கும்?",
+    "options": [
+      "உகரம் தோன்றும்",
+      "உகரம் கெடும்",
+      "உகரம் திரியும்",
+      "மாற்றம் இல்லை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "நிலைமொழியாக வரும் குற்றியலுகரத்தின் முன் உயிரெழுத்துகள் வந்தால் உகரம் கெடும். எ.கா. வட்டு + ஆடினான் = வட்டாடினான்.",
+    "active": true
+  },
+  {
+    "id": "1ZqHtGt0mKXa3rcSbOWK",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மா + பழம் = மாம்பழம்’ என்பதில் என்ன மிகுகிறது?",
+    "options": [
+      "வல்லினம்",
+      "மெல்லினம்",
+      "உடம்படுமெய்",
+      "சாரியை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "உயிரெழுத்தை இறுதியில் கொண்ட மரப் பெயர்களுக்கு முன்னர் மெல்லினம் மிகும்.",
+    "active": true
+  },
+  {
+    "id": "1s6wvVRJDnmi8X1oIRMu",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பொன் + வளையல் = பொன்வளையல்’ என்பது எந்த வகைப் புணர்ச்சி?",
+    "options": [
+      "விகாரப்புணர்ச்சி",
+      "இயல்பு புணர்ச்சி",
+      "தோன்றல்",
+      "திரிதல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "எவ்வித மாற்றமும் இல்லாமல் சேர்வதால் இயல்பு புணர்ச்சி.",
+    "active": true
+  },
+  {
+    "id": "2DvVEV9FNz6vYxTNdLC2",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தெற்கு + மேற்கு = தென்மேற்கு’ என்பதில் நிகழும் மாற்றம் என்ன?",
+    "options": [
+      "கு நீங்கி நகரம் ஏகரமாகத் திரிதல்",
+      "தோன்றல் மட்டும்",
+      "இயல்பு புணர்ச்சி",
+      "உடம்படுமெய்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தெற்கு என்பதில் கு நீங்கி, நகரம் ஏகரமாகத் திரிந்து புணரும்.",
+    "active": true
+  },
+  {
+    "id": "2MDbfqaeFxjkANgPp5cF",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தரையிறங்கும்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "தரை + இறங்கும்",
+      "தரையி + றங்கும்",
+      "தரைஇ + றங்கும்",
+      "த + ரையிறங்கும்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தரையிறங்கும் = தரை + இறங்கும்.",
+    "active": true
+  },
+  {
+    "id": "2R1A44GAqdFF2w6rvWxi",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வன்பாற்கண்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "வன் + பாற்கண்",
+      "வன்பால் + கண்",
+      "வன்பா + ற்கண்",
+      "வன்யல் + கண்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வன்பாற்கண் = வன்பால் + கண்.",
+    "active": true
+  },
+  {
+    "id": "2SLBZB62OgJbNSfGijMR",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஒரே புணர்ச்சியில் இரண்டு அல்லது மூன்று விகாரங்கள் வரலாம் என்று கூறும் நன்னூல் நூற்பா எண் என்ன?",
+    "options": [
+      "156",
+      "157",
+      "158",
+      "159"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "‘ஒரு புணர்க்கு இரண்டும் மூன்றும் உறுப்பெறுமே’ என்பது நன்னூல் 157.",
+    "active": true
+  },
+  {
+    "id": "3LxmGMc0yovDn30immYY",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தே + ஆரம் = தேவாரம்’ என்பதில் எந்த உடம்படுமெய்?",
+    "options": [
+      "யகரம்",
+      "வகரம்",
+      "ஙகரம்",
+      "நகரம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஏகார ஈற்றின் முன் வகரம் தோன்றியது.",
+    "active": true
+  },
+  {
+    "id": "4XUG7trE9P3iehOgNXeX",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அவனமுதான்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "அவன் + அமுதான்",
+      "அவ + னமுதான்",
+      "அவனமு + தான்",
+      "அ + வனமுதான்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அவனமுதான் = அவன் + அமுதான்.",
+    "active": true
+  },
+  {
+    "id": "5GkYU2y6C0iQu4np8NI5",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வெண்குடை’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "வெண்மை + குடை",
+      "வெண் + குடை",
+      "வெண்கு + டை",
+      "வெ + ண்குடை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "வெண்குடை = வெண்மை + குடை.",
+    "active": true
+  },
+  {
+    "id": "6FAtPzYLLg331ivZUVYY",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சிலப்பதிகாரம்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "சிலம்பு + அதிகாரம்",
+      "சிலப் + பதிகாரம்",
+      "சில + ப்பதிகாரம்",
+      "சி + லப்பதிகாரம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "சிலப்பதிகாரம் = சிலம்பு + அதிகாரம்.",
+    "active": true
+  },
+  {
+    "id": "6IGGyoQyGS07v651bOtI",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வேறில்லை’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "வேறு + இல்லை",
+      "வே + றில்லை",
+      "வேறி + ல்லை",
+      "வேறில் + லை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "வேறில்லை = வேறு + இல்லை.",
+    "active": true
+  },
+  {
+    "id": "6JvsKtFwRywDKHT4T4WJ",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘எழுத்தாணி’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "எழுத்து + ஆணி",
+      "எழுத் + தாணி",
+      "எழு + த்தாணி",
+      "எ + ழுத்தாணி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "எழுத்தாணி = எழுத்து + ஆணி.",
+    "active": true
+  },
+  {
+    "id": "6N2d3gKBkoOOqfyAggGr",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இடப்புறம்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "இடது + புறம்",
+      "இடப் + புறம்",
+      "இட + ப்புறம்",
+      "இ + டப்புறம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "இடப்புறம் = இடது + புறம்.",
+    "active": true
+  },
+  {
+    "id": "6ZMGt7Kf2NMiLTWNORQU",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பொன் + தாமரை = பொற்றாமரை’ என்பதில் என்ன நிகழ்கிறது?",
+    "options": [
+      "தோன்றல் மட்டும்",
+      "திரிதல் மட்டும்",
+      "நிலைமொழி இறுதியும் வருமொழி முதலும் திரிதல்",
+      "கெடுதல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ன் மற்றும் த் ஆகிய இரண்டும் ற் எனத் திரிந்துள்ளன. எனவே திரிதல் விகாரம்.",
+    "active": true
+  },
+  {
+    "id": "6rGfjmEsDZoZDxyOCUi0",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அமுதென்று’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "அமுது + என்று",
+      "அமு + தென்று",
+      "அமுதென் + று",
+      "அ + முதென்று"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அமுதென்று = அமுது + என்று.",
+    "active": true
+  },
+  {
+    "id": "72VqBMKSP9mbaxPo9DUo",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வடக்கு + மேற்கு = வடமேற்கு’ என்பதில் என்ன கெட்டது?",
+    "options": [
+      "வகரம்",
+      "கு",
+      "நகரம்",
+      "மே"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வடக்கு என்னும் நிலைமொழியின் இறுதி எழுத்துகளான க், கு நீங்கிப் புணர்ந்தது.",
+    "active": true
+  },
+  {
+    "id": "7MrpT4vuNIkMJ0xLozjH",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘குறிஞ்சிப்பாட்டு’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "குறிஞ்சி + பாட்டு",
+      "குறிஞ் + சிப்பாட்டு",
+      "குறிஞ்சிப் + பாட்டு",
+      "கு + றிஞ்சிப்பாட்டு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "குறிஞ்சிப்பாட்டு = குறிஞ்சி + பாட்டு.",
+    "active": true
+  },
+  {
+    "id": "7X2ZDavFi8V3Kjhs7Mbl",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நன்கணியர்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "நன் + கணியர்",
+      "நன்கு + அணியர்",
+      "நன்கணி + யர்",
+      "ந + ன்கணியர்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "நன்கணியர் = நன்கு + அணியர்.",
+    "active": true
+  },
+  {
+    "id": "8Hw8RkhLhaAumAMyTpbD",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சீரிளமை’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "சீர்மை + இளமை",
+      "சீர் + இளமை",
+      "சீரிள + மை",
+      "சீ + ரிளமை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "சீரிளமை = சீர்மை + இளமை.",
+    "active": true
+  },
+  {
+    "id": "8heSdL1sExW8v2y44dlE",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உறவு + அழகு = உறவழகு’ என்பதில் எந்த விதி பொருந்தும்?",
+    "options": [
+      "குற்றியலுகர விதி",
+      "உடம்படுமெய்",
+      "திசைப்புணர்ச்சி",
+      "மெய்ம்மயக்கம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "குற்றியலுகரத்தைப் போலவே சில முற்றியலுகரங்களுக்கும் உகரம் கெடும் விதி பொருந்தும்.",
+    "active": true
+  },
+  {
+    "id": "8ufVrqwCLGVRbVQZaDfZ",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கடல் + கரை’ என்பது எந்த வகைப் புணர்ச்சி?",
+    "options": [
+      "உயிர்முன் உயிர்",
+      "மெய்முன் உயிர்",
+      "உயிர்முன் மெய்",
+      "மெய்முன் மெய்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "கடல் (மெய்யீறு) + கரை (மெய்ம்முதல்) = மெய்முன் மெய் புணர்ச்சி.",
+    "active": true
+  },
+  {
+    "id": "9HfjZrUFyDhplaC4RMG6",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆ + பால் = ஆவின் பால்’ என்பதில் என்ன தோன்றுகிறது?",
+    "options": [
+      "எழுத்து",
+      "சாரியை",
+      "உடம்படுமெய்",
+      "வலிமிகுதல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இன் என்ற சாரியை தோன்றியதால் தோன்றல் விகாரம்.",
+    "active": true
+  },
+  {
+    "id": "9POrD3XJjLJFWJEqkhp3",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மலர் + மாலை = மலர்மாலை’ என்பது எந்த வகைப் புணர்ச்சி?",
+    "options": [
+      "விகாரப்புணர்ச்சி",
+      "இயல்பு புணர்ச்சி",
+      "தோன்றல்",
+      "கெடுதல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "எவ்வித மாற்றமும் இல்லாமல் சேர்வதால் இயல்பு புணர்ச்சி.",
+    "active": true
+  },
+  {
+    "id": "9RqwlsXVEXJbaulJFIIy",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பூ + கொடி = பூங்கொடி’ என்பதில் எந்த விகாரம் நிகழ்கிறது?",
+    "options": [
+      "திரிதல்",
+      "கெடுதல்",
+      "தோன்றல்",
+      "இயல்பு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ங் என்ற எழுத்துத் தோன்றியதால் தோன்றல் விகாரம்.",
+    "active": true
+  },
+  {
+    "id": "9yPQ925fSNVjL6EuiEa7",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தமக்குரியர்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "தமக்கு + உரியர்",
+      "தம + க்குரியர்",
+      "தமக்குரி + யர்",
+      "தமக்க் + உரியர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தமக்குரியர் = தமக்கு + உரியர்.",
+    "active": true
+  },
+  {
+    "id": "AS4xcQ7gpqhJxxq6XDPl",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கரும்பெங்கே’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "கரும் + பெங்கே",
+      "கரும்பு + எங்கே",
+      "கரும்பெ + ங்கே",
+      "க + ரும்பெங்கே"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "கரும்பெங்கே = கரும்பு + எங்கே.",
+    "active": true
+  },
+  {
+    "id": "Ac8oaKMz67zl84gkuKjQ",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இ, ஈ, ஐ’ தவிர பிற உயிரீற்றுச் சொற்களின் முன் உயிர் வரும்போது எந்த உடம்படுமெய் தோன்றும்?",
+    "options": [
+      "யகரம்",
+      "வகரம்",
+      "ஙகரம்",
+      "ஞகரம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பிற உயிரெழுத்துகள் ஈறாக வரும்போது வகர மெய் தோன்றும். எ.கா. பல + உயிர் = பலவுயிர்.",
+    "active": true
+  },
+  {
+    "id": "Acd7qDBXj7JT1b9TCXxV",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பூ + கொடி = பூங்கொடி’ என்பதில் என்ன மிகுகிறது?",
+    "options": [
+      "வல்லினம் மட்டும்",
+      "மெல்லினம் மட்டும்",
+      "வல்லினத்தோடு மெல்லினமும்",
+      "உடம்படுமெய்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "‘பூ’ என்னும் பெயர் முன்னர் வல்லினத்தோடு மெல்லினமும் மிகும்.",
+    "active": true
+  },
+  {
+    "id": "Aklt138slpxH8s91tAFW",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தரமில்லை’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "தரம் + இல்லை",
+      "தர + மில்லை",
+      "தரமி + ல்லை",
+      "த + ரமில்லை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தரமில்லை = தரம் + இல்லை.",
+    "active": true
+  },
+  {
+    "id": "AskL016kJqH9UjZmSJEv",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வருமொழியில் க, ச, த, ப வரும்போது மீண்டும் அதே எழுத்துத் தோன்றுவதை எவ்வாறு அழைப்பர்?",
+    "options": [
+      "மெல்லினம் மிகுதல்",
+      "வலி மிகுதல்",
+      "உடம்படுமெய்",
+      "சாரியை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வருமொழியில் க, ச, த, ப வந்தால் சில இடங்களில் மீண்டும் அதே எழுத்துத் தோன்றும். இதை ‘வலி மிகுதல்’ என்பர்.",
+    "active": true
+  },
+  {
+    "id": "CFG2qlde0Q7qGTPvYJmr",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தீ + எரி = தீயெரி’ என்பதில் எந்த உடம்படுமெய் தோன்றியது?",
+    "options": [
+      "வகரம்",
+      "யகரம்",
+      "ஙகரம்",
+      "நகரம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஈகார ஈற்றின் முன் யகரம் உடம்படுமெய்யாகத் தோன்றியது.",
+    "active": true
+  },
+  {
+    "id": "DAqerG9LdjOjtJF0lPnT",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘முத்துச்சுடர்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "முத்து + சுடர்",
+      "முத் + துச்சுடர்",
+      "முத்துச் + சுடர்",
+      "மு + த்துச்சுடர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "முத்துச்சுடர் = முத்து + சுடர்.",
+    "active": true
+  },
+  {
+    "id": "DVF7l2e7JvngOplXHr9v",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இ, ஈ, ஐ’ ஈற்றுச் சொற்களின் முன் உயிர் வரும்போது எந்த உடம்படுமெய் தோன்றும்?",
+    "options": [
+      "வகரம்",
+      "யகரம்",
+      "ஙகரம்",
+      "நகரம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இ, ஈ, ஐ ஈற்றுச் சொற்களின் முன் யகரம் உடம்படுமெய்யாக வரும். எ.கா. மணி + அழகு = மணியழகு.",
+    "active": true
+  },
+  {
+    "id": "DlicwaMEqOeuCud7ia2W",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தமிழமுகு’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "தமிழ் + அமுகு",
+      "தமி + ழமுகு",
+      "தமிழ + முகு",
+      "த + மிழமுகு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தமிழமுகு = தமிழ் + அமுகு.",
+    "active": true
+  },
+  {
+    "id": "EXNmuZcxuGgOaBSeCouo",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தமிழ்ப்பணி’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "தமிழ் + பணி",
+      "தமிழ்ப் + பணி",
+      "தமி + ழ்ப்பணி",
+      "த + மிழ்ப்பணி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தமிழ்ப்பணி = தமிழ் + பணி.",
+    "active": true
+  },
+  {
+    "id": "ElLJUolxk2B4oMPxck1w",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தட்டவெப்பம்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "தட்டம் + வெப்பம்",
+      "தட்ட + வெப்பம்",
+      "தட் + டவெப்பம்",
+      "த + ட்டவெப்பம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தட்டவெப்பம் = தட்டம் + வெப்பம்.",
+    "active": true
+  },
+  {
+    "id": "EwQMdGr1t5Vcxs2wJ07L",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அன்பகத்து’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "அன்பு + அகத்து",
+      "அன் + பகத்து",
+      "அன்ப + கத்து",
+      "அன்பு + கத்து"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அன்பகத்து = அன்பு + அகத்து.",
+    "active": true
+  },
+  {
+    "id": "FCaJmkk0sRjBXa90Sk25",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஒளடதமாம்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "ஒளடதம் + ஆம்",
+      "ஒளடத + மாம்",
+      "ஒள + டதமாம்",
+      "ஒ + ளடதமாம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஒளடதமாம் = ஒளடதம் + ஆம்.",
+    "active": true
+  },
+  {
+    "id": "FLtU35duH7smZJFf9zzb",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வேய் + குழல் = வேய்ங்குழல்’ என்பதில் என்ன மிகுகிறது?",
+    "options": [
+      "வல்லினம்",
+      "மெல்லினம்",
+      "உடம்படுமெய்",
+      "சாரியை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வேற்றுநிலை மெய்ம்மயக்கத்தில் யாழு முன்னர் மெல்லினம் மிகும்.",
+    "active": true
+  },
+  {
+    "id": "Fx6yddFdf3a57Zwyi6yv",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பனை + காய் = பனங்காய்’ என்பதில் எத்தனை விகாரங்கள் உள்ளன?",
+    "options": [
+      "ஒன்று",
+      "இரண்டு",
+      "மூன்று",
+      "நான்கு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஐகாரம் கெடுதல், அம் சாரியை தோன்றல், ம் → ங் திரிதல் ஆகிய மூன்று விகாரங்களும் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "FxtaNc3ZflptCGt7YaAs",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மரம் + பெட்டி = மரப்பெட்டி’ என்பதில் எந்தெந்த விகாரங்கள் உள்ளன?",
+    "options": [
+      "தோன்றல் மட்டும்",
+      "கெடுதல் மற்றும் தோன்றல்",
+      "திரிதல் மட்டும்",
+      "கெடுதல் மட்டும்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ம் கெட்டு ப் தோன்றியதால் கெடுதல் மற்றும் தோன்றல் விகாரங்கள்.",
+    "active": true
+  },
+  {
+    "id": "G2ZWfGE4WNfKFbVqaeTN",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "மெய்ம்மயக்கத்தில் மெல்லினம் மிகும் எழுத்துகள் எவை?",
+    "options": [
+      "க, ச, த, ப",
+      "ங, ஞ, ந, ம",
+      "ய, ர, ல, வ",
+      "அ, ஆ, இ, ஈ"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ந, ஞ, ந, ம என்ற நான்கு எழுத்துகளும் மெல்லினம் மிகுதலில் வரும்.",
+    "active": true
+  },
+  {
+    "id": "GHdgjnyhdmKQcnDCtEI0",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "உயிரை ஈறாக உடைய சொற்களின் முன் உயிர்முதல் சொற்கள் வரும்போது தோன்றும் மெய் எவ்வாறு அழைக்கப்படுகிறது?",
+    "options": [
+      "வலிமெய்",
+      "மெல்லினம்",
+      "உடம்படுமெய்",
+      "சாரியை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஒன்று சேராத உயிரொலிகளை ஒன்று சேர்ப்பதற்குத் தோன்றும் மெய் உடம்படுமெய் எனப்படும்.",
+    "active": true
+  },
+  {
+    "id": "GTz4UFs4PocLZXETx6E6",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கண்டறி’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "கண்டு + அறி",
+      "கண் + டறி",
+      "கண்ட + றி",
+      "க + ண்டறி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கண்டறி = கண்டு + அறி.",
+    "active": true
+  },
+  {
+    "id": "GtVPhJ1lvhpqK8J2ctUs",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நட்பென்னாம்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "நட்பு + என்னாம்",
+      "நட் + பென்னாம்",
+      "நட்பென் + னாம்",
+      "ந + ட்பென்னாம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நட்பென்னாம் = நட்பு + என்னாம்.",
+    "active": true
+  },
+  {
+    "id": "HPVl1SyzkFxkXBleUScK",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பாகற்காய்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "பாகு + அல் + காய்",
+      "பாகற் + காய்",
+      "பா + கற்காய்",
+      "பாகர் + காய்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பாகற்காய் = பாகு + அல் + காய்.",
+    "active": true
+  },
+  {
+    "id": "HT4QA2SYvhXXHGxRHD2X",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தளிர்த்தற்று’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "தளிர் + தற்று",
+      "தளிர்த்து + அற்று",
+      "தளிர்த்த + ற்று",
+      "தளி + ர்த்தற்று"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "தளிர்த்தற்று = தளிர்த்து + அற்று.",
+    "active": true
+  },
+  {
+    "id": "Hh7fjJJHyIg3RSPQGxpJ",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அவனளிபோல்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "அவன் + அளிபோல்",
+      "அவ + னளிபோல்",
+      "அவனளி + போல்",
+      "அ + வனளிபோல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அவனளிபோல் = அவன் + அளிபோல்.",
+    "active": true
+  },
+  {
+    "id": "IRJhg8husjX5x3jnENzV",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘விள + காய் = விளங்காய்’ என்பதில் என்ன மிகுகிறது?",
+    "options": [
+      "வல்லினம்",
+      "மெல்லினம்",
+      "உடம்படுமெய்",
+      "சாரியை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "உயிரெழுத்தை இறுதியில் கொண்ட மரப் பெயர்களுக்கு முன்னர் மெல்லினம் மிகும்.",
+    "active": true
+  },
+  {
+    "id": "Ik2ozgsN0P0bAq70Icz2",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தேனருவி’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "தேன் + அருவி",
+      "தே + னருவி",
+      "தேன + ருவி",
+      "தேனரு + வி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தேனருவி = தேன் + அருவி.",
+    "active": true
+  },
+  {
+    "id": "IlSbRPu02fqBHeBRGSCp",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வாழை + பழம் = வாழைப்பழம்’ என்பதில் எந்த விகாரம்?",
+    "options": [
+      "திரிதல்",
+      "கெடுதல்",
+      "தோன்றல்",
+      "இயல்பு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ப் என்ற எழுத்துத் தோன்றியதால் தோன்றல் விகாரம்.",
+    "active": true
+  },
+  {
+    "id": "ImBhErDTQaBfU2qzt1J7",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மலரடி’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "மலர் + அடி",
+      "மல + ரடி",
+      "மலர + டி",
+      "ம + லரடி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மலரடி = மலர் + அடி.",
+    "active": true
+  },
+  {
+    "id": "J2Ip6uWcBNKmCOHdZEFO",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பாழ் + கிணறு = பாழ்ங்கிணறு’ என்பதில் என்ன மிகுகிறது?",
+    "options": [
+      "வல்லினம்",
+      "மெல்லினம்",
+      "உடம்படுமெய்",
+      "சாரியை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "யாழு முன்னர் மெல்லினம் மிகும்.",
+    "active": true
+  },
+  {
+    "id": "JwnrKMQai43KUv2jFoOI",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கணினித்தமிழ்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "கணினி + தமிழ்",
+      "கணி + னித்தமிழ்",
+      "கணினித் + தமிழ்",
+      "க + ணினித்தமிழ்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கணினித்தமிழ் = கணினி + தமிழ்.",
+    "active": true
+  },
+  {
+    "id": "K9Imp06eSkAvHjXq7BEQ",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கூர் + சிறை = கூர்ஞ்சிறை’ என்பதில் என்ன மிகுகிறது?",
+    "options": [
+      "வல்லினம்",
+      "மெல்லினம்",
+      "உடம்படுமெய்",
+      "சாரியை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "யாழு முன்னர் மெல்லினம் மிகும்.",
+    "active": true
+  },
+  {
+    "id": "KCpctAM5rG2oy19cxc73",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நிழலருமை’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "நிழல் + அருமை",
+      "நிழ + லருமை",
+      "நிழல + ருமை",
+      "நி + ழலருமை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நிழலருமை = நிழல் + அருமை.",
+    "active": true
+  },
+  {
+    "id": "KNSZokuRTVsMgDkx9KC2",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பொய்யகற்றும்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "பொய் + அகற்றும்",
+      "பொய்ய + கற்றும்",
+      "பொ + ய்யகற்றும்",
+      "பொய்யகற் + றும்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பொய்யகற்றும் = பொய் + அகற்றும்.",
+    "active": true
+  },
+  {
+    "id": "Mb4M28Qb95n413efEyQ8",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மரம் + கிளை = மரக்கிளை’ என்பது எந்த வகை?",
+    "options": [
+      "உயிர்முன் உயிர்",
+      "உயிர்முன் மெய்",
+      "மெய்முன் உயிர்",
+      "மெய்முன் மெய்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "மரம் (மெய்யீறு) + கிளை (மெய்ம்முதல்) = மெய்முன் மெய் புணர்ச்சி.",
+    "active": true
+  },
+  {
+    "id": "MzaU7vzcogfeV1NhGDJ7",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பூ + சோலை = பூஞ்சோலை’ என்பதில் என்ன மிகுகிறது?",
+    "options": [
+      "வல்லினம் மட்டும்",
+      "மெல்லினம் மட்டும்",
+      "வல்லினத்தோடு மெல்லினமும்",
+      "உடம்படுமெய்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "‘பூ’ என்னும் பெயர் முன்னர் வல்லினத்தோடு மெல்லினமும் மிகும்.",
+    "active": true
+  },
+  {
+    "id": "OajPQDITNi75qgrVOsY3",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நாய்க்கால்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "நாய் + கால்",
+      "நாய்க் + கால்",
+      "நா + ய்க்கால்",
+      "நாய்க்கா + ல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நாய்க்கால் = நாய் + கால்.",
+    "active": true
+  },
+  {
+    "id": "Oc59cBp4J4bG2zAHY61F",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மண் + அடுப்பு’ என்பது எந்த வகைப் புணர்ச்சி?",
+    "options": [
+      "உயிர்முன் உயிர்",
+      "மெய்முன் உயிர்",
+      "உயிர்முன் மெய்",
+      "மெய்முன் மெய்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மண் (மெய்யீறு) + அடுப்பு (உயிர்முதல்) = மெய்முன் உயிர் புணர்ச்சி.",
+    "active": true
+  },
+  {
+    "id": "Oj8n5GrpZ7BEbw1DiAYP",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வாழை + மரம் = வாழைமரம்’ என்பது எந்த வகைப் புணர்ச்சி?",
+    "options": [
+      "விகாரப்புணர்ச்சி",
+      "இயல்பு புணர்ச்சி",
+      "தோன்றல் புணர்ச்சி",
+      "திரிதல் புணர்ச்சி"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "எவ்வித மாற்றமும் இல்லாமல் சேர்வதால் இயல்பு புணர்ச்சி.",
+    "active": true
+  },
+  {
+    "id": "PtlTBf9PGLR5cOQbwJkN",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பொற்கோட்டு’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "பொன் + கோட்டு",
+      "பொற் + கோட்டு",
+      "பொர + கோட்டு",
+      "பொ + ற்கோட்டு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பொற்கோட்டு = பொன் + கோட்டு.",
+    "active": true
+  },
+  {
+    "id": "Qhp2VQUaYfy6gWfkck6d",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சிலை + அழகு’ என்பது எந்த வகைப் புணர்ச்சி?",
+    "options": [
+      "மெய்முன் உயிர்",
+      "உயிர்முன் உயிர்",
+      "உயிர்முன் மெய்",
+      "மெய்முன் மெய்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "சிலை (உயிரீறு) + அழகு (உயிர்முதல்) = உயிர்முன் உயிர் புணர்ச்சி.",
+    "active": true
+  },
+  {
+    "id": "U63IdCrIf0CDfKl84B4W",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கொங்கலர்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "கொங்கு + அலர்",
+      "கொங் + கலர்",
+      "கொங்க + லர்",
+      "கொ + ங்கலர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கொங்கலர் = கொங்கு + அலர்.",
+    "active": true
+  },
+  {
+    "id": "UClPh3Gf2DE3iVfsTrL0",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அஃறினை’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "அல் + தினை",
+      "அஃ + றினை",
+      "அஃறி + னை",
+      "அ + ஃறினை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அஃறினை = அல் + தினை.",
+    "active": true
+  },
+  {
+    "id": "UxNDHM9wA7DFT5y0mDyS",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வட்டு + ஆடினான் = வட்டாடினான்’ என்பதில் என்ன கெட்டது?",
+    "options": [
+      "ட்",
+      "உகரம்",
+      "ஆ",
+      "ன்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "குற்றியலுகரத்தின் முன் உயிர் வந்ததால் உகரம் கெட்டது.",
+    "active": true
+  },
+  {
+    "id": "V1TViz0LMfV99X0MZnM7",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘திரு + குறள் = திருக்குறள்’ என்பதில் எந்த விகாரம்?",
+    "options": [
+      "திரிதல்",
+      "கெடுதல்",
+      "தோன்றல்",
+      "இயல்பு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "க் என்ற எழுத்துத் தோன்றியதால் தோன்றல் விகாரம்.",
+    "active": true
+  },
+  {
+    "id": "VwMfLb6y8epgDEXPLqjy",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பா + இனம் = பாவினம்’ என்பதில் எந்த உடம்படுமெய் தோன்றியது?",
+    "options": [
+      "யகரம்",
+      "வகரம்",
+      "ஙகரம்",
+      "ஞகரம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஆகார ஈற்றின் முன் வகரம் உடம்படுமெய்யாகத் தோன்றியது.",
+    "active": true
+  },
+  {
+    "id": "WXjGgvjHhlQzs19OlyMr",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘யானை + கொம்பு = யானைக்கொம்பு’ என்பதில் எந்த விகாரம்?",
+    "options": [
+      "திரிதல்",
+      "கெடுதல்",
+      "தோன்றல்",
+      "இயல்பு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "க் என்ற எழுத்துத் தோன்றியதால் தோன்றல் விகாரம்.",
+    "active": true
+  },
+  {
+    "id": "WrmwuBet5N763na9EEQS",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பொன் + குடம் = பொற்குடம்’ என்பதில் நிகழும் விகாரம் எது?",
+    "options": [
+      "தோன்றல்",
+      "திரிதல்",
+      "கெடுதல்",
+      "இயல்பு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "நிலைமொழி இறுதி ன் என்பது ற் எனத் திரிந்துள்ளது. எனவே திரிதல் விகாரம்.",
+    "active": true
+  },
+  {
+    "id": "X4IifunJ2irOZ1u1uXK1",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அறிவுடையார்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "அறிவு + உடையார்",
+      "அறி + வுடையார்",
+      "அறிவுடை + யார்",
+      "அ + றிவுடையார்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அறிவுடையார் = அறிவு + உடையார்.",
+    "active": true
+  },
+  {
+    "id": "Y6JwyEOytFkUS7kuL5Bm",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "நிலைமொழியின் இறுதி எழுத்து உயிர் எழுத்தாக அமைந்து புணர்வது என்ன?",
+    "options": [
+      "மெய்யீற்றுப் புணர்ச்சி",
+      "உயிரீற்றுப் புணர்ச்சி",
+      "உடம்படுமெய் புணர்ச்சி",
+      "திசைப்புணர்ச்சி"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "நிலைமொழியின் இறுதி எழுத்து உயிர் எழுத்தாக அமைந்து புணர்வது உயிரீற்றுப் புணர்ச்சி எனப்படும்.",
+    "active": true
+  },
+  {
+    "id": "Z7cDCKpnmvgEQAsYIfF8",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஒய்வற’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "ஒய்வு + அற",
+      "ஒய் + வற",
+      "ஒய்வ + ற",
+      "ஒ + ய்வற"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஒய்வற = ஒய்வு + அற.",
+    "active": true
+  },
+  {
+    "id": "ZC2LLX03yi6Zux3F5OEZ",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆற்றுணா’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "ஆறு + உணா",
+      "ஆற்று + உணா",
+      "ஆற் + றுணா",
+      "ஆ + ற்றுணா"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஆற்றுணா = ஆறு + உணா.",
+    "active": true
+  },
+  {
+    "id": "ZzUhIVxwYKGMfBH3hM39",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நிலவென்று’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "நிலவு + என்று",
+      "நில + வென்று",
+      "நிலவென் + று",
+      "நி + லவென்று"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நிலவென்று = நிலவு + என்று.",
+    "active": true
+  },
+  {
+    "id": "ankjs84alCggJnnCpZpR",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நிலத்தினியிடையே’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "நிலத்தின் + இடையே",
+      "நிலத்தினி + யிடையே",
+      "நில + த்தினியிடையே",
+      "நி + லத்தினியிடையே"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நிலத்தினியிடையே = நிலத்தின் + இடையே.",
+    "active": true
+  },
+  {
+    "id": "azQqgbFYkKzwfq7KDcAu",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அவளெங்கே’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "அவள் + எங்கே",
+      "அவ + ளெங்கே",
+      "அவளெ + ங்கே",
+      "அ + வளெங்கே"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அவளெங்கே = அவள் + எங்கே.",
+    "active": true
+  },
+  {
+    "id": "bfBu7RFq7SiewE7hwSty",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பல் + பொடி = பற்பொடி’ என்பதில் எந்த விகாரம்?",
+    "options": [
+      "தோன்றல்",
+      "திரிதல்",
+      "கெடுதல்",
+      "இயல்பு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ல் என்பது ற் ஆகத் திரிந்ததால் திரிதல் விகாரம்.",
+    "active": true
+  },
+  {
+    "id": "bxiLHlKlyAhtWkyBbTQs",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நிலாவொளி’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "நிலா + ஒளி",
+      "நிலாவொ + ளி",
+      "நி + லாவொளி",
+      "நிலாவ் + ஒளி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நிலாவொளி = நிலா + ஒளி.",
+    "active": true
+  },
+  {
+    "id": "ci8yTCL5bsiNXLRbXVdQ",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘முன் + நிலை = முன்னிலை’ என்பதில் எந்த விகாரம்?",
+    "options": [
+      "தோன்றல்",
+      "திரிதல்",
+      "கெடுதல்",
+      "இயல்பு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வருமொழி முதல் ந் என்பது ன் எனத் திரிந்துள்ளது. எனவே திரிதல் விகாரம்.",
+    "active": true
+  },
+  {
+    "id": "dMEFoBg8FbJJagvT6Cgk",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தமிழெங்கள்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "தமிழ் + எங்கள்",
+      "தமி + ழெங்கள்",
+      "தமிழெங் + கள்",
+      "த + மிழெங்கள்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தமிழெங்கள் = தமிழ் + எங்கள்.",
+    "active": true
+  },
+  {
+    "id": "ditrKnaQmKeHqY1Qc9j7",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பாட்டிருக்கும்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "பாட்டு + இருக்கும்",
+      "பாட் + டிருக்கும்",
+      "பாட்டிருக் + கும்",
+      "பா + ட்டிருக்கும்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பாட்டிருக்கும் = பாட்டு + இருக்கும்.",
+    "active": true
+  },
+  {
+    "id": "duPGkYa809fJV0hcHEjf",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சே + அடி’ என்பதில் உடம்படுமெய் எவ்வாறு வரலாம்?",
+    "options": [
+      "யகரம் மட்டும்",
+      "வகரம் மட்டும்",
+      "யகரம் அல்லது வகரம்",
+      "ஙகரம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஏகார ஈற்றில் யகரமோ வகரமோ தோன்றும். சேயடி அல்லது சேவடி.",
+    "active": true
+  },
+  {
+    "id": "eAm4opXzE3Yqo8amMoLm",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஒலைச்சுவடி’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "ஒலை + சுவடி",
+      "ஒலைச் + சுவடி",
+      "ஒ + லைச்சுவடி",
+      "ஒலைச்சு + வடி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஒலைச்சுவடி = ஒலை + சுவடி.",
+    "active": true
+  },
+  {
+    "id": "eTnz7YRxYoK4ZwXsRGqd",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "மெய்யீற்றுப் புணர்ச்சி எத்தனை வகைப்படும்?",
+    "options": [
+      "ஒன்று",
+      "இரண்டு",
+      "மூன்று",
+      "நான்கு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மெய்முன் உயிர், மெய்முன் மெய் என இருவகையாக அமையும்.",
+    "active": true
+  },
+  {
+    "id": "evm6GFaSuFHuOBkZWjzB",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பருப்புணவு’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "பரு + ப்புணவு",
+      "பருப்பு + உணவு",
+      "பருப்புண + வு",
+      "ப + ருப்புணவு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பருப்புணவு = பருப்பு + உணவு.",
+    "active": true
+  },
+  {
+    "id": "fDqKfBtBHtrljMLUAWBO",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆழக்கடல்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "ஆழம் + கடல்",
+      "ஆழ + க்கடல்",
+      "ஆழக்க + டல்",
+      "ஆ + ழக்கடல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஆழக்கடல் = ஆழம் + கடல்.",
+    "active": true
+  },
+  {
+    "id": "gdY2bAloigVBOwq6VlNG",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "புணர்ச்சியில் நிலைமொழி என்றால் என்ன?",
+    "options": [
+      "அடுத்து வரும் சொல்",
+      "முதலில் நிற்கும் சொல்",
+      "இறுதியில் நிற்கும் சொல்",
+      "நடுவில் நிற்கும் சொல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "நிலைமொழி என்பது முதலில் நிற்கும் சொல். வருமொழி என்பது அடுத்து வரும் சொல்.",
+    "active": true
+  },
+  {
+    "id": "gzWDxXF2E8Rwx80qKqmE",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மரம் + நிழல் = மரநிழல்’ என்பதில் எந்த விகாரம்?",
+    "options": [
+      "தோன்றல்",
+      "திரிதல்",
+      "கெடுதல்",
+      "இயல்பு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "நிலைமொழி இறுதி ம் கெட்டதால் கெடுதல் விகாரம்.",
+    "active": true
+  },
+  {
+    "id": "h90Nv3K2w3Fsf8viZfm2",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அறு + பத்து = அறுபது’ என்பதில் எந்தெந்த விகாரங்கள் உள்ளன?",
+    "options": [
+      "தோன்றல் மட்டும்",
+      "திரிதல் மற்றும் கெடுதல்",
+      "கெடுதல் மட்டும்",
+      "இயல்பு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஆ → அ எனத் திரிதல்; த் கெடுதல் ஆகிய இரு விகாரங்கள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "hP8oj9c4MhcSgIycbNJp",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பனி + காற்று = பனிக்காற்று’ என்பது எந்த வகை?",
+    "options": [
+      "உயிர்முன் உயிர்",
+      "உயிர்முன் மெய்",
+      "மெய்முன் உயிர்",
+      "மெய்முன் மெய்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பனி (உயிரீறு) + காற்று (மெய்ம்முதல்) = உயிர்முன் மெய் புணர்ச்சி.",
+    "active": true
+  },
+  {
+    "id": "iEOLLEJo6CJRQkG91ohb",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆல் + இலை = ஆலிலை’ என்பது எந்த வகை?",
+    "options": [
+      "உயிர்முன் உயிர்",
+      "உயிர்முன் மெய்",
+      "மெய்முன் உயிர்",
+      "மெய்முன் மெய்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஆல் (மெய்யீறு) + இலை (உயிர்முதல்) = மெய்முன் உயிர் புணர்ச்சி.",
+    "active": true
+  },
+  {
+    "id": "izNlsu2jrgi9ay2WITpO",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மரம் + வேர் = மரவேர்’ என்பதில் எந்த விகாரம்?",
+    "options": [
+      "தோன்றல்",
+      "திரிதல்",
+      "கெடுதல்",
+      "இயல்பு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "நிலைமொழி இறுதி ம் கெட்டதால் கெடுதல் விகாரம்.",
+    "active": true
+  },
+  {
+    "id": "izZidmSc4FCjL2i9kG5X",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வேதியுரங்கள்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "வேதி + உரங்கள்",
+      "வேதியு + ரங்கள்",
+      "வே + தியுரங்கள்",
+      "வேதிஉ + ரங்கள்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "வேதியுரங்கள் = வேதி + உரங்கள்.",
+    "active": true
+  },
+  {
+    "id": "jQO6Zhg0tAQPW3J4ffVB",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "திசைப்பெயர்ப் புணர்ச்சியில் முதன்மைத் திசைகள் எத்தனை?",
+    "options": [
+      "இரண்டு",
+      "மூன்று",
+      "நான்கு",
+      "எட்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "முதன்மைத் திசைகள் நான்கு. அவை கிழக்கு, மேற்கு, தெற்கு, வடக்கு.",
+    "active": true
+  },
+  {
+    "id": "jWP40obP4o76NX7JBosM",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "நிலைமொழியும் வருமொழியும் சேரும்போது எவ்வித மாற்றமும் ஏற்படாவிட்டால் அது என்ன புணர்ச்சி?",
+    "options": [
+      "விகாரப்புணர்ச்சி",
+      "இயல்பு புணர்ச்சி",
+      "தோன்றல் புணர்ச்சி",
+      "திரிதல் புணர்ச்சி"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "நிலைமொழியும் வருமொழியும் சேரும்போது எவ்வித மாற்றமும் ஏற்படவில்லையென்றால் அஃது இயல்புப்புணர்ச்சியாகும். எ.கா. வாழை + மரம் = வாழைமரம்.",
+    "active": true
+  },
+  {
+    "id": "k9R5TiTkcE4zdWOVH1TU",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பத்துப்பாட்டு’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "பத்து + பாட்டு",
+      "பத் + துப்பாட்டு",
+      "பத்துப் + பாட்டு",
+      "ப + த்துப்பாட்டு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பத்துப்பாட்டு = பத்து + பாட்டு.",
+    "active": true
+  },
+  {
+    "id": "n4DimxnWogovj4nv3X0D",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நாற்றிசை’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "நான்கு + திசை",
+      "நாற் + றிசை",
+      "நாற்று + இசை",
+      "நா + ற்றிசை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நாற்றிசை = நான்கு + திசை.",
+    "active": true
+  },
+  {
+    "id": "oLV3R3LbwtqhUov9Bwie",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மெய் + ஞானம் = மெய்ஞ்ஞானம்’ என்பதில் என்ன மிகுகிறது?",
+    "options": [
+      "வல்லினம்",
+      "மெல்லினம்",
+      "உடம்படுமெய்",
+      "சாரியை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "யகர ஈற்றுச் சொற்கள் முன் மெல்லினம் மிகும்.",
+    "active": true
+  },
+  {
+    "id": "pmhPFOqn4sdwQkzL5iih",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வழித்தடம்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "வழி + தடம்",
+      "வழித் + தடம்",
+      "வழித + டம்",
+      "வ + ழித்தடம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "வழித்தடம் = வழி + தடம்.",
+    "active": true
+  },
+  {
+    "id": "qYw22hpMW3ZkXHHCuG7w",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உடல் + ஒம்பல் = உடலோம்பல்’ என்பதில் என்ன நிகழ்கிறது?",
+    "options": [
+      "புதிய எழுத்து தோன்றல்",
+      "எழுத்து திரிதல்",
+      "எழுத்து கெடுதல்",
+      "உயிர்மெய் ஆதல் மட்டும்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "ல் + ஒ இணைந்து லோ என்னும் உயிர்மெய் ஆயிற்று. புதிய எழுத்து தோன்றவோ திரியவோ மறையவோ இல்லை. எனவே இயல்பு புணர்ச்சி.",
+    "active": true
+  },
+  {
+    "id": "rak2JbDrefcuHQdZv1If",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘எட்டுத்திசை’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "எட்டு + திசை",
+      "எட் + டுத்திசை",
+      "எட்டுத் + திசை",
+      "எ + ட்டுத்திசை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "எட்டுத்திசை = எட்டு + திசை.",
+    "active": true
+  },
+  {
+    "id": "sZQPWoGr8D2r9TV6bFZS",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "உயிரீற்றுப் புணர்ச்சி எத்தனை வகைப்படும்?",
+    "options": [
+      "ஒன்று",
+      "இரண்டு",
+      "மூன்று",
+      "நான்கு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "உயிர்முன் உயிர், உயிர்முன் மெய் என இருவகையாக அமையும்.",
+    "active": true
+  },
+  {
+    "id": "soFtc7k19fSQSP0NluqO",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘செய் + நன்றி = செய்ந்நன்றி’ என்பதில் என்ன மிகுகிறது?",
+    "options": [
+      "வல்லினம்",
+      "மெல்லினம்",
+      "உடம்படுமெய்",
+      "சாரியை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "யகர ஈற்றுச் சொற்கள் முன் மெல்லினம் மிகும்.",
+    "active": true
+  },
+  {
+    "id": "tKlz1xqPqOyCrJkVLZDb",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘புளி + கறி = புளிங்கறி’ என்பதில் என்ன மிகுகிறது?",
+    "options": [
+      "வல்லினம் மட்டும்",
+      "மெல்லினம் மட்டும்",
+      "வல்லினத்தோடு மெல்லினமும்",
+      "உடம்படுமெய்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "‘புளி’ என்னும் சுவைப் பெயர் முன்னர் வல்லினத்தோடு மெல்லினமும் மிகும்.",
+    "active": true
+  },
+  {
+    "id": "trsnnT3tLmCG7cTk3Pub",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘செந்தமிழ்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "செம்மை + தமிழ்",
+      "சென் + தமிழ்",
+      "செந்த + மிழ்",
+      "செ + ந்தமிழ்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "செந்தமிழ் = செம்மை + தமிழ்.",
+    "active": true
+  },
+  {
+    "id": "uhmghJmCYQ93S9hozEJt",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘செம்பயிர்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "செம்மை + பயிர்",
+      "செம் + பயிர்",
+      "செம்ப + யிர்",
+      "செ + ம்பயிர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "செம்பயிர் = செம்மை + பயிர்.",
+    "active": true
+  },
+  {
+    "id": "uxAqdUivdyj0UQpXafOd",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நன்மாடங்கள்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "நன்மை + மாடங்கள்",
+      "நன் + மாடங்கள்",
+      "நன்மா + டங்கள்",
+      "ந + ன்மாடங்கள்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நன்மாடங்கள் = நன்மை + மாடங்கள்.",
+    "active": true
+  },
+  {
+    "id": "vFhboR6kAsAx7wtGXb8I",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தெற்கு + கிழக்கு = தென்கிழக்கு’ என்பதில் நகரம் என்னவாகத் திரிந்தது?",
+    "options": [
+      "ஙகரம்",
+      "ஞகரம்",
+      "ஏகரம்",
+      "நகரம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "கு நீங்கிய பிறகு நகரம் ஏகரமாகத் திரிந்து புணரும்.",
+    "active": true
+  },
+  {
+    "id": "vzEkv8pZSCFJgX0S7jTo",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வடக்கு + கிழக்கு = வடகிழக்கு’ என்பதில் என்ன நிகழ்கிறது?",
+    "options": [
+      "தோன்றல்",
+      "திரிதல்",
+      "கெடுதல்",
+      "இயல்பு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "வடக்கு என்னும் நிலைமொழியின் இறுதி எழுத்துகளான க், கு நீங்கிப் புணர்ந்தது. கெடுதல் விகாரம்.",
+    "active": true
+  },
+  {
+    "id": "wHruWlkcRM1epavtQsrG",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மணமுண்டு’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "மணம் + உண்டு",
+      "மண + முண்டு",
+      "மணமுண் + டு",
+      "ம + ணமுண்டு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மணமுண்டு = மணம் + உண்டு.",
+    "active": true
+  },
+  {
+    "id": "wgMKmrZdOgZFqzK7dQbI",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அன்பீனும்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "அன் + பீனும்",
+      "அன்பு + ஈனும்",
+      "அன்பீ + னும்",
+      "அன்பு + னும்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அன்பீனும் = அன்பு + ஈனும்.",
+    "active": true
+  },
+  {
+    "id": "wv0i8Wnajm1ZSXGgrPMb",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தொழிலனைத்தும்’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "தொழில் + அனைத்தும்",
+      "தொழில + னைத்தும்",
+      "தொழி + லனைத்தும்",
+      "தொ + ழிலனைத்தும்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தொழிலனைத்தும் = தொழில் + அனைத்தும்.",
+    "active": true
+  },
+  {
+    "id": "yoTq1Aiq5RnXxGhSk3GS",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘திருவருட்பா’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "திரு + அருள் + பா",
+      "திருவருள் + பா",
+      "திரு + அருட்பா",
+      "திருவ + ருட்பா"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "திருவருட்பா = திரு + அருள் + பா.",
+    "active": true
+  },
+  {
+    "id": "zHy1jgJ2q11pmEVjNrzq",
+    "subject": "group4series",
+    "class": "Unit 1 - பிரித்து எழுதுதல் – சேர்த்து எழுதுதல்",
+    "topic": "புணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘புறத்துறுப்பு’ என்பதைப் பிரித்து எழுதினால் என்னவாகும்?",
+    "options": [
+      "புறத்து + உறுப்பு",
+      "புறம் + உறுப்பு",
+      "புற + த்துறுப்பு",
+      "புறத்துறு + ப்பு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "புறத்துறுப்பு = புறம் + உறுப்பு.",
+    "active": true
+  }
+]

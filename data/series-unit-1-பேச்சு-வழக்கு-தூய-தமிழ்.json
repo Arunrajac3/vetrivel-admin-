@@ -1,0 +1,2282 @@
+[
+  {
+    "id": "0alXdiIwnmQ1AnLiD1ps",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நில்லு’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "நின்று",
+      "நில்லுங்கள்",
+      "நில்",
+      "நிறுத்து"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பேச்சு வழக்கில் ‘நில்லு’ என்பதற்குத் தூய தமிழில் ‘நில்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "0quJ5oMv6ct23canP1by",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அம்மாஞ்சி’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "ஏமாளி",
+      "அம்மா",
+      "அஞ்சு",
+      "அம்மை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘அம்மாஞ்சி’ என்பதற்குத் தூய தமிழில் ‘ஏமாளி’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "12CJkNjVlDXOpV7Xly8P",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘போறது’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "போகிறது / செல்வது",
+      "போனது",
+      "போகும்",
+      "போ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘போறது’ என்பதற்குத் தூய தமிழில் ‘போகிறது / செல்வது’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "19yPK1szx71keSTTxOVE",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வூடு’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "வீடு",
+      "வூர்",
+      "வாசல்",
+      "வீதிய"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘வூடு’ என்பதற்குத் தூய தமிழில் ‘வீடு’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "1tMBp61RAySFqaf3dSOp",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கடுதாசி’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "கடிதம்",
+      "கடு",
+      "தாள்",
+      "கடி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘கடுதாசி’ என்பதற்குத் தூய தமிழில் ‘கடிதம்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "2WtG0JUujiIY9iDFlzqi",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வர்ற’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "வரும்",
+      "வருகிற",
+      "வந்த",
+      "வர"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பேச்சு வழக்கில் ‘வர்ற’ என்பதற்குத் தூய தமிழில் ‘வருகிற’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "33BlBq4y7nrn9LtahYGM",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அதுல இருந்த’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "அதில் இருந்த",
+      "அதனால்",
+      "அதற்கு",
+      "அதை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘அதுல இருந்த’ என்பதற்குத் தூய தமிழில் ‘அதில் இருந்த’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "5Izhpr6O0AkMlgDyIqaz",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உடைச்சிட்டியே’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "உடைத்துவிட்டாயே",
+      "உடைத்து",
+      "உடை",
+      "உடைத்த"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘உடைச்சிட்டியே’ என்பதற்குத் தூய தமிழில் ‘உடைத்துவிட்டாயே’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "5cAJoQOO6Zgr9GmfHhZ6",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வண்டியில’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "வண்டியில்",
+      "வண்டிக்கு",
+      "வண்டியை",
+      "வண்டி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘வண்டியில’ என்பதற்குத் தூய தமிழில் ‘வண்டியில்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "5uramLWSJV98cdGe3mfI",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வேல இல்ல’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "வேலை இல்லை",
+      "வேலை",
+      "இல்லை",
+      "வேலைக்கு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘வேல இல்ல’ என்பதற்குத் தூய தமிழில் ‘வேலை இல்லை’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "6d468hb04JXWdc6AAdah",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சொமந்துக்கிட்டு வரணும்’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "சுமந்துகொண்டு வரவேண்டும்",
+      "சுமந்து",
+      "வர",
+      "கொண்டு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘சொமந்துக்கிட்டு வரணும்’ என்பதற்குத் தூய தமிழில் ‘சுமந்துகொண்டு வரவேண்டும்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "6rhW2K6ih58MELL68yE9",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஏத்தி’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "ஏற்றி",
+      "ஏறு",
+      "ஏறிய",
+      "ஏற்றம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘ஏத்தி’ என்பதற்குத் தூய தமிழில் ‘ஏற்றி’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "7T2juQREcqNJDL5gklfi",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வளருது’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "வளரும்",
+      "வளர்கிறது",
+      "வளர்ந்தது",
+      "வளர்க"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பேச்சு வழக்கில் ‘வளருது’ என்பதற்குத் தூய தமிழில் ‘வளர்கிறது’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "7a8UIFyngWqOFdT7s3ci",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வித்துட்டு’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "விற்றுவிட்டு",
+      "வித்து",
+      "விற்ற",
+      "விற்க"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘வித்துட்டு’ என்பதற்குத் தூய தமிழில் ‘விற்றுவிட்டு’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "7dUltKipUCoFC5qBdimr",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பாத்தீங்களா’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "பார்த்தீர்களா",
+      "பார்த்தாயா",
+      "பார்த்த",
+      "பாருங்கள்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘பாத்தீங்களா’ என்பதற்குத் தூய தமிழில் ‘பார்த்தீர்களா’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "7gPOjgcQDfJqtYJRI99W",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஒத்தாசை’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "உதவி",
+      "உதவி செய்தல்",
+      "உதவியாளர்",
+      "உதவிக்கு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பேச்சு வழக்கில் ‘ஒத்தாசை’ என்பதற்குத் தூய தமிழில் ‘உதவி செய்தல்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "7swaxZjRPp5rkq2M64jm",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வச்சிருங்க’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "வைத்துவிடுங்கள்",
+      "வை",
+      "வைத்து",
+      "வைத்த"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘வச்சிருங்க’ என்பதற்குத் தூய தமிழில் ‘வைத்துவிடுங்கள்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "86JeN4RNCt5tgQl1g7dj",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கிடந்துட்டு’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "இருந்துவிட்டு",
+      "கிடந்து",
+      "இரு",
+      "கிட"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘கிடந்துட்டு’ என்பதற்குத் தூய தமிழில் ‘இருந்துவிட்டு’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "8EKvNlbbz00pB83nZih9",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஒண்ணும்’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "ஒன்று",
+      "ஒன்றும்",
+      "ஒரே",
+      "ஒவ்வொரு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பேச்சு வழக்கில் ‘ஒண்ணும்’ என்பதற்குத் தூய தமிழில் ‘ஒன்றும்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "8Ean5O7P6a4kTZODsqQc",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அத்’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "அதை",
+      "அது",
+      "அதன்",
+      "அதற்கு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘அத்’ என்பதற்குத் தூய தமிழில் ‘அதை’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "8PLNUveWv5ez45bPUHEt",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘விடிஞ்சதும்’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "விடிந்ததும்",
+      "விடி",
+      "விடியல்",
+      "விடிவு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘விடிஞ்சதும்’ என்பதற்குத் தூய தமிழில் ‘விடிந்ததும்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "8jauZTo1Y3aVO6czB8kz",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இன்னைக்கு’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "இன்றைக்கு",
+      "நாளைக்கு",
+      "நேற்று",
+      "முந்தைய நாள்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘இன்னைக்கு’ என்பதற்குத் தூய தமிழில் ‘இன்றைக்கு’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "8k9OMDeEP8ReYfur24s9",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மொதல்ல’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "முதலில்",
+      "மொத்த",
+      "முதல்",
+      "முதன்மை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘மொதல்ல’ என்பதற்குத் தூய தமிழில் ‘முதலில்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "92pj3PKDZo5Ai36RvmUl",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தெரிஞ்சி’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "தெரிந்து",
+      "தெரி",
+      "தெரிந்த",
+      "தெரிய"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘தெரிஞ்சி’ என்பதற்குத் தூய தமிழில் ‘தெரிந்து’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "9CwslQSnlITQfDhBMwgk",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘எல்லார் வீட்டிலயும்’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "எல்லோர் வீட்டிலும்",
+      "எல்லாம்",
+      "வீட்டில்",
+      "எல்லோரும்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘எல்லார் வீட்டிலயும்’ என்பதற்குத் தூய தமிழில் ‘எல்லோர் வீட்டிலும்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "9EIL7jSTdSJAsPDrNLDf",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சொல்லு’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "சொல்லி",
+      "சொல்",
+      "சொல்லுங்கள்",
+      "சொல்லுக"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பேச்சு வழக்கில் ‘சொல்லு’ என்பதற்குத் தூய தமிழில் ‘சொல்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "9srCSEUgLSWNkNXe9yVF",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இருக்குன்னு’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "இருக்கிறது",
+      "இரு",
+      "இருந்த",
+      "இருக்க"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘இருக்குன்னு’ என்பதற்குத் தூய தமிழில் ‘இருக்கிறது’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "AqBWcBy4IdgMSASNDF2P",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தெரியலப்பா’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "தெரியும்",
+      "தெரியவில்லை",
+      "தெரிகிறது",
+      "தெரிந்தது"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பேச்சு வழக்கில் ‘தெரியலப்பா’ என்பதற்குத் தூய தமிழில் ‘தெரியவில்லை’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "BDf1HnbwQMyU8n8kcMqD",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பாத்தியா’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "பார்த்தாயா",
+      "பார்த்தீர்களா",
+      "பார்த்த",
+      "பார்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘பாத்தியா’ என்பதற்குத் தூய தமிழில் ‘பார்த்தாயா’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "CDh0BhuKWaWrdhdWpz91",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘எம்பிட்டு / எவ்ளோ’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "எவ்வளவு",
+      "எவ்வள",
+      "எவ்",
+      "எவ்வ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘எம்பிட்டு / எவ்ளோ’ என்பதற்குத் தூய தமிழில் ‘எவ்வளவு’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "Ch0Csaey7w3tXx7tBDZQ",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அரிசிப்பருப்பு’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "அரிசியும் பருப்பும்",
+      "அரிசி",
+      "பருப்பு",
+      "அரிசிப்ப"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘அரிசிப்பருப்பு’ என்பதற்குத் தூய தமிழில் ‘அரிசியும் பருப்பும்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "Cl6ieWaZLJRD3hGDbmFl",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பாருங்க’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "பாருங்கள்",
+      "பார்",
+      "பார்த்த",
+      "பார்க்க"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘பாருங்க’ என்பதற்குத் தூய தமிழில் ‘பாருங்கள்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "D0hO8HGdnftlRFGC9l2N",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘முழிப்பு’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "முழி",
+      "விழிப்பு",
+      "முழக்கம்",
+      "முழு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பேச்சு வழக்கில் ‘முழிப்பு’ என்பதற்குத் தூய தமிழில் ‘விழிப்பு’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "EA0eLHsHawrjTSHwR3IL",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வேணும்னா’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "வேண்டுமென்றால்",
+      "வேண்டும்",
+      "வேண்",
+      "வேண்டி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘வேணும்னா’ என்பதற்குத் தூய தமிழில் ‘வேண்டுமென்றால்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "EHGvtt8CAoKkaiBLXMUJ",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஏமாத்தாதே’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "ஏமாற்று",
+      "ஏமாற்றாதே",
+      "ஏமாற்றி",
+      "ஏமா"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பேச்சு வழக்கில் ‘ஏமாத்தாதே’ என்பதற்குத் தூய தமிழில் ‘ஏமாற்றாதே’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "EqHBXpSVAkOC5HMVWSyO",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘எல’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "இலை",
+      "எல்",
+      "ஏலம்",
+      "எலி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘எல’ என்பதற்குத் தூய தமிழில் ‘இலை’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "EstbqVP9wwruQpycdR88",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆஸ்பத்திரி’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "மருத்துவமனை",
+      "ஆஸ்பத்திரி",
+      "மருத்துவர்",
+      "மருந்து"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘ஆஸ்பத்திரி’ என்பதற்குத் தூய தமிழில் ‘மருத்துவமனை’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "F0mTaR24qwGK4LOK8gRF",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நீங்க’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "நீ",
+      "நீங்கள்",
+      "நான்",
+      "அவன்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பேச்சு வழக்கில் ‘நீங்க’ என்பதற்குத் தூய தமிழில் ‘நீங்கள்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "FCtjzBYxmlx7ofWa8LlX",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வெச்சிட்டு’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "வைத்து",
+      "வைத்துவிட்டு",
+      "வைக்க",
+      "வைத்த"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பேச்சு வழக்கில் ‘வெச்சிட்டு’ என்பதற்குத் தூய தமிழில் ‘வைத்துவிட்டு’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "GKJghUpDFPa6DVpZ0ucb",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘முந்தின நாள்’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "முந்தைய நாள்",
+      "இன்றைக்கு",
+      "நாளை",
+      "நேற்று"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘முந்தின நாள்’ என்பதற்குத் தூய தமிழில் ‘முந்தைய நாள்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "GoNbaNCijgUcj0d4vZNV",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘படிக்கல’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "படிக்கவில்லை",
+      "படி",
+      "படித்த",
+      "படிக்க"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘படிக்கல’ என்பதற்குத் தூய தமிழில் ‘படிக்கவில்லை’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "H4O3ElQ3m8yrPK5PQTGs",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பஞ்சை’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "புண்",
+      "புண்செய்",
+      "பஞ்சு",
+      "பசை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பேச்சு வழக்கில் ‘பஞ்சை’ என்பதற்குத் தூய தமிழில் ‘புண்செய்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "Hhat2K6PDg287St8J1Ay",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அவகாசம்’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "காலக்கெடு / நேரம்",
+      "அவசரம்",
+      "காலம்",
+      "நேரம் மட்டும்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘அவகாசம்’ என்பதற்குத் தூய தமிழில் ‘காலக்கெடு / நேரம்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "I1kdpn336U7clQbRhFCH",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பரீட்சை’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "தேர்வு",
+      "பரீட்சை",
+      "தேர்",
+      "வினா"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘பரீட்சை’ என்பதற்குத் தூய தமிழில் ‘தேர்வு’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "ISOCoVkHKVLk9edHRxQw",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தண்ணி’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "தண்ணீர்",
+      "தண்",
+      "நீர்",
+      "தண்ணி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘தண்ணி’ என்பதற்குத் தூய தமிழில் ‘தண்ணீர்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "JWVyhBKHYIBbh0OXeoIF",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அதுக்குள்’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "அதற்குள்",
+      "அதனால்",
+      "அதற்கு",
+      "அதில்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘அதுக்குள்’ என்பதற்குத் தூய தமிழில் ‘அதற்குள்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "JjbauZknxZR4mKJMMsOx",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சாவி’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "திறவுகோல்",
+      "சாவி",
+      "சா",
+      "விசை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘சாவி’ என்பதற்குத் தூய தமிழில் ‘திறவுகோல்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "KUndis3XqZ1LvNeYX8uR",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இன்னக்கி’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "இன்றைக்கு",
+      "நாளை",
+      "நேற்று",
+      "முன்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘இன்னக்கி’ என்பதற்குத் தூய தமிழில் ‘இன்றைக்கு’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "Ks3VPCJC8s6BpNlzSxMD",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பொண்டாட்டி’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "மனைவி",
+      "பொன்",
+      "டாட்டி",
+      "மனை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘பொண்டாட்டி’ என்பதற்குத் தூய தமிழில் ‘மனைவி’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "LbqugTB0vbXwkQnIp8H8",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நல்லாச் சாப்பிட்டான்’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "நன்றாகச் சாப்பிட்டான்",
+      "நல்ல சாப்பிட்டான்",
+      "நன்று சாப்பிட்டான்",
+      "நல்லா சாப்பிட்டான்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘நல்லாச் சாப்பிட்டான்’ என்பதற்குத் தூய தமிழில் ‘நன்றாகச் சாப்பிட்டான்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "LoMyNZys7jYME0tylien",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சொகம்’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "சோகம்",
+      "சுகம்",
+      "சோறு",
+      "சொல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பேச்சு வழக்கில் ‘சொகம்’ என்பதற்குத் தூய தமிழில் ‘சுகம்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "LpSKiO5db6mlXQjuioNo",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இறங்குறாங்க’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "இறங்குகிறான்",
+      "இறங்குகிறார்கள்",
+      "இறங்குகிறாள்",
+      "இறங்குகிறோம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பேச்சு வழக்கில் ‘இறங்குறாங்க’ என்பதற்குத் தூய தமிழில் ‘இறங்குகிறார்கள்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "M3vVzZZPxaYTvNX6dPYT",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கிட்டே போய்’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "அருகில் வந்து",
+      "அருகில் சென்று",
+      "கிட்டத்தட்ட",
+      "நெருக்கமாக"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பேச்சு வழக்கில் ‘கிட்டே போய்’ என்பதற்குத் தூய தமிழில் ‘அருகில் சென்று’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "Mrl9Q6rPHct7yDQziRIW",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பேசாம இரு’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "பேசாமல் இரு",
+      "பேசு",
+      "பேசாதே",
+      "பேசி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘பேசாம இரு’ என்பதற்குத் தூய தமிழில் ‘பேசாமல் இரு’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "MsukcF5FcxLLZaF0iYZC",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நெனச்சு’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "நினைத்து",
+      "நினை",
+      "நினைவு",
+      "நினைத்த"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘நெனச்சு’ என்பதற்குத் தூய தமிழில் ‘நினைத்து’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "NnQ10xd3rSDiHdi4v1Xb",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நாதகாம்’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "நாககாம்",
+      "நாதம்",
+      "நாடு",
+      "நாள்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘நாதகாம்’ என்பதற்குத் தூய தமிழில் ‘நாககாம்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "PMqV8mkZu1ChmXNMK2Ad",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘செஞ்சா’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "செய்தால்",
+      "செய்",
+      "செய்த",
+      "செய்க"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘செஞ்சா’ என்பதற்குத் தூய தமிழில் ‘செய்தால்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "Pspdi9EMy1gnwE9eoBii",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வவத்து வலி’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "வயிற்று வலி",
+      "தலைவலி",
+      "பல்வலி",
+      "கால்வலி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘வவத்து வலி’ என்பதற்குத் தூய தமிழில் ‘வயிற்று வலி’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "Q0CW21OIyDEcJovJ9RoS",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஒன்’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "உன்",
+      "என்",
+      "தன்",
+      "நம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘ஒன்’ என்பதற்குத் தூய தமிழில் ‘உன்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "RjLAFqej8PGOlFRTkIDT",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வர்றேன்’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "வருகிறேன்",
+      "வருவேன்",
+      "வந்தேன்",
+      "வர"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘வர்றேன்’ என்பதற்குத் தூய தமிழில் ‘வருகிறேன்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "SLAFYReFq7BrXApFsqiz",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உடைஞ்சு’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "உடைந்து",
+      "உடை",
+      "உடைக்க",
+      "உடைத்த"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘உடைஞ்சு’ என்பதற்குத் தூய தமிழில் ‘உடைந்து’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "SbcCgSth7iUiZKuSXJ2c",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கேக்கல’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "கேட்கவில்லை",
+      "கேட்ட",
+      "கேள்",
+      "கேட்க"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘கேக்கல’ என்பதற்குத் தூய தமிழில் ‘கேட்கவில்லை’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "UT8Sn5Sf8QqpzxnM8Koy",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘படிக்கிறாங்க’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "படிக்கிறான்",
+      "படிக்கிறார்கள்",
+      "படிக்கிறாள்",
+      "படிக்கிறோம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பேச்சு வழக்கில் ‘படிக்கிறாங்க’ என்பதற்குத் தூய தமிழில் ‘படிக்கிறார்கள்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "UeUTh4hI7gtihCB1sDfg",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சொல்றாரு’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "சொல்கிறார்",
+      "சொல்கிறான்",
+      "சொல்கிறாள்",
+      "சொல்கிறோம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘சொல்றாரு’ என்பதற்குத் தூய தமிழில் ‘சொல்கிறார்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "VhutliqeLkF11uTXKfoT",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வாரான்’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "வருவான்",
+      "வரமாட்டான்",
+      "வந்தான்",
+      "வருகிறான்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பேச்சு வழக்கில் ‘வாரான்’ என்பதற்குத் தூய தமிழில் ‘வரமாட்டான்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "W49FX6QlXkaqdYlEHEcu",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சாப்புடணும்’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "சாப்பிடவேண்டும்",
+      "சாப்பிடு",
+      "சாப்பிட்ட",
+      "சாப்பிடுக"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘சாப்புடணும்’ என்பதற்குத் தூய தமிழில் ‘சாப்பிடவேண்டும்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "W8JdUVQC0zZT8gRB6RFy",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘யாருன்னு’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "யாரென்று",
+      "யாருடைய",
+      "யாருக்காக",
+      "யாரிடம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘யாருன்னு’ என்பதற்குத் தூய தமிழில் ‘யாரென்று’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "Wcus5wzKFW6GHPGPfyCY",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மூணு ரூபாய்’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "மூன்று ரூபாய்",
+      "இரண்டு ரூபாய்",
+      "நான்கு ரூபாய்",
+      "ஒரு ரூபாய்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘மூணு ரூபாய்’ என்பதற்குத் தூய தமிழில் ‘மூன்று ரூபாய்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "Xdve9MPOdVkheFGAyvEu",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இல்லீங்க’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "இல்லை",
+      "இல்",
+      "இல்லா",
+      "இல்ல"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘இல்லீங்க’ என்பதற்குத் தூய தமிழில் ‘இல்லை’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "YjOfmNZQguKymXnSuyvh",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ரண்டு’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "ஒன்று",
+      "இரண்டு",
+      "மூன்று",
+      "நான்கு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பேச்சு வழக்கில் ‘ரண்டு’ என்பதற்குத் தூய தமிழில் ‘இரண்டு’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "ZtriaNCe5lWs6JMz2Kr0",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நினைச்சு’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "நினைத்து",
+      "நினை",
+      "நினைவு",
+      "நினைத்த"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘நினைச்சு’ என்பதற்குத் தூய தமிழில் ‘நினைத்து’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "aGgd9X56ffwNgPGsiV4V",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பண்ணு’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "செய்",
+      "பண்",
+      "பண்ணி",
+      "செய்த"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘பண்ணு’ என்பதற்குத் தூய தமிழில் ‘செய்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "bBJZvp89fvXeoQXzvLoB",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ரோடு’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "சாலை",
+      "ரோடு",
+      "பாதை",
+      "வழி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘ரோடு’ என்பதற்குத் தூய தமிழில் ‘சாலை’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "bPUsGqiwNfcBVlP39yTR",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மாத்தணும்’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "மாற்றவேண்டும்",
+      "மாற்று",
+      "மாற்ற",
+      "மாத்தி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘மாத்தணும்’ என்பதற்குத் தூய தமிழில் ‘மாற்றவேண்டும்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "bxfCmtzScFixJkWX0N2z",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மத்தியானம்’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "மதியம்",
+      "மாலை",
+      "காலை",
+      "இரவு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘மத்தியானம்’ என்பதற்குத் தூய தமிழில் ‘மதியம்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "c3CAQm5IyW0x0SUR4BqM",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அவங்க’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "அவர்கள்",
+      "அவன்",
+      "அவள்",
+      "அது"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘அவங்க’ என்பதற்குத் தூய தமிழில் ‘அவர்கள்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "cqOfYfPvGvGG6pzQAhlV",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘எங்கே போறது’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "எங்கே போவது",
+      "எங்கே",
+      "போ",
+      "போன"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘எங்கே போறது’ என்பதற்குத் தூய தமிழில் ‘எங்கே போவது’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "dVrEeaPjnynoQTSlYpaV",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘போயிருச்சோ’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "சென்றுவிட்டதோ",
+      "போய்",
+      "போன",
+      "போக"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘போயிருச்சோ’ என்பதற்குத் தூய தமிழில் ‘சென்றுவிட்டதோ’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "ddVtWdlIXduLV9NIpBgK",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உக்காந்து’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "உட்கார்ந்து",
+      "உக்கார",
+      "உட்காருங்கள்",
+      "உட்கா"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘உக்காந்து’ என்பதற்குத் தூய தமிழில் ‘உட்கார்ந்து’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "dpFcbz5I7Z596Ue6QSBQ",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சாப்பட்டியா’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "சாப்பிட்டாயா",
+      "சாப்பிட்டீர்களா",
+      "சாப்பிட்டனவா",
+      "சாப்பிட்டீயா"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘சாப்பட்டியா’ என்பதற்குத் தூய தமிழில் ‘சாப்பிட்டாயா’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "dqWJh6Jp9jGgRsyAr2UV",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ரொம்ப’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "கொஞ்சம்",
+      "மிகவும்",
+      "சிறிது",
+      "அதிகம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பேச்சு வழக்கில் ‘ரொம்ப’ என்பதற்குத் தூய தமிழில் ‘மிகவும்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "e0l75nqyw9MJVsxkEqNc",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘போகலியா’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "போகவில்லையா",
+      "போக",
+      "போன",
+      "போகும்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘போகலியா’ என்பதற்குத் தூய தமிழில் ‘போகவில்லையா’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "ef6Bd2tzWe4PrG85TXai",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நல்லாத்தான்’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "நன்றாகத்தான்",
+      "நல்ல",
+      "நன்று",
+      "நல்லது"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘நல்லாத்தான்’ என்பதற்குத் தூய தமிழில் ‘நன்றாகத்தான்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "eqlLnODm0UosWS9WjxXm",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘குடுத்துக்கலாம்’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "கொடுத்துவிடலாம்",
+      "கொடு",
+      "கொடுத்த",
+      "கொடுங்கள்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘குடுத்துக்கலாம்’ என்பதற்குத் தூய தமிழில் ‘கொடுத்துவிடலாம்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "fFCLZRRocqeoZePyIAjq",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஏறங்கி’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "இறங்கி",
+      "ஏறி",
+      "ஏற்றம்",
+      "இறக்கம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘ஏறங்கி’ என்பதற்குத் தூய தமிழில் ‘இறங்கி’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "fiInt0DuOPvEl7w6F41Q",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நாம இன்னைக்கு’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "நாம் இன்றைக்கு",
+      "நான்",
+      "நீ",
+      "அவன்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘நாம இன்னைக்கு’ என்பதற்குத் தூய தமிழில் ‘நாம் இன்றைக்கு’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "g3aUVUVRmsXXK61Wq3Kj",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வாசல்’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "வாயில்",
+      "வாச",
+      "வாசனை",
+      "வா"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘வாசல்’ என்பதற்குத் தூய தமிழில் ‘வாயில்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "gb34uMC52xuxLEqQ1xji",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நல்லதும்பாங்க’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "நல்லது என்பார்கள்",
+      "நல்ல",
+      "நன்று",
+      "நல்லது"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘நல்லதும்பாங்க’ என்பதற்குத் தூய தமிழில் ‘நல்லது என்பார்கள்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "hNmCE12zv6scVnzT1Zmv",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வந்தா’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "வந்தால்",
+      "வந்த",
+      "வரும்",
+      "வர"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘வந்தா’ என்பதற்குத் தூய தமிழில் ‘வந்தால்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "hdyy2akxiMnArLt3Ppd9",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உசரம்’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "உயரம்",
+      "உசர்",
+      "உயர்",
+      "உயர்வு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘உசரம்’ என்பதற்குத் தூய தமிழில் ‘உயரம்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "i8k1oK8zJYSLp2H8NWxD",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வச்சுத்தான்’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "வைத்துதான்",
+      "வைத்து",
+      "வை",
+      "வைத்த"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘வச்சுத்தான்’ என்பதற்குத் தூய தமிழில் ‘வைத்துதான்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "iQbQgc0rdn3bh5SgFCb7",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இருக்குது’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "இருக்கிறது",
+      "இரு",
+      "இருந்தது",
+      "இருக்க"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘இருக்குது’ என்பதற்குத் தூய தமிழில் ‘இருக்கிறது’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "jzBX4j8QTuW4WfSloZIq",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தெரிஞ்சிருக்குது’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "தெரிந்துள்ளது",
+      "தெரி",
+      "தெரிந்த",
+      "தெரிய"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘தெரிஞ்சிருக்குது’ என்பதற்குத் தூய தமிழில் ‘தெரிந்துள்ளது’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "lnNLttngMwqnn1ZShWiz",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘போயி’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "போக",
+      "போய்",
+      "போகிற",
+      "போன"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பேச்சு வழக்கில் ‘போயி’ என்பதற்குத் தூய தமிழில் ‘போய்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "m6t4AmKVsLNvKv4KXjcE",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இருக்கு’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "இருக்கிறது",
+      "இரு",
+      "இருந்த",
+      "இருக்க"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘இருக்கு’ என்பதற்குத் தூய தமிழில் ‘இருக்கிறது’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "m9x8EnSg5KJvrjiL9f61",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வாங்க’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "வா",
+      "வாருங்கள்",
+      "வர",
+      "வந்த"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பேச்சு வழக்கில் ‘வாங்க’ என்பதற்குத் தூய தமிழில் ‘வாருங்கள்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "n8nnvRdZeFaQnNLz5bhA",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘குதிச்சு’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "குதித்து",
+      "குதி",
+      "குதித்த",
+      "குதிக்க"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘குதிச்சு’ என்பதற்குத் தூய தமிழில் ‘குதித்து’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "oxtuQwoatIYj72sf9zM4",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தொடப்படாது’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "தொடக்கூடாது",
+      "தொடு",
+      "தொட்ட",
+      "தொட"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘தொடப்படாது’ என்பதற்குத் தூய தமிழில் ‘தொடக்கூடாது’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "p0KShwVeEjMKT94LZLn1",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஒலகம்’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "உலகம்",
+      "ஒளி",
+      "ஒலி",
+      "உலகு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘ஒலகம்’ என்பதற்குத் தூய தமிழில் ‘உலகம்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "p8HaPGxB3q7FaEkZynxR",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘புள்ளை’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "பிள்ளை",
+      "புள்",
+      "புல",
+      "புலி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘புள்ளை’ என்பதற்குத் தூய தமிழில் ‘பிள்ளை’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "qb2ISow7NwKJ81MIXrUe",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சொல்றீங்க’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "சொல்கிறீர்கள்",
+      "சொல்கிறான்",
+      "சொல்கிறாள்",
+      "சொல்கிறோம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘சொல்றீங்க’ என்பதற்குத் தூய தமிழில் ‘சொல்கிறீர்கள்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "qd4o8hfbNzHDZaBMZlNZ",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வரலை’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "வரும்",
+      "வரவில்லை",
+      "வந்தது",
+      "வருகிறது"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பேச்சு வழக்கில் ‘வரலை’ என்பதற்குத் தூய தமிழில் ‘வரவில்லை’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "qeznzxX1F8imLc3YqEzW",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மதிய வேக்காடு’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "மதிய வெயில்",
+      "மதிய வெப்பம்",
+      "மதிய நேரம்",
+      "மதிய உணவு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பேச்சு வழக்கில் ‘மதிய வேக்காடு’ என்பதற்குத் தூய தமிழில் ‘மதிய வெப்பம்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "r6T0Qa1JmEf1tTnMydpA",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மண்ட’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "மண்டை",
+      "மண்",
+      "மண்டபம்",
+      "மண்டி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘மண்ட’ என்பதற்குத் தூய தமிழில் ‘மண்டை’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "rQFOkDa3FeBFavv1Ncwa",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஊரு’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "ஊர்",
+      "ஊர",
+      "ஊரில்",
+      "ஊருக்கு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘ஊரு’ என்பதற்குத் தூய தமிழில் ‘ஊர்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "sNcHTp7OgNOLbZSUC4zC",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வெளியில் வருது’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "வெளியில் வருகிறது",
+      "வெளியே",
+      "வரும்",
+      "வந்த"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘வெளியில் வருது’ என்பதற்குத் தூய தமிழில் ‘வெளியில் வருகிறது’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "v34MDJonRTWevXSZOxVc",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘எப்பவும்’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "எப்போது",
+      "எப்பொழுதும்",
+      "எப்படி",
+      "எப்போ"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பேச்சு வழக்கில் ‘எப்பவும்’ என்பதற்குத் தூய தமிழில் ‘எப்பொழுதும்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "vi4D4MTADyWh4wYjkWol",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பசிக்குது’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "பசிக்கிறது",
+      "பசி",
+      "பசித்த",
+      "பசிய"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘பசிக்குது’ என்பதற்குத் தூய தமிழில் ‘பசிக்கிறது’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "w9TJLKNXr0NW0fnw6EyW",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சீக்கு’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "நோய் / பிணி",
+      "சீ",
+      "க்கு",
+      "நோய் மட்டும்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘சீக்கு’ என்பதற்குத் தூய தமிழில் ‘நோய் / பிணி’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "wCX28Dr3alCGpJWFYMTb",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ராத்திரி’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "இரவு",
+      "நாள்",
+      "காலை",
+      "மாலை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘ராத்திரி’ என்பதற்குத் தூய தமிழில் ‘இரவு’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "weLpLrUCJsl94kJ8mtvM",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கதவத் தெற’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "கதவைத் திற",
+      "கதவு",
+      "திற",
+      "கதவ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘கதவத் தெற’ என்பதற்குத் தூய தமிழில் ‘கதவைத் திற’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "x1QCCeZ0BrKN0qbHT5Am",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கெடக்கோ’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "இருக்கோ",
+      "கிட",
+      "இரு",
+      "கிடக்க"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘கெடக்கோ’ என்பதற்குத் தூய தமிழில் ‘இருக்கோ’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "xGrmxLAy9KNO4Dxar63s",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஒம் பேரு’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "உன் பெயர்",
+      "என் பெயர்",
+      "அவன் பெயர்",
+      "நம் பெயர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘ஒம் பேரு’ என்பதற்குத் தூய தமிழில் ‘உன் பெயர்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "y1AAhEHOm1DaMRjrqSYy",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சோத்துக்கு’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "சோற்றுக்கு",
+      "சோறு",
+      "சோற்று",
+      "சோ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘சோத்துக்கு’ என்பதற்குத் தூய தமிழில் ‘சோற்றுக்கு’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "yQsArgA1KIx9XoBcZAii",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வந்தியா?’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "வந்தாயா?",
+      "வந்தீர்களா?",
+      "வந்தனவா?",
+      "வந்தாயாங்களா?"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘வந்தியா?’ என்பதற்குத் தூய தமிழில் ‘வந்தாயா?’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "ySIJjJlP7cjxBD2A3eir",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வெறு / வெளறு’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "வயிறு",
+      "வெறு",
+      "வெள",
+      "வயி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘வெறு / வெளறு’ என்பதற்குத் தூய தமிழில் ‘வயிறு’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "yW2l1LSTqK4YMO2S3fmB",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘துட்டு / காசு’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "பணம்",
+      "துட்டு",
+      "காசு",
+      "நாணயம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘துட்டு / காசு’ என்பதற்குத் தூய தமிழில் ‘பணம்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "yWKYIl03LjzwZzEoyxki",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘குடுத்துடுங்க’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "கொடுத்துவிடுங்கள்",
+      "கொடு",
+      "கொடுத்த",
+      "கொடுங்கள்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘குடுத்துடுங்க’ என்பதற்குத் தூய தமிழில் ‘கொடுத்துவிடுங்கள்’ என்பது இணையான வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "yanbO9FIqlccl0VN9nIu",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தேங்கா’ என்ற பேச்சு வழக்குச் சொல்லுக்கு இணையான தூய தமிழ்ச் சொல் எது?",
+    "options": [
+      "தேங்காய்",
+      "தேன்",
+      "காய்",
+      "தேங்கு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘தேங்கா’ என்பதற்குத் தூய தமிழில் ‘தேங்காய்’ என்பது இணையான சொல்.",
+    "active": true
+  },
+  {
+    "id": "zjfIhkXl8PrMHPRB8CgT",
+    "subject": "group4series",
+    "class": "Unit 1 - பேச்சு வழக்கு - தூய தமிழ்",
+    "topic": "பேச்சு வழக்கு - தூய தமிழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சேர்த்து வச்சு’ என்ற பேச்சு வழக்குக்கு இணையான தூய தமிழ் வடிவம் எது?",
+    "options": [
+      "சேர்த்து வைத்திருந்த",
+      "சேர்த்து",
+      "வைத்து",
+      "சேர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேச்சு வழக்கில் ‘சேர்த்து வச்சு’ என்பதற்குத் தூய தமிழில் ‘சேர்த்து வைத்திருந்த’ என்பது இணையான வடிவம்.",
+    "active": true
+  }
+]

@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "131uEsMgwKcnTZczlE5U",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'இணை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "துணை - சேர",
+      "துணை - நதி",
+      "சேர - எண்",
+      "இணை - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'இணை' என்பது துணையையும், சேரும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "1Cs2J69On0kIfTVYRaaE",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சுவடி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "நூல், ஒலையடுத்தகம்",
+      "நூல் - நதி",
+      "ஒலையடுத்தகம் - எண்",
+      "சுவடி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'சுவடி' என்பது நூலையும், ஒலையடுத்தகத்தையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "2tUilpdMYrSM9Iq0gtBo",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தடி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "தண்டு - தறி; வெட்டு",
+      "தண்டு - நதி",
+      "வெட்டு - எண்",
+      "தடி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'தடி' என்பது தண்டையும், தறிக்கும் / வெட்டும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "3EDqyNNN9ZLdPPROx2WB",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'செல்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "கரையான்; மேகம் - போ",
+      "கரையான் - நதி",
+      "போ - எண்",
+      "செல் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'செல்' என்பது கரையான் / மேகத்தையும், போகும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "3Ryk4vBGgP3bt5sO0cy5",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பால்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "பருகும் பால் - இனம்",
+      "பால் - நதி",
+      "இனம் - எண்",
+      "பால் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'பால்' என்பது பருகும் பாலையும், இனத்தையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "3rihDIa4xqvkVEiiRGzM",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஆ' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "பசு, இரக்கம்",
+      "பசு, நதி",
+      "இரக்கம், எண்",
+      "ஆ - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'ஆ' என்பது பசுவையும், இரக்கத்தையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "40PlxmVI7xWXZtm43Pc6",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அடவி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "காடு, மிகுதி",
+      "காடு - நதி",
+      "மிகுதி - எண்",
+      "அடவி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அடவி' என்பது காட்டையும், மிகுதியையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "4amN4HQorxR5Nt6ONwWf",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'விலங்கு' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "உயிரினம் - சங்கிலி",
+      "உயிரினம் - நதி",
+      "சங்கிலி - எண்",
+      "விலங்கு - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'விலங்கு' என்பது உயிரினத்தையும், சங்கிலியையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "4bdxpEFABHrO92tG0t96",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கலை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "மான் - அழி",
+      "மான் - நதி",
+      "அழி - எண்",
+      "கலை - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கலை' என்பது மான் விலங்கையும், அழித்தலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "51zyADizSxiexHRsjOwP",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கோ' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "அரசன், பசு",
+      "அரசன் - நதி",
+      "பசு - எண்",
+      "கோ - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கோ' என்பது அரசனையும், பசுவையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "7315j00CldIfhiY0hpf1",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தீ' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "அறிவு; தீமை - சுடு",
+      "அறிவு - நதி",
+      "சுடு - எண்",
+      "தீ - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'தீ' என்பது அறிவு / தீமையையும், சுடும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "8FagXApGZGDsW99DpEun",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'இல்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "இடம் - இல்லை",
+      "இடம் - நதி",
+      "இல்லை - எண்",
+      "இல் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'இல்' என்பது இடத்தையும், இல்லை என்ற எதிர்மறையையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "8Y9Ne9fNlKuD7tR3aA4j",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கொள்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "பயறு - வாங்கு",
+      "பயறு - நதி",
+      "வாங்கு - எண்",
+      "கொள் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கொள்' என்பது பயறையும், வாங்கும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "8bcozE1EUVUW9rsO85iG",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வாள்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "போர்வாள் - ஒளி",
+      "போர்வாள் - நதி",
+      "ஒளி - எண்",
+      "வாள் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'வாள்' என்பது போர்வாளையும், ஒளியையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "8tOFuZLfxwMfuqr8DGRA",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அகல்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "விளக்கு - நீங்கு",
+      "விளக்கு - நதி",
+      "நீங்கு - எண்",
+      "அகல் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அகல்' என்பது விளக்கையும், நீங்குதல் / விலகுதலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "9rg436kzMLA4WTfsAFDN",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அரண்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "பாதுகாப்பு, கோட்டை",
+      "பாதுகாப்பு - நதி",
+      "கோட்டை - எண்",
+      "அரண் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அரண்' என்பது பாதுகாப்பையும், கோட்டையையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "AYbGBaXxPbBVv4URihmu",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அணி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "பாடல், அணிந்து கொள்",
+      "கோ, அமைச்சர்",
+      "அழகு, அணிகலன்",
+      "இசை, அணிகலன்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'அணி' என்பது அழகு / அணி (செய்யுள் நயம்) மற்றும் அணிகலன் ஆகியவற்றைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "B59IUNNfdG7bIpRVTS5J",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கிழி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "பணப்பொதி; எழுதுபடம் - கிழிப்பாய்",
+      "பணப்பொதி - நதி",
+      "கிழிப்பாய் - எண்",
+      "கிழி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கிழி' என்பது பணப்பொதி / எழுதுபடத்தையும், கிழியும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "BdBggs0ZGWQBoAFVtpwP",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அரை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "பாதி - பொடிசெய்",
+      "பாதி - நதி",
+      "பொடிசெய் - எண்",
+      "அரை - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அரை' என்பது பாதியையும், பொடி செய்யும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "Cjf4cc65FD7BIIKq2Pbx",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சிரம்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "தலை, உச்சி",
+      "தலை - நதி",
+      "உச்சி - எண்",
+      "சிரம் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'சிரம்' என்பது தலையையும், உச்சியையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "DRNA5dNauWDypJtlslyN",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஞாலம்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "உலகம், விந்தை",
+      "உலகம் - நதி",
+      "விந்தை - எண்",
+      "ஞாலம் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'ஞாலம்' என்பது உலகத்தையும், விந்தையையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "EI3GGoBRdQ9NHaPDCYDI",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அமர்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "போர் - உட்காருதல்",
+      "போர் - நதி",
+      "உட்காருதல் - எண்",
+      "அமர் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அமர்' என்பது போரையும், உட்காருதலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "EWYbwsdr3L1BAuxLPloz",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கோடி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "எண் - கொள்வாய்",
+      "எண் - நதி",
+      "கொள்வாய் - எண்",
+      "கோடி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கோடி' என்பது எண்ணையும், கொள்ளும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "Efv2z7ZofT0Zk3nsvQo9",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நட' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "நடத்தல் - நடுதல்",
+      "நடத்தல் - நதி",
+      "நடுதல் - எண்",
+      "நட - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'நட' என்பது நடத்தலையும், நடும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "Fv5GrNRPrAtfrczeKxQa",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'குறி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "அடையாளம்; குறிப்பு - கணி; மதி",
+      "அடையாளம் - நதி",
+      "கணி - எண்",
+      "குறி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'குறி' என்பது அடையாளம் / குறிப்பையும், கணிக்கும் / மதிக்கும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "GKkrTTcIosJ0qicq4Ggo",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'துடி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "உடுக்கை - துடிப்பாய்",
+      "உடுக்கை - நதி",
+      "துடிப்பாய் - எண்",
+      "துடி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'துடி' என்பது உடுக்கையையும், துடிக்கும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "GWrOJMPjnVXnCdaDDBZW",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'செப்பு' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "செம்பு - சொல்",
+      "செம்பு - நதி",
+      "சொல் - எண்",
+      "செப்பு - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'செப்பு' என்பது செம்பையும், சொல்லும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "I8q7rHV4oDoV3QsgBmNu",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'குலை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "வாழைக்குலை - நடுக்கம்",
+      "வாழைக்குலை - நதி",
+      "நடுக்கம் - எண்",
+      "குலை - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'குலை' என்பது வாழைக்குலையையும், நடுக்கத்தையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "IKhZkVc1VlBNBm1QBXS9",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'குடி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "குலம் - பருகு",
+      "குலம் - நதி",
+      "பருகு - எண்",
+      "குடி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'குடி' என்பது குலத்தையும், பருகுதலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "IcWG6NTGAxlCGfNFjzx5",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கரம்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "கை, வரி",
+      "கை - நதி",
+      "வரி - எண்",
+      "கரம் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கரம்' என்பது கையையும், வரியையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "ImeYElx8F3QgzGWKSBXZ",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வேங்கை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "கடுமை, வேகின்ற கை",
+      "மரம், புலி",
+      "மரம், கழுதை",
+      "செடி, வெட்கம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'வேங்கை' என்பது புலி விலங்கையும், வேங்கை மரத்தையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "JJBZypftPOuArOxf4Taf",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வழக்கு' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "மரபு அல்லது பழக்கம் - நீதிமன்றத்தில் தொடுப்பது",
+      "மரபு - நதி",
+      "நீதிமன்றம் - எண்",
+      "வழக்கு - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'வழக்கு' என்பது மரபு / பழக்கத்தையும், நீதிமன்ற வழக்கையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "K71pcmfJVqM07oP2NhbB",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நடை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "நடத்தல் - எழுத்துமுறை",
+      "நடத்தல் - நதி",
+      "எழுத்துமுறை - எண்",
+      "நடை - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'நடை' என்பது நடத்தலையும், எழுத்துமுறையையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "KXEGdZ5HgIOqEHgi3Lzb",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தகை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "குணம்; பெருமை - தடு",
+      "குணம் - நதி",
+      "தடு - எண்",
+      "தகை - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'தகை' என்பது குணம் / பெருமையையும், தடுக்கும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "KhKZk31S7NmgBbKFTmtm",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அறை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "சிறுவீடு - சொல்; அடி",
+      "சிறுவீடு - நதி",
+      "சொல் - எண்",
+      "அறை - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அறை' என்பது சிறு வீட்டையும், சொல்லுதல் / அடித்தலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "LLWueuwFutHPESSoZsI9",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கனி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "பழம் - இரங்கு",
+      "பழம் - நதி",
+      "இரங்கு - எண்",
+      "கனி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கனி' என்பது பழத்தையும், இரங்குதலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "LrYWjpaKjF5GviQpwe02",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அணை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "நீர்த்தேக்கம் - கட்டியணை",
+      "நீர்த்தேக்கம் - நதி",
+      "கட்டியணை - எண்",
+      "அணை - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அணை' என்பது நீர்த்தேக்கத்தையும், கட்டியணைப்பதையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "MQ9cqqnkPnv67DyExoUY",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நாண்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "கயிறு - வெட்கம்",
+      "கயிறு - நதி",
+      "வெட்கம் - எண்",
+      "நாண் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'நாண்' என்பது கயிற்றையும், வெட்கத்தையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "MSNO7cUbyMIoAtOtonNP",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'திரி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "விளக்குத்திரி; மூன்று - திரிவாய்",
+      "விளக்குத்திரி - நதி",
+      "திரிவாய் - எண்",
+      "திரி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'திரி' என்பது விளக்குத்திரி / மூன்றையும், திரியும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "OasgBU1eV8PGpI0Anes2",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அசை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "அசைதல் - சொற்பிரிப்பு",
+      "அசைதல் - நதி",
+      "சொற்பிரிப்பு - எண்",
+      "அசை - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அசை' என்பது அசைதலையும், சொற்பிரிப்பை (நேரசை, நிரையசை) குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "PyRuTjExO2E6KcQiIOaz",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தலை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "பல், இலை",
+      "சிறை, கால்சிலம்பு",
+      "கட்டுதல், விலங்கு",
+      "முதன்மை, சிரம்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'தலை' என்பது முதன்மை / தலைமை மற்றும் உடலின் சிரம் (தலைப்பகுதி) ஆகியவற்றைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "QNOCMSUX3K2eoI34RCzk",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஆழி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "ஓடுதல், மேற்கூரை",
+      "கடல், மோதிரம்",
+      "சந்திரன், மாதம்",
+      "நதி, எண்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'ஆழி' என்பது பரந்த கடலையும், கையில் அணியும் மோதிரத்தையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "S3EI9Yg02zezfEw9Qu95",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கல்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "இயற்கைத் திடப்பொருள் - கற்றல்",
+      "கல் - நதி",
+      "கற்றல் - எண்",
+      "கல் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கல்' என்பது இயற்கையாகக் கிடைக்கும் திடப்பொருளையும், கற்றலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "SE6IU8S9RXFVmchBBoSK",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'இரு' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "இரண்டு - காத்திருத்தல்",
+      "இரண்டு - நதி",
+      "காத்திருத்தல் - எண்",
+      "இரு - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'இரு' என்பது எண் இரண்டையும், காத்திருத்தலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "SFgoQeFDjv1MwYSH0yyt",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அன்னம்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "சோறு - பறவை",
+      "சோறு - நதி",
+      "பறவை - எண்",
+      "அன்னம் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அன்னம்' என்பது சோற்றையும், அன்னம் என்ற பறவையையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "SY7mYZ6j6fXZlL08F0rc",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கேழல்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "பன்றி, நிறம்",
+      "பன்றி - நதி",
+      "நிறம் - எண்",
+      "கேழல் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கேழல்' என்பது பன்றியையும், நிறத்தையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "TfD4vWohOwGBPcIVHBBD",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கிரி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "மலை, பன்றி",
+      "மலை - நதி",
+      "பன்றி - எண்",
+      "கிரி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கிரி' என்பது மலையையும், பன்றியையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "Tks3tVaH3HKd4HOZSxox",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நூல்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "புத்தகம்; பருத்தி நூல் - நூற்பாய்",
+      "புத்தகம் - நதி",
+      "நூற்பாய் - எண்",
+      "நூல் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'நூல்' என்பது புத்தகம் / பருத்தி நூலையும், நூற்கும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "UEDUKYtbwmvqvTVfqEz3",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மாடு' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "விலங்கு - செல்வம்",
+      "விலங்கு - நதி",
+      "செல்வம் - எண்",
+      "மாடு - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'மாடு' என்பது விலங்கையும், செல்வத்தையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "UcPkGnR8UQKOLL9zFtvq",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'காய்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "காய்கறி - காயவைத்தல்",
+      "காய்கறி - நதி",
+      "காயவைத்தல் - எண்",
+      "காய் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'காய்' என்பது காய்கறியையும், காயவைக்கும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "VS9UeBCCWM5IMUegIiJh",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'உரை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "பொன் - தேய்",
+      "பொன் - நதி",
+      "தேய் - எண்",
+      "உரை - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'உரை' என்பது பொன்னையும், தேய்க்கும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "WKqMpoqiGBUfDdlCHnLH",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'உழை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "மான் - பாடுபடு",
+      "மான் - நதி",
+      "பாடுபடு - எண்",
+      "உழை - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'உழை' என்பது மானையும், பாடுபடும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "XZx3VeDt5g1vdNqKLqfe",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'திங்கள்' என்ற சொல்லின் பொருள்கள் எவை?",
+    "options": [
+      "நிலவு, மாதம், திங்கட்கிழமை",
+      "நிலவு, எண், வாரநாள்",
+      "மாதம், நதி, கிழமை",
+      "சந்திரன், பால், மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'திங்கள்' என்பது நிலவு, மாதம், மற்றும் வாரத்தின் திங்கட்கிழமை ஆகியவற்றைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "XmKlMqhymfniOJcj4CEv",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'உரம்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "வலிமை - எரு",
+      "வலிமை - நதி",
+      "எரு - எண்",
+      "உரம் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'உரம்' என்பது வலிமையையும், எருவையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "YSLtEb2rY84JGawfU5xE",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சதி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "தோழி - பொறு",
+      "தோழி - நதி",
+      "பொறு - எண்",
+      "சதி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'சதி' என்பது தோழியையும், பொறுக்கும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "YfzQZG6KF2bmrTbbCBzE",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சட்டம்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "மரச்சட்டம், நியாய ஏற்பாடு",
+      "மரச்சட்டம் - நதி",
+      "நியாய ஏற்பாடு - எண்",
+      "சட்டம் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'சட்டம்' என்பது மரச்சட்டத்தையும், நியாய ஏற்பாட்டையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "YwuVUIaxk4YPw0mE0WDc",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நிறை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "மேன்மை - எடை",
+      "மேன்மை - நதி",
+      "எடை - எண்",
+      "நிறை - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'நிறை' என்பது மேன்மை / சால்பையும், எடையையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "ZAk7NTkiT72N8Ox6cEZp",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஈ' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "வண்டு - கொடு",
+      "வண்டு - நதி",
+      "கொடு - எண்",
+      "ஈ - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'ஈ' என்பது வண்டையும், கொடுக்கும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "b3QGpnDNJHGIYegegM48",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கவிகை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "குடை, ஈகை",
+      "குடை - நதி",
+      "ஈகை - எண்",
+      "கவிகை - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கவிகை' என்பது குடையையும், ஈகையையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "bQJtrbLxwWyp9JwICpL6",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கா' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "சோலை - காவல்செய்",
+      "சோலை - நதி",
+      "காவல்செய் - எண்",
+      "கா - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கா' என்பது சோலையையும், காவல் செய்யும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "cE8x6kPUdysqQr4qmgRo",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'படி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "குணம் - தகுதி",
+      "படித்தல் - வீட்டின்படி",
+      "பாட்டுப்படித்தல் - எழுதுதல்",
+      "கீற்று - கயிறு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'படி' என்பது நூல்களை வாசிப்பதையும், ஏறிச் செல்லும் படிக்கட்டுகளையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "cFY6hAHRq5c5wMKLj6hN",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'இரை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "உணவு - ஒலி",
+      "உணவு - நதி",
+      "ஒலி - எண்",
+      "இரை - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'இரை' என்பது உணவையும், ஒலியையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "dLnBSRrhfYziq0hBEW36",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கழி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "மிகுதி; உப்பங்கழி - நீக்கு",
+      "மிகுதி - நதி",
+      "நீக்கு - எண்",
+      "கழி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கழி' என்பது மிகுதி / உப்பங்கழியையும், நீக்கும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "dgX3KpPCYVDHTkIFOcst",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மாலை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "பூ மாலை, மாலைப்பொழுது",
+      "நேரம், அணி",
+      "மாதம், நிலவு",
+      "அணி, ஆடை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'மாலை' என்பது பூ மாலையையும், அந்திப்பொழுதையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "dn2qja0P5aKQG1rNC2Jq",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அமை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "மூங்கில் - பொருத்தி வை",
+      "மூங்கில் - நதி",
+      "பொருத்தி வை - எண்",
+      "அமை - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அமை' என்பது மூங்கிலையும், பொருத்தி வைக்கும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "dnYnZj1HpTOmmFvVRFjz",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கேள்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "உறவு - வினாவு",
+      "உறவு - நதி",
+      "வினாவு - எண்",
+      "கேள் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கேள்' என்பது உறவையும், வினாவும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "eaZ3NI9amLJUPOkZY0os",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'எட்டு' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "எண் - அடைதல்",
+      "எண் - மாதம்",
+      "அடைதல் - நதி",
+      "எண் - பால்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'எட்டு' என்பது எண் எட்டையும், அடைதல் / அடையும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "f8LlbCeepg0ee95pJKaz",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'இறை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "மன்னன் - வீசு",
+      "மன்னன் - நதி",
+      "வீசு - எண்",
+      "இறை - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'இறை' என்பது மன்னனையும், வீசும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "frbAjoef91uPIrK88ZsQ",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கமலம்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "தாமரை, நீர்",
+      "தாமரை - நதி",
+      "நீர் - எண்",
+      "கமலம் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கமலம்' என்பது தாமரையையும், நீரையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "gaRz4dRMXAPVLY636p0u",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஒளி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "வெளிச்சம் - மறைத்துக்கொள்",
+      "வெளிச்சம் - நதி",
+      "மறைத்துக்கொள் - எண்",
+      "ஒளி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'ஒளி' என்பது வெளிச்சத்தையும், மறைத்துக்கொள்ளும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "hKFVSvN9e2ZWEGOZRiwu",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கரை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "எல்லை - அழை",
+      "எல்லை - நதி",
+      "அழை - எண்",
+      "கரை - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கரை' என்பது எல்லையையும், அழைக்கும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "hKON9JKqdPikRHSnCWG9",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'குஞ்சி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "தலைமுடி, விருது",
+      "தலைமுடி - நதி",
+      "விருது - எண்",
+      "குஞ்சி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'குஞ்சி' என்பது தலைமுடியையும், விருதையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "jJ0QXL6Nu3McNbxgkC5Z",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வரி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "கோடு - வரிப்பணம்",
+      "கோடு - நதி",
+      "வரிப்பணம் - எண்",
+      "வரி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'வரி' என்பது கோட்டையும், வரிப்பணத்தையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "k03Mnb7TAzZpWgY4rJ8l",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அளி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "கருணை - கொடு",
+      "கருணை - நதி",
+      "கொடு - எண்",
+      "அளி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அளி' என்பது கருணையையும், கொடுக்கும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "kFj6TZziv5JNrqj03EDE",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கடி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "மணம் - கடிப்பாய்",
+      "மணம் - நதி",
+      "கடிப்பாய் - எண்",
+      "கடி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கடி' என்பது மணத்தையும், கடிக்கும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "lUbTxRXwExbu5JPim9TZ",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'திணை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "நிலம் - ஒழுக்கம்",
+      "நிலம் - நதி",
+      "ஒழுக்கம் - எண்",
+      "திணை - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'திணை' என்பது நிலத்தையும், ஒழுக்கத்தையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "m7i7NI1AVd2GznQCzS37",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நகை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "சினம், நவமணிகள்",
+      "வியப்பு, தங்கம்",
+      "புன்னகை, ஆபரணம்",
+      "மகிழ்ச்சி, வைரம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'நகை' என்பது புன்னகையையும், உடலில் அணியும் அணிகலன்களையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "mF0PGjwkvdT3IqqIeXE6",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சிந்து' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "இசைப்பாடல் - சிதறு",
+      "இசைப்பாடல் - நதி",
+      "சிதறு - எண்",
+      "சிந்து - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'சிந்து' என்பது இசைப்பாடலையும், சிதறும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "ne3ullliMg6UI8yOVis2",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சூவல்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "நீர்நிலை, பள்ளம்",
+      "துவாரம், மூங்கில்",
+      "அமிழ், முழுகு",
+      "சுங்கம், வரி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'சூவல்' என்பது சிறிய நீர்நிலை அல்லது நிலத்தில் தோண்டப்பட்ட பள்ளத்தைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "nwRwk3GgvHsrjRaoS1La",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'திரை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "அலை, திரைசீலை, சுருள்",
+      "அலை - நதி",
+      "திரைசீலை - எண்",
+      "திரை - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'திரை' என்பது அலை / திரைசீலை / சுருளையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "o6S44qwe1pJ93PnkJDcC",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அகழ்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "அகழி - தோண்டு",
+      "அகழி - நதி",
+      "தோண்டு - எண்",
+      "அகழ் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அகழ்' என்பது அகழியையும், தோண்டும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "oLsNRypw7tTkbQincg4i",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கேசரி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "சிங்கம், இனிப்பு",
+      "சிங்கம் - நதி",
+      "இனிப்பு - எண்",
+      "கேசரி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கேசரி' என்பது சிங்கத்தையும், இனிப்பையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "oZUaLr9ZPDwX249DziPE",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'களை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "பயிருடன் வளரும் புல்பூண்டுகள், அழகு",
+      "அழகு, போதல்",
+      "முதன்மை, குற்றம்",
+      "அச்சம், அயர்வு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'களை' என்பது வயலில் பயிர்களுடன் வளரும் தேவையற்ற புற்களையும், முகத்தின் பொலிவு அல்லது அழகையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "omNijMXVUxu7tX9qDkSY",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சாதி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "குலம் - நிறைவேற்று",
+      "குலம் - நதி",
+      "நிறைவேற்று - எண்",
+      "சாதி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'சாதி' என்பது குலத்தையும், நிறைவேற்றும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "pQBibKDVXqeFqaNGudde",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'குடை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "கவிகை - துளைபோடு; நீராடு",
+      "கவிகை - நதி",
+      "துளைபோடு - எண்",
+      "குடை - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'குடை' என்பது கவிகையையும், துளைபோடும் / நீராடும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "peJ4HsruddbBUUWwpZ6l",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சேய்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "குழந்தை, மூங்கில்",
+      "குழந்தை - நதி",
+      "மூங்கில் - எண்",
+      "சேய் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'சேய்' என்பது குழந்தையையும், மூங்கிலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "qE1y3sNBd5eeBfz4eANs",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கவி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "பா; குரங்கு; புலவன் - மூடு",
+      "பா - நதி",
+      "மூடு - எண்",
+      "கவி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கவி' என்பது பாடல் / குரங்கு / புலவனையும், மூடும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "qHGop52FIF293kcxbRKs",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அலை' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "நீரலை - ஆற்றல்",
+      "பகல் - சேறு",
+      "கடல் அலை - அலைந்து திரிதல்",
+      "திரைச்சீலை - சுத்தம் செய்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'அலை' என்பது கடல் அலையையும், அலைந்து திரிதலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "rrc59REFyrvnEhJCne05",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'குன்று' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "மலை, மேடு",
+      "மலை - நதி",
+      "மேடு - எண்",
+      "குன்று - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'குன்று' என்பது மலையையும், மேட்டையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "sEJ0Nj7SN4SSXfKPiDiK",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கால்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "ஒர் உறுப்பு - நான்கில் ஒரு பகுதி",
+      "உறுப்பு - நதி",
+      "நான்கில் ஒரு பகுதி - எண்",
+      "கால் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கால்' என்பது உடலின் உறுப்பையும், நான்கில் ஒரு பகுதியையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "sFJVvVMPrwQdF4l5XeFf",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சரி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "ஒப்பு - சாயச்செய்",
+      "ஒப்பு - நதி",
+      "சாயச்செய் - எண்",
+      "சரி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'சரி' என்பது ஒப்பையும், சாயும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "tJL9mJV3BiHLbz7sbq7u",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'எள்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "தானியம் - எள்ளல்",
+      "தானியம் - நதி",
+      "எள்ளல் - எண்",
+      "எள் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'எள்' என்பது தானியத்தையும், எள்ளும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "vxCsuKdaPi0culxDkz0M",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'திட்டு' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "கண்டிப்பு - ஆற்றிடைக்குறை",
+      "கண்டிப்பு - நதி",
+      "ஆற்றிடைக்குறை - எண்",
+      "திட்டு - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'திட்டு' என்பது கண்டிப்பையும், ஆற்றிடைக்குறையையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "w15SVTBScp5MeY1FbCDN",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மெய்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "உடல் - உண்மை",
+      "உடல் - நதி",
+      "உண்மை - எண்",
+      "மெய் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'மெய்' என்பது உடலையும், உண்மையையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "xS96kNIyorUPmjgOGseU",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சோதி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "ஒளி - ஆராய்தல்",
+      "ஒளி - நதி",
+      "ஆராய்தல் - எண்",
+      "சோதி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'சோதி' என்பது ஒளியையும், ஆராயும் செயலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "xXmtaG5yW4c5jcC7UKtg",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஏர்' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "கலப்பை - அழகு",
+      "கலப்பை - நதி",
+      "அழகு - எண்",
+      "ஏர் - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'ஏர்' என்பது கலப்பையையும், அழகையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "xmPzyXi9KLSmEf5k1dfg",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கோடு' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "தந்தம், கொம்பு",
+      "தந்தம் - நதி",
+      "கொம்பு - எண்",
+      "கோடு - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கோடு' என்பது தந்தத்தையும், கொம்பையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "y4VGPb9ZjcZl4aSKCg4W",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஆறு' என்ற சொல்லின் பொருள்கள் எவை?",
+    "options": [
+      "நதி, எண் 6, தணிதல்",
+      "நதி, மலை, காற்று",
+      "எண், மாதம், நிலவு",
+      "தணிதல், பால், நதி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'ஆறு' என்பது நதி, எண் ஆறு, மற்றும் சூடு தணிதல் ஆகிய பொருள்களைத் தரும்.",
+    "active": true
+  },
+  {
+    "id": "yGe734oU4Mq7grvpGvx7",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'உப்பு' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "இனிமை - வீங்கு",
+      "இனிமை - நதி",
+      "வீங்கு - எண்",
+      "உப்பு - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'உப்பு' என்பது இனிமையையும், வீங்குதலையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "zbTyGfbxz4s5NEnkiDCz",
+    "subject": "group4series",
+    "class": "Unit 2 - இருபொருள் குறிக்கும் சொற்கள்",
+    "topic": "இருபொருள் குறிக்கும் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மதி' என்ற சொல்லின் இருபொருள் எவை?",
+    "options": [
+      "அறிவு - நிலவு",
+      "அறிவு - நதி",
+      "நிலவு - எண்",
+      "மதி - மாதம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'மதி' என்பது அறிவையும், நிலவையும் குறிக்கும்.",
+    "active": true
+  }
+]

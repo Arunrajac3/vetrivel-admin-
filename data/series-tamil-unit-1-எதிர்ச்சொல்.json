@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "0LBAqgNeo5rfqa7kHL7G",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கனவு’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "நனவு",
+      "பகல்",
+      "வெள்ளை",
+      "மேடு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கனவு × நனவு.",
+    "active": true
+  },
+  {
+    "id": "2sIhj321mKgUjYRVqcun",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "எதிர்ச்சொல் - அறிமுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "எதிர்ச்சொற்களின் பயன் என்ன?",
+    "options": [
+      "வாக்கியங்களை முழுமையாக்கவும் மொழியின் சொல்லாட்சியை மேம்படுத்தவும்",
+      "எழுத்துப்பிழை திருத்த",
+      "இலக்கண விதி விளக்க",
+      "கவிதை எழுத"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "எதிர்ச்சொற்கள் வாக்கியங்களை முழுமையாக்கவும், மொழியின் சொல்லாட்சியை மேம்படுத்தவும் பயன்படுகின்றன.",
+    "active": true
+  },
+  {
+    "id": "3skhlbgVfAqSyiqe67NC",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இல்லார்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "செல்வர்",
+      "வறியவர்",
+      "உயர்ந்தவர்",
+      "விரும்பாதவர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "இல்லார் × செல்வர்.",
+    "active": true
+  },
+  {
+    "id": "43UeQ5uqBhAjv4YEmX3u",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மிசை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "பள்ளம்",
+      "வெறுத்து",
+      "வன் சொல்",
+      "வளமை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மிசை × பள்ளம்.",
+    "active": true
+  },
+  {
+    "id": "4OOAhGkUj1sbUYkLCl6j",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நயம்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "துன்பம்",
+      "அறிவுடையார்",
+      "அழுதல்",
+      "பகைமை கொள்ளுதல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நயம் × துன்பம்.",
+    "active": true
+  },
+  {
+    "id": "4cPVJxKLcLM0ken0PI6B",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இம்மை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "மறுமை",
+      "கனி",
+      "நனவு",
+      "பகல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "இம்மை × மறுமை.",
+    "active": true
+  },
+  {
+    "id": "4e5w0Z47K4gBZ06BapWE",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கடுகி’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "மெதுவாக / மெல்ல",
+      "வருந்த மாட்டார்",
+      "வருந்த",
+      "வறியவர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கடுகி × மெதுவாக / மெல்ல.",
+    "active": true
+  },
+  {
+    "id": "58BfjeTo4QOQ7aBwZr8P",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பாராட்டு’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "இகழ்ச்சி",
+      "அழுகை",
+      "உயர்ச்சி",
+      "தீயொழுக்கம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பாராட்டு × இகழ்ச்சி.",
+    "active": true
+  },
+  {
+    "id": "5LNAYGymsQBdxusZFTN5",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வேம்பு’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "இனிப்பான சொற்கள்",
+      "தீய எண்ணம்",
+      "பள்ளம்",
+      "வெறுத்து"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "வேம்பு × இனிப்பான சொற்கள்.",
+    "active": true
+  },
+  {
+    "id": "5hOrKaDI8DQKPdlnmhvp",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘துண்வர’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "நண்பர்",
+      "வருந்தாத",
+      "அழியாத",
+      "நிலையற்ற பொருள்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "துண்வர × நண்பர்.",
+    "active": true
+  },
+  {
+    "id": "5lv7j5EkZ5x5k7a6WmAj",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆர்வம்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "விருப்பமின்மை",
+      "பெறும்",
+      "பகை",
+      "வாடாத மரம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஆர்வம் × விருப்பமின்மை.",
+    "active": true
+  },
+  {
+    "id": "6vJgKgwZjnxD7SdJ2aUR",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘புகழ்சால்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "பழியைத் தரும்",
+      "விலகி இருப்பவர்",
+      "வெறுத்து",
+      "கீழோர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "புகழ்சால் × பழியைத் தரும்.",
+    "active": true
+  },
+  {
+    "id": "76PGxIcg2DH1X6wvK7ft",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "எதிர்ச்சொல் - அறிமுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வெற்றி’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "தோல்வி",
+      "பகல்",
+      "துன்பம்",
+      "தீமை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "வெற்றி × தோல்வி என்பது எதிர்ச்சொல் ஜோடி.",
+    "active": true
+  },
+  {
+    "id": "7Hsf4t5PmgX8B2KrfPfI",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இனிப்பு’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "கசப்பு",
+      "கீழ்",
+      "மேடு",
+      "கீழே"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "இனிப்பு × கசப்பு.",
+    "active": true
+  },
+  {
+    "id": "7uUuNQk4FbgDjuG71Qq2",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வன்மை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "தன்மை / மென்மை",
+      "பொய்மை",
+      "கனி",
+      "பகல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "வன்மை × தன்மை / மென்மை.",
+    "active": true
+  },
+  {
+    "id": "83UL7MQV7omc6avfgeVo",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உவந்து’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "வெறுத்து",
+      "அண்மை",
+      "கீழோர்",
+      "பழியைத் தரும்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "உவந்து × வெறுத்து.",
+    "active": true
+  },
+  {
+    "id": "8KU1OkyYjnLTReXNCiTH",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இன் சொல்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "வன் சொல்",
+      "வெறுத்து",
+      "வளமை",
+      "தீமை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "இன் சொல் × வன் சொல்.",
+    "active": true
+  },
+  {
+    "id": "8OhQDlo0osYUxcWPWW53",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "எதிர்மறைச் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "முன்னிலை பன்மை எதிர்மறை வினைமுற்று எது?",
+    "options": [
+      "நீ அல்லை",
+      "நீவீர் அல்லீர்",
+      "அவர் அல்லர்",
+      "அவை அல்ல"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "முன்னிலை பன்மை: நீவீர் அல்லீர்.",
+    "active": true
+  },
+  {
+    "id": "8xSJzZVGDqNi6fINNipJ",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "எதிர்மறைச் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "படர்க்கை பலர்பால் எதிர்மறை வினைமுற்று எது?",
+    "options": [
+      "அவர் அல்லர்",
+      "அவன் அல்லன்",
+      "அவள் அல்லள்",
+      "அஃது அன்று"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "படர்க்கை பலர்பால்: அவர் அல்லர்.",
+    "active": true
+  },
+  {
+    "id": "AHGGvc5WCSq0xPLiaJpP",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘எளிது’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "அரிது",
+      "நட்பு",
+      "இரவு",
+      "இகழ்ச்சி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "எளிது × அரிது.",
+    "active": true
+  },
+  {
+    "id": "AsLPzhrdNAMBfEXsEVZ6",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நயம்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "துன்பம்",
+      "அறிவுடையார்",
+      "அழுதல்",
+      "பகைமை கொள்ளுதல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நயம் × துன்பம்.",
+    "active": true
+  },
+  {
+    "id": "E4pZTIF4uBf4DE0jHRwD",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘துறவறம்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "இல்லறம்",
+      "தீயொழுக்கம்",
+      "நன்மை",
+      "நல்லவர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "துறவறம் × இல்லறம்.",
+    "active": true
+  },
+  {
+    "id": "EAIwE8xjIMr7ZbpbiuD2",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "எதிர்ச்சொல் - அறிமுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இன்பம்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "துன்பம்",
+      "பகல்",
+      "தீமை",
+      "தோல்வி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "இன்பம் × துன்பம் என்பது எதிர்ச்சொல் ஜோடி.",
+    "active": true
+  },
+  {
+    "id": "ECjmu1bI5ZcaAKC0l9Hy",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "எதிர்மறைச் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "படர்க்கை ஆண்பால் எதிர்மறை வினைமுற்று எது?",
+    "options": [
+      "அவன் அல்லன்",
+      "அவள் அல்லள்",
+      "அவர் அல்லர்",
+      "அஃது அன்று"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "படர்க்கை ஆண்பால்: அவன் அல்லன்.",
+    "active": true
+  },
+  {
+    "id": "ErqkJWDDB3yFY5df5xfB",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உருகுவார்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "வருந்த மாட்டார்",
+      "நிலையற்ற பொருள்",
+      "மெதுவாக",
+      "வருந்த"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "உருகுவார் × வருந்த மாட்டார்.",
+    "active": true
+  },
+  {
+    "id": "FnyWUoTTcejNGFHeiNBx",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "எதிர்மறைச் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஒன்றன்பால் எதிர்மறை வினைமுற்று எது?",
+    "options": [
+      "அஃது அன்று",
+      "அவை அல்ல",
+      "அவர் அல்லர்",
+      "நான் அல்லேன்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஒன்றன்பால்: அஃது அன்று.",
+    "active": true
+  },
+  {
+    "id": "Fot7IReRtLgvWoDdbbV6",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘முதுமை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "இளமை",
+      "இறக்கம்",
+      "தாழ்வு",
+      "வேற்றுமை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "முதுமை × இளமை.",
+    "active": true
+  },
+  {
+    "id": "GzMIrRB4sciItZKI4ZW1",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உம்பர்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "கீழே",
+      "மேடு",
+      "கசப்பு",
+      "பகை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "உம்பர் × கீழே.",
+    "active": true
+  },
+  {
+    "id": "H5O1Tic06lRAClbmHokm",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பள்ளம்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "மேடு",
+      "கீழ்",
+      "கசப்பு",
+      "கீழே"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பள்ளம் × மேடு.",
+    "active": true
+  },
+  {
+    "id": "I5gkCAqWLn2igUk82T8c",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "எதிர்மறைச் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வேறு, உண்டு, இல்லை’ ஆகியவை எதற்குப் பொதுவான சொற்கள்?",
+    "options": [
+      "மூவிடத்திற்கும் ஐம்பாலுக்கும்",
+      "தன்மைக்கு மட்டும்",
+      "முன்னிலைக்கு மட்டும்",
+      "படர்க்கைக்கு மட்டும்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "‘வேறு, உண்டு, இல்லை’ ஆகியவை மூவிடத்திற்கும், ஐம்பாலுக்கும் பொதுவான சொற்கள் ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "IFVKo9R4vbxPnFfJiSpH",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பகல்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "இரவு",
+      "நட்பு",
+      "அழுகை",
+      "இகழ்ச்சி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பகல் × இரவு.",
+    "active": true
+  },
+  {
+    "id": "INgNGxmon3k9P60VUnPA",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இளையோர்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "முதியோர்",
+      "வேற்றுமை",
+      "பேதை",
+      "வருந்தம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "இளையோர் × முதியோர்.",
+    "active": true
+  },
+  {
+    "id": "Ij6Yx6bBnQ1FCyMxFnlu",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கேண்மை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "பகை",
+      "வருத்தம்",
+      "அறிவுடையார்",
+      "துன்பம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கேண்மை × பகை.",
+    "active": true
+  },
+  {
+    "id": "JPFRaBISDXFRJ3fXoxom",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அல்லல்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "இன்பம்",
+      "புகழ்ந்துரைத்தல்",
+      "செலுத்தாத",
+      "வருத்தம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அல்லல் × இன்பம்.",
+    "active": true
+  },
+  {
+    "id": "KP4miPdYOAxO9qc7x0Q5",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பேரிலக்கியங்கள்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "சிற்றிலக்கியங்கள்",
+      "உயர்ந்தவர்",
+      "ஒற்றுமை",
+      "நட்பு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேரிலக்கியங்கள் × சிற்றிலக்கியங்கள்.",
+    "active": true
+  },
+  {
+    "id": "KhEOYViLKxcr491Vl7AQ",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "எதிர்ச்சொல் - அறிமுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஒரு சொல்லிற்கு நேர்மாறான அல்லது முரணான பொருளைத் தரும் சொல் எவ்வாறு அழைக்கப்படுகிறது?",
+    "options": [
+      "இணைச்சொல்",
+      "எதிர்ச்சொல்",
+      "ஒத்தசொல்",
+      "வேற்றுச்சொல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஒரு சொல்லிற்கு நேர்மாறான அல்லது முரணான பொருளைத் தரும் சொல்லே எதிர்ச்சொல் எனப்படும்.",
+    "active": true
+  },
+  {
+    "id": "LPfaT1kCnSl9cadZXmEY",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பேதையார்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "அறிவுடையார்",
+      "பகை",
+      "துன்பம்",
+      "அழுதல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பேதையார் × அறிவுடையார்.",
+    "active": true
+  },
+  {
+    "id": "M08vk3EHktS3AvkohdkX",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இடித்தல்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "புகழ்ந்துரைத்தல்",
+      "பகைமை கொள்ளுதல்",
+      "இன்பம்",
+      "செலுத்தாத"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "இடித்தல் × புகழ்ந்துரைத்தல்.",
+    "active": true
+  },
+  {
+    "id": "MGF5hlZ4HVbrAeIlvTiC",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மெய்ப்பொருள்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "நிலையற்ற பொருள்",
+      "அழியாத",
+      "வருந்த மாட்டார்",
+      "மெதுவாக"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மெய்ப்பொருள் × நிலையற்ற பொருள்.",
+    "active": true
+  },
+  {
+    "id": "N5qbBMbYJhDu0LDXu6DZ",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘காமுறுவர்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "விரும்பாதவர்",
+      "பாதுகாப்பின்மை",
+      "ஒற்றுமை",
+      "அரிது"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "காமுறுவர் × விரும்பாதவர்.",
+    "active": true
+  },
+  {
+    "id": "Na9eNIQiR7NUTAqBAvl0",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நண்பு’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "பகை",
+      "கீழே",
+      "மேடு",
+      "விருப்பமின்மை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நண்பு × பகை.",
+    "active": true
+  },
+  {
+    "id": "O5saCKFsBQijiJKU3iu6",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நன்கணியர்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "விலகி இருப்பவர்",
+      "வாடாத மரம்",
+      "அண்மை",
+      "வெறுத்து"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நன்கணியர் × விலகி இருப்பவர்.",
+    "active": true
+  },
+  {
+    "id": "Oh2BCSPeDNkP0Okzv9vW",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "எதிர்மறைச் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "படர்க்கை பெண்பால் எதிர்மறை வினைமுற்று எது?",
+    "options": [
+      "அவள் அல்லள்",
+      "அவன் அல்லன்",
+      "அவர் அல்லர்",
+      "அவை அல்ல"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "படர்க்கை பெண்பால்: அவள் அல்லள்.",
+    "active": true
+  },
+  {
+    "id": "PJGqyo5tm8ihsetsfweO",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "எதிர்மறைச் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அஃது அன்று’ என்பது எந்த பாலிற்குரிய எதிர்மறை?",
+    "options": [
+      "ஒன்றன்பால்",
+      "பலவின் பால்",
+      "ஆண்பால்",
+      "பெண்பால்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அஃது அன்று = ஒன்றன்பால் எதிர்மறை.",
+    "active": true
+  },
+  {
+    "id": "Pm4OEfBWYIj6qIl49jZe",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உயர்வு’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "தாழ்வு",
+      "இறக்கம்",
+      "வேற்றுமை",
+      "முதியோர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "உயர்வு × தாழ்வு.",
+    "active": true
+  },
+  {
+    "id": "QWsO0ANykm8nZq0Drncy",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மேல்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "கீழ்",
+      "மேடு",
+      "கசப்பு",
+      "கீழே"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மேல் × கீழ்.",
+    "active": true
+  },
+  {
+    "id": "RXxiD4yDBtHL6csHndS1",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வேற்றுமை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "ஒற்றுமை",
+      "விரும்பாதவர்",
+      "அரிது",
+      "நட்பு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "வேற்றுமை × ஒற்றுமை.",
+    "active": true
+  },
+  {
+    "id": "SDp7Qf2O31M8H03XH4KM",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அழகை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "சிரிப்பு",
+      "தீமை",
+      "இளமை",
+      "இறக்கம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அழகை × சிரிப்பு.",
+    "active": true
+  },
+  {
+    "id": "Si9SmkpQ4dx7M7ol8vXR",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஏமாப்பு’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "பாதுகாப்பின்மை",
+      "விரும்பாதவர்",
+      "ஒற்றுமை",
+      "சிற்றிலக்கியங்கள்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஏமாப்பு × பாதுகாப்பின்மை.",
+    "active": true
+  },
+  {
+    "id": "StaHfltprr9coFfQX1of",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அமர்ந்து’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "வெறுத்து",
+      "பள்ளம்",
+      "வன் சொல்",
+      "செழுமை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அமர்ந்து × வெறுத்து.",
+    "active": true
+  },
+  {
+    "id": "SuDUe3StXwZh523Tbh7v",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வன்மை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "தன்மை / மென்மை",
+      "பொய்மை",
+      "கனி",
+      "பகல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "வன்மை × தன்மை / மென்மை.",
+    "active": true
+  },
+  {
+    "id": "T7nYIxVhSjEVWEHfVs0t",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "எதிர்மறைச் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பலவின் பால் எதிர்மறை வினைமுற்று எது?",
+    "options": [
+      "அவை அல்ல",
+      "அஃது அன்று",
+      "அவர் அல்லர்",
+      "நாம் அல்லோம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பலவின் பால்: அவை அல்ல.",
+    "active": true
+  },
+  {
+    "id": "TlTsHQN4fdksaD1sY25I",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "எதிர்மறைச் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "முன்னிலை ஒருமை எதிர்மறை வினைமுற்று எது?",
+    "options": [
+      "நீ அல்லை",
+      "நீவீர் அல்லீர்",
+      "அவன் அல்லன்",
+      "அவள் அல்லள்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "முன்னிலை ஒருமை: நீ அல்லை.",
+    "active": true
+  },
+  {
+    "id": "UC23WHoUHnz1N70r6qub",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இம்மை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "மறுமை",
+      "கனி",
+      "நனவு",
+      "பகல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "இம்மை × மறுமை.",
+    "active": true
+  },
+  {
+    "id": "UPnqNtd7UxQlUr9XRiDU",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சாயினும்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "அழியாத",
+      "நண்பர்",
+      "நிலையற்ற பொருள்",
+      "வருந்த மாட்டார்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "சாயினும் × அழியாத.",
+    "active": true
+  },
+  {
+    "id": "UT5XMxsgVnqHlV4Cs38H",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உவப்ப’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "வருந்த",
+      "மெதுவாக",
+      "வறியவர்",
+      "செல்வர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "உவப்ப × வருந்த.",
+    "active": true
+  },
+  {
+    "id": "UTQNBxB8NYSEJ2QMO2YJ",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அவல்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "மேடு",
+      "கீழே",
+      "கசப்பு",
+      "அன்பில்லாதவர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அவல் × மேடு.",
+    "active": true
+  },
+  {
+    "id": "VUmJaHNXHGOlXyZsXqBZ",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உடையார்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "வறியவர் (இல்லார்)",
+      "செல்வர்",
+      "உயர்ந்தவர்",
+      "விரும்பாதவர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "உடையார் × வறியவர் (இல்லார்).",
+    "active": true
+  },
+  {
+    "id": "WdlAjvMiRYD1ReYasYdj",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நயமில’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "நன்மை / இனிமை",
+      "வருத்தம்",
+      "கீழான பொருள்",
+      "அறிவற்றவர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நயமில × நன்மை / இனிமை.",
+    "active": true
+  },
+  {
+    "id": "X0fIXMclNOQ9fd21jpyZ",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஒற்றுமை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "வேற்றுமை",
+      "தாழ்வு",
+      "முதியோர்",
+      "பேதை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஒற்றுமை × வேற்றுமை.",
+    "active": true
+  },
+  {
+    "id": "XhJWzhsrSe4WEdFt4Ggv",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நட்டல்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "பகைமை கொள்ளுதல்",
+      "அழுதல்",
+      "புகழ்ந்துரைத்தல்",
+      "இன்பம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நட்டல் × பகைமை கொள்ளுதல்.",
+    "active": true
+  },
+  {
+    "id": "b6gmzDhXSxaUA2oFXiHS",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘புரை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "குற்றமில்லாத",
+      "முதியோர்",
+      "பேதை",
+      "வருந்தம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "புரை × குற்றமில்லாத.",
+    "active": true
+  },
+  {
+    "id": "cc219Zsm5NcMv1Zu4BX2",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நன்றி’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "தீமை",
+      "வளமை",
+      "சிரிப்பு",
+      "இளமை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நன்றி × தீமை.",
+    "active": true
+  },
+  {
+    "id": "dGddnV2gW3bBE4yw6qEw",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நகுதல்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "அழுதல்",
+      "துன்பம்",
+      "பகைமை கொள்ளுதல்",
+      "புகழ்ந்துரைத்தல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நகுதல் × அழுதல்.",
+    "active": true
+  },
+  {
+    "id": "gF6jUnGdKBrQcE7KG64Z",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "எதிர்ச்சொல் - அறிமுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இரவு’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "பகல்",
+      "இன்பம்",
+      "நன்மை",
+      "வெற்றி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "இரவு × பகல் என்பது எதிர்ச்சொல் ஜோடி.",
+    "active": true
+  },
+  {
+    "id": "gc17r1Zkgk0PbU0g0LWS",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சுடும்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "வருந்தாத",
+      "வருந்தம்",
+      "நண்பர்",
+      "அழியாத"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "சுடும் × வருந்தாத.",
+    "active": true
+  },
+  {
+    "id": "gmrtCt4qUXd5S2XtrzAW",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பராபரம்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "கீழான பொருள்",
+      "நன்மை",
+      "அறிவற்றவர்",
+      "பகை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பராபரம் × கீழான பொருள்.",
+    "active": true
+  },
+  {
+    "id": "i1lT5sXlnTXrC9NG05OP",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மேதை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "பேதை",
+      "முதியோர்",
+      "வருந்தம்",
+      "நண்பர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மேதை × பேதை.",
+    "active": true
+  },
+  {
+    "id": "iEfRDNVhY1Vr4VVvdhsr",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உய்த்து’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "செலுத்தாத",
+      "புகழ்ந்துரைத்தல்",
+      "இன்பம்",
+      "வருத்தம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "உய்த்து × செலுத்தாத.",
+    "active": true
+  },
+  {
+    "id": "imBN7tFaUswnPGpaSIqv",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘துவ்வாமை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "வளமை / செழுமை",
+      "வன் சொல்",
+      "தீமை",
+      "சிரிப்பு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "துவ்வாமை × வளமை / செழுமை.",
+    "active": true
+  },
+  {
+    "id": "j4WfaDsp0fX6f75ezy19",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "எதிர்மறைச் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தன்மை பன்மை எதிர்மறை வினைமுற்று எது?",
+    "options": [
+      "நான் அல்லேன்",
+      "நாம் அல்லோம்",
+      "நீ அல்லை",
+      "நீவீர் அல்லீர்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "தன்மை பன்மை: நாம் அல்லோம்.",
+    "active": true
+  },
+  {
+    "id": "jBiUS5iOP0N2mnOfFsiR",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆனந்தம்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "வருத்தம்",
+      "நல்லவர்",
+      "அறிவற்றவர்",
+      "பகை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஆனந்தம் × வருத்தம்.",
+    "active": true
+  },
+  {
+    "id": "jBk0um25CtzoSZAKt2YH",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உணர்வு’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "தீய எண்ணம்",
+      "பழியைத் தரும்",
+      "கீழோர்",
+      "இனிப்பான சொற்கள்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "உணர்வு × தீய எண்ணம்.",
+    "active": true
+  },
+  {
+    "id": "jEux6ara3LeTDyYHPQXz",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சலவர்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "நல்லவர்",
+      "நன்மை",
+      "வருத்தம்",
+      "அறிவற்றவர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "சலவர் × நல்லவர்.",
+    "active": true
+  },
+  {
+    "id": "jHiDzaPZDWMabx9yUEXb",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஏற்றம்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "இறக்கம்",
+      "இளமை",
+      "தாழ்வு",
+      "வேற்றுமை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஏற்றம் × இறக்கம்.",
+    "active": true
+  },
+  {
+    "id": "jf3J5I6adtkDQ3gkXye0",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தீமை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "நன்மை",
+      "இல்லறம்",
+      "நல்லவர்",
+      "வருத்தம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தீமை × நன்மை.",
+    "active": true
+  },
+  {
+    "id": "kWUgBo52wCexQO9Sm5i5",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கடையர்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "உயர்ந்தவர்",
+      "செல்வர்",
+      "விரும்பாதவர்",
+      "ஒற்றுமை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கடையர் × உயர்ந்தவர்.",
+    "active": true
+  },
+  {
+    "id": "mcHXDlgtMWoL80wOT2Wj",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "எதிர்ச்சொல் - அறிமுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நன்மை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "தீமை",
+      "பகல்",
+      "துன்பம்",
+      "தோல்வி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நன்மை × தீமை என்பது எதிர்ச்சொல் ஜோடி.",
+    "active": true
+  },
+  {
+    "id": "mpPBbdZud5ylvuX7YDTB",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பகை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "நட்பு",
+      "இரவு",
+      "அழுகை",
+      "பயனிலார்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பகை × நட்பு.",
+    "active": true
+  },
+  {
+    "id": "nPQ8guHf9SqiLZrXpRI0",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சேய்மை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "அண்மை",
+      "பகை",
+      "வெறுத்து",
+      "கீழோர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "சேய்மை × அண்மை.",
+    "active": true
+  },
+  {
+    "id": "nSUSyduQv2DxEVMUM2g2",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அல்லவை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "நல்லவை",
+      "மறுமை",
+      "நனவு",
+      "வெள்ளை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அல்லவை × நல்லவை.",
+    "active": true
+  },
+  {
+    "id": "nowQIip84WZjF3fMZQeR",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆர்வலர்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "அன்பில்லாதவர்",
+      "பெறும்",
+      "விருப்பமின்மை",
+      "பகை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஆர்வலர் × அன்பில்லாதவர்.",
+    "active": true
+  },
+  {
+    "id": "oBbDOW2xUGfHwnW1KysK",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கனவு’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "நனவு",
+      "பகல்",
+      "வெள்ளை",
+      "மேடு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கனவு × நனவு.",
+    "active": true
+  },
+  {
+    "id": "ohbpPw2uuHEyE85xCp1S",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘எய்யாமை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "வருந்தம்",
+      "பேதை",
+      "நண்பர்",
+      "அழியாத"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "எய்யாமை × வருந்தம்.",
+    "active": true
+  },
+  {
+    "id": "pApjuugNtveHAyxyP50L",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நீரவர்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "அறிவற்றவர்",
+      "கீழான பொருள்",
+      "பகை",
+      "அறிவுடையார்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நீரவர் × அறிவற்றவர்.",
+    "active": true
+  },
+  {
+    "id": "pEmHcfdT8kkfSh3Q7jUq",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "எதிர்மறைச் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தன்மை ஒருமை எதிர்மறை வினைமுற்று எது?",
+    "options": [
+      "நான் அல்லேன்",
+      "நாம் அல்லோம்",
+      "நீ அல்லை",
+      "அவன் அல்லன்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தன்மை ஒருமை: நான் அல்லேன்.",
+    "active": true
+  },
+  {
+    "id": "pLyotOkl7k6YRFAXqIhX",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "எதிர்மறைச் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அவை அல்ல’ என்பது எந்த பாலிற்குரிய எதிர்மறை?",
+    "options": [
+      "பலவின் பால்",
+      "ஒன்றன்பால்",
+      "பலர்பால்",
+      "பெண்பால்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அவை அல்ல = பலவின் பால் எதிர்மறை.",
+    "active": true
+  },
+  {
+    "id": "qZXaEOhQSnH9B4a0bQ5C",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "எதிர்மறைச் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நான் அல்லேன்’ என்பது எந்த இட எண்ணிற்குரிய எதிர்மறை?",
+    "options": [
+      "தன்மை ஒருமை",
+      "தன்மை பன்மை",
+      "முன்னிலை ஒருமை",
+      "படர்க்கை ஆண்பால்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நான் அல்லேன் = தன்மை ஒருமை எதிர்மறை வினைமுற்று.",
+    "active": true
+  },
+  {
+    "id": "qqVTXZKv4GqCK5BpnpTo",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஏற்றம்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "இறக்கம்",
+      "சிரிப்பு",
+      "தாழ்வு",
+      "வேற்றுமை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஏற்றம் × இறக்கம்.",
+    "active": true
+  },
+  {
+    "id": "s8O7uFsNcQxhQOg5HHWQ",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நல்ல’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "தீய",
+      "பொய்மை",
+      "கனி",
+      "நனவு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நல்ல × தீய.",
+    "active": true
+  },
+  {
+    "id": "uodH2Zf9qmoAQqMLRF0r",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நல்லொழுக்கம்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "தீயொழுக்கம்",
+      "உயர்ச்சி",
+      "இல்லறம்",
+      "நன்மை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நல்லொழுக்கம் × தீயொழுக்கம்.",
+    "active": true
+  },
+  {
+    "id": "vL3LaXO6fbNc6mm5lS54",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘காய்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "கனி",
+      "மென்மை",
+      "நனவு",
+      "வெள்ளை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "காய் × கனி.",
+    "active": true
+  },
+  {
+    "id": "wkTLFCl84ijJoPRMIBeY",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தாழ்ச்சி’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "உயர்ச்சி",
+      "இகழ்ச்சி",
+      "தீயொழுக்கம்",
+      "இல்லறம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தாழ்ச்சி × உயர்ச்சி.",
+    "active": true
+  },
+  {
+    "id": "yAadkxf5eHWDJPF4TrrG",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உண்மை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "பொய்மை",
+      "தீய",
+      "மென்மை",
+      "கனி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "உண்மை × பொய்மை.",
+    "active": true
+  },
+  {
+    "id": "yKH6BLNI5oOirpL7SOo3",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நகை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "அழுகை / சினம்",
+      "இரவு",
+      "இகழ்ச்சி",
+      "உயர்ச்சி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நகை × அழுகை / சினம்.",
+    "active": true
+  },
+  {
+    "id": "yMueBFi2Fq90O0OXlGup",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஈனும்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "பெறும்",
+      "அன்பில்லாதவர்",
+      "விருப்பமின்மை",
+      "பகை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஈனும் × பெறும்.",
+    "active": true
+  },
+  {
+    "id": "yzgrxfyXKI3q3wlnd9er",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வற்றல் மரம்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "வாடாத மரம்",
+      "விருப்பமின்மை",
+      "விலகி இருப்பவர்",
+      "அண்மை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "வற்றல் மரம் × வாடாத மரம்.",
+    "active": true
+  },
+  {
+    "id": "z4nUpePfAbyBSj1aWYYd",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கறுப்பு’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "வெள்ளை",
+      "நனவு",
+      "மேடு",
+      "கீழ்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கறுப்பு × வெள்ளை.",
+    "active": true
+  },
+  {
+    "id": "zeUQt0ZDcJXqRle00Ncp",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பயனுடையார்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "பயனிலார்",
+      "சிற்றிலக்கியங்கள்",
+      "நட்பு",
+      "இகழ்ச்சி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பயனுடையார் × பயனிலார்.",
+    "active": true
+  },
+  {
+    "id": "zlAv6cCkGUj1E5RqaSUo",
+    "subject": "group4series",
+    "class": "Tamil Unit 1 - எதிர்ச்சொல்",
+    "topic": "6-12ம் வகுப்பு பழைய புத்தக எதிர்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மேலவர் / மேலோர்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
+    "options": [
+      "கீழவர் / கீழோர்",
+      "வெறுத்து",
+      "பழியைத் தரும்",
+      "தீய எண்ணம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மேலவர் / மேலோர் × கீழவர் / கீழோர்.",
+    "active": true
+  }
+]

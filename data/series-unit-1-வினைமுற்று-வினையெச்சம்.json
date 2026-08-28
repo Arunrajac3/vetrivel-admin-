@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "00WqdzjKFUepLHkkUCAR",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆதிரையான்’ என்ற சொல் எந்த அடிப்படையில் அமைந்த குறிப்பு வினைமுற்று?",
+    "options": [
+      "பொருள்",
+      "இடம்",
+      "காலம்",
+      "சினை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "காலம் – ஆதிரையான்.",
+    "active": true
+  },
+  {
+    "id": "0TmEGBz2QGAZKt8tXrTP",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஏவல் வினைமுற்று எத்தனை எண் வகைகளில் வரும்?",
+    "options": [
+      "ஒன்று",
+      "இரண்டு",
+      "மூன்று",
+      "நான்கு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஏவல் வினைமுற்று ஒருமை, பன்மை ஆகிய இருவகைகளில் வரும்.",
+    "active": true
+  },
+  {
+    "id": "1Deuz9viVZoDNcnrkQ1u",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வினைமுற்று எத்தனை காலங்களில் வரும்?",
+    "options": [
+      "இரண்டு",
+      "மூன்று",
+      "நான்கு",
+      "ஐந்து"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வினைமுற்று மூன்று காலங்களில் வரும்.",
+    "active": true
+  },
+  {
+    "id": "26q50reaWLolk3RryEDw",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வினைமுற்று எதை முற்றுப் பெறச் செய்கிறது?",
+    "options": [
+      "எழுத்தை",
+      "பொருளை",
+      "வேற்றுமையை",
+      "இடத்தை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வினைமுற்று பொருள் முற்றுப் பெற்ற வினைச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "2TYrSegCRsUeIdjjR4Wo",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தெரிநிலை வினைமுற்றின் ஆறு உறுப்புகளில் ஒன்று அல்லாதது எது?",
+    "options": [
+      "செய்பவர்",
+      "கருவி",
+      "வினாஎழுத்து",
+      "காலம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "தெரிநிலை வினைமுற்று உறுப்புகள்: செய்பவர், கருவி, நிலம், செயல், காலம், செய்பொருள். வினாஎழுத்து இதில் இல்லை.",
+    "active": true
+  },
+  {
+    "id": "2V5oSxlYVo0PU7GZROuA",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குறிப்பு வினைமுற்றில் ‘குணம்’ அடிப்படையில் எடுத்துக்காட்டு எது?",
+    "options": [
+      "பொன்னன்",
+      "கரியன்",
+      "எழுத்தன்",
+      "கண்ணன்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பண்டு (குணம்) – கரியன்.",
+    "active": true
+  },
+  {
+    "id": "3BGmCGGPS4Bj9IrQPzLG",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குறிப்பு வினைமுற்றில் ‘பொருள்’ அடிப்படையில் எடுத்துக்காட்டு எது?",
+    "options": [
+      "தென்னாட்டார்",
+      "பொன்னன்",
+      "ஆதிரையான்",
+      "கண்ணன்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பொருள் – பொன்னன்.",
+    "active": true
+  },
+  {
+    "id": "40FaVHaglGQf8yk16Gxe",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தென்னாட்டார்’ என்ற சொல் எந்த அடிப்படையில் அமைந்த குறிப்பு வினைமுற்று?",
+    "options": [
+      "பொருள்",
+      "இடம்",
+      "காலம்",
+      "சினை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இடம் – தென்னாட்டார்.",
+    "active": true
+  },
+  {
+    "id": "6BoBFac8LXDHJSWNwGmR",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மாடு மேயும்’ என்ற தொடரில் உள்ள வினைமுற்று எந்தக் காலம்?",
+    "options": [
+      "இறந்தகாலம்",
+      "நிகழ்காலம்",
+      "எதிர்காலம்",
+      "காலமில்லை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மேயும் – நிகழ்காலம்.",
+    "active": true
+  },
+  {
+    "id": "6ORIrR53i3hWLeRg9Kzp",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பாடம் படி’ என்ற தொடரின் வினை வகை என்ன?",
+    "options": [
+      "தெரிநிலை வினைமுற்று",
+      "குறிப்பு வினைமுற்று",
+      "ஏவல் வினைமுற்று",
+      "பெயரெச்சம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பாடம் படி – ஏவல் வினைமுற்று.",
+    "active": true
+  },
+  {
+    "id": "7foWxJ92B2QLfAypNzJy",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘எழுதினாள்’ என்ற சொல் எந்த வகை வினைமுற்று?",
+    "options": [
+      "ஏவல்",
+      "குறிப்பு",
+      "தெரிநிலை",
+      "வியங்கோள்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "எழுதினாள் – காலம், செய்பவர் முதலியன வெளிப்படுவதால் தெரிநிலை வினைமுற்று.",
+    "active": true
+  },
+  {
+    "id": "84av2c06kZ8JKmLGjpTA",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தெரிநிலை வினைமுற்றின் உறுப்புகள் எத்தனை?",
+    "options": [
+      "நான்கு",
+      "ஐந்து",
+      "ஆறு",
+      "ஏழு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "செய்பவர், கருவி, நிலம், செயல், காலம், செய்பொருள் – ஆறு.",
+    "active": true
+  },
+  {
+    "id": "8UYNRYSp4sahimwfLuan",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குறிப்பு வினைமுற்று பற்றிய தவறான கூற்று எது?",
+    "options": [
+      "காலத்தை வெளிப்படையாகக் காட்டாது",
+      "செய்பவரைக் காட்டும்",
+      "ஆறு உறுப்புகள் வெளிப்படும்",
+      "பொருள் அடிப்படையில் அமையும்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஆறு உறுப்புகள் வெளிப்படுவது தெரிநிலை வினைமுற்று.",
+    "active": true
+  },
+  {
+    "id": "8fuEUvKPj4SW4hI0ld7t",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தெரிநிலை வினைமுற்றில் ‘செய்பவர்’ என்பதற்கு எடுத்துக்காட்டு எது?",
+    "options": [
+      "கட்டுரை",
+      "மாணவி",
+      "பள்ளி",
+      "எழுதுதல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மாணவி கட்டுரை எழுதினாள் – செய்பவர் மாணவி.",
+    "active": true
+  },
+  {
+    "id": "9tID2btYPu0MvtXhXgcB",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆதிரையான்’ என்ற குறிப்பு வினைமுற்று எதன் அடிப்படையில்?",
+    "options": [
+      "பொருள்",
+      "இடம்",
+      "காலம்",
+      "சினை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "காலம் – ஆதிரையான்.",
+    "active": true
+  },
+  {
+    "id": "AR4JFM4tgQDDBQkMC6Mh",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பொன்னன்’ என்ற குறிப்பு வினைமுற்று எதன் அடிப்படையில்?",
+    "options": [
+      "இடம்",
+      "பொருள்",
+      "காலம்",
+      "தொழில்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பொருள் – பொன்னன்.",
+    "active": true
+  },
+  {
+    "id": "AuBMDUDr8L1hwW7tj3ww",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஏவல் வினைமுற்று எந்த நோக்கத்திற்காகப் பயன்படுத்தப்படுகிறது?",
+    "options": [
+      "வினா கேட்க",
+      "ஒரு செயலைச் செய்யுமாறு கட்டளையிட",
+      "விவரிக்க",
+      "சுட்ட"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஏவல் வினைமுற்று தன்முன் உள்ள ஒருவரை ஒரு செயலைச் செய்யுமாறு ஏவ (கட்டளையிட) பயன்படும்.",
+    "active": true
+  },
+  {
+    "id": "B1FNINKXYGrGPOzSRzUF",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குறிப்பு வினைமுற்று எதை வெளிப்படையாகக் காட்டும்?",
+    "options": [
+      "காலத்தை",
+      "செய்பவரை",
+      "கருவியை",
+      "நிலத்தை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "குறிப்பு வினைமுற்று செய்பவரை மட்டும் வெளிப்படையாகக் காட்டும்.",
+    "active": true
+  },
+  {
+    "id": "BxcaIvIgRYsZCvNnq7Mp",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வினைமுற்று பற்றிய சரியான கூற்று எது?",
+    "options": [
+      "பொருள் முற்றுப் பெறாது",
+      "ஐந்து பால், மூன்று காலம், மூன்று இடத்தில் வரும்",
+      "பெயர்ச்சொல்",
+      "இடைச்சொல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வினைமுற்று ஐந்து பால், மூன்று காலம், மூன்று இடம் ஆகிய அனைத்திலும் வரும்.",
+    "active": true
+  },
+  {
+    "id": "C2cxKV420v35YD0zJAgk",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குறிப்பு வினைமுற்றின் அடிப்படைகளில் இல்லாதது எது?",
+    "options": [
+      "பொருள்",
+      "இடம்",
+      "வினா",
+      "தொழில்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "குறிப்பு வினைமுற்று அடிப்படைகள்: பொருள், இடம், காலம், சினை, குணம், தொழில்.",
+    "active": true
+  },
+  {
+    "id": "DEztMIrPnvwFUtzNLdWV",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கரியன்’ என்ற குறிப்பு வினைமுற்று எதன் அடிப்படையில்?",
+    "options": [
+      "பொருள்",
+      "குணம்",
+      "சினை",
+      "தொழில்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பண்டு (குணம்) – கரியன்.",
+    "active": true
+  },
+  {
+    "id": "DxbXbUONTPnPTO2AAlhL",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘எழுதினாள்’ என்ற சொல் எந்தப் பாலில் உள்ளது?",
+    "options": [
+      "ஆண்பால்",
+      "பெண்பால்",
+      "பலர்பால்",
+      "ஒன்றன்பால்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "எழுதினாள் – பெண்பால்.",
+    "active": true
+  },
+  {
+    "id": "EIKudwxsSdTLg9mAFli7",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குறிப்பு வினைமுற்று காலத்தை எவ்வாறு காட்டும்?",
+    "options": [
+      "வெளிப்படையாக",
+      "குறிப்பால் / வெளிப்படையாகக் காட்டாது",
+      "உருபு மூலம்",
+      "வேற்றுமை மூலம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "குறிப்பு வினைமுற்று காலத்தை வெளிப்படையாகக் காட்டாது.",
+    "active": true
+  },
+  {
+    "id": "FBAGhBw05LdzjlunRbPy",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குறிப்பு வினைமுற்றில் ‘பண்டு’ என்றால் என்ன?",
+    "options": [
+      "தொழில்",
+      "குணம்",
+      "சினை",
+      "காலம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பண்டு – குணம் (கரியன்).",
+    "active": true
+  },
+  {
+    "id": "FOg7BIpIwcCrKLAnTBl5",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குறிப்பு வினைமுற்றில் ‘இடம்’ அடிப்படையில் எடுத்துக்காட்டு எது?",
+    "options": [
+      "பொன்னன்",
+      "தென்னாட்டார்",
+      "ஆதிரையான்",
+      "கண்ணன்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இடம் – தென்னாட்டார்.",
+    "active": true
+  },
+  {
+    "id": "FT2IUZPkJEmfJ6cRp4Pw",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஏவல் வினைமுற்றின் ஒருமை வடிவம் எது?",
+    "options": [
+      "எழுதுங்கள்",
+      "எழுதுமின்",
+      "எழுது",
+      "எழுதின்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "எழுது – ஒருமை ஏவல் வினைமுற்று.",
+    "active": true
+  },
+  {
+    "id": "G5rWb9DUb1tbIFm39RRn",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஏவல் வினைமுற்று எத்தனை வகைகளில் வரும்?",
+    "options": [
+      "ஒன்று",
+      "இரண்டு",
+      "மூன்று",
+      "நான்கு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஏவல் வினைமுற்று ஒருமை, பன்மை ஆகிய இருவகைகளில் வரும்.",
+    "active": true
+  },
+  {
+    "id": "G85AVvVWzX6fqI3bInfA",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஒரு செயலைச் செய்யுமாறு கட்டளையிடும் வினைமுற்று எவ்வாறு அழைக்கப்படுகிறது?",
+    "options": [
+      "தெரிநிலை வினைமுற்று",
+      "குறிப்பு வினைமுற்று",
+      "ஏவல் வினைமுற்று",
+      "வியங்கோள் வினைமுற்று"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "தன்முன் உள்ள ஒருவரை ஒரு செயலைச் செய்யுமாறு ஏவும் வினைமுற்று ஏவல் வினைமுற்று எனப்படும்.",
+    "active": true
+  },
+  {
+    "id": "G8OH31mlbxDyES9Va980",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வினைமுற்றுடன் தொடர்பில்லாதது எது?",
+    "options": [
+      "தெரிநிலை",
+      "குறிப்பு",
+      "ஏவல்",
+      "பெயர்ச்சொல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "வினைமுற்று வகைகள்: தெரிநிலை, குறிப்பு, ஏவல், வியங்கோள் முதலியன. பெயர்ச்சொல் வேறு.",
+    "active": true
+  },
+  {
+    "id": "H3kYNLG1Hb4mtRo0BDZO",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குறிப்பு வினைமுற்று எதை வெளிப்படையாகக் காட்டாது?",
+    "options": [
+      "செய்பவரை",
+      "காலத்தை",
+      "பொருளை",
+      "இடத்தை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "குறிப்பு வினைமுற்று காலத்தை வெளிப்படையாகக் காட்டாது.",
+    "active": true
+  },
+  {
+    "id": "I77dJbyLQKkpVCR8zLSF",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மேயும்’ என்ற சொல் எந்த வகை வினைமுற்று?",
+    "options": [
+      "ஏவல்",
+      "குறிப்பு",
+      "தெரிநிலை",
+      "வியங்கோள்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "மேயும் – தெரிநிலை வினைமுற்று.",
+    "active": true
+  },
+  {
+    "id": "IlGvy52tYxv7yQOIPjrr",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பொருள் முற்றுப் பெற்ற வினைச்சொல் எவ்வாறு அழைக்கப்படுகிறது?",
+    "options": [
+      "வினையெச்சம்",
+      "வினைமுற்று",
+      "பெயரெச்சம்",
+      "தொழிற்பெயர்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பொருள் முற்றுப் பெற்ற வினைச்சொற்களை முற்றுவினை அல்லது வினைமுற்று என்பர்.",
+    "active": true
+  },
+  {
+    "id": "J0nGpfrGWeGukopUBJht",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தெரிநிலை வினைமுற்றின் ஆறு உறுப்புகளில் இல்லாதது எது?",
+    "options": [
+      "செய்பவர்",
+      "கருவி",
+      "வினா",
+      "காலம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "தெரிநிலை வினைமுற்று உறுப்புகள்: செய்பவர், கருவி, நிலம், செயல், காலம், செய்பொருள்.",
+    "active": true
+  },
+  {
+    "id": "J5gHYdzSbaIxJTKNmzz2",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வினைமுற்று என்பதன் மற்றொரு பெயர் என்ன?",
+    "options": [
+      "வினையெச்சம்",
+      "முற்றுவினை",
+      "பெயரெச்சம்",
+      "தொழிற்பெயர்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பொருள் முற்றுப் பெற்ற வினைச்சொற்களை முற்றுவினை அல்லது வினைமுற்று என்பர்.",
+    "active": true
+  },
+  {
+    "id": "JAtqvvoGnmCPcqrZWa2T",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தென்னாட்டார்’ என்ற குறிப்பு வினைமுற்று எதன் அடிப்படையில்?",
+    "options": [
+      "பொருள்",
+      "இடம்",
+      "காலம்",
+      "சினை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இடம் – தென்னாட்டார்.",
+    "active": true
+  },
+  {
+    "id": "KNNW186XZMKwUWW39U5S",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மலர்விழி எழுதினாள்’ என்ற தொடரில் வினைமுற்று எது?",
+    "options": [
+      "மலர்விழி",
+      "எழுதினாள்",
+      "கண்ணன்",
+      "பாடுகிறான்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "எழுதினாள் – பொருள் முற்றுப் பெற்ற வினைமுற்று.",
+    "active": true
+  },
+  {
+    "id": "KYDAGGxpLb751YJRKxSa",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஏவல் வினைமுற்று எந்த இடத்தில் பயன்படும்?",
+    "options": [
+      "வினா கேட்க",
+      "கட்டளை இட",
+      "விவரிக்க",
+      "சுட்ட"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஏவல் வினைமுற்று கட்டளை இடப் பயன்படும்.",
+    "active": true
+  },
+  {
+    "id": "Kux8NdFsJav3kqZbQtGD",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கரியன்’ என்ற சொல் எந்த அடிப்படையில் அமைந்த குறிப்பு வினைமுற்று?",
+    "options": [
+      "பொருள்",
+      "குணம்",
+      "சினை",
+      "தொழில்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பண்டு (குணம்) – கரியன்.",
+    "active": true
+  },
+  {
+    "id": "Ofcz53Y6NYmLJxFTmbqW",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வினைமுற்றின் முக்கிய அடையாளம் என்ன?",
+    "options": [
+      "பொருள் முற்றுப் பெறாமை",
+      "பொருள் முற்றுப் பெறுதல்",
+      "பெயர் குறித்தல்",
+      "இடை சேர்தல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வினைமுற்று பொருள் முற்றுப் பெற்ற வினைச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "PtymOWGCorcZv8gd1iyB",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குறிப்பு வினைமுற்றில் ‘சினை’ அடிப்படையில் எடுத்துக்காட்டு எது?",
+    "options": [
+      "பொன்னன்",
+      "தென்னாட்டார்",
+      "கண்ணன்",
+      "கரியன்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "சினை – கண்ணன்.",
+    "active": true
+  },
+  {
+    "id": "Q0vZPIC69harf3nLfGGi",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மாடு மேயும்’ என்ற தொடரில் வினைமுற்று எது?",
+    "options": [
+      "மாடு",
+      "மேயும்",
+      "எழுதினாள்",
+      "பாடுகிறான்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மேயும் – பொருள் முற்றுப் பெற்ற வினைமுற்று.",
+    "active": true
+  },
+  {
+    "id": "Qc75jBmFCrEvwKYv3nXV",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஏவல் வினைமுற்று எத்தனை எண்ணில் வரும்?",
+    "options": [
+      "ஒருமை மட்டும்",
+      "பன்மை மட்டும்",
+      "ஒருமை பன்மை",
+      "இருமை மட்டும்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஏவல் வினைமுற்று ஒருமை, பன்மை ஆகிய இருவகைகளில் வரும்.",
+    "active": true
+  },
+  {
+    "id": "RCcYlnzoaTfYOdskO2Si",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஏவல் வினைமுற்றின் பன்மை வடிவம் (பழைய) எது?",
+    "options": [
+      "எழுது",
+      "எழுதுமின்",
+      "எழுதுக",
+      "எழுதி"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "எழுதுமின் – பன்மை ஏவல் வினைமுற்று.",
+    "active": true
+  },
+  {
+    "id": "RCttwYlW4Y5YJuOZjXSE",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பொருள், இடம், காலம், சினை, குணம், தொழில் ஆகியவற்றில் ஒன்றனை அடிப்படையாகக் கொண்டு செய்பவரை மட்டும் காட்டும் வினைமுற்று எது?",
+    "options": [
+      "தெரிநிலை வினைமுற்று",
+      "குறிப்பு வினைமுற்று",
+      "ஏவல் வினைமுற்று",
+      "வியங்கோள் வினைமுற்று"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "காலத்தை வெளிப்படையாகக் காட்டாது செய்பவரை மட்டும் காட்டும் வினைமுற்று குறிப்பு வினைமுற்று.",
+    "active": true
+  },
+  {
+    "id": "RR68621zWnjO3hbV8Cmm",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மாணவி கட்டுரை எழுதினாள்’ என்ற தொடர் எந்த வகை வினைமுற்று?",
+    "options": [
+      "குறிப்பு வினைமுற்று",
+      "தெரிநிலை வினைமுற்று",
+      "ஏவல் வினைமுற்று",
+      "வியங்கோள் வினைமுற்று"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "செய்பவர், கருவி, நிலம், காலம், செய்பொருள், செயல் ஆகியவை வெளிப்படுவதால் தெரிநிலை வினைமுற்று.",
+    "active": true
+  },
+  {
+    "id": "U7YALtw9kFQW2bEzulJP",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குறிப்பு வினைமுற்றில் ‘காலம்’ அடிப்படையில் எடுத்துக்காட்டு எது?",
+    "options": [
+      "பொன்னன்",
+      "தென்னாட்டார்",
+      "ஆதிரையான்",
+      "கண்ணன்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "காலம் – ஆதிரையான்.",
+    "active": true
+  },
+  {
+    "id": "UA0XqDuMTsiwgcXghc9A",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தெரிநிலை வினைமுற்று எதனை அடிப்படையாகக் கொண்டது?",
+    "options": [
+      "ஒரு உறுப்பு",
+      "ஆறு உறுப்புகள்",
+      "இரண்டு உறுப்புகள்",
+      "நான்கு உறுப்புகள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "செய்பவர், கருவி, நிலம், செயல், காலம், செய்பொருள் ஆகிய ஆறும்.",
+    "active": true
+  },
+  {
+    "id": "UJROUywJEdtAzDn0RaOa",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குறிப்பு வினைமுற்றுக்கு எடுத்துக்காட்டு எது?",
+    "options": [
+      "மாணவி எழுதினாள்",
+      "பொன்னன்",
+      "பாடம் படி",
+      "கடைக்குப் போ"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பொன்னன் – குறிப்பு வினைமுற்று.",
+    "active": true
+  },
+  {
+    "id": "UqPLLHvGvCnJFSfQ7Fb8",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "இக்கால வழக்கில் பன்மை ஏவல் வினைமுற்று எவ்வாறு வரும்?",
+    "options": [
+      "எழுதுமின்",
+      "எழுதுங்கள்",
+      "எழுதுக",
+      "எழுதின்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பன்மை ஏவல் வினைமுற்று எழுதுங்கள் என வருவது இக்கால வழக்கு.",
+    "active": true
+  },
+  {
+    "id": "Urz1HGEPI2h5Qx5ZWRNi",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கண்ணன் பாடுகிறான்’ என்ற தொடரில் வினைமுற்று எது?",
+    "options": [
+      "கண்ணன்",
+      "பாடுகிறான்",
+      "மாடு",
+      "மேயும்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பாடுகிறான் – பொருள் முற்றுப் பெற்ற வினைமுற்று.",
+    "active": true
+  },
+  {
+    "id": "Va5GAU7CCbDCQ2DJlH3z",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘எழுது’ மற்றும் ‘எழுதுங்கள்’ ஆகியவற்றின் வேறுபாடு என்ன?",
+    "options": [
+      "காலம்",
+      "ஒருமை – பன்மை",
+      "பால்",
+      "இடம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "எழுது – ஒருமை ஏவல்; எழுதுங்கள் – பன்மை ஏவல்.",
+    "active": true
+  },
+  {
+    "id": "VeP4udoptvLwTeNf8xuT",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வினைமுற்று எந்தச் சொல்லின் வகை?",
+    "options": [
+      "பெயர்ச்சொல்",
+      "வினைச்சொல்",
+      "இடைச்சொல்",
+      "உரிச்சொல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வினைமுற்று வினைச்சொல்லின் ஒரு வகை.",
+    "active": true
+  },
+  {
+    "id": "WHLNRLnae8fJ060JD6W6",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தெரிநிலை வினைமுற்றில் கருவிக்கு எடுத்துக்காட்டு எது?",
+    "options": [
+      "மாணவி",
+      "தாளும் எழுதுகோலும்",
+      "பள்ளி",
+      "கட்டுரை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "கருவி – தாளும் எழுதுகோலும்.",
+    "active": true
+  },
+  {
+    "id": "WLrCyC4v6bwHqNjbKy5S",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தெரிநிலை வினைமுற்றுக்கு எடுத்துக்காட்டு எது?",
+    "options": [
+      "பொன்னன்",
+      "மாணவி கட்டுரை எழுதினாள்",
+      "பாடம் படி",
+      "தென்னாட்டார்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மாணவி கட்டுரை எழுதினாள் – தெரிநிலை வினைமுற்று.",
+    "active": true
+  },
+  {
+    "id": "XUiXJpE0vBBc1iQDhiDL",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வினைமுற்று பற்றிய தவறான கூற்று எது?",
+    "options": [
+      "பொருள் முற்றுப் பெறும்",
+      "ஐந்து பாலில் வரும்",
+      "பெயர்ச்சொல் ஆகும்",
+      "மூன்று காலத்தில் வரும்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "வினைமுற்று பெயர்ச்சொல் அன்று; வினைச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "XhwHm688Kigk9cxdElKP",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தெரிநிலை வினைமுற்றில் ‘கருவி’ என்றால் என்ன?",
+    "options": [
+      "செய்பவர்",
+      "செயல் நடைபெறப் பயன்படும் பொருள்",
+      "நிலம்",
+      "காலம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "கருவி – செயல் நடைபெறப் பயன்படும் கருவி (தாளும் எழுதுகோலும்).",
+    "active": true
+  },
+  {
+    "id": "YFGg12MmTLqzwtfaNo8C",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘எழுத்தன்’ என்ற சொல் எந்த அடிப்படையில் அமைந்த குறிப்பு வினைமுற்று?",
+    "options": [
+      "பொருள்",
+      "குணம்",
+      "சினை",
+      "தொழில்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "தொழில் – எழுத்தன்.",
+    "active": true
+  },
+  {
+    "id": "YNr63Ubp6uMJeb9RsthX",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குறிப்பு வினைமுற்றின் அடிப்படைகள் எத்தனை?",
+    "options": [
+      "நான்கு",
+      "ஐந்து",
+      "ஆறு",
+      "ஏழு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பொருள், இடம், காலம், சினை, குணம், தொழில் – ஆறு.",
+    "active": true
+  },
+  {
+    "id": "Zwh7jdhZhs8OyzftQ8W6",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மாணவி கட்டுரை எழுதினாள்’ என்ற தொடரில் ‘நிலம்’ எது?",
+    "options": [
+      "மாணவி",
+      "கட்டுரை",
+      "பள்ளி",
+      "எழுதுதல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "நிலம் – பள்ளி.",
+    "active": true
+  },
+  {
+    "id": "a9RUZTeWItlA0qS4Jak2",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘எழுதுமின்’ என்பதன் இக்கால வடிவம் எது?",
+    "options": [
+      "எழுது",
+      "எழுதுங்கள்",
+      "எழுதுக",
+      "எழுதி"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பன்மை ஏவல் வினைமுற்று எழுதுங்கள் என வருவது இக்கால வழக்கு.",
+    "active": true
+  },
+  {
+    "id": "bFNiHFh6IB31IvkjM1NZ",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தெரிநிலை வினைமுற்று எதை வெளிப்படையாகக் காட்டும்?",
+    "options": [
+      "செய்பவரை மட்டும்",
+      "ஆறு உறுப்புகளையும்",
+      "காலத்தை மட்டும்",
+      "இடத்தை மட்டும்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "தெரிநிலை வினைமுற்று ஆறு உறுப்புகளையும் வெளிப்படையாகக் காட்டும்.",
+    "active": true
+  },
+  {
+    "id": "bIUjiGu1YajKDOw3eJzu",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குறிப்பு வினைமுற்றில் ‘தொழில்’ அடிப்படையில் எடுத்துக்காட்டு எது?",
+    "options": [
+      "பொன்னன்",
+      "கரியன்",
+      "எழுத்தன்",
+      "கண்ணன்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "தொழில் – எழுத்தன்.",
+    "active": true
+  },
+  {
+    "id": "dx5MasZ1nGVf2o4xm4V9",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கண்ணன்’ என்ற சொல் எந்த அடிப்படையில் அமைந்த குறிப்பு வினைமுற்று?",
+    "options": [
+      "பொருள்",
+      "இடம்",
+      "சினை",
+      "தொழில்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "சினை – கண்ணன்.",
+    "active": true
+  },
+  {
+    "id": "eBZpn3Xn9kzAy3qppeYx",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘எழுத்தன்’ என்ற குறிப்பு வினைமுற்று எதன் அடிப்படையில்?",
+    "options": [
+      "பொருள்",
+      "குணம்",
+      "சினை",
+      "தொழில்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "தொழில் – எழுத்தன்.",
+    "active": true
+  },
+  {
+    "id": "g6rkwRrsxKwLaSfjHyew",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தெரிநிலை வினைமுற்றில் ‘நிலம்’ என்றால் என்ன?",
+    "options": [
+      "செய்பவர்",
+      "செயல் நடைபெறும் இடம்",
+      "காலம்",
+      "செய்பொருள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "நிலம் – செயல் நடைபெறும் இடம் (பள்ளி).",
+    "active": true
+  },
+  {
+    "id": "gDeYdzxSZe4dsn1XOnQM",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "இக்கால வழக்கில் பன்மை ஏவல் வினைமுற்று எவ்வாறு அமையும்?",
+    "options": [
+      "எழுதுமின்",
+      "எழுதுங்கள்",
+      "எழுதுக",
+      "எழுதின்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "எழுதுங்கள் என வருவது இக்கால வழக்கு.",
+    "active": true
+  },
+  {
+    "id": "h4BqdUmn98awRr0MrG8N",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வினைமுற்று எத்தனை இடங்களில் வரும்?",
+    "options": [
+      "இரண்டு",
+      "மூன்று",
+      "நான்கு",
+      "ஐந்து"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வினைமுற்று மூன்று இடங்களில் வரும்.",
+    "active": true
+  },
+  {
+    "id": "hN8zfKHAPuJYabhbnjqD",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஏவல் வினைமுற்றின் பழைய பன்மை வடிவம் எது?",
+    "options": [
+      "எழுது",
+      "எழுதுமின்",
+      "எழுதுங்கள்",
+      "எழுதுக"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "எழுதுமின் – பன்மை ஏவல் வினைமுற்று (பழைய வடிவம்).",
+    "active": true
+  },
+  {
+    "id": "hNnbtAWakvmQ6vZkutNq",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மாணவி கட்டுரை எழுதினாள்’ என்ற தொடரில் ‘செயல்’ எது?",
+    "options": [
+      "மாணவி",
+      "கட்டுரை",
+      "எழுதுதல்",
+      "பள்ளி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "செயல் – எழுதுதல்.",
+    "active": true
+  },
+  {
+    "id": "hTZHFr0SrVwEQIbs0SHm",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தெரிநிலை வினைமுற்றில் ‘செய்பொருள்’ என்பதற்கு எடுத்துக்காட்டு எது?",
+    "options": [
+      "மாணவி",
+      "கட்டுரை",
+      "பள்ளி",
+      "எழுதுதல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மாணவி கட்டுரை எழுதினாள் – செய்பொருள் கட்டுரை.",
+    "active": true
+  },
+  {
+    "id": "hwfoI6NBP8jAbUIwkmzn",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "செய்பவர், கருவி, நிலம், செயல், காலம், செய்பொருள் ஆகிய ஆறும் வெளிப்படுமாறு அமைவது எது?",
+    "options": [
+      "குறிப்பு வினைமுற்று",
+      "தெரிநிலை வினைமுற்று",
+      "ஏவல் வினைமுற்று",
+      "வியங்கோள் வினைமுற்று"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இவை ஆறும் வெளிப்படுமாறு அமைவது தெரிநிலை வினைமுற்று எனப்படும்.",
+    "active": true
+  },
+  {
+    "id": "iRoE3fQkd5VzxUqYRSWY",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குறிப்பு வினைமுற்றில் ‘சினை’ என்றால் என்ன?",
+    "options": [
+      "குணம்",
+      "உடலுறுப்பு அடிப்படையில்",
+      "தொழில்",
+      "இடம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "சினை – உடலுறுப்பு அடிப்படையில் (கண்ணன்).",
+    "active": true
+  },
+  {
+    "id": "iisv0gPtF2VnMyJ1Nu2q",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வினைமுற்றின் வகைகளில் இல்லாதது எது?",
+    "options": [
+      "தெரிநிலை",
+      "குறிப்பு",
+      "ஏவல்",
+      "பெயரெச்சம்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "பெயரெச்சம் வினைமுற்று அன்று; வினையெச்ச வகை.",
+    "active": true
+  },
+  {
+    "id": "in28dL8NQcvYr05364LP",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வினைமுற்று எந்த இலக்கணப் பிரிவைச் சேர்ந்தது?",
+    "options": [
+      "பெயர்ச்சொல்",
+      "வினைச்சொல்",
+      "இடைச்சொல்",
+      "உரிச்சொல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வினைமுற்று வினைச்சொல்லின் ஒரு வகை.",
+    "active": true
+  },
+  {
+    "id": "ipqX56vt5pU5Vg5DEIV9",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கண்ணன்’ என்ற குறிப்பு வினைமுற்று எதன் அடிப்படையில்?",
+    "options": [
+      "பொருள்",
+      "இடம்",
+      "சினை",
+      "தொழில்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "சினை – கண்ணன்.",
+    "active": true
+  },
+  {
+    "id": "jZ7lyo2Z55QGLa5kMPxd",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மலர்விழி எழுதினாள்’ என்ற தொடரில் செய்பவர் எது?",
+    "options": [
+      "எழுதினாள்",
+      "மலர்விழி",
+      "கண்ணன்",
+      "மாடு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மலர்விழி – செய்பவர்.",
+    "active": true
+  },
+  {
+    "id": "kfdeHYhv0B2SbWDtD2mX",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வினைமுற்று எத்தனை வகைப்படும்?",
+    "options": [
+      "ஒன்று",
+      "இரண்டு",
+      "மூன்று",
+      "நான்கு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வினைமுற்று தெரிநிலை வினைமுற்று, குறிப்பு வினைமுற்று என இருவகைப்படும்.",
+    "active": true
+  },
+  {
+    "id": "mztLtAgp96F5xpw8Agxd",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பாடம் படி’ என்ற தொடரில் உள்ள வினை எந்த வகை?",
+    "options": [
+      "தெரிநிலை வினைமுற்று",
+      "குறிப்பு வினைமுற்று",
+      "ஏவல் வினைமுற்று",
+      "பெயரெச்சம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பாடம் படி – ஏவல் வினைமுற்று.",
+    "active": true
+  },
+  {
+    "id": "nVd6pndDjXxkPkjCKluC",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தெரிநிலை வினைமுற்றில் ‘நிலம்’ என்பதற்கு எடுத்துக்காட்டு எது?",
+    "options": [
+      "மாணவி",
+      "கட்டுரை",
+      "பள்ளி",
+      "எழுதுதல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "நிலம் – பள்ளி.",
+    "active": true
+  },
+  {
+    "id": "nbIwVPaRAkbGSMyszvON",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘எழுது’ என்பது எந்த வகை ஏவல்?",
+    "options": [
+      "பன்மை",
+      "ஒருமை",
+      "இருமை",
+      "பலர்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "எழுது – ஒருமை ஏவல் வினைமுற்று.",
+    "active": true
+  },
+  {
+    "id": "oqfG60et8jU3Tf4BFCEN",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தெரிநிலை வினைமுற்றில் ‘கருவி’ என்பதற்கு எடுத்துக்காட்டு எது?",
+    "options": [
+      "மாணவி",
+      "தாளும் எழுதுகோலும்",
+      "பள்ளி",
+      "கட்டுரை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "கருவி – தாளும் எழுதுகோலும்.",
+    "active": true
+  },
+  {
+    "id": "p9bYn4zLMN36YVH0NbJq",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வினைமுற்று எத்தனை பால், காலம், இடங்களில் வரும்?",
+    "options": [
+      "3 பால், 3 காலம், 3 இடம்",
+      "5 பால், 3 காலம், 3 இடம்",
+      "5 பால், 5 காலம், 3 இடம்",
+      "3 பால், 5 காலம், 5 இடம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வினைமுற்று ஐந்து பால், மூன்று காலம், மூன்று இடம் ஆகிய அனைத்திலும் வரும்.",
+    "active": true
+  },
+  {
+    "id": "qxK2I472Tf5xzLv9SUSP",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பாடுகிறான்’ என்ற சொல் எந்தப் பாலில் உள்ளது?",
+    "options": [
+      "ஆண்பால்",
+      "பெண்பால்",
+      "பலர்பால்",
+      "ஒன்றன்பால்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பாடுகிறான் – ஆண்பால்.",
+    "active": true
+  },
+  {
+    "id": "rRl7hgh4O63UdddoJi4Y",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குறிப்பு வினைமுற்று எதனை அடிப்படையாகக் கொண்டது?",
+    "options": [
+      "ஆறு உறுப்புகள்",
+      "ஒன்றனை (பொருள் முதலியன)",
+      "இரண்டு உறுப்புகள்",
+      "நான்கு உறுப்புகள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பொருள், இடம், காலம், சினை, குணம், தொழில் ஆகியவற்றில் ஒன்றனை அடிப்படையாகக் கொண்டது.",
+    "active": true
+  },
+  {
+    "id": "rXvrfBoZ2PpfbZDduYGa",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பாடம் படி’ என்ற தொடர் எந்த வகை வினைமுற்று?",
+    "options": [
+      "தெரிநிலை",
+      "குறிப்பு",
+      "ஏவல்",
+      "வியங்கோள்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பாடம் படி – ஒரு செயலைச் செய்யுமாறு கட்டளையிடுவதால் ஏவல் வினைமுற்று.",
+    "active": true
+  },
+  {
+    "id": "rwRUVc6NZqvBBgPnHDKZ",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பாடுகிறான்’ என்ற சொல் எந்த வகை வினைமுற்று?",
+    "options": [
+      "ஏவல்",
+      "குறிப்பு",
+      "தெரிநிலை",
+      "வியங்கோள்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பாடுகிறான் – தெரிநிலை வினைமுற்று.",
+    "active": true
+  },
+  {
+    "id": "s2L1co5Opb9l7Y33T95G",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஏவல் வினைமுற்றுக்கு எடுத்துக்காட்டு எது?",
+    "options": [
+      "மாணவி எழுதினாள்",
+      "பொன்னன்",
+      "பாடம் படி",
+      "கண்ணன் பாடுகிறான்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பாடம் படி – ஏவல் வினைமுற்று.",
+    "active": true
+  },
+  {
+    "id": "s4QxAZAJeMnMQJheW298",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பொன்னன்’ என்ற சொல் எந்த அடிப்படையில் அமைந்த குறிப்பு வினைமுற்று?",
+    "options": [
+      "இடம்",
+      "பொருள்",
+      "காலம்",
+      "தொழில்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பொருள் – பொன்னன்.",
+    "active": true
+  },
+  {
+    "id": "unrHU84bCFlqvxGLmTqx",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வினைமுற்று வகைகளில் தெரிநிலை, குறிப்பு அன்றி உள்ளவை யாவை?",
+    "options": [
+      "பெயர், வினை",
+      "ஏவல், வியங்கோள்",
+      "இடை, உரி",
+      "முதல், இறுதி"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "தெரிநிலை, குறிப்பு வினைமுற்றுகள் அன்றி ஏவல் வினைமுற்று, வியங்கோள் வினைமுற்று எனப் பிறவகைகளும் உண்டு.",
+    "active": true
+  },
+  {
+    "id": "uqoVr4UOvLaPBBY3ZA1o",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "இக்கால வழக்கில் பன்மை ஏவல் எவ்வாறு அமையும்?",
+    "options": [
+      "எழுதுமின்",
+      "எழுதுங்கள்",
+      "எழுதுக",
+      "எழுதின்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "எழுதுங்கள் என வருவது இக்கால வழக்கு.",
+    "active": true
+  },
+  {
+    "id": "utulyFTflJEACmVXd0lR",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஏவல் வினைமுற்று பற்றிய சரியான கூற்று எது?",
+    "options": [
+      "காலத்தைக் காட்டும்",
+      "கட்டளையிடும்",
+      "பெயரைக் குறிக்கும்",
+      "வினா கேட்கும்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஏவல் வினைமுற்று ஒரு செயலைச் செய்யுமாறு கட்டளையிடும்.",
+    "active": true
+  },
+  {
+    "id": "uzyYqUY43xpF4YjLzufW",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘எழுதுங்கள்’ என்பது எந்த வகை?",
+    "options": [
+      "ஒருமை ஏவல்",
+      "பன்மை ஏவல் (இக்கால வழக்கு)",
+      "தெரிநிலை",
+      "குறிப்பு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "எழுதுங்கள் – இக்கால வழக்கில் பன்மை ஏவல் வினைமுற்று.",
+    "active": true
+  },
+  {
+    "id": "v8WQRr3h0cPuAFQjZA81",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘எழுதுமின்’ என்பது எந்த வகை ஏவல்?",
+    "options": [
+      "ஒருமை",
+      "பன்மை",
+      "இருமை",
+      "பலர்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "எழுதுமின் – பன்மை ஏவல் வினைமுற்று.",
+    "active": true
+  },
+  {
+    "id": "vQHbozgNgOkAx7pXk1gi",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஏவல் வினைமுற்று எதைச் செய்கிறது?",
+    "options": [
+      "வினா கேட்கிறது",
+      "கட்டளையிடுகிறது",
+      "விவரிக்கிறது",
+      "சுட்டுகிறது"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஏவல் வினைமுற்று ஒரு செயலைச் செய்யுமாறு கட்டளையிடுகிறது.",
+    "active": true
+  },
+  {
+    "id": "vtw90kaSwTT6qmFcDOrx",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கடைக்குப் போ’ என்ற தொடர் எந்த வகை வினைமுற்று?",
+    "options": [
+      "தெரிநிலை",
+      "குறிப்பு",
+      "ஏவல்",
+      "வியங்கோள்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "கடைக்குப் போ – ஏவல் வினைமுற்று.",
+    "active": true
+  },
+  {
+    "id": "vusHOrtJRXIbpNkbaucW",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தெரிநிலை வினைமுற்று காலத்தை எவ்வாறு காட்டும்?",
+    "options": [
+      "குறிப்பால்",
+      "வெளிப்படையாக",
+      "உருபு இல்லாமல்",
+      "வேற்றுமை மூலம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "தெரிநிலை வினைமுற்று காலத்தை வெளிப்படையாகக் காட்டும்.",
+    "active": true
+  },
+  {
+    "id": "w85x0ZFGvv9ovlbduTyw",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வினைமுற்று எத்தனை பால்களில் வரும்?",
+    "options": [
+      "மூன்று",
+      "நான்கு",
+      "ஐந்து",
+      "ஆறு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "வினைமுற்று ஐந்து பால், மூன்று காலம், மூன்று இடம் ஆகிய அனைத்திலும் வரும்.",
+    "active": true
+  },
+  {
+    "id": "z6OTtWkJlW7yUqeABnXX",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மாணவி கட்டுரை எழுதினாள்’ என்ற தொடரில் ‘காலம்’ எது?",
+    "options": [
+      "நிகழ்காலம்",
+      "இறந்தகாலம்",
+      "எதிர்காலம்",
+      "காலமில்லை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "எழுதினாள் – இறந்தகாலம்.",
+    "active": true
+  },
+  {
+    "id": "zWXGMBHxHwOHK9bpmoVY",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வினைமுற்று பற்றிய சரியான விளக்கம் எது?",
+    "options": [
+      "பொருள் முற்றுப் பெறாத வினை",
+      "பொருள் முற்றுப் பெற்ற வினை",
+      "பெயர்ச்சொல்",
+      "இடைச்சொல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பொருள் முற்றுப் பெற்ற வினைச்சொற்களை வினைமுற்று என்பர்.",
+    "active": true
+  },
+  {
+    "id": "zuFW58diXdLtvtzfKQNt",
+    "subject": "group4series",
+    "class": "Unit 1 - வினைமுற்று வினையெச்சம்",
+    "topic": "வினைமுற்று வினையெச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தெரிநிலை வினைமுற்று பற்றிய தவறான கூற்று எது?",
+    "options": [
+      "ஆறு உறுப்புகள் வெளிப்படும்",
+      "காலம் வெளிப்படையாகக் காட்டும்",
+      "செய்பவரை மட்டும் காட்டும்",
+      "செய்பொருள் இருக்கும்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "செய்பவரை மட்டும் காட்டுவது குறிப்பு வினைமுற்று.",
+    "active": true
+  }
+]
