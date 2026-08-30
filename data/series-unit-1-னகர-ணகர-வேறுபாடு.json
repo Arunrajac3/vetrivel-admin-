@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "0PRdhW3OBPhwLVo3bEcH",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "மயங்கொலி எழுத்துகளில் ண, ந, ன ஆகியவை எந்தக் குழுவில் அடங்கும்?",
+    "options": [
+      "அ, ஆ, இ",
+      "ண, ந, ன",
+      "ர, ற",
+      "ல, ழ, ள"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "தமிழில் உள்ள 8 மயங்கொலி எழுத்துகளில் ண, ந, ன ஆகியவை ஒரு குழு.",
+    "active": true
+  },
+  {
+    "id": "2k9bQ4iU5ukaA7gVKNMu",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அண்ணம்’ என்பதற்குப் பொருந்தாத பொருள் எது?",
+    "options": [
+      "தாடைப்பகுதி",
+      "உள்நாக்கு",
+      "வாயின் மேல்பகுதி",
+      "உணவு"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "உணவு என்பது ‘அன்னம்’ என்ற சொல்லின் பொருள். அண்ணம் – வாயின் மேல்பகுதி.",
+    "active": true
+  },
+  {
+    "id": "2qwDXhEY3oL6ovARIyvx",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வண்டி ஓட்டுதல்’ என்ற தொடரில் உள்ள எழுத்து எது?",
+    "options": [
+      "ன",
+      "ண",
+      "ந",
+      "ற"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வண்டி – டக்கு முன் ண வருவதால் ணகரம் பயன்படுத்தப்பட்டுள்ளது.",
+    "active": true
+  },
+  {
+    "id": "3vS5DxmJz8w10xs5043y",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கன்று’ என்ற சொல்லில் உள்ள னகரம் எதனால் வந்தது?",
+    "options": [
+      "டக்கு முன்",
+      "றக்கு முன்",
+      "தக்கு முன்",
+      "லக்கு முன்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ற என்னும் எழுத்துக்கு முன் ன் வரும். கன்று – றக்கு முன் ன்.",
+    "active": true
+  },
+  {
+    "id": "465N3zZquiVf6bIzQUeh",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "மயங்கொலி எழுத்துகள் கேட்கும்போது என்ன ஏற்படும்?",
+    "options": [
+      "ஒற்றுமை",
+      "வேறுபாடு இல்லை",
+      "குழப்பம்",
+      "தெளிவு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "மயங்கொலிகள் கேட்கும் போது குழப்பத்தை ஏற்படுத்தினாலும், ஒவ்வொன்றும் முற்றிலும் வேறுபட்ட பொருளைக் கொண்டவை.",
+    "active": true
+  },
+  {
+    "id": "48tewzRUyC7aNiuNQelh",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆனை’ மற்றும் ‘ஆணை’ ஆகியவற்றில் ‘ஆனை’ என்பதன் சரியான பொருள் எது?",
+    "options": [
+      "கட்டளை",
+      "உறுதிமொழி",
+      "யானை / களிற்று விலங்கு",
+      "அதிகாரம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஆனை – யானை, களிற்று விலங்கு. ஆணை – கட்டளை, உறுதிமொழி.",
+    "active": true
+  },
+  {
+    "id": "57C1fi3ky8H0zOKtuQwG",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ட என்னும் எழுத்துக்கு முன் எந்த எழுத்து வரும்?",
+    "options": [
+      "ந",
+      "ற",
+      "ண",
+      "ன"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ட என்னும் எழுத்துக்கு முன் ண வரும். எ.கா. கண்டம், வண்டி, நண்டு.",
+    "active": true
+  },
+  {
+    "id": "5Ei2FevalvoQh3BlROZM",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அனைவரும்’ என்ற சொல்லில் உள்ள எழுத்து எது?",
+    "options": [
+      "ண",
+      "ந",
+      "ற",
+      "ன"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அனைவரும் – அனை + வரும். இங்கு னகரம் பயன்படுத்தப்பட்டுள்ளது.",
+    "active": true
+  },
+  {
+    "id": "6a9B2qM37QpVZIgTfbln",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆனை’ மற்றும் ‘ஆணை’ ஆகியவற்றில் ‘ஆணை’ என்பதன் சரியான பொருள் எது?",
+    "options": [
+      "கட்டளை / உறுதிமொழி",
+      "களிறு",
+      "வேழம்",
+      "யானை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஆணை – கட்டளை, உறுதிமொழி, அதிகாரம். ஆனை – யானை.",
+    "active": true
+  },
+  {
+    "id": "7ZVCA2Zy6DTQg39lNoAw",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தகர இன எழுத்து எது?",
+    "options": [
+      "ற்",
+      "ந்",
+      "ண்",
+      "ன்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "(த், ந்) ஆகியவை இன எழுத்துகள். தகரத்தை அடுத்து நகரம் வரும்.",
+    "active": true
+  },
+  {
+    "id": "8ziQQVe3cNelYIwhIhbA",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அன்னப்பறவை’ என்ற சொல்லில் உள்ள எழுத்து எது?",
+    "options": [
+      "ண",
+      "ந",
+      "ன",
+      "ற"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அன்னம் – அன்னப்பறவை. இங்கு னகரம் பயன்படுத்தப்பட்டுள்ளது.",
+    "active": true
+  },
+  {
+    "id": "95ZKzhnAP4XniqlZb28O",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அண்ணம்’ என்ற சொல்லின் பொருள்களில் ஒன்று எது?",
+    "options": [
+      "சமைத்த சோறு",
+      "உணவு",
+      "வாயின் மேல்பகுதி / உள்நாக்கு இருக்கும் பகுதி",
+      "நீர்ப்பறவை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அண்ணம் – வாயின் மேல்பகுதி, உள்நாக்கு இருக்கும் பகுதி, தாடைப்பகுதி.",
+    "active": true
+  },
+  {
+    "id": "9UhFsGEP3zcZBEpakfsi",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அன்னம்’ என்ற சொல்லின் பொருள்களில் ஒன்று எது?",
+    "options": [
+      "தாடை",
+      "உள்நாக்கு",
+      "வாயின் மேல்பகுதி",
+      "உணவு / சமைத்த சோறு / நீர்ப்பறவை"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அன்னம் – உணவு, சமைத்த சோறு, ஒரு வகை நீர்ப்பறவை, அன்னப்பறவை.",
+    "active": true
+  },
+  {
+    "id": "9ljm8rOV1HjnD0wMES1N",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அனை’ என்ற சொல்லின் பொருள்களில் ஒன்று எது?",
+    "options": [
+      "அன்னை / தாய் / எல்லாரும்",
+      "தழுவதல்",
+      "நீரைத் தடுக்கும் அணைக்கட்டு",
+      "மடை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அனை – அன்னை, தாய், எல்லாரும் (அனைவரும்), அத்தனை.",
+    "active": true
+  },
+  {
+    "id": "9oNtnEJWmrSj3YcZqt39",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அன்னமளித்தல்’ என்ற தொடரின் பொருள் எது?",
+    "options": [
+      "தாடை அளித்தல்",
+      "உணவு அளித்தல்",
+      "வாயின் மேல்பகுதி அளித்தல்",
+      "உள்நாக்கு அளித்தல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அன்னம் – உணவு, சமைத்த சோறு. அன்னமளித்தல் – உணவு அளித்தல்.",
+    "active": true
+  },
+  {
+    "id": "AAUDUPpeJneEWYTrf35x",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ணகரம் எந்த இடத்தில் பிறக்கிறது?",
+    "options": [
+      "மேல்வாய் அண்ணத்தின் முன் பகுதி",
+      "மேல்வாய்ப் பல்லின் அடிப்பகுதி",
+      "மேல் பற்களின் அடி",
+      "மேல்வாய் அண்ணத்தின் நடுப்பகுதி"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "ணகரம் நாவின் நுனி மேல்வாய் அண்ணத்தின் நடுப்பகுதியைத் தொடுவதால் பிறக்கிறது.",
+    "active": true
+  },
+  {
+    "id": "ApAbkwv0NmQGQQN3y5Kv",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அரண்மனை’ என்ற சொல்லில் உள்ள எழுத்து எது?",
+    "options": [
+      "ண",
+      "ந",
+      "ன",
+      "ற"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அரண் – பாதுகாப்பு. அரண்மனை என்பதில் ணகரம் உள்ளது.",
+    "active": true
+  },
+  {
+    "id": "BsT1qMMhDxJdrlWudT6v",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நன்றி’ என்ற சொல்லில் உள்ள னகரம் எதனால் வந்தது?",
+    "options": [
+      "டக்கு முன்",
+      "றக்கு முன்",
+      "தக்கு முன்",
+      "லக்கு முன்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ற என்னும் எழுத்துக்கு முன் ன் வரும். நன்றி – றக்கு முன் ன்.",
+    "active": true
+  },
+  {
+    "id": "Bw0XRFW3N6Kdc4tOSjUv",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கன்று’ என்ற சொல்லில் உள்ள னகரம் எந்த இன எழுத்து?",
+    "options": [
+      "றன்னகரம்",
+      "டண்ணகரம்",
+      "னகர ணகரம்",
+      "தந்நகரம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "றகரத்தை அடுத்து வரும் னகரம் றன்னகரம். கன்று – றன்னகரம்.",
+    "active": true
+  },
+  {
+    "id": "C6LQxS6MVLegWxhqNGMC",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆனைக்கொம்பு’ என்ற சொல்லில் உள்ள எழுத்து எது?",
+    "options": [
+      "ந",
+      "ற",
+      "ண",
+      "ன"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "ஆனை – யானை. ஆனைக்கொம்பு என்பதில் னகரம் உள்ளது.",
+    "active": true
+  },
+  {
+    "id": "CD3Gb7CR8kaMpYGiD5gy",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "இன எழுத்துகள் எவை?",
+    "options": [
+      "(ல், ள்), (ர், ற்)",
+      "(ட், ண்), (த், ந்), (ற், ன்)",
+      "(க், ங்), (ச், ஞ்)",
+      "(ப், ம்), (த், ந்)"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "(ட், ண்), (த், ந்), (ற், ன்) ஆகியவை இன எழுத்துகள்.",
+    "active": true
+  },
+  {
+    "id": "CIvklFwERFxJnoPdkgCl",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அன்னம்’ மற்றும் ‘அண்ணம்’ ஆகியவற்றில் ‘அன்னம்’ என்பதன் சரியான பொருள் எது?",
+    "options": [
+      "தாடை",
+      "உள்நாக்கு",
+      "வாயின் மேல்பகுதி",
+      "உணவு / சமைத்த சோறு / நீர்ப்பறவை"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அன்னம் – உணவு, சமைத்த சோறு, நீர்ப்பறவை. அண்ணம் – வாயின் மேல்பகுதி.",
+    "active": true
+  },
+  {
+    "id": "CLUeMWLC0bx18zalJCkB",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பனி’ என்ற சொல்லின் சரியான பொருள் எது?",
+    "options": [
+      "குளிர்ச்சி",
+      "பணிவிடை",
+      "வேலை",
+      "சேவை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பனி – குளிர்ச்சி. பணி – வேலை.",
+    "active": true
+  },
+  {
+    "id": "Cm0k7f9gTgGLN6eL2HpM",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அரன்’ என்ற சொல்லின் பொருள்களில் ஒன்று எது?",
+    "options": [
+      "கோட்டை",
+      "மதில்",
+      "பாதுகாப்பு",
+      "சிவன் / அழித்தல் கடவுள்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அரன் – சிவன், அழித்தல் கடவுள், முழுமுதற் கடவுள், தலைவன்.",
+    "active": true
+  },
+  {
+    "id": "G4p4TwfOYhtp2etAUs65",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அனை’ என்பதற்குப் பொருந்தாத பொருள் எது?",
+    "options": [
+      "எல்லாரும்",
+      "தாய்",
+      "அன்னை",
+      "நீரைத் தடுக்கும் அணைக்கட்டு"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "நீரைத் தடுக்கும் அணைக்கட்டு என்பது ‘அணை’ என்ற சொல்லின் பொருள். அனை – அன்னை, தாய்.",
+    "active": true
+  },
+  {
+    "id": "GF0bMfwMU2AX8sJFA9vs",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆணை’ என்ற சொல்லின் சரியான பொருள் எது?",
+    "options": [
+      "கட்டளை / உறுதிமொழி / அதிகாரம்",
+      "களிறு",
+      "யானை",
+      "வேழம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஆணை – கட்டளை, உறுதிமொழி, சாசனம், அதிகாரம்.",
+    "active": true
+  },
+  {
+    "id": "H0daQx6wiDJS8EaEgVcV",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பணி’ என்ற சொல்லின் சரியான பொருள் எது?",
+    "options": [
+      "பனிக்கட்டி",
+      "குளிர்ச்சி",
+      "பனிமூட்டம்",
+      "வேலை"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "பணி – வேலை. பனி – குளிர்ச்சி.",
+    "active": true
+  },
+  {
+    "id": "H2qo6lS5vk2W6Gh8u3FL",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மன்றம்’ என்ற சொல்லில் உள்ள னகரம் எந்த இன எழுத்து?",
+    "options": [
+      "தந்நகரம்",
+      "டண்ணகரம்",
+      "றன்னகரம்",
+      "னகர ணகரம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "றகரத்தை அடுத்து வரும் னகரம் றன்னகரம். மன்றம் – றன்னகரம்.",
+    "active": true
+  },
+  {
+    "id": "H34jxSm4BIEcqYmMhty5",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பனி’ என்ற சொல் எந்தப் பொருளில் பயன்படும்?",
+    "options": [
+      "வேலை",
+      "குளிர்ச்சி",
+      "சேவை",
+      "பணிவிடை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பனி – குளிர்ச்சி என்ற பொருளில் பயன்படும்.",
+    "active": true
+  },
+  {
+    "id": "H66kzS7dco5LGlcOFALR",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பணி’ மற்றும் ‘பனி’ ஆகியவற்றில் ‘பணி’ என்பதன் பொருள் எது?",
+    "options": [
+      "பனிக்கட்டி",
+      "குளிர்ச்சி",
+      "பனிமூட்டம்",
+      "வேலை"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "பணி – வேலை. பனி – குளிர்ச்சி.",
+    "active": true
+  },
+  {
+    "id": "HPKdf412eJOoZUDeEATe",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கண்டம்’ என்ற சொல்லில் உள்ள ணகரம் எந்த இன எழுத்து?",
+    "options": [
+      "டண்ணகரம்",
+      "றன்னகரம்",
+      "தந்நகரம்",
+      "னகர ணகரம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "டகரத்தை அடுத்து வரும் ணகரம் டண்ணகரம். கண்டம் – டண்ணகரம்.",
+    "active": true
+  },
+  {
+    "id": "IjpcDLFlGmHaZXBRUUaH",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அரண்’ என்பதற்குப் பொருந்தாத பொருள் எது?",
+    "options": [
+      "மதில்",
+      "பாதுகாப்பு",
+      "சிவன்",
+      "கோட்டை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "சிவன் என்பது ‘அரன்’ என்ற சொல்லின் பொருள். அரண் – பாதுகாப்பு, கோட்டை.",
+    "active": true
+  },
+  {
+    "id": "IoH4Iicgt4bDbHvhO3ey",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அண்ணாந்து’ என்ற சொல்லில் உள்ள எழுத்து எது?",
+    "options": [
+      "ற",
+      "ன",
+      "ந",
+      "ண"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அண்ணம் தொடர்பான சொற்களில் ணகரம் பயன்படுத்தப்படும்.",
+    "active": true
+  },
+  {
+    "id": "Jech0B0DABCoyTzZrUr4",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நன்றி சொல்லுதல்’ என்ற தொடரில் உள்ள எழுத்து எது?",
+    "options": [
+      "ண",
+      "ற",
+      "ன",
+      "ந"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "நன்றி – றக்கு முன் ன் வருவதால் னகரம் பயன்படுத்தப்பட்டுள்ளது.",
+    "active": true
+  },
+  {
+    "id": "LEneHPX2o4zpyWw2Xz8h",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "றகரத்தை அடுத்து வரும் னகரம் எவ்வாறு அழைக்கப்படுகிறது?",
+    "options": [
+      "றன்னகரம்",
+      "னகர றகரம்",
+      "தந்நகரம்",
+      "டண்ணகரம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "றகரத்தை அடுத்து வரும் னகரம் றன்னகரம் என அழைக்கப்படுகிறது.",
+    "active": true
+  },
+  {
+    "id": "LcCb3az67SG8Nc0DdhZN",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தகரத்தை அடுத்து வரும் நகரம் எவ்வாறு அழைக்கப்படுகிறது?",
+    "options": [
+      "டண்ணகரம்",
+      "தந்நகரம்",
+      "றன்னகரம்",
+      "னகர நகரம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "தகரத்தை அடுத்து வரும் நகரம் தந்நகரம் என அழைக்கப்படுகிறது.",
+    "active": true
+  },
+  {
+    "id": "M6VwHTyC9LxCW2Nb11Ah",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அணைக்கட்டு’ என்ற சொல்லில் உள்ள எழுத்து எது?",
+    "options": [
+      "ண",
+      "ந",
+      "ன",
+      "ற"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அணைக்கட்டு – அணை. இங்கு ணகரம் பயன்படுத்தப்பட்டுள்ளது.",
+    "active": true
+  },
+  {
+    "id": "OEgX3Z7SHz3e3AuFlAOE",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மன்றம்’ என்ற சொல் எந்த விதியால் உருவானது?",
+    "options": [
+      "றக்கு முன் ன்",
+      "டக்கு முன் ண",
+      "தக்கு முன் ந்",
+      "லக்கு முன் ன"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ற என்னும் எழுத்துக்கு முன் ன் வரும். மன்றம் – றக்கு முன் ன்.",
+    "active": true
+  },
+  {
+    "id": "PcwKMZIeJT6yJK9YJ7Rv",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அரண்மனை’ என்ற சொல்லின் பொருள் எது?",
+    "options": [
+      "சிவன் வீடு",
+      "கட்டளை மாளிகை",
+      "யானை மாளிகை",
+      "பாதுகாப்புள்ள மாளிகை / கோட்டை மாளிகை"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அரண் – பாதுகாப்பு, கோட்டை. அரண்மனை – பாதுகாப்புள்ள மாளிகை.",
+    "active": true
+  },
+  {
+    "id": "QkHaEMJN0e4oz1TPzkMn",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆணைப்படி’ என்ற சொல்லில் உள்ள எழுத்து எது?",
+    "options": [
+      "ண",
+      "ற",
+      "ந",
+      "ன"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஆணை – கட்டளை. ஆணைப்படி என்பதில் ணகரம் உள்ளது.",
+    "active": true
+  },
+  {
+    "id": "QrbhmGaIMjoqbJ8y8KmV",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ற என்னும் எழுத்துக்கு முன் எந்த எழுத்து வரும்?",
+    "options": [
+      "ந",
+      "ண",
+      "ன்",
+      "ட"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ற என்னும் எழுத்துக்கு முன் ன் வரும். எ.கா. மன்றம், நன்றி, கன்று.",
+    "active": true
+  },
+  {
+    "id": "RirxhLzrDB4EyIokwRuX",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "டக்கு முன் வரும் எழுத்து எது?",
+    "options": [
+      "ண",
+      "ற",
+      "ன",
+      "ந"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ட என்னும் எழுத்துக்கு முன் ண வரும்.",
+    "active": true
+  },
+  {
+    "id": "S4BGTeLOZoMc2jGtI2at",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நண்டு’ என்ற சொல்லில் உள்ள ணகரம் எந்த இன எழுத்து?",
+    "options": [
+      "னகர ணகரம்",
+      "றன்னகரம்",
+      "தந்நகரம்",
+      "டண்ணகரம்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "டகரத்தை அடுத்து வரும் ணகரம் டண்ணகரம். நண்டு – டண்ணகரம்.",
+    "active": true
+  },
+  {
+    "id": "TJHvA9nLDNSSBt0D7KCN",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "னகரம் எவ்வாறு உச்சரிக்கப்படுகிறது?",
+    "options": [
+      "நாவின் நுனி மேல்வாய் அண்ணத்தின் முன் பகுதியைத் தொட்டு",
+      "நாவின் இருபக்கங்கள் தடித்து மேல் பற்களைத் தொட்டு",
+      "நாவின் நுனி மேல்வாய்ப் பல்லின் அடிப்பகுதியைத் தொட்டு",
+      "நாவின் நுனி மேல்வாய் அண்ணத்தின் நடுப்பகுதியைத் தொட்டு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "னகரம் நாவின் நுனி மேல்வாய் அண்ணத்தின் முன் பகுதியைத் தொடுவதால் பிறக்கிறது.",
+    "active": true
+  },
+  {
+    "id": "VdAeHj2yHIP3WtURdXiF",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வாணம்’ என்ற சொல்லின் சரியான பொருள் எது?",
+    "options": [
+      "மேகம்",
+      "ஆகாயம்",
+      "வானவில்",
+      "வெடி"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "வாணம் – வெடி. வானம் – ஆகாயம்.",
+    "active": true
+  },
+  {
+    "id": "WMxpSWOLCuBBOTq5Xaa7",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "டகர இன எழுத்து எது?",
+    "options": [
+      "ண்",
+      "ன்",
+      "ந்",
+      "ற்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(ட், ண்) ஆகியவை இன எழுத்துகள். டக்கு முன் ண வரும்.",
+    "active": true
+  },
+  {
+    "id": "XtbjagkzfSGI2ACAPAAv",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அணை’ என்ற சொல்லின் பொருள்களில் ஒன்று எது?",
+    "options": [
+      "எல்லாரும்",
+      "தாய்",
+      "நீரைத் தடுக்கும் அணைக்கட்டு / தழுவதல்",
+      "அன்னை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அணை – நீரைத் தடுக்கும் அணைக்கட்டு, தழுவதல், மடை, நிலத்தின் வரம்பு.",
+    "active": true
+  },
+  {
+    "id": "YTAAqsMgCcEVjx9zBXQn",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "சொல்லின் தொடக்கமாக வரும் மயங்கொலி எழுத்து எது?",
+    "options": [
+      "ண",
+      "ன",
+      "ந",
+      "ற"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "மேலுள்ள எட்டு எழுத்துகளில் ‘ந’கரம் மட்டுமே சொல்லின் தொடக்கமாக வரும்.",
+    "active": true
+  },
+  {
+    "id": "Z3ForbGo53AU5GMMlg5r",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அன்னம்’ மற்றும் ‘அண்ணம்’ ஆகியவற்றில் ‘அண்ணம்’ என்பதன் சரியான பொருள் எது?",
+    "options": [
+      "சமைத்த சோறு",
+      "வாயின் மேல்பகுதி",
+      "நீர்ப்பறவை",
+      "உணவு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அண்ணம் – வாயின் மேல்பகுதி, உள்நாக்கு. அன்னம் – உணவு, சோறு.",
+    "active": true
+  },
+  {
+    "id": "ZSRs4b7gYL1eobMEaUAu",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வானம்’ என்ற சொல்லின் சரியான பொருள் எது?",
+    "options": [
+      "வெடி",
+      "வெடிகுண்டு",
+      "பட்டாசு",
+      "ஆகாயம்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "வானம் – ஆகாயம். வாணம் – வெடி.",
+    "active": true
+  },
+  {
+    "id": "ZZtRCQj1W97UFQFN3I39",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வானம்’ என்ற சொல் எந்தப் பொருளில் பயன்படும்?",
+    "options": [
+      "வெடி",
+      "பட்டாசு",
+      "ஆகாயம்",
+      "வெடிகுண்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "வானம் – ஆகாயம் என்ற பொருளில் பயன்படும்.",
+    "active": true
+  },
+  {
+    "id": "ZytIcmcXuPVVjxTpgknT",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அனை’ மற்றும் ‘அணை’ ஆகியவற்றில் ‘அனை’ என்பதன் சரியான பொருள் எது?",
+    "options": [
+      "தழுவதல்",
+      "மடை",
+      "அன்னை / தாய் / எல்லாரும்",
+      "நீரைத் தடுக்கும் அணைக்கட்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அனை – அன்னை, தாய், எல்லாரும் (அனைவரும்). அணை – அணைக்கட்டு, தழுவதல்.",
+    "active": true
+  },
+  {
+    "id": "avLDlvfdgzo92OrHXwAJ",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வண்டி’ என்ற சொல்லில் உள்ள ணகரம் எதனால் வந்தது?",
+    "options": [
+      "லக்கு முன்",
+      "தக்கு முன்",
+      "றக்கு முன்",
+      "டக்கு முன்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "ட என்னும் எழுத்துக்கு முன் ண வரும். வண்டி – டக்கு முன் ண.",
+    "active": true
+  },
+  {
+    "id": "bnqY8MlEzU8fbaNrbIgg",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கண்டம்’ என்ற சொல் எந்த விதியால் உருவானது?",
+    "options": [
+      "தக்கு முன் ந்",
+      "றக்கு முன் ன்",
+      "டக்கு முன் ண",
+      "லக்கு முன் ன"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ட என்னும் எழுத்துக்கு முன் ண வரும். கண்டம் – டக்கு முன் ண.",
+    "active": true
+  },
+  {
+    "id": "cNOjgZ3iDIHU8QJbYd49",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நண்டு’ என்ற சொல்லில் உள்ள ணகரம் எதனால் வந்தது?",
+    "options": [
+      "லக்கு முன்",
+      "றக்கு முன்",
+      "டக்கு முன்",
+      "தக்கு முன்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ட என்னும் எழுத்துக்கு முன் ண வரும். நண்டு – டக்கு முன் ண.",
+    "active": true
+  },
+  {
+    "id": "d8W7PW21rJHoJYqs6337",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "நகரம் எவ்வாறு உச்சரிக்கப்படுகிறது?",
+    "options": [
+      "நாவின் நுனி மேல்வாய்ப் பல்லின் அடிப்பகுதியைத் தொட்டு",
+      "நாவின் நுனி மேல்வாய் அண்ணத்தின் முன் பகுதியைத் தொட்டு",
+      "நாவின் நுனி மேல்வாய் அண்ணத்தின் நடுப்பகுதியைத் தொட்டு",
+      "நாவின் இருபக்கங்கள் தடித்து மேல் பற்களைத் தொட்டு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நகரம் நாவின் நுனி மேல்வாய்ப் பல்லின் அடிப்பகுதியைத் தொடுவதால் பிறக்கிறது.",
+    "active": true
+  },
+  {
+    "id": "doG18GTcFucMACHYXFJo",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "னகரம் எந்த இடத்தில் பிறக்கிறது?",
+    "options": [
+      "மேல்வாய்ப் பல்லின் அடிப்பகுதி",
+      "மேல் பற்களின் அடி",
+      "மேல்வாய் அண்ணத்தின் நடுப்பகுதி",
+      "மேல்வாய் அண்ணத்தின் முன் பகுதி"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "னகரம் நாவின் நுனி மேல்வாய் அண்ணத்தின் முன் பகுதியைத் தொடுவதால் பிறக்கிறது.",
+    "active": true
+  },
+  {
+    "id": "eAmBhYpuFgCytDuEUYmS",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆணை’ என்பதற்குப் பொருந்தாத பொருள் எது?",
+    "options": [
+      "யானை",
+      "உறுதிமொழி",
+      "கட்டளை",
+      "அதிகாரம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "யானை என்பது ‘ஆனை’ என்ற சொல்லின் பொருள். ஆணை – கட்டளை, உறுதிமொழி.",
+    "active": true
+  },
+  {
+    "id": "eIMKK79MmYZDnv6I6hss",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வண்டி’ என்ற சொல்லில் உள்ள ணகரம் எந்த இன எழுத்து?",
+    "options": [
+      "றன்னகரம்",
+      "னகர ணகரம்",
+      "தந்நகரம்",
+      "டண்ணகரம்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "டகரத்தை அடுத்து வரும் ணகரம் டண்ணகரம். வண்டி – டண்ணகரம்.",
+    "active": true
+  },
+  {
+    "id": "exIjlBgNvSWio4bgb0fX",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வானம்’ மற்றும் ‘வாணம்’ ஆகியவற்றில் ‘வானம்’ என்பதன் பொருள் எது?",
+    "options": [
+      "வெடிகுண்டு",
+      "ஆகாயம்",
+      "வெடி",
+      "பட்டாசு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வானம் – ஆகாயம். வாணம் – வெடி.",
+    "active": true
+  },
+  {
+    "id": "fDqxIyvijyAgRI7WtAAU",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அணைக்கட்டு கட்டுதல்’ என்ற தொடரின் பொருள் எது?",
+    "options": [
+      "தாய் கட்டுதல்",
+      "அன்னை கட்டுதல்",
+      "எல்லாரும் கட்டுதல்",
+      "நீரைத் தடுக்கும் கட்டு கட்டுதல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அணை – நீரைத் தடுக்கும் அணைக்கட்டு. அணைக்கட்டு கட்டுதல் – நீரைத் தடுக்கும் கட்டு கட்டுதல்.",
+    "active": true
+  },
+  {
+    "id": "fTSChVNnSoFVcpY1UFVs",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மன்றம்’ என்ற சொல்லில் உள்ள னகரம் எதனால் வந்தது?",
+    "options": [
+      "றக்கு முன்",
+      "லக்கு முன்",
+      "டக்கு முன்",
+      "தக்கு முன்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ற என்னும் எழுத்துக்கு முன் ன் வரும். மன்றம் – றக்கு முன் ன்.",
+    "active": true
+  },
+  {
+    "id": "h6PXOWqXHrvEb4d7UwAR",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அன்னம்’ என்ற சொல்லின் சரியான பொருள் எது?",
+    "options": [
+      "தாடை",
+      "உள்நாக்கு",
+      "உணவு / சமைத்த சோறு",
+      "வாயின் மேல்பகுதி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அன்னம் – உணவு, சமைத்த சோறு, நீர்ப்பறவை.",
+    "active": true
+  },
+  {
+    "id": "hWzeiAVQiU2f2szqxr9r",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அணை’ என்பதற்குப் பொருந்தாத பொருள் எது?",
+    "options": [
+      "நீரைத் தடுக்கும் அணைக்கட்டு",
+      "தழுவதல்",
+      "மடை",
+      "அன்னை"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அன்னை என்பது ‘அனை’ என்ற சொல்லின் பொருள். அணை – அணைக்கட்டு, தழுவதல்.",
+    "active": true
+  },
+  {
+    "id": "iEmj7tGtZbO2uRs1TQMZ",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அரண்’ என்ற சொல்லின் பொருள்களில் ஒன்று எது?",
+    "options": [
+      "அழித்தல் கடவுள்",
+      "தலைவன்",
+      "சிவன்",
+      "பாதுகாப்பு / கோட்டை / மதில்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அரண் – பாதுகாப்பு, கோட்டை, மதில், காவல், காப்புப்பகுதி.",
+    "active": true
+  },
+  {
+    "id": "iHVxQodCU8dYWHpUkkJi",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பனி’ மற்றும் ‘பணி’ ஆகியவற்றில் ‘பனி’ என்பதன் பொருள் எது?",
+    "options": [
+      "குளிர்ச்சி",
+      "சேவை",
+      "பணிவிடை",
+      "வேலை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பனி – குளிர்ச்சி. பணி – வேலை.",
+    "active": true
+  },
+  {
+    "id": "iPtcuH4kY6jdLfjQOmsV",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வாணம்’ மற்றும் ‘வானம்’ ஆகியவற்றில் ‘வாணம்’ என்பதன் பொருள் எது?",
+    "options": [
+      "வெடி",
+      "மேகம்",
+      "வானம்",
+      "ஆகாயம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "வாணம் – வெடி. வானம் – ஆகாயம்.",
+    "active": true
+  },
+  {
+    "id": "ievSNVKUzzjaEU1pkeV4",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ணகரம் எவ்வாறு உச்சரிக்கப்படுகிறது?",
+    "options": [
+      "நாவின் நுனி மேல்வாய் அண்ணத்தின் நடுப்பகுதியைத் தொட்டு",
+      "நாவின் இருபக்கங்கள் தடித்து மேல் பற்களைத் தொட்டு",
+      "நாவின் நுனி மேல்வாய் அண்ணத்தின் முன் பகுதியைத் தொட்டு",
+      "நாவின் நுனி மேல்வாய்ப் பல்லின் அடிப்பகுதியைத் தொட்டு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ணகரம் நாவின் நுனி மேல்வாய் அண்ணத்தின் நடுப்பகுதியைத் தொடுவதால் பிறக்கிறது.",
+    "active": true
+  },
+  {
+    "id": "jTEihxatCstS28U4Ii05",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அனை’ மற்றும் ‘அணை’ ஆகியவற்றில் ‘அணை’ என்பதன் சரியான பொருள் எது?",
+    "options": [
+      "தாய்",
+      "எல்லாரும்",
+      "அன்னை",
+      "நீரைத் தடுக்கும் அணைக்கட்டு"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அணை – நீரைத் தடுக்கும் அணைக்கட்டு, தழுவதல். அனை – அன்னை, தாய்.",
+    "active": true
+  },
+  {
+    "id": "jUnZND8vmAljXWNhE4Nw",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆணைக்கு உட்படுதல்’ என்ற தொடரின் பொருள் எது?",
+    "options": [
+      "யானைக்கு உட்படுதல்",
+      "வேழத்திற்கு உட்படுதல்",
+      "களிறுக்கு உட்படுதல்",
+      "கட்டளைக்கு உட்படுதல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "ஆணை – கட்டளை. ஆணைக்கு உட்படுதல் – கட்டளைக்கு உட்படுதல்.",
+    "active": true
+  },
+  {
+    "id": "jW3JkVftUUMzAwEbEWTU",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பணி’ என்ற சொல் எந்தப் பொருளில் பயன்படும்?",
+    "options": [
+      "வேலை",
+      "பனிக்கட்டி",
+      "குளிர்ச்சி",
+      "பனிமூட்டம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பணி – வேலை என்ற பொருளில் பயன்படும்.",
+    "active": true
+  },
+  {
+    "id": "k9nfCIYUCMDx5rDEfPhk",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆனை’ என்ற சொல்லின் பொருள்களில் ஒன்று எது?",
+    "options": [
+      "கட்டளை",
+      "அதிகாரம்",
+      "யானை / களிற்று விலங்கு",
+      "உறுதிமொழி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஆனை – யானை, களிற்று விலங்கு, வேழம், ஒரு வகை மரம்.",
+    "active": true
+  },
+  {
+    "id": "kR8i4Hd2gykTAMswTrT8",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அரன்’ என்ற சொல்லின் சரியான பொருள் எது?",
+    "options": [
+      "பாதுகாப்பு",
+      "மதில்",
+      "கோட்டை",
+      "சிவன் / அழித்தல் கடவுள்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அரன் – சிவன், அழித்தல் கடவுள், முழுமுதற் கடவுள்.",
+    "active": true
+  },
+  {
+    "id": "khxGXFVLaUTKe0V81g7s",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அரன்’ என்பதற்குப் பொருந்தாத பொருள் எது?",
+    "options": [
+      "சிவன்",
+      "தலைவன்",
+      "பாதுகாப்பு",
+      "அழித்தல் கடவுள்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பாதுகாப்பு என்பது ‘அரண்’ என்ற சொல்லின் பொருள். அரன் – சிவன்.",
+    "active": true
+  },
+  {
+    "id": "lDdzHXImBxgoqd0GzY7m",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வாணம்’ என்ற சொல் எந்தப் பொருளில் பயன்படும்?",
+    "options": [
+      "மேகம்",
+      "ஆகாயம்",
+      "வானவில்",
+      "வெடி"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "வாணம் – வெடி என்ற பொருளில் பயன்படும்.",
+    "active": true
+  },
+  {
+    "id": "lLHFWXG9DwYgiP8cayxI",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அண்ணாந்து பார்த்தல்’ என்ற தொடரின் பொருள் எது?",
+    "options": [
+      "உணவு பார்த்தல்",
+      "நீர்ப்பறவை பார்த்தல்",
+      "சோறு பார்த்தல்",
+      "மேல்நோக்கி / வாயின் மேல்பகுதியை நோக்கி பார்த்தல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அண்ணம் – வாயின் மேல்பகுதி. அண்ணாந்து பார்த்தல் – மேல்நோக்கி பார்த்தல்.",
+    "active": true
+  },
+  {
+    "id": "lLJqC958e0pvO0NhCVKH",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆணை’ என்ற சொல்லின் பொருள்களில் ஒன்று எது?",
+    "options": [
+      "வேழம்",
+      "யானை",
+      "கட்டளை / உறுதிமொழி / அதிகாரம்",
+      "களிறு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஆணை – கட்டளை, உறுதிமொழி, சாசனம், அதிகாரம், தீர்ப்பு.",
+    "active": true
+  },
+  {
+    "id": "llnjjJULETM1WvsosRfx",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நன்றி’ என்ற சொல்லில் உள்ள னகரம் எந்த இன எழுத்து?",
+    "options": [
+      "றன்னகரம்",
+      "தந்நகரம்",
+      "டண்ணகரம்",
+      "னகர நகரம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "றகரத்தை அடுத்து வரும் னகரம் றன்னகரம். நன்றி – றன்னகரம்.",
+    "active": true
+  },
+  {
+    "id": "lo5ndSnf8bg1JUShJ5z4",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பனி’ என்ற சொல்லைச் சரியாகப் பொருள் கொள்வது எது?",
+    "options": [
+      "பணிவிடை என்ற பொருளில்",
+      "வேலை என்ற பொருளில்",
+      "குளிர்ச்சி என்ற பொருளில்",
+      "சேவை என்ற பொருளில்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பனி – குளிர்ச்சி. பணி – வேலை.",
+    "active": true
+  },
+  {
+    "id": "m3oFhaQ4QBMEz6rYMYyd",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "றக்கு முன் வரும் எழுத்து எது?",
+    "options": [
+      "ட",
+      "ந",
+      "ண",
+      "ன்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "ற என்னும் எழுத்துக்கு முன் ன் வரும்.",
+    "active": true
+  },
+  {
+    "id": "mNGSSPxXU1Y95DO1ESFf",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆனை’ என்பதற்குப் பொருந்தாத பொருள் எது?",
+    "options": [
+      "வேழம்",
+      "கட்டளை",
+      "யானை",
+      "களிறு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "கட்டளை என்பது ‘ஆணை’ என்ற சொல்லின் பொருள். ஆனை – யானை.",
+    "active": true
+  },
+  {
+    "id": "mhiedvFEPje3VN1g4ZFC",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கண்டம்’ என்ற சொல்லில் உள்ள ணகரம் எதனால் வந்தது?",
+    "options": [
+      "றக்கு முன்",
+      "தக்கு முன்",
+      "டக்கு முன்",
+      "லக்கு முன்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ட என்னும் எழுத்துக்கு முன் ண வரும். கண்டம் – டக்கு முன் ண.",
+    "active": true
+  },
+  {
+    "id": "nKhv6qQ2p1zGKuUa8Kea",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "நகரம் எந்த இடத்தில் பிறக்கிறது?",
+    "options": [
+      "மேல்வாய் அண்ணத்தின் நடுப்பகுதி",
+      "மேல்வாய் அண்ணத்தின் முன் பகுதி",
+      "மேல்வாய்ப் பல்லின் அடிப்பகுதி",
+      "மேல் பற்களின் அடி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "நகரம் நாவின் நுனி மேல்வாய்ப் பல்லின் அடிப்பகுதியைத் தொடுவதால் பிறக்கிறது.",
+    "active": true
+  },
+  {
+    "id": "ny2c4pnemOcIETvrQ2JQ",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "றகர இன எழுத்து எது?",
+    "options": [
+      "ன்",
+      "ண்",
+      "ந்",
+      "ட்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "(ற், ன்) ஆகியவை இன எழுத்துகள். றக்கு முன் ன் வரும்.",
+    "active": true
+  },
+  {
+    "id": "ohbjebGkhWLhK5C5Lz2G",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "மயங்கொலி எழுத்துகள் எத்தனை?",
+    "options": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தமிழ் மொழியில் உள்ள 8 மயங்கொலி எழுத்துகள்: ண, ந, ன, ல, ழ, ள, ர, ற.",
+    "active": true
+  },
+  {
+    "id": "pCCtv1FdxBxYOBHebZ9D",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அரன்’ மற்றும் ‘அரண்’ ஆகியவற்றில் ‘அரண்’ என்பதன் சரியான பொருள் எது?",
+    "options": [
+      "சிவன்",
+      "பாதுகாப்பு / கோட்டை",
+      "அழித்தல் கடவுள்",
+      "தலைவன்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அரண் – பாதுகாப்பு, கோட்டை, மதில். அரன் – சிவன்.",
+    "active": true
+  },
+  {
+    "id": "qHIoHsm5fj1DenmYb0P1",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நண்டு பிடித்தல்’ என்ற தொடரில் உள்ள எழுத்து எது?",
+    "options": [
+      "ந",
+      "ற",
+      "ண",
+      "ன"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "நண்டு – டக்கு முன் ண வருவதால் ணகரம் பயன்படுத்தப்பட்டுள்ளது.",
+    "active": true
+  },
+  {
+    "id": "s9YgWTGH0ziExJClibRx",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அன்னம்’ என்பதற்குப் பொருந்தாத பொருள் எது?",
+    "options": [
+      "உணவு",
+      "சமைத்த சோறு",
+      "வாயின் மேல்பகுதி",
+      "நீர்ப்பறவை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "வாயின் மேல்பகுதி என்பது ‘அண்ணம்’ என்ற சொல்லின் பொருள். அன்னம் – உணவு, சோறு.",
+    "active": true
+  },
+  {
+    "id": "sPrMOUMke9AECEjtkoBP",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கண்டம்’ என்ற சொல்லில் எந்த இன எழுத்து உள்ளது?",
+    "options": [
+      "றன்னகரம்",
+      "தந்நகரம்",
+      "னகர ணகரம்",
+      "டண்ணகரம்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "டகரத்தை அடுத்து வரும் ணகரம் டண்ணகரம். கண்டம் – டண்ணகரம்.",
+    "active": true
+  },
+  {
+    "id": "six2kJNF5YJ6gWd67sMQ",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அணை’ என்ற சொல்லின் சரியான பொருள் எது?",
+    "options": [
+      "தாய்",
+      "அன்னை",
+      "எல்லாரும்",
+      "நீரைத் தடுக்கும் அணைக்கட்டு / தழுவதல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அணை – நீரைத் தடுக்கும் அணைக்கட்டு, தழுவதல், மடை.",
+    "active": true
+  },
+  {
+    "id": "sywnz46FVI5kNVvyFeXA",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "டகரத்தை அடுத்து வரும் ணகரம் எவ்வாறு அழைக்கப்படுகிறது?",
+    "options": [
+      "னகர ணகரம்",
+      "டண்ணகரம்",
+      "தந்நகரம்",
+      "றன்னகரம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "டகரத்தை அடுத்து வரும் ணகரம் டண்ணகரம் என அழைக்கப்படுகிறது.",
+    "active": true
+  },
+  {
+    "id": "tdZ9hph6HALI2QMFeeMx",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அரண்’ என்ற சொல்லின் சரியான பொருள் எது?",
+    "options": [
+      "பாதுகாப்பு / கோட்டை / மதில்",
+      "சிவன்",
+      "அழித்தல் கடவுள்",
+      "தலைவன்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அரண் – பாதுகாப்பு, கோட்டை, மதில், காவல்.",
+    "active": true
+  },
+  {
+    "id": "uRdWCEaCPEGzUBaXTzDe",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வாணம்’ என்ற சொல்லைச் சரியாகப் பொருள் கொள்வது எது?",
+    "options": [
+      "வெடி என்ற பொருளில்",
+      "மேகம் என்ற பொருளில்",
+      "வானவில் என்ற பொருளில்",
+      "ஆகாயம் என்ற பொருளில்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "வாணம் – வெடி. வானம் – ஆகாயம்.",
+    "active": true
+  },
+  {
+    "id": "v8AHWZNnpDvM3OCq6m55",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அரன்’ மற்றும் ‘அரண்’ ஆகியவற்றில் ‘அரன்’ என்பதன் சரியான பொருள் எது?",
+    "options": [
+      "மதில்",
+      "கோட்டை",
+      "பாதுகாப்பு",
+      "சிவன் / அழித்தல் கடவுள்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அரன் – சிவன், அழித்தல் கடவுள். அரண் – பாதுகாப்பு, கோட்டை.",
+    "active": true
+  },
+  {
+    "id": "w8IE5FMoGP2seFaviBJ1",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மன்றம்’ என்ற சொல்லில் எந்த இன எழுத்து உள்ளது?",
+    "options": [
+      "னகர ணகரம்",
+      "றன்னகரம்",
+      "தந்நகரம்",
+      "டண்ணகரம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "றகரத்தை அடுத்து வரும் னகரம் றன்னகரம். மன்றம் – றன்னகரம்.",
+    "active": true
+  },
+  {
+    "id": "wO6xABpwPnVlQIqcVfe8",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "சொல்லின் இறுதியில் வராத மயங்கொலி எழுத்து எது?",
+    "options": [
+      "ன",
+      "ந",
+      "ண",
+      "ற"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "‘ற’கர மெய் சொல்லின் இறுதியில் வராது. மற்றவை சொல்லுக்கு இடையிலும் இறுதியிலும் வரும்.",
+    "active": true
+  },
+  {
+    "id": "wX8ojYQoCqc7KUGAb8f2",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆனை’ என்ற சொல்லின் சரியான பொருள் எது?",
+    "options": [
+      "யானை / களிற்று விலங்கு",
+      "அதிகாரம்",
+      "கட்டளை",
+      "உறுதிமொழி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஆனை – யானை, களிற்று விலங்கு, வேழம்.",
+    "active": true
+  },
+  {
+    "id": "wgeSRfumei42uWTfYRnR",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அனை’ என்ற சொல்லின் சரியான பொருள் எது?",
+    "options": [
+      "நீரைத் தடுக்கும் அணைக்கட்டு",
+      "அன்னை / தாய் / எல்லாரும்",
+      "மடை",
+      "தழுவதல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அனை – அன்னை, தாய், எல்லாரும் (அனைவரும்).",
+    "active": true
+  },
+  {
+    "id": "wrHTDvErm1GJ9En1MbG2",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அண்ணம்’ என்ற சொல்லின் சரியான பொருள் எது?",
+    "options": [
+      "உணவு",
+      "சமைத்த சோறு",
+      "வாயின் மேல்பகுதி / உள்நாக்கு",
+      "நீர்ப்பறவை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அண்ணம் – வாயின் மேல்பகுதி, உள்நாக்கு இருக்கும் பகுதி.",
+    "active": true
+  },
+  {
+    "id": "zoG7eTzzSvUlcU3RCNxs",
+    "subject": "group4series",
+    "class": "Unit 1 - னகர ணகர வேறுபாடு",
+    "topic": "னகர ணகர வேறுபாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கன்று மேய்த்தல்’ என்ற தொடரில் உள்ள எழுத்து எது?",
+    "options": [
+      "ற",
+      "ண",
+      "ந",
+      "ன"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "கன்று – றக்கு முன் ன் வருவதால் னகரம் பயன்படுத்தப்பட்டுள்ளது.",
+    "active": true
+  }
+]

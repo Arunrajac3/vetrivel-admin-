@@ -1,0 +1,1883 @@
+[
+  {
+    "id": "0BGoUBj0GF9r5uWSDGmD",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கலங்கரை விளக்கம் என்ற சொல்லிலிருந்து உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "கலம்",
+      "வேலி",
+      "பட்டு",
+      "குமரி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கலங்கரை விளக்கம் → கலம், கலங்கரை, விளக்கம், கரை, கலக்கம்.",
+    "active": true
+  },
+  {
+    "id": "2CxA9NloHDo5ABgHrJ3p",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தேன்' + 'சிட்டு' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "தேன்சிட்டு",
+      "தேன்கூடு",
+      "சிட்டுத்தேன்",
+      "சிட்டுக்கூடு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தேன் + சிட்டு = தேன்சிட்டு.",
+    "active": true
+  },
+  {
+    "id": "3FfZdWXVZvp5vPz4uNZM",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தேன்' என்ற சொல்லை இணைத்து உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "குருவிக்கூடு",
+      "சிட்டுக்குருவி",
+      "தேன்கூடு",
+      "மாவிலை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "தேன் + கூடு = தேன்கூடு; தேன் + சிட்டு = தேன்சிட்டு.",
+    "active": true
+  },
+  {
+    "id": "3JUoovyWRGBbnkQJQw8y",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பாய்மரக்கப்பல்' என்ற சொல்லுக்குள் உள்ள சொல் எது?",
+    "options": [
+      "கப்பல்",
+      "கரை",
+      "வேலி",
+      "ஒரம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பாய்மரக்கப்பல் → பாய், மரம், கப்பல்.",
+    "active": true
+  },
+  {
+    "id": "3XJjVj56YXb6gkY0D3Ck",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மா' என்ற சொல்லை இணைத்து உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "சிட்டுக்குருவி",
+      "குருவிக்கூடு",
+      "தேன்மலர்",
+      "மாவிலை"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "மா + இலை = மாவிலை; மா + மரம் = மாமரம்; மா + காய் = மாங்காய்.",
+    "active": true
+  },
+  {
+    "id": "3YKqyg9hn5xPDlfT6HKh",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கூடு' என்ற சொல்லை இணைத்து உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "மாமரம்",
+      "மாவிலை",
+      "தேன்கூடு",
+      "சிட்டுக்குருவி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "தேன் + கூடு = தேன்கூடு; குருவி + கூடு = குருவிக்கூடு.",
+    "active": true
+  },
+  {
+    "id": "5m4FQZPZrIoEkdhuv6Q7",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'திருநெல்வேலி' என்ற ஊர்ப் பெயரிலிருந்து உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "பட்டினம்",
+      "வேலி",
+      "குமரி",
+      "பட்டு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "திருநெல்வேலி → திரு, நெல், வேலி, வேல்.",
+    "active": true
+  },
+  {
+    "id": "5tVKJyt213bwA70bSA0p",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வான்' + 'மழை' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "வான்மழை",
+      "வான்மேகம்",
+      "மழைமேகம்",
+      "மழைவான்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "வான் + மழை = வான்மழை.",
+    "active": true
+  },
+  {
+    "id": "6BtVrfJCgPnwI42ZgToL",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "மணி என்ற சொல்லுடன் இணைத்து உருவாகும் சரியான சொல் எது?",
+    "options": [
+      "மேகலை",
+      "வான்",
+      "செய்",
+      "பொன்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மணி + மேகலை = மணிமேகலை.",
+    "active": true
+  },
+  {
+    "id": "6CLuPsuiBckeFfbxyBVI",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'காய்கனி' என்ற சொல் எவ்வாறு உருவாக்கப்பட்டது?",
+    "options": [
+      "காய் + மரம்",
+      "காய் + கனி",
+      "காய் + இலை",
+      "கனி + மரம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "காய் + கனி = காய்கனி.",
+    "active": true
+  },
+  {
+    "id": "6IvPSlju8J00YGtsEcjS",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பல்' + 'உண்டு' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "உண்டில்லை",
+      "பல்லுண்டு",
+      "பல்லில்லை",
+      "உண்டுபல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பல் + உண்டு = பல்லுண்டு.",
+    "active": true
+  },
+  {
+    "id": "7MICAkUOif3W5GTuUxah",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கலம்' + 'கரை' + 'விளக்கம்' இணைந்து உருவாகும் சொல் எது?",
+    "options": [
+      "கலம்விளக்கம்",
+      "விளக்கங்கரை",
+      "கலங்கரை விளக்கம்",
+      "கரைவிளக்கம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "கலம் + கரை + விளக்கம் = கலங்கரை விளக்கம்.",
+    "active": true
+  },
+  {
+    "id": "8OwuRP0dCGqP1nJb27ox",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பரிபாடல்' என்ற சொல்லில் உள்ள எழுத்துகளைக் கொண்டு உருவாக்கக்கூடிய மற்றொரு புதிய சொல் எது?",
+    "options": [
+      "வேலி",
+      "கரு",
+      "பால்",
+      "கதை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பரிபாடல் → பரி, பாடல், பா, பால், பாரி. ஆகவே பால் ஒரு புதிய சொல்.",
+    "active": true
+  },
+  {
+    "id": "8YAngCwDAXu1Va9CL427",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பூ' + 'விலங்கு' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "விலங்குபூ",
+      "பூமணி",
+      "பூவிலங்கு",
+      "விலங்குமணி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பூ + விலங்கு = பூவிலங்கு.",
+    "active": true
+  },
+  {
+    "id": "9VaZFOys6DhWh3DEZ4S7",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'இலை' என்ற சொல்லை இணைத்து உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "மாவிலை",
+      "குருவிக்கூடு",
+      "சிட்டுக்குருவி",
+      "தேன்கூடு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மா + இலை = மாவிலை.",
+    "active": true
+  },
+  {
+    "id": "9js41HVzgS3nUzWUT4gK",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல் என்பதன் நோக்கம் என்ன?",
+    "options": [
+      "புதிய பொருளைக் கொண்ட சொல்லை உருவாக்குதல்",
+      "எதிர்ச்சொற்களை உருவாக்குதல்",
+      "பழைய சொற்களை நீக்குதல்",
+      "ஒத்தசொற்களை நீக்குதல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "இரண்டு அல்லது அதற்கு மேற்பட்ட தனித்தனிச் சொற்களை ஒன்றிணைத்துப் புதிய பொருளைக் கொண்ட சொல்லை உருவாக்குவதே நோக்கம்.",
+    "active": true
+  },
+  {
+    "id": "AHRFP1OGAr7Sjz8ttTNi",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சிட்டு' என்ற சொல்லை இணைத்து உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "தேன்மலர்",
+      "மாவிலை",
+      "மாமரம்",
+      "சிட்டுக்குருவி"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "சிட்டு + குருவி = சிட்டுக்குருவி.",
+    "active": true
+  },
+  {
+    "id": "AISKrhkdD0Q26MDMGODN",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'விண்' + 'மீன்' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "மீன்விண்",
+      "விண்மீன்",
+      "விண்வெளி",
+      "விண்மான்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "விண் + மீன் = விண்மீன்.",
+    "active": true
+  },
+  {
+    "id": "Aa6OjO4H2K18E34GQS33",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தேன் என்ற சொல்லுடன் பொருத்தமான சொல்லைச் சேர்த்து புதிய சொல் உருவாக்குக.",
+    "options": [
+      "விளக்கு",
+      "விலங்கு",
+      "மழை",
+      "மணி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "தேன் + மழை = தேன்மழை.",
+    "active": true
+  },
+  {
+    "id": "AhQC7gJPowxC55JRkSFt",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'காய்' என்ற சொல்லை இணைத்து உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "சிட்டுக்குருவி",
+      "தேன்கூடு",
+      "மாங்காய்",
+      "குருவிக்கூடு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "மா + காய் = மாங்காய்.",
+    "active": true
+  },
+  {
+    "id": "BzC9jjOSOFK8zG7LOhaO",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'விண்' + 'வெளி' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "விண்மீன்",
+      "வெளிமீன்",
+      "வெளிவிண்",
+      "விண்வெளி"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "விண் + வெளி = விண்வெளி.",
+    "active": true
+  },
+  {
+    "id": "Cp266rQAn93OGq0oOAj9",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "விண், கோல், மாலை, மீன் இச்சொற்களை இணைத்து சரியான சொல்லைத் தேர்ந்தெடுக்க.",
+    "options": [
+      "விண்மாலை",
+      "விண்கோல்",
+      "விண்மீன்",
+      "மீன்வெளி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "விண் + மீன் = விண்மீன்.",
+    "active": true
+  },
+  {
+    "id": "DjfXT9OZ6U0UpbPxXioK",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கல்லுண்டு' என்ற சொல் எவ்வாறு உருவாக்கப்பட்டது?",
+    "options": [
+      "மண் + உண்டு",
+      "கல் + உண்டு",
+      "பல் + உண்டு",
+      "கல் + இல்லை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "கல் + உண்டு = கல்லுண்டு.",
+    "active": true
+  },
+  {
+    "id": "EBzIfLweHMRGqgJm5jlD",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மணி' + 'விளக்கு' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "விளக்குமேகலை",
+      "விளக்குமணி",
+      "மணிவிளக்கு",
+      "மணிமேகலை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "மணி + விளக்கு = மணிவிளக்கு.",
+    "active": true
+  },
+  {
+    "id": "EkK6BCYkKcF04FYb7p3I",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கனிமரம்' என்ற சொல் எவ்வாறு உருவாக்கப்பட்டது?",
+    "options": [
+      "கனி + மரம்",
+      "காய் + கனி",
+      "மா + கனி",
+      "தேன் + கனி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கனி + மரம் = கனிமரம்.",
+    "active": true
+  },
+  {
+    "id": "EnoblqXbCcSWqR688B2M",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கரும்பு' என்ற சொல்லில் உள்ள எழுத்துகளைக் கொண்டு உருவாக்கக்கூடிய மற்றொரு புதிய சொல் எது?",
+    "options": [
+      "கம்பு",
+      "வேலி",
+      "பாடல்",
+      "பட்டினம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கரும்பு → கரு, கம்பு. ஆகவே கம்பு ஒரு புதிய சொல்.",
+    "active": true
+  },
+  {
+    "id": "FGdPZoymrBBM1wD6aBWi",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "சரியான இணையைக் கண்டறிக.",
+    "options": [
+      "நீதி + நூல் = நீதிநூல்",
+      "தமிழ் + மொழி = தாய்மொழி",
+      "விண் + மீன் = விண்மான்",
+      "மணி + மாலை = மணிமேகலை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நீதி + நூல் = நீதிநூல். (விண் + மீன் = விண்மீன்; தமிழ் + மொழி = தமிழ்மொழி; மணி + மாலை = மணிமாலை)",
+    "active": true
+  },
+  {
+    "id": "FUVksiyEfPZe5IolVOYx",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தமிழ்' + 'மாலை' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "மாலைமணி",
+      "மாலைதமிழ்",
+      "தமிழ்மணி",
+      "தமிழ்மாலை"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "தமிழ் + மாலை = தமிழ்மாலை.",
+    "active": true
+  },
+  {
+    "id": "FulTSx08JoSDOE0amLgl",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கவிதை' என்ற சொல்லில் உள்ள எழுத்துகளைக் கொண்டு உருவாக்கக்கூடிய மற்றொரு புதிய சொல் எது?",
+    "options": [
+      "விதை",
+      "வேலி",
+      "பட்டினம்",
+      "பத்து"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கவிதை → கவி, விதை, கதை, தை. ஆகவே விதை ஒரு புதிய சொல்.",
+    "active": true
+  },
+  {
+    "id": "GKDFBbdiVBOBddIJJhbo",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கண்' + 'உண்டு' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "உண்டுகண்",
+      "உண்டழகு",
+      "கண்ணழகு",
+      "கண்ணுண்டு"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "கண் + உண்டு = கண்ணுண்டு.",
+    "active": true
+  },
+  {
+    "id": "HhIiFKluTD4kKHETJw8X",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பட்டுக்கோட்டை' என்ற ஊர்ப் பெயரிலிருந்து உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "கோட்டை",
+      "பட்டினம்",
+      "குமரி",
+      "வேலி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பட்டுக்கோட்டை → பட்டு, கோட்டை, பட்டை.",
+    "active": true
+  },
+  {
+    "id": "IRjb9NChIxopTVzjXTWW",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'செங்குருவி' என்ற சொல் எவ்வாறு உருவாக்கப்பட்டது?",
+    "options": [
+      "சிட்டு + குருவி",
+      "மா + குருவி",
+      "செம்மை + குருவி",
+      "தேன் + குருவி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "செம்மை + குருவி = செங்குருவி.",
+    "active": true
+  },
+  {
+    "id": "IuR3njts3UY75qk5rruN",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கரும்பு' என்ற சொல்லில் உள்ள எழுத்துகளைக் கொண்டு உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "பாடல்",
+      "வேலி",
+      "பரி",
+      "கரு"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "கரும்பு → கரு, கம்பு.",
+    "active": true
+  },
+  {
+    "id": "KqsB5ApzgaxQukmQC4KT",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தேன்' + 'மலர்' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "மலர்க்கூடு",
+      "தேன்மலர்",
+      "மலர்த்தேன்",
+      "தேன்கூடு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "தேன் + மலர் = தேன்மலர் / மலர்த்தேன்.",
+    "active": true
+  },
+  {
+    "id": "LJG0mgggjs4izPSvxzcE",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'குருவி' என்ற சொல்லை இணைத்து உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "குருவிக்கூடு",
+      "மாமரம்",
+      "மாவிலை",
+      "தேன்மலர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "குருவி + கூடு = குருவிக்கூடு.",
+    "active": true
+  },
+  {
+    "id": "LOJ2y5uRzrSxKeeeD6Dl",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'எட்டுக்கால்பூச்சி' என்ற சொல்லுக்குள் உள்ள சொல் எது?",
+    "options": [
+      "கரை",
+      "வேலி",
+      "பூச்சி",
+      "ஒரம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "எட்டுக்கால்பூச்சி → எட்டு, கால், பூச்சி.",
+    "active": true
+  },
+  {
+    "id": "LwIeE8u6tC97nJ7UtAg1",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'விண்' + 'அழகு' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "அழகுவிண்",
+      "விண்ணழகு",
+      "விண்ணுண்டு",
+      "அழகுண்டு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "விண் + அழகு = விண்ணழகு.",
+    "active": true
+  },
+  {
+    "id": "M7E5JtuPsbl9Ze9dYNUq",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'செந்தேன்' என்ற சொல் எவ்வாறு உருவாக்கப்பட்டது?",
+    "options": [
+      "தேன் + கூடு",
+      "தேன் + சிட்டு",
+      "தேன் + மலர்",
+      "செம்மை + தேன்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "செம்மை + தேன் = செந்தேன்.",
+    "active": true
+  },
+  {
+    "id": "M7aOYDyQ565849HswaZ4",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பதிற்றுப்பத்து' என்ற சொல்லில் உள்ள எழுத்துகளைக் கொண்டு உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "பத்து",
+      "கரு",
+      "கதை",
+      "வேலி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பதிற்றுப்பத்து → பதி, பத்து, பற்று.",
+    "active": true
+  },
+  {
+    "id": "Mf2p40Lb7mOfGu5DilNM",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மின்' + 'இல்லை' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "இல்லைமின்",
+      "மின்னில்லை",
+      "மின்னுண்டு",
+      "இல்லைஉண்டு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மின் + இல்லை = மின்னில்லை.",
+    "active": true
+  },
+  {
+    "id": "N0ZUL97fJlJ8OeyxZ7O0",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "இருசொற்களை இணைத்து சரியான புதிய சொல் அமைக்கப்பட்ட தொடரைத் தேர்க.",
+    "options": [
+      "பூமணி, மணிமேகலை, செய்பொன்",
+      "மேகம்செய், பொன்மேகம், பொன்மணி",
+      "மணிமேகலை, வான்மழை, பூமணி",
+      "பூமணி, மழைவான், மழைமேகம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "மணிமேகலை, வான்மழை, பூமணி ஆகியவை சரியான இணைப்புகள்.",
+    "active": true
+  },
+  {
+    "id": "NA43iJwSJMclj6rl3L1p",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பொன்' + 'மணி' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "பொன்மணி",
+      "பொன்விளக்கு",
+      "மணிபொன்",
+      "மணிவிளக்கு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பொன் + மணி = பொன்மணி.",
+    "active": true
+  },
+  {
+    "id": "NbM4jMHLBkIOjlSonZ5A",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மழை' + 'தேன்' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "மழைமலர்",
+      "மழைத்தேன்",
+      "தேன்மலர்",
+      "தேன்மழை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மழை + தேன் = மழைத்தேன்.",
+    "active": true
+  },
+  {
+    "id": "OGdyurktLxx5HvLo9v5x",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பின்வருவனவற்றுள் சரியான கூட்டுச்சொல் எது?",
+    "options": [
+      "மீன்விண்",
+      "மான்விண்",
+      "விண்மீன்",
+      "விண்மான்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "விண் + மீன் = விண்மீன் சரியான கூட்டுச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "OVh8U4Knr6HkmCw3p1oi",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பண்' + 'அழகு' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "பண்ணழகு",
+      "பண்ணுண்டு",
+      "அழகுண்டு",
+      "அழகுபண்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பண் + அழகு = பண்ணழகு.",
+    "active": true
+  },
+  {
+    "id": "OgmbYBw97T5etKkMyoWw",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மண்' + 'உண்டு' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "மண்ணுண்டு",
+      "உண்டுமண்",
+      "உண்டழகு",
+      "மண்ணழகு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மண் + உண்டு = மண்ணுண்டு.",
+    "active": true
+  },
+  {
+    "id": "OtTuahSAyGtKFqSSE8BY",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கண்' + 'அழகு' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "அழகுண்டு",
+      "கண்ணழகு",
+      "கண்ணுண்டு",
+      "அழகுக்கண்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "கண் + அழகு = கண்ணழகு.",
+    "active": true
+  },
+  {
+    "id": "QAFbp17NVCMBHi0fPF1t",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பொன்' + 'விலங்கு' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "பொன்விலங்கு",
+      "விலங்குபொன்",
+      "பொன்மணி",
+      "விலங்குமணி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பொன் + விலங்கு = பொன்விலங்கு.",
+    "active": true
+  },
+  {
+    "id": "QXm302lsUdMZxuEfP7fg",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தென்னம்' என்ற சொல்லுடன் இணைத்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "தட்டு",
+      "கூட்டம்",
+      "குழை",
+      "கீற்று"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "தென்னம் + கீற்று = தென்னங்கீற்று.",
+    "active": true
+  },
+  {
+    "id": "R8VITPUkR4HQYcWfiHnN",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மணி' + 'மேகலை' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "மேகலைவிளக்கு",
+      "மேகலைமணி",
+      "மணிமேகலை",
+      "மணிமாலை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "மணி + மேகலை = மணிமேகலை.",
+    "active": true
+  },
+  {
+    "id": "SUXq3UsMv1YHq9kbi5yY",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'உற்றார்' என்ற சொல்லுடன் இணைத்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "சிறியர்",
+      "பெரியர்",
+      "விருந்தினர்",
+      "உறவினர்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "உற்றார் + உறவினர் = உற்றார் உறவினர்.",
+    "active": true
+  },
+  {
+    "id": "T5ItSklhoRiAUUrLk8pT",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வடக்கு' என்ற சொல்லை இணைத்து உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "எதுவும் இல்லை",
+      "இரண்டும்",
+      "வடக்குண்டு",
+      "வடக்கில்லை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வடக்கு + உண்டு = வடக்குண்டு; வடக்கு + இல்லை = வடக்கில்லை.",
+    "active": true
+  },
+  {
+    "id": "TeTk54WUsPfYyQYoP0yk",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தமிழ்' + 'மொழி' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "தமிழ்மொழி",
+      "தமிழ்நூல்",
+      "மொழிநூல்",
+      "மொழிதமிழ்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தமிழ் + மொழி = தமிழ்மொழி.",
+    "active": true
+  },
+  {
+    "id": "U04DmMaXQJ1hLpJ5l6dN",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'விண்' + 'உண்டு' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "விண்ணுண்டு",
+      "உண்டுவிண்",
+      "உண்டழகு",
+      "விண்ணழகு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "விண் + உண்டு = விண்ணுண்டு.",
+    "active": true
+  },
+  {
+    "id": "UIIraBukMGiNXUKfHO5D",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'செம்மை' என்ற சொல்லை இணைத்து உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "சிட்டுக்குருவி",
+      "செங்குருவி",
+      "மாவிலை",
+      "குருவிக்கூடு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "செம்மை + குருவி = செங்குருவி; செம்மை + தேன் = செந்தேன்.",
+    "active": true
+  },
+  {
+    "id": "VSLbFuze6SOEK7lLXwuN",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பந்து' என்ற சொல்லை இணைத்து உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "எதுவும் இல்லை",
+      "பந்தில்லை",
+      "இரண்டும்",
+      "பந்துண்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பந்து + உண்டு = பந்துண்டு; பந்து + இல்லை = பந்தில்லை.",
+    "active": true
+  },
+  {
+    "id": "VXOwg6Z8gS7ewk1MlIL6",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தமிழ்' + 'மணி' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "தமிழ்மணி",
+      "தமிழ்மொழி",
+      "மணிமாலை",
+      "மணிதமிழ்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தமிழ் + மணி = தமிழ்மணி.",
+    "active": true
+  },
+  {
+    "id": "VoOgUfQZuIar4PcxZJkG",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கவிதை' என்ற சொல்லில் உள்ள எழுத்துகளைக் கொண்டு உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "வேலி",
+      "கம்பு",
+      "கதை",
+      "கரு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "கவிதை → கவி, விதை, கதை, தை.",
+    "active": true
+  },
+  {
+    "id": "WLCIO0NE3C2oweF5Llv7",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "சொல்லுக்குள் சொல் தேடுதல் என்பதன் நோக்கம் என்ன?",
+    "options": [
+      "புதிய ஊர்ப் பெயர்களை உருவாக்குதல்",
+      "ஒரு சொல்லில் உள்ள சிறிய சொற்களைக் கண்டறிதல்",
+      "ஒத்தசொற்களை நீக்குதல்",
+      "எதிர்ச்சொற்களை உருவாக்குதல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஒரு பெரிய சொல்லில் உள்ள சிறிய தனிச்சொற்களைக் கண்டறிவதே சொல்லுக்குள் சொல் தேடுதல்.",
+    "active": true
+  },
+  {
+    "id": "WXTYMjihHIDWCp6BOE1Y",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தேன்' + 'மழை' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "மழைத்தேன்",
+      "மழைமலர்",
+      "தேன்மலர்",
+      "தேன்மழை"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "தேன் + மழை = தேன்மழை.",
+    "active": true
+  },
+  {
+    "id": "XQHoSy8GKJ061GWRKBlc",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தமிழ்' + 'நூல்' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "தமிழ்நூல்",
+      "நூல்தமிழ்",
+      "நூல்மொழி",
+      "தமிழ்மொழி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தமிழ் + நூல் = தமிழ்நூல்.",
+    "active": true
+  },
+  {
+    "id": "XdGniSmlKvk1xh92cbsm",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பின்வருவனவற்றுள் தவறான கூட்டுச்சொல் எது?",
+    "options": [
+      "விண்மான்",
+      "தமிழ்மொழி",
+      "விண்மீன்",
+      "நீதிநூல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "விண் + மீன் = விண்மீன் சரி; விண்மான் தவறு.",
+    "active": true
+  },
+  {
+    "id": "Y2h8PQcdNo9NZR6nx6Fj",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மணி' + 'மாலை' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "மணிமாலை",
+      "மணிமேகலை",
+      "மாலைமேகலை",
+      "மாலைமணி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மணி + மாலை = மணிமாலை.",
+    "active": true
+  },
+  {
+    "id": "YDPQ2PKhjA5L3XBp9U7O",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'எடுப்பார்கைப்பிள்ளை' என்ற சொல்லுக்குள் உள்ள சொல் எது?",
+    "options": [
+      "ஒரம்",
+      "கரை",
+      "கப்பல்",
+      "பிள்ளை"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "எடுப்பார்கைப்பிள்ளை → எடு, பார், கை, பிள்ளை.",
+    "active": true
+  },
+  {
+    "id": "YVS1fpRqJ1WVJ1TBjPv1",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கடையெழுவள்ளல்கள்' என்ற சொல்லுக்குள் உள்ள சொல் எது?",
+    "options": [
+      "கரை",
+      "ஒரம்",
+      "கப்பல்",
+      "வள்ளல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "கடையெழுவள்ளல்கள் → கள், எழு, வள்ளல், கடைகள்.",
+    "active": true
+  },
+  {
+    "id": "YrxXUAmkPh4UZXxmFofN",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கல்லில்லை' என்ற சொல் எவ்வாறு உருவாக்கப்பட்டது?",
+    "options": [
+      "மண் + இல்லை",
+      "பல் + இல்லை",
+      "கல் + உண்டு",
+      "கல் + இல்லை"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "கல் + இல்லை = கல்லில்லை.",
+    "active": true
+  },
+  {
+    "id": "ZOKYvgaukYlXIwsJBF1b",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கனி' என்ற சொல்லை இணைத்து உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "மாங்கனி",
+      "குருவிக்கூடு",
+      "தேன்கூடு",
+      "சிட்டுக்குருவி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மா + கனி = மாங்கனி; கனி + மரம் = கனிமரம்.",
+    "active": true
+  },
+  {
+    "id": "ZRlu4r3W56bRm0AZ4iUc",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தேன்கனி' என்ற சொல் எவ்வாறு உருவாக்கப்பட்டது?",
+    "options": [
+      "தேன் + கனி",
+      "கனி + மரம்",
+      "மா + கனி",
+      "காய் + கனி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தேன் + கனி = தேன்கனி.",
+    "active": true
+  },
+  {
+    "id": "ZSQpXwrZzm5JfBE86uIa",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'செம்' + 'மரம்' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "செம்மரம்",
+      "மரகுருவி",
+      "மரசெம்",
+      "செங்குருவி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "செம் + மரம் = செம்மரம்.",
+    "active": true
+  },
+  {
+    "id": "aAEuZxI89Yue4Y0RP0QN",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'எழுது' + 'கோல்' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "எழுதுநூல்",
+      "எழுதுகோல்",
+      "கோலெழுது",
+      "கோல்நூல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "எழுது + கோல் = எழுதுகோல்.",
+    "active": true
+  },
+  {
+    "id": "aKu2wZyeXrxqXm94dPeN",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஆற்றங்கரையோரம்' என்ற சொல்லுக்குள் உள்ள சொல் எது?",
+    "options": [
+      "குமரி",
+      "பட்டு",
+      "கரை",
+      "பட்டினம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஆற்றங்கரையோரம் → ஆறு, கரை, ஒரம்.",
+    "active": true
+  },
+  {
+    "id": "aRWQ99mbOEIR7ZedayiL",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நீதி' + 'நூல்' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "நீதிமொழி",
+      "நூல்நீதி",
+      "நூல்மொழி",
+      "நீதிநூல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "நீதி + நூல் = நீதிநூல்.",
+    "active": true
+  },
+  {
+    "id": "c06AHcEcZavyy8qtgy45",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பொன்' + 'விளக்கு' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "பொன்மணி",
+      "பொன்விளக்கு",
+      "விளக்குபொன்",
+      "விளக்குமணி"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பொன் + விளக்கு = பொன்விளக்கு.",
+    "active": true
+  },
+  {
+    "id": "c9qyA1sJsGYScqrWUDN1",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல் என்பதைப் பொதுவான மொழியியல் வழக்கில் எவ்வாறு அழைப்பர்?",
+    "options": [
+      "கூட்டுச்சொற்கள்",
+      "தனிச்சொற்கள்",
+      "ஒத்தசொற்கள்",
+      "எதிர்ச்சொற்கள்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "இரண்டு அல்லது அதற்கு மேற்பட்ட தனித்தனிச் சொற்களை ஒன்றிணைத்துப் புதிய பொருளைக் கொண்ட சொல்லை உருவாக்குவதைக் கூட்டுச்சொற்கள் என்பர்.",
+    "active": true
+  },
+  {
+    "id": "csLIOxs7Trk91lwjS2AU",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'முட்டை' என்ற சொல்லை இணைத்து உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "மாமரம்",
+      "தேன்மலர்",
+      "மாவிலை",
+      "குருவிமுட்டை"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "குருவி + முட்டை = குருவிமுட்டை.",
+    "active": true
+  },
+  {
+    "id": "dAZNltARAXjWDTCsBncl",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கண்' + 'மணி' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "கண்மணி",
+      "மணிஅழகு",
+      "கண்ணழகு",
+      "மணிக்கண்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கண் + மணி = கண்மணி.",
+    "active": true
+  },
+  {
+    "id": "eHr5E0IR8ps5kir8xqtV",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பண்' + 'உண்டு' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "பண்ணழகு",
+      "உண்டழகு",
+      "உண்டுபண்",
+      "பண்ணுண்டு"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "பண் + உண்டு = பண்ணுண்டு.",
+    "active": true
+  },
+  {
+    "id": "fBMoCREQUF9r9JWvBVQu",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மீன்' + 'கண்' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "மீன்கண்",
+      "கண்மீன்",
+      "கண்விண்",
+      "மீன்விண்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மீன் + கண் = மீன்கண்.",
+    "active": true
+  },
+  {
+    "id": "fkyfDnXvImoonmVJ6JPs",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பூ' + 'மழை' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "பூமழை",
+      "பூமணி",
+      "மழைமணி",
+      "மழைப்பூ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பூ + மழை = பூமழை.",
+    "active": true
+  },
+  {
+    "id": "jqYh6oGrcpR7bFkD6SXI",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஊர்ப் பெயர்களிலிருந்து புதிய சொற்களை உருவாக்குவதன் பயன் என்ன?",
+    "options": [
+      "ஊர்ப் பெயர்களை மாற்றுதல்",
+      "எதிர்ச்சொற்களை உருவாக்குதல்",
+      "பழைய சொற்களை நீக்குதல்",
+      "சொல்வளத்தை அதிகரித்தல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "ஊர்ப் பெயர்களிலிருந்து புதிய சொற்களை உருவாக்குவது சொல்வளத்தை அதிகரிக்க உதவும்.",
+    "active": true
+  },
+  {
+    "id": "k8GPwmQx3p8Nd9bxLnkr",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கன்னியாகுமரி' என்ற ஊர்ப் பெயரிலிருந்து உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "குமரி",
+      "பட்டு",
+      "வேலி",
+      "பட்டினம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கன்னியாகுமரி → கன்னி, குமரி, கரி, கனி.",
+    "active": true
+  },
+  {
+    "id": "l6ADlJT80Qfy9OFmBLJp",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மரம்' என்ற சொல்லை இணைத்து உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "சிட்டுக்குருவி",
+      "குருவிக்கூடு",
+      "மாமரம்",
+      "தேன்கூடு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "மா + மரம் = மாமரம்; செம் + மரம் = செம்மரம்.",
+    "active": true
+  },
+  {
+    "id": "m7y1a2W0AD3Ca66lWf8Y",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'செங்கல்பட்டு' என்ற ஊர்ப் பெயரிலிருந்து உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "பட்டு",
+      "குமரி",
+      "வேலி",
+      "பட்டினம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "செங்கல்பட்டு → செங்கல், பட்டு, கல், பல், கட்டு.",
+    "active": true
+  },
+  {
+    "id": "ncntKbpKayR2RuaraApL",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'உதகமண்டலம்' என்ற ஊர்ப் பெயரிலிருந்து உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "மண்டலம்",
+      "பட்டு",
+      "குமரி",
+      "வேலி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "உதகமண்டலம் → மண்டலம், மண், கமலம், மதம், கண்.",
+    "active": true
+  },
+  {
+    "id": "o6S8gwd1CB9zXrRqFRv6",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மண்' + 'இல்லை' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "மண்ணில்லை",
+      "இல்லைஉண்டு",
+      "இல்லைமண்",
+      "மண்ணுண்டு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மண் + இல்லை = மண்ணில்லை.",
+    "active": true
+  },
+  {
+    "id": "pEpu9brRg4lhldDxgtUF",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'எனக்கு' என்ற சொல்லை இணைத்து உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "எதுவும் இல்லை",
+      "எனக்கில்லை",
+      "இரண்டும்",
+      "எனக்குண்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "எனக்கு + உண்டு = எனக்குண்டு; எனக்கு + இல்லை = எனக்கில்லை.",
+    "active": true
+  },
+  {
+    "id": "qINPFjh3DyNXPNTtdRDS",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பாட்டு' என்ற சொல்லை இணைத்து உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "எதுவும் இல்லை",
+      "இரண்டும்",
+      "பாட்டில்லை",
+      "பாட்டுண்டு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பாட்டு + உண்டு = பாட்டுண்டு; பாட்டு + இல்லை = பாட்டில்லை.",
+    "active": true
+  },
+  {
+    "id": "qX6m6b5wR3KCvoYPxNxv",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மண்' + 'அழகு' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "அழகுமண்",
+      "மண்ணுண்டு",
+      "மண்ணழகு",
+      "அழகுண்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "மண் + அழகு = மண்ணழகு.",
+    "active": true
+  },
+  {
+    "id": "rioYFSJpfBf4aCNyGptM",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நாகப்பட்டினம்' என்ற ஊர்ப் பெயரிலிருந்து உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "பட்டு",
+      "குமரி",
+      "வேலி",
+      "பட்டினம்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "நாகப்பட்டினம் → நாகம், பட்டினம், கனம், பட்டி.",
+    "active": true
+  },
+  {
+    "id": "sL8mrmsY8i7OxYs37SEI",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'செய்' + 'வான்' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "வான்மழை",
+      "செய்வான்",
+      "வான்செய்",
+      "செய்மழை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "செய் + வான் = செய்வான்.",
+    "active": true
+  },
+  {
+    "id": "tLKogpvQhUFb3HMZpYYG",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பூ' + 'மணி' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "பூமணி",
+      "மணிமலர்",
+      "பூமலர்",
+      "மணிபூ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பூ + மணி = பூமணி.",
+    "active": true
+  },
+  {
+    "id": "tdjrwl9p2vWnk35PBMBz",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'விண்' + 'மணி' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "மணிவிண்",
+      "மணிமீன்",
+      "விண்மீன்",
+      "விண்மணி"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "விண் + மணி = விண்மணி.",
+    "active": true
+  },
+  {
+    "id": "v151xNtsADwbuatCkQoz",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மொழி' + 'நூல்' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "நூல்தமிழ்",
+      "மொழிதமிழ்",
+      "மொழிநூல்",
+      "நூல்மொழி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "மொழி + நூல் = மொழிநூல்.",
+    "active": true
+  },
+  {
+    "id": "vi9IG3AkS2r0D7mXyD8A",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வெளி, நூல், மாலை, கோல் இச்சொற்களை இணைத்து சரியான சொல்லைத் தேர்ந்தெடுக்க.",
+    "options": [
+      "நூல் கோல்",
+      "கோல் வெளி",
+      "நூல் வெளி",
+      "நூல் மாலை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "நூல் + வெளி = நூல்வெளி.",
+    "active": true
+  },
+  {
+    "id": "xM9nLg1JkVDm2KCEodnL",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பாரதிதாசனின் சிறந்த படைப்பு குடும்ப __________.",
+    "options": [
+      "மணி",
+      "விளக்கு",
+      "மேகலை",
+      "பொன்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பாரதிதாசனின் சிறந்த படைப்பு குடும்ப விளக்கு.",
+    "active": true
+  },
+  {
+    "id": "xa9qmi941ZZTlnaWWYOe",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நூல்' + 'வெளி' இணைந்து உருவாகும் புதிய சொல் எது?",
+    "options": [
+      "நூல்வெளி",
+      "வெளின்நூல்",
+      "வெளிமாலை",
+      "நூல்மாலை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நூல் + வெளி = நூல்வெளி.",
+    "active": true
+  },
+  {
+    "id": "y8u1NrZkOJTs49CLfIBH",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "விளக்கு, விண், மணி, விலங்கு, மேகலை எனும் சொற்களைக் கொண்டு உருவாக்கும் சரியான சொல் எது?",
+    "options": [
+      "விண் விலங்கு",
+      "மேகலை விளக்கு",
+      "மணி மேகலை",
+      "விலங்கு மணி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "மணி + மேகலை = மணிமேகலை.",
+    "active": true
+  },
+  {
+    "id": "z3fPDllE2e1SfQfdZQxj",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பரிபாடல்' என்ற சொல்லில் உள்ள எழுத்துகளைக் கொண்டு உருவாக்கக்கூடிய புதிய சொல் எது?",
+    "options": [
+      "கரு",
+      "பாடல்",
+      "வேலி",
+      "கதை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பரிபாடல் → பரி, பாடல், பா, பால், பாரி.",
+    "active": true
+  },
+  {
+    "id": "zeToaEIXkPxJd9n2aAN2",
+    "subject": "group4series",
+    "class": "Unit 2 -  சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "topic": "சொற்களை இணைத்துப் புதிய சொல் உருவாக்குதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தமிழ்விடுதூது' என்ற சொல்லுக்குள் உள்ள சொல் எது?",
+    "options": [
+      "கரை",
+      "ஒரம்",
+      "தூது",
+      "கப்பல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "தமிழ்விடுதூது → தமிழ், விடு, தூது.",
+    "active": true
+  }
+]
