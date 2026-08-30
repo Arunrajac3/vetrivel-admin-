@@ -9,12 +9,12 @@
     "pyqYear": null,
     "questionText": "‘கனவு’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "நனவு",
       "பகல்",
+      "நனவு",
       "வெள்ளை",
       "மேடு"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "கனவு × நனவு.",
     "active": true
   },
@@ -28,12 +28,12 @@
     "pyqYear": null,
     "questionText": "எதிர்ச்சொற்களின் பயன் என்ன?",
     "options": [
-      "வாக்கியங்களை முழுமையாக்கவும் மொழியின் சொல்லாட்சியை மேம்படுத்தவும்",
-      "எழுத்துப்பிழை திருத்த",
       "இலக்கண விதி விளக்க",
-      "கவிதை எழுத"
+      "எழுத்துப்பிழை திருத்த",
+      "கவிதை எழுத",
+      "வாக்கியங்களை முழுமையாக்கவும் மொழியின் சொல்லாட்சியை மேம்படுத்தவும்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "எதிர்ச்சொற்கள் வாக்கியங்களை முழுமையாக்கவும், மொழியின் சொல்லாட்சியை மேம்படுத்தவும் பயன்படுகின்றன.",
     "active": true
   },
@@ -47,12 +47,12 @@
     "pyqYear": null,
     "questionText": "‘இல்லார்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "செல்வர்",
       "வறியவர்",
+      "செல்வர்",
       "உயர்ந்தவர்",
       "விரும்பாதவர்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "இல்லார் × செல்வர்.",
     "active": true
   },
@@ -66,12 +66,12 @@
     "pyqYear": null,
     "questionText": "‘மிசை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "பள்ளம்",
-      "வெறுத்து",
+      "வளமை",
       "வன் சொல்",
-      "வளமை"
+      "வெறுத்து",
+      "பள்ளம்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "மிசை × பள்ளம்.",
     "active": true
   },
@@ -85,12 +85,12 @@
     "pyqYear": null,
     "questionText": "‘நயம்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
+      "பகைமை கொள்ளுதல்",
       "துன்பம்",
       "அறிவுடையார்",
-      "அழுதல்",
-      "பகைமை கொள்ளுதல்"
+      "அழுதல்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "நயம் × துன்பம்.",
     "active": true
   },
@@ -104,12 +104,12 @@
     "pyqYear": null,
     "questionText": "‘இம்மை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "மறுமை",
-      "கனி",
       "நனவு",
-      "பகல்"
+      "மறுமை",
+      "பகல்",
+      "கனி"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "இம்மை × மறுமை.",
     "active": true
   },
@@ -123,12 +123,12 @@
     "pyqYear": null,
     "questionText": "‘கடுகி’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "மெதுவாக / மெல்ல",
       "வருந்த மாட்டார்",
-      "வருந்த",
-      "வறியவர்"
+      "மெதுவாக / மெல்ல",
+      "வறியவர்",
+      "வருந்த"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "கடுகி × மெதுவாக / மெல்ல.",
     "active": true
   },
@@ -142,12 +142,12 @@
     "pyqYear": null,
     "questionText": "‘பாராட்டு’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "இகழ்ச்சி",
-      "அழுகை",
       "உயர்ச்சி",
-      "தீயொழுக்கம்"
+      "இகழ்ச்சி",
+      "தீயொழுக்கம்",
+      "அழுகை"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "பாராட்டு × இகழ்ச்சி.",
     "active": true
   },
@@ -162,9 +162,9 @@
     "questionText": "‘வேம்பு’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
       "இனிப்பான சொற்கள்",
-      "தீய எண்ணம்",
       "பள்ளம்",
-      "வெறுத்து"
+      "வெறுத்து",
+      "தீய எண்ணம்"
     ],
     "correctAnswerIndex": 0,
     "explanation": "வேம்பு × இனிப்பான சொற்கள்.",
@@ -180,12 +180,12 @@
     "pyqYear": null,
     "questionText": "‘துண்வர’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "நண்பர்",
-      "வருந்தாத",
       "அழியாத",
+      "வருந்தாத",
+      "நண்பர்",
       "நிலையற்ற பொருள்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "துண்வர × நண்பர்.",
     "active": true
   },
@@ -199,12 +199,12 @@
     "pyqYear": null,
     "questionText": "‘ஆர்வம்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "விருப்பமின்மை",
-      "பெறும்",
       "பகை",
-      "வாடாத மரம்"
+      "விருப்பமின்மை",
+      "வாடாத மரம்",
+      "பெறும்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "ஆர்வம் × விருப்பமின்மை.",
     "active": true
   },
@@ -218,12 +218,12 @@
     "pyqYear": null,
     "questionText": "‘புகழ்சால்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
+      "வெறுத்து",
       "பழியைத் தரும்",
       "விலகி இருப்பவர்",
-      "வெறுத்து",
       "கீழோர்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "புகழ்சால் × பழியைத் தரும்.",
     "active": true
   },
@@ -237,12 +237,12 @@
     "pyqYear": null,
     "questionText": "‘வெற்றி’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "தோல்வி",
       "பகல்",
-      "துன்பம்",
-      "தீமை"
+      "தீமை",
+      "தோல்வி",
+      "துன்பம்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "வெற்றி × தோல்வி என்பது எதிர்ச்சொல் ஜோடி.",
     "active": true
   },
@@ -276,9 +276,9 @@
     "questionText": "‘வன்மை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
       "தன்மை / மென்மை",
+      "பகல்",
       "பொய்மை",
-      "கனி",
-      "பகல்"
+      "கனி"
     ],
     "correctAnswerIndex": 0,
     "explanation": "வன்மை × தன்மை / மென்மை.",
@@ -294,12 +294,12 @@
     "pyqYear": null,
     "questionText": "‘உவந்து’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "வெறுத்து",
+      "பழியைத் தரும்",
       "அண்மை",
-      "கீழோர்",
-      "பழியைத் தரும்"
+      "வெறுத்து",
+      "கீழோர்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "உவந்து × வெறுத்து.",
     "active": true
   },
@@ -313,12 +313,12 @@
     "pyqYear": null,
     "questionText": "‘இன் சொல்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "வன் சொல்",
-      "வெறுத்து",
+      "தீமை",
       "வளமை",
-      "தீமை"
+      "வெறுத்து",
+      "வன் சொல்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "இன் சொல் × வன் சொல்.",
     "active": true
   },
@@ -352,8 +352,8 @@
     "questionText": "படர்க்கை பலர்பால் எதிர்மறை வினைமுற்று எது?",
     "options": [
       "அவர் அல்லர்",
-      "அவன் அல்லன்",
       "அவள் அல்லள்",
+      "அவன் அல்லன்",
       "அஃது அன்று"
     ],
     "correctAnswerIndex": 0,
@@ -370,12 +370,12 @@
     "pyqYear": null,
     "questionText": "‘எளிது’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "அரிது",
-      "நட்பு",
       "இரவு",
-      "இகழ்ச்சி"
+      "இகழ்ச்சி",
+      "அரிது",
+      "நட்பு"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "எளிது × அரிது.",
     "active": true
   },
@@ -389,12 +389,12 @@
     "pyqYear": null,
     "questionText": "‘நயம்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "துன்பம்",
-      "அறிவுடையார்",
+      "பகைமை கொள்ளுதல்",
       "அழுதல்",
-      "பகைமை கொள்ளுதல்"
+      "அறிவுடையார்",
+      "துன்பம்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "நயம் × துன்பம்.",
     "active": true
   },
@@ -408,12 +408,12 @@
     "pyqYear": null,
     "questionText": "‘துறவறம்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "இல்லறம்",
-      "தீயொழுக்கம்",
+      "நல்லவர்",
       "நன்மை",
-      "நல்லவர்"
+      "இல்லறம்",
+      "தீயொழுக்கம்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "துறவறம் × இல்லறம்.",
     "active": true
   },
@@ -427,12 +427,12 @@
     "pyqYear": null,
     "questionText": "‘இன்பம்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
+      "தோல்வி",
       "துன்பம்",
-      "பகல்",
       "தீமை",
-      "தோல்வி"
+      "பகல்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "இன்பம் × துன்பம் என்பது எதிர்ச்சொல் ஜோடி.",
     "active": true
   },
@@ -446,12 +446,12 @@
     "pyqYear": null,
     "questionText": "படர்க்கை ஆண்பால் எதிர்மறை வினைமுற்று எது?",
     "options": [
-      "அவன் அல்லன்",
+      "அஃது அன்று",
       "அவள் அல்லள்",
       "அவர் அல்லர்",
-      "அஃது அன்று"
+      "அவன் அல்லன்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "படர்க்கை ஆண்பால்: அவன் அல்லன்.",
     "active": true
   },
@@ -465,12 +465,12 @@
     "pyqYear": null,
     "questionText": "‘உருகுவார்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "வருந்த மாட்டார்",
+      "வருந்த",
       "நிலையற்ற பொருள்",
       "மெதுவாக",
-      "வருந்த"
+      "வருந்த மாட்டார்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "உருகுவார் × வருந்த மாட்டார்.",
     "active": true
   },
@@ -484,12 +484,12 @@
     "pyqYear": null,
     "questionText": "ஒன்றன்பால் எதிர்மறை வினைமுற்று எது?",
     "options": [
-      "அஃது அன்று",
+      "நான் அல்லேன்",
       "அவை அல்ல",
       "அவர் அல்லர்",
-      "நான் அல்லேன்"
+      "அஃது அன்று"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "ஒன்றன்பால்: அஃது அன்று.",
     "active": true
   },
@@ -503,12 +503,12 @@
     "pyqYear": null,
     "questionText": "‘முதுமை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "இளமை",
-      "இறக்கம்",
       "தாழ்வு",
-      "வேற்றுமை"
+      "வேற்றுமை",
+      "இளமை",
+      "இறக்கம்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "முதுமை × இளமை.",
     "active": true
   },
@@ -522,12 +522,12 @@
     "pyqYear": null,
     "questionText": "‘உம்பர்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "கீழே",
       "மேடு",
-      "கசப்பு",
-      "பகை"
+      "பகை",
+      "கீழே",
+      "கசப்பு"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "உம்பர் × கீழே.",
     "active": true
   },
@@ -541,12 +541,12 @@
     "pyqYear": null,
     "questionText": "‘பள்ளம்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "மேடு",
       "கீழ்",
+      "மேடு",
       "கசப்பு",
       "கீழே"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "பள்ளம் × மேடு.",
     "active": true
   },
@@ -560,12 +560,12 @@
     "pyqYear": null,
     "questionText": "‘வேறு, உண்டு, இல்லை’ ஆகியவை எதற்குப் பொதுவான சொற்கள்?",
     "options": [
-      "மூவிடத்திற்கும் ஐம்பாலுக்கும்",
       "தன்மைக்கு மட்டும்",
-      "முன்னிலைக்கு மட்டும்",
-      "படர்க்கைக்கு மட்டும்"
+      "படர்க்கைக்கு மட்டும்",
+      "மூவிடத்திற்கும் ஐம்பாலுக்கும்",
+      "முன்னிலைக்கு மட்டும்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "‘வேறு, உண்டு, இல்லை’ ஆகியவை மூவிடத்திற்கும், ஐம்பாலுக்கும் பொதுவான சொற்கள் ஆகும்.",
     "active": true
   },
@@ -579,12 +579,12 @@
     "pyqYear": null,
     "questionText": "‘பகல்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "இரவு",
       "நட்பு",
-      "அழுகை",
-      "இகழ்ச்சி"
+      "இகழ்ச்சி",
+      "இரவு",
+      "அழுகை"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "பகல் × இரவு.",
     "active": true
   },
@@ -598,12 +598,12 @@
     "pyqYear": null,
     "questionText": "‘இளையோர்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "முதியோர்",
+      "வருந்தம்",
       "வேற்றுமை",
       "பேதை",
-      "வருந்தம்"
+      "முதியோர்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "இளையோர் × முதியோர்.",
     "active": true
   },
@@ -636,12 +636,12 @@
     "pyqYear": null,
     "questionText": "‘அல்லல்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
+      "செலுத்தாத",
       "இன்பம்",
       "புகழ்ந்துரைத்தல்",
-      "செலுத்தாத",
       "வருத்தம்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "அல்லல் × இன்பம்.",
     "active": true
   },
@@ -655,12 +655,12 @@
     "pyqYear": null,
     "questionText": "‘பேரிலக்கியங்கள்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "சிற்றிலக்கியங்கள்",
       "உயர்ந்தவர்",
       "ஒற்றுமை",
+      "சிற்றிலக்கியங்கள்",
       "நட்பு"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "பேரிலக்கியங்கள் × சிற்றிலக்கியங்கள்.",
     "active": true
   },
@@ -674,12 +674,12 @@
     "pyqYear": null,
     "questionText": "ஒரு சொல்லிற்கு நேர்மாறான அல்லது முரணான பொருளைத் தரும் சொல் எவ்வாறு அழைக்கப்படுகிறது?",
     "options": [
-      "இணைச்சொல்",
-      "எதிர்ச்சொல்",
+      "வேற்றுச்சொல்",
       "ஒத்தசொல்",
-      "வேற்றுச்சொல்"
+      "எதிர்ச்சொல்",
+      "இணைச்சொல்"
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 2,
     "explanation": "ஒரு சொல்லிற்கு நேர்மாறான அல்லது முரணான பொருளைத் தரும் சொல்லே எதிர்ச்சொல் எனப்படும்.",
     "active": true
   },
@@ -693,12 +693,12 @@
     "pyqYear": null,
     "questionText": "‘பேதையார்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "அறிவுடையார்",
-      "பகை",
       "துன்பம்",
-      "அழுதல்"
+      "அறிவுடையார்",
+      "அழுதல்",
+      "பகை"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "பேதையார் × அறிவுடையார்.",
     "active": true
   },
@@ -712,12 +712,12 @@
     "pyqYear": null,
     "questionText": "‘இடித்தல்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "புகழ்ந்துரைத்தல்",
       "பகைமை கொள்ளுதல்",
       "இன்பம்",
-      "செலுத்தாத"
+      "செலுத்தாத",
+      "புகழ்ந்துரைத்தல்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "இடித்தல் × புகழ்ந்துரைத்தல்.",
     "active": true
   },
@@ -733,8 +733,8 @@
     "options": [
       "நிலையற்ற பொருள்",
       "அழியாத",
-      "வருந்த மாட்டார்",
-      "மெதுவாக"
+      "மெதுவாக",
+      "வருந்த மாட்டார்"
     ],
     "correctAnswerIndex": 0,
     "explanation": "மெய்ப்பொருள் × நிலையற்ற பொருள்.",
@@ -750,12 +750,12 @@
     "pyqYear": null,
     "questionText": "‘காமுறுவர்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "விரும்பாதவர்",
       "பாதுகாப்பின்மை",
-      "ஒற்றுமை",
-      "அரிது"
+      "அரிது",
+      "விரும்பாதவர்",
+      "ஒற்றுமை"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "காமுறுவர் × விரும்பாதவர்.",
     "active": true
   },
@@ -769,12 +769,12 @@
     "pyqYear": null,
     "questionText": "‘நண்பு’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "பகை",
-      "கீழே",
+      "விருப்பமின்மை",
       "மேடு",
-      "விருப்பமின்மை"
+      "கீழே",
+      "பகை"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "நண்பு × பகை.",
     "active": true
   },
@@ -788,12 +788,12 @@
     "pyqYear": null,
     "questionText": "‘நன்கணியர்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "விலகி இருப்பவர்",
-      "வாடாத மரம்",
+      "வெறுத்து",
       "அண்மை",
-      "வெறுத்து"
+      "வாடாத மரம்",
+      "விலகி இருப்பவர்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "நன்கணியர் × விலகி இருப்பவர்.",
     "active": true
   },
@@ -808,9 +808,9 @@
     "questionText": "படர்க்கை பெண்பால் எதிர்மறை வினைமுற்று எது?",
     "options": [
       "அவள் அல்லள்",
-      "அவன் அல்லன்",
       "அவர் அல்லர்",
-      "அவை அல்ல"
+      "அவை அல்ல",
+      "அவன் அல்லன்"
     ],
     "correctAnswerIndex": 0,
     "explanation": "படர்க்கை பெண்பால்: அவள் அல்லள்.",
@@ -828,8 +828,8 @@
     "options": [
       "ஒன்றன்பால்",
       "பலவின் பால்",
-      "ஆண்பால்",
-      "பெண்பால்"
+      "பெண்பால்",
+      "ஆண்பால்"
     ],
     "correctAnswerIndex": 0,
     "explanation": "அஃது அன்று = ஒன்றன்பால் எதிர்மறை.",
@@ -845,12 +845,12 @@
     "pyqYear": null,
     "questionText": "‘உயர்வு’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "தாழ்வு",
-      "இறக்கம்",
       "வேற்றுமை",
-      "முதியோர்"
+      "முதியோர்",
+      "இறக்கம்",
+      "தாழ்வு"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "உயர்வு × தாழ்வு.",
     "active": true
   },
@@ -864,12 +864,12 @@
     "pyqYear": null,
     "questionText": "‘மேல்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "கீழ்",
+      "கீழே",
       "மேடு",
       "கசப்பு",
-      "கீழே"
+      "கீழ்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "மேல் × கீழ்.",
     "active": true
   },
@@ -883,12 +883,12 @@
     "pyqYear": null,
     "questionText": "‘வேற்றுமை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "ஒற்றுமை",
+      "நட்பு",
       "விரும்பாதவர்",
-      "அரிது",
-      "நட்பு"
+      "ஒற்றுமை",
+      "அரிது"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "வேற்றுமை × ஒற்றுமை.",
     "active": true
   },
@@ -902,12 +902,12 @@
     "pyqYear": null,
     "questionText": "‘அழகை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "சிரிப்பு",
       "தீமை",
       "இளமை",
+      "சிரிப்பு",
       "இறக்கம்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "அழகை × சிரிப்பு.",
     "active": true
   },
@@ -959,12 +959,12 @@
     "pyqYear": null,
     "questionText": "‘வன்மை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "தன்மை / மென்மை",
-      "பொய்மை",
       "கனி",
-      "பகல்"
+      "தன்மை / மென்மை",
+      "பகல்",
+      "பொய்மை"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "வன்மை × தன்மை / மென்மை.",
     "active": true
   },
@@ -978,12 +978,12 @@
     "pyqYear": null,
     "questionText": "பலவின் பால் எதிர்மறை வினைமுற்று எது?",
     "options": [
-      "அவை அல்ல",
       "அஃது அன்று",
+      "அவை அல்ல",
       "அவர் அல்லர்",
       "நாம் அல்லோம்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "பலவின் பால்: அவை அல்ல.",
     "active": true
   },
@@ -998,9 +998,9 @@
     "questionText": "முன்னிலை ஒருமை எதிர்மறை வினைமுற்று எது?",
     "options": [
       "நீ அல்லை",
-      "நீவீர் அல்லீர்",
       "அவன் அல்லன்",
-      "அவள் அல்லள்"
+      "அவள் அல்லள்",
+      "நீவீர் அல்லீர்"
     ],
     "correctAnswerIndex": 0,
     "explanation": "முன்னிலை ஒருமை: நீ அல்லை.",
@@ -1016,12 +1016,12 @@
     "pyqYear": null,
     "questionText": "‘இம்மை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "மறுமை",
       "கனி",
+      "மறுமை",
       "நனவு",
       "பகல்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "இம்மை × மறுமை.",
     "active": true
   },
@@ -1035,12 +1035,12 @@
     "pyqYear": null,
     "questionText": "‘சாயினும்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "அழியாத",
-      "நண்பர்",
       "நிலையற்ற பொருள்",
-      "வருந்த மாட்டார்"
+      "அழியாத",
+      "வருந்த மாட்டார்",
+      "நண்பர்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "சாயினும் × அழியாத.",
     "active": true
   },
@@ -1054,12 +1054,12 @@
     "pyqYear": null,
     "questionText": "‘உவப்ப’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "வருந்த",
       "மெதுவாக",
-      "வறியவர்",
-      "செல்வர்"
+      "செல்வர்",
+      "வருந்த",
+      "வறியவர்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "உவப்ப × வருந்த.",
     "active": true
   },
@@ -1073,12 +1073,12 @@
     "pyqYear": null,
     "questionText": "‘அவல்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "மேடு",
+      "அன்பில்லாதவர்",
       "கீழே",
-      "கசப்பு",
-      "அன்பில்லாதவர்"
+      "மேடு",
+      "கசப்பு"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "அவல் × மேடு.",
     "active": true
   },
@@ -1092,12 +1092,12 @@
     "pyqYear": null,
     "questionText": "‘உடையார்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "வறியவர் (இல்லார்)",
       "செல்வர்",
+      "விரும்பாதவர்",
       "உயர்ந்தவர்",
-      "விரும்பாதவர்"
+      "வறியவர் (இல்லார்)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "உடையார் × வறியவர் (இல்லார்).",
     "active": true
   },
@@ -1111,12 +1111,12 @@
     "pyqYear": null,
     "questionText": "‘நயமில’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "நன்மை / இனிமை",
       "வருத்தம்",
       "கீழான பொருள்",
+      "நன்மை / இனிமை",
       "அறிவற்றவர்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "நயமில × நன்மை / இனிமை.",
     "active": true
   },
@@ -1130,12 +1130,12 @@
     "pyqYear": null,
     "questionText": "‘ஒற்றுமை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
+      "முதியோர்",
       "வேற்றுமை",
       "தாழ்வு",
-      "முதியோர்",
       "பேதை"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "ஒற்றுமை × வேற்றுமை.",
     "active": true
   },
@@ -1150,9 +1150,9 @@
     "questionText": "‘நட்டல்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
       "பகைமை கொள்ளுதல்",
-      "அழுதல்",
       "புகழ்ந்துரைத்தல்",
-      "இன்பம்"
+      "இன்பம்",
+      "அழுதல்"
     ],
     "correctAnswerIndex": 0,
     "explanation": "நட்டல் × பகைமை கொள்ளுதல்.",
@@ -1170,8 +1170,8 @@
     "options": [
       "குற்றமில்லாத",
       "முதியோர்",
-      "பேதை",
-      "வருந்தம்"
+      "வருந்தம்",
+      "பேதை"
     ],
     "correctAnswerIndex": 0,
     "explanation": "புரை × குற்றமில்லாத.",
@@ -1187,12 +1187,12 @@
     "pyqYear": null,
     "questionText": "‘நன்றி’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "தீமை",
       "வளமை",
-      "சிரிப்பு",
-      "இளமை"
+      "தீமை",
+      "இளமை",
+      "சிரிப்பு"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "நன்றி × தீமை.",
     "active": true
   },
@@ -1206,12 +1206,12 @@
     "pyqYear": null,
     "questionText": "‘நகுதல்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
+      "புகழ்ந்துரைத்தல்",
       "அழுதல்",
       "துன்பம்",
-      "பகைமை கொள்ளுதல்",
-      "புகழ்ந்துரைத்தல்"
+      "பகைமை கொள்ளுதல்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "நகுதல் × அழுதல்.",
     "active": true
   },
@@ -1225,12 +1225,12 @@
     "pyqYear": null,
     "questionText": "‘இரவு’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "பகல்",
+      "வெற்றி",
       "இன்பம்",
-      "நன்மை",
-      "வெற்றி"
+      "பகல்",
+      "நன்மை"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "இரவு × பகல் என்பது எதிர்ச்சொல் ஜோடி.",
     "active": true
   },
@@ -1244,12 +1244,12 @@
     "pyqYear": null,
     "questionText": "‘சுடும்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "வருந்தாத",
-      "வருந்தம்",
       "நண்பர்",
-      "அழியாத"
+      "வருந்தாத",
+      "அழியாத",
+      "வருந்தம்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "சுடும் × வருந்தாத.",
     "active": true
   },
@@ -1264,9 +1264,9 @@
     "questionText": "‘பராபரம்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
       "கீழான பொருள்",
-      "நன்மை",
+      "பகை",
       "அறிவற்றவர்",
-      "பகை"
+      "நன்மை"
     ],
     "correctAnswerIndex": 0,
     "explanation": "பராபரம் × கீழான பொருள்.",
@@ -1282,12 +1282,12 @@
     "pyqYear": null,
     "questionText": "‘மேதை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "பேதை",
-      "முதியோர்",
+      "நண்பர்",
       "வருந்தம்",
-      "நண்பர்"
+      "முதியோர்",
+      "பேதை"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "மேதை × பேதை.",
     "active": true
   },
@@ -1301,12 +1301,12 @@
     "pyqYear": null,
     "questionText": "‘உய்த்து’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "செலுத்தாத",
       "புகழ்ந்துரைத்தல்",
       "இன்பம்",
+      "செலுத்தாத",
       "வருத்தம்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "உய்த்து × செலுத்தாத.",
     "active": true
   },
@@ -1320,12 +1320,12 @@
     "pyqYear": null,
     "questionText": "‘துவ்வாமை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "வளமை / செழுமை",
-      "வன் சொல்",
       "தீமை",
-      "சிரிப்பு"
+      "சிரிப்பு",
+      "வளமை / செழுமை",
+      "வன் சொல்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "துவ்வாமை × வளமை / செழுமை.",
     "active": true
   },
@@ -1341,8 +1341,8 @@
     "options": [
       "நான் அல்லேன்",
       "நாம் அல்லோம்",
-      "நீ அல்லை",
-      "நீவீர் அல்லீர்"
+      "நீவீர் அல்லீர்",
+      "நீ அல்லை"
     ],
     "correctAnswerIndex": 1,
     "explanation": "தன்மை பன்மை: நாம் அல்லோம்.",
@@ -1358,12 +1358,12 @@
     "pyqYear": null,
     "questionText": "‘ஆனந்தம்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "வருத்தம்",
+      "பகை",
       "நல்லவர்",
-      "அறிவற்றவர்",
-      "பகை"
+      "வருத்தம்",
+      "அறிவற்றவர்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "ஆனந்தம் × வருத்தம்.",
     "active": true
   },
@@ -1378,8 +1378,8 @@
     "questionText": "‘உணர்வு’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
       "தீய எண்ணம்",
-      "பழியைத் தரும்",
       "கீழோர்",
+      "பழியைத் தரும்",
       "இனிப்பான சொற்கள்"
     ],
     "correctAnswerIndex": 0,
@@ -1397,9 +1397,9 @@
     "questionText": "‘சலவர்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
       "நல்லவர்",
-      "நன்மை",
+      "அறிவற்றவர்",
       "வருத்தம்",
-      "அறிவற்றவர்"
+      "நன்மை"
     ],
     "correctAnswerIndex": 0,
     "explanation": "சலவர் × நல்லவர்.",
@@ -1416,9 +1416,9 @@
     "questionText": "‘ஏற்றம்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
       "இறக்கம்",
-      "இளமை",
+      "வேற்றுமை",
       "தாழ்வு",
-      "வேற்றுமை"
+      "இளமை"
     ],
     "correctAnswerIndex": 0,
     "explanation": "ஏற்றம் × இறக்கம்.",
@@ -1434,12 +1434,12 @@
     "pyqYear": null,
     "questionText": "‘தீமை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "நன்மை",
-      "இல்லறம்",
+      "வருத்தம்",
       "நல்லவர்",
-      "வருத்தம்"
+      "நன்மை",
+      "இல்லறம்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "தீமை × நன்மை.",
     "active": true
   },
@@ -1453,12 +1453,12 @@
     "pyqYear": null,
     "questionText": "‘கடையர்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "உயர்ந்தவர்",
-      "செல்வர்",
       "விரும்பாதவர்",
+      "செல்வர்",
+      "உயர்ந்தவர்",
       "ஒற்றுமை"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "கடையர் × உயர்ந்தவர்.",
     "active": true
   },
@@ -1472,12 +1472,12 @@
     "pyqYear": null,
     "questionText": "‘நன்மை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "தீமை",
-      "பகல்",
+      "தோல்வி",
       "துன்பம்",
-      "தோல்வி"
+      "பகல்",
+      "தீமை"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "நன்மை × தீமை என்பது எதிர்ச்சொல் ஜோடி.",
     "active": true
   },
@@ -1492,9 +1492,9 @@
     "questionText": "‘பகை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
       "நட்பு",
+      "பயனிலார்",
       "இரவு",
-      "அழுகை",
-      "பயனிலார்"
+      "அழுகை"
     ],
     "correctAnswerIndex": 0,
     "explanation": "பகை × நட்பு.",
@@ -1510,12 +1510,12 @@
     "pyqYear": null,
     "questionText": "‘சேய்மை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "அண்மை",
       "பகை",
       "வெறுத்து",
+      "அண்மை",
       "கீழோர்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "சேய்மை × அண்மை.",
     "active": true
   },
@@ -1529,12 +1529,12 @@
     "pyqYear": null,
     "questionText": "‘அல்லவை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "நல்லவை",
+      "வெள்ளை",
       "மறுமை",
-      "நனவு",
-      "வெள்ளை"
+      "நல்லவை",
+      "நனவு"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "அல்லவை × நல்லவை.",
     "active": true
   },
@@ -1548,12 +1548,12 @@
     "pyqYear": null,
     "questionText": "‘ஆர்வலர்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
+      "பகை",
       "அன்பில்லாதவர்",
       "பெறும்",
-      "விருப்பமின்மை",
-      "பகை"
+      "விருப்பமின்மை"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "ஆர்வலர் × அன்பில்லாதவர்.",
     "active": true
   },
@@ -1567,12 +1567,12 @@
     "pyqYear": null,
     "questionText": "‘கனவு’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "நனவு",
       "பகல்",
       "வெள்ளை",
+      "நனவு",
       "மேடு"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "கனவு × நனவு.",
     "active": true
   },
@@ -1586,12 +1586,12 @@
     "pyqYear": null,
     "questionText": "‘எய்யாமை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "வருந்தம்",
-      "பேதை",
       "நண்பர்",
+      "பேதை",
+      "வருந்தம்",
       "அழியாத"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "எய்யாமை × வருந்தம்.",
     "active": true
   },
@@ -1605,12 +1605,12 @@
     "pyqYear": null,
     "questionText": "‘நீரவர்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "அறிவற்றவர்",
       "கீழான பொருள்",
-      "பகை",
-      "அறிவுடையார்"
+      "அறிவுடையார்",
+      "அறிவற்றவர்",
+      "பகை"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "நீரவர் × அறிவற்றவர்.",
     "active": true
   },
@@ -1624,12 +1624,12 @@
     "pyqYear": null,
     "questionText": "தன்மை ஒருமை எதிர்மறை வினைமுற்று எது?",
     "options": [
-      "நான் அல்லேன்",
-      "நாம் அல்லோம்",
       "நீ அல்லை",
-      "அவன் அல்லன்"
+      "அவன் அல்லன்",
+      "நாம் அல்லோம்",
+      "நான் அல்லேன்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "தன்மை ஒருமை: நான் அல்லேன்.",
     "active": true
   },
@@ -1643,12 +1643,12 @@
     "pyqYear": null,
     "questionText": "‘அவை அல்ல’ என்பது எந்த பாலிற்குரிய எதிர்மறை?",
     "options": [
-      "பலவின் பால்",
       "ஒன்றன்பால்",
-      "பலர்பால்",
-      "பெண்பால்"
+      "பெண்பால்",
+      "பலவின் பால்",
+      "பலர்பால்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "அவை அல்ல = பலவின் பால் எதிர்மறை.",
     "active": true
   },
@@ -1662,12 +1662,12 @@
     "pyqYear": null,
     "questionText": "‘நான் அல்லேன்’ என்பது எந்த இட எண்ணிற்குரிய எதிர்மறை?",
     "options": [
-      "தன்மை ஒருமை",
-      "தன்மை பன்மை",
       "முன்னிலை ஒருமை",
-      "படர்க்கை ஆண்பால்"
+      "தன்மை ஒருமை",
+      "படர்க்கை ஆண்பால்",
+      "தன்மை பன்மை"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "நான் அல்லேன் = தன்மை ஒருமை எதிர்மறை வினைமுற்று.",
     "active": true
   },
@@ -1681,12 +1681,12 @@
     "pyqYear": null,
     "questionText": "‘ஏற்றம்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "இறக்கம்",
       "சிரிப்பு",
+      "இறக்கம்",
       "தாழ்வு",
       "வேற்றுமை"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "ஏற்றம் × இறக்கம்.",
     "active": true
   },
@@ -1700,12 +1700,12 @@
     "pyqYear": null,
     "questionText": "‘நல்ல’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "தீய",
+      "நனவு",
       "பொய்மை",
       "கனி",
-      "நனவு"
+      "தீய"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "நல்ல × தீய.",
     "active": true
   },
@@ -1719,12 +1719,12 @@
     "pyqYear": null,
     "questionText": "‘நல்லொழுக்கம்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
+      "நன்மை",
       "தீயொழுக்கம்",
-      "உயர்ச்சி",
       "இல்லறம்",
-      "நன்மை"
+      "உயர்ச்சி"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "நல்லொழுக்கம் × தீயொழுக்கம்.",
     "active": true
   },
@@ -1738,12 +1738,12 @@
     "pyqYear": null,
     "questionText": "‘காய்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
+      "வெள்ளை",
       "கனி",
-      "மென்மை",
       "நனவு",
-      "வெள்ளை"
+      "மென்மை"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "காய் × கனி.",
     "active": true
   },
@@ -1757,12 +1757,12 @@
     "pyqYear": null,
     "questionText": "‘தாழ்ச்சி’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "உயர்ச்சி",
-      "இகழ்ச்சி",
       "தீயொழுக்கம்",
-      "இல்லறம்"
+      "இல்லறம்",
+      "இகழ்ச்சி",
+      "உயர்ச்சி"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "தாழ்ச்சி × உயர்ச்சி.",
     "active": true
   },
@@ -1776,12 +1776,12 @@
     "pyqYear": null,
     "questionText": "‘உண்மை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "பொய்மை",
-      "தீய",
       "மென்மை",
+      "தீய",
+      "பொய்மை",
       "கனி"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "உண்மை × பொய்மை.",
     "active": true
   },
@@ -1795,12 +1795,12 @@
     "pyqYear": null,
     "questionText": "‘நகை’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "அழுகை / சினம்",
       "இரவு",
+      "உயர்ச்சி",
       "இகழ்ச்சி",
-      "உயர்ச்சி"
+      "அழுகை / சினம்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "நகை × அழுகை / சினம்.",
     "active": true
   },
@@ -1814,12 +1814,12 @@
     "pyqYear": null,
     "questionText": "‘ஈனும்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "பெறும்",
-      "அன்பில்லாதவர்",
       "விருப்பமின்மை",
-      "பகை"
+      "பகை",
+      "அன்பில்லாதவர்",
+      "பெறும்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "ஈனும் × பெறும்.",
     "active": true
   },
@@ -1835,8 +1835,8 @@
     "options": [
       "வாடாத மரம்",
       "விருப்பமின்மை",
-      "விலகி இருப்பவர்",
-      "அண்மை"
+      "அண்மை",
+      "விலகி இருப்பவர்"
     ],
     "correctAnswerIndex": 0,
     "explanation": "வற்றல் மரம் × வாடாத மரம்.",
@@ -1852,12 +1852,12 @@
     "pyqYear": null,
     "questionText": "‘கறுப்பு’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "வெள்ளை",
-      "நனவு",
+      "கீழ்",
       "மேடு",
-      "கீழ்"
+      "நனவு",
+      "வெள்ளை"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "கறுப்பு × வெள்ளை.",
     "active": true
   },
@@ -1871,12 +1871,12 @@
     "pyqYear": null,
     "questionText": "‘பயனுடையார்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "பயனிலார்",
-      "சிற்றிலக்கியங்கள்",
+      "இகழ்ச்சி",
       "நட்பு",
-      "இகழ்ச்சி"
+      "சிற்றிலக்கியங்கள்",
+      "பயனிலார்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "பயனுடையார் × பயனிலார்.",
     "active": true
   },
@@ -1890,12 +1890,12 @@
     "pyqYear": null,
     "questionText": "‘மேலவர் / மேலோர்’ என்ற சொல்லுக்கு எதிர்ச்சொல் எது?",
     "options": [
-      "கீழவர் / கீழோர்",
-      "வெறுத்து",
       "பழியைத் தரும்",
-      "தீய எண்ணம்"
+      "வெறுத்து",
+      "தீய எண்ணம்",
+      "கீழவர் / கீழோர்"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "மேலவர் / மேலோர் × கீழவர் / கீழோர்.",
     "active": true
   }
