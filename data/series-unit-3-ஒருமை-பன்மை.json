@@ -1,0 +1,2016 @@
+[
+  {
+    "id": "0Ckf9Nt6xkqPYBYxdd5Y",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறை வினைமுற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வானவில் அழகானக் காட்சி ___. சரியான எதிர்மறைச் சொல் எது?",
+    "options": [
+      "அல்ல",
+      "அன்று",
+      "அல்லர்",
+      "இல்லை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'வானவில்' ஒன்றன்பால் ஒருமை என்பதால் 'அன்று' பயன்படுத்த வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "0eLI4cBBtctbm46JlzSJ",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறை வினைமுற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பொருந்தாத சொல்லைக் கண்டறிக.",
+    "options": [
+      "அவன் அல்லன்",
+      "அவர் அல்லீர்",
+      "அவள் அல்லள்",
+      "அவை அல்ல"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'அவர்' என்பது பலர்பால் ஒருமை (மரியாதை) என்பதால் எதிர்மறை 'அல்லர்' ஆகும். 'அல்லீர்' முன்னிலை பன்மைக்குரியது. எனவே 'அவர் அல்லீர்' பொருந்தாது.",
+    "active": true
+  },
+  {
+    "id": "14cOCn6wRdlyTxR8OiWT",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறைச் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "இது பழம் ___; இவை பழங்கள் ___. சரியான சொற்களைத் தேர்க.",
+    "options": [
+      "அன்று, அல்ல",
+      "அல்ல, அன்று",
+      "அல்லன், அல்லள்",
+      "அல்ல, அல்ல"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அஃறிணை ஒருமை எதிர்மறைக்கு 'அன்று'; பன்மை எதிர்மறைக்கு 'அல்ல'. எ.கா: இது பழம் அன்று. இவை பழங்கள் அல்ல.",
+    "active": true
+  },
+  {
+    "id": "1FoG6BFWiEtXGrVNJziA",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒவ்வொரு, எல்லா",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'எல்லா' என்னும் சொல் குறிக்கும் எண் எது?",
+    "options": [
+      "ஒருமை",
+      "இருமை",
+      "பன்மை",
+      "இடம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'எல்லா' பன்மையைக் குறிக்கும். எ.கா: எல்லா மாணவர்களும் வந்தனர்.",
+    "active": true
+  },
+  {
+    "id": "1U1SMDE8dVsjYiNCxBvO",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மரங்கள் வீழ்ந்தது' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "மரங்கள் வீழ்ந்தார்",
+      "மரங்கள் வீழ்ந்தாள்",
+      "மரங்கள் வீழ்ந்தன",
+      "மரங்கள் வீழ்ந்தனர்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'மரங்கள்' அஃறிணைப் பன்மை என்பதால் 'வீழ்ந்தன' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "1rB6rAxa7SRez0wMhkAf",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஓர் மரம் இருந்தது என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "ஒரு மரங்கள் இருந்தன",
+      "ஓர் மரங்கள் இருந்தது",
+      "ஒரு மரம் இருந்தன",
+      "ஒரு மரம் இருந்தது"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'மரம்' ஒருமையாதலால் 'ஒரு' என்னும் சொல்லும், பயனிலை 'இருந்தது' என்னும் ஒருமை வினைமுற்றும் வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "1s7WLtIujTGXRxonrMlg",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "தான், தாம் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கவிஞன் ___ எழுதிய கவிதையைப் படித்தான். சரியான சுட்டுச்சொல் எது?",
+    "options": [
+      "தாம்",
+      "தம்",
+      "தான்",
+      "தமது"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'தான்' ஒருமையைக் குறிக்கும். எழுவாய் 'கவிஞன்' ஒருமை என்பதால் 'தான்' பொருந்தும்.",
+    "active": true
+  },
+  {
+    "id": "2a5s6vY8lCTmMf0hbZwh",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறை வாக்கியம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "எதிர்மறை வாக்கியங்களில் 'து' என்னும் வினைமுற்று விகுதி எந்தப் பாலுக்குரியது?",
+    "options": [
+      "ஒன்றன்பால்",
+      "பலவின்பால்",
+      "உயர்திணை ஆண்பால்",
+      "பலர்பால்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'து' விகுதி ஒன்றன்பாலுக்குரியது. பலவின்பாலுக்குப் பயன்படுத்தக் கூடாது.",
+    "active": true
+  },
+  {
+    "id": "3WL4noUDVH854E6sTOGc",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'யானை பிளிறின' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "யானைகள் பிளிறியது",
+      "யானை பிளிறினர்",
+      "யானை பிளிறினான்",
+      "யானை பிளிறியது"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'யானை' ஒருமை என்பதால் 'பிளிறியது' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "3kEihPQkpKezf91Uwuwg",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அவர்கள் வந்தான்' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "அவர்கள் வந்தான்",
+      "அவர்கள் வந்தனர்",
+      "அவர்கள் வந்தார்",
+      "அவர் வந்தனர்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'அவர்கள்' பலர்பால் பன்மை என்பதால் 'வந்தனர்' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "40rtYSsdGmYesPU9Pi7W",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'குழந்தை பால் குடித்தனர்' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "குழந்தை பால் குடித்தது",
+      "குழந்தை பால் குடித்தான்",
+      "குழந்தைகள் பால் குடித்தது",
+      "குழந்தை பால் குடித்தனர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'குழந்தை' ஒருமை என்பதால் 'குடித்தது' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "5BQW92XJ62yvogXehKeU",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பால் வழுவமைதி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குதிரை ___. சரியான வினைமுற்று எது?",
+    "options": [
+      "ஓடின",
+      "ஓடினர்",
+      "ஓடியது",
+      "ஓடினான்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'குதிரை' ஒன்றன்பால் ஒருமை என்பதால் 'ஓடியது' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "6trdRGNFvWS3E0HiEIrz",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறை வினைமுற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கல்வி கண் போன்றது அல்ல என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "கல்வி கண் போன்றது அல்லர்",
+      "கல்வி கண் போன்றன அல்ல",
+      "கல்வி கண் போன்றது அன்று",
+      "கல்வி கண் போன்றவை அல்ல"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'கல்வி' ஒன்றன்பால் ஒருமை என்பதால் எதிர்மறை 'அன்று' ஆகும். 'அல்லர்' உயர்திணைக்கு உரியது.",
+    "active": true
+  },
+  {
+    "id": "7NxNIrQoVTsjiHURj6Aa",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பால் வழுவமைதி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பறவைகள் ___. சரியான வினைமுற்று எது?",
+    "options": [
+      "பறந்தது",
+      "பறந்தான்",
+      "பறந்தனர்",
+      "பறந்தன"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'பறவைகள்' அஃறிணைப் பன்மை என்பதால் 'பறந்தன' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "7RUJYliWmkFBmuxZI6rQ",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அவன் பாடம் படித்தனர்' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "அவன் பாடம் படித்தனர்",
+      "அவன் பாடம் படித்தது",
+      "அவர்கள் பாடம் படித்தான்",
+      "அவன் பாடம் படித்தான்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'அவன்' ஆண்பால் ஒருமை என்பதால் 'படித்தான்' என்னும் ஒருமை வினைமுற்று வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "7q4yVizUktjB4TDMwvbp",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறை வினைமுற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'எது உண்மையான வீரம் அல்ல' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "எது உண்மையான வீரம் அல்லன்",
+      "எது உண்மையான வீரம் அல்லர்",
+      "எது உண்மையான வீரம் அல்லள்",
+      "எது உண்மையான வீரம் அன்று"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'எது' ஒருமை (அஃறிணை ஒன்றன்பால்) என்பதால் எதிர்மறை 'அன்று' ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "8Ej1kApm0dAT2ydzTaSd",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "தான், தாம் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கவிஞர்கள் ___ எழுதிய கவிதைகளைப் படித்தனர். சரியான சொல் எது?",
+    "options": [
+      "தான்",
+      "தன்னை",
+      "தாம்",
+      "தனது"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பன்மைப் பொருளைக் குறிக்கும் 'தாம்' பயன்படுத்த வேண்டும். எழுவாய் 'கவிஞர்கள்' பன்மை.",
+    "active": true
+  },
+  {
+    "id": "A5zpRVTQOVorBAP9j5lE",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறை வினைமுற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பலர்பால் பன்மை எதிர்மறை வடிவம் எது?",
+    "options": [
+      "அவன் அல்லன்",
+      "அவள் அல்லாள்",
+      "அவர்கள் அல்லர்",
+      "அது அன்று"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பலர்பால் பன்மைக்கு 'அவர்கள் அல்லர்' என்பது சரியான எதிர்மறை வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "AI00WCSUNOLU9sLqvdSe",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அது அழகான நிலாச் சோறு என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "அவை அழகான நிலாச் சோறு",
+      "அஃது அழகான நிலாச் சோறு",
+      "அது அழகான நிலாச் சோறுகள்",
+      "அஃது அழகான நிலாச் சோறுகள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'நிலாச் சோறு' அஃறிணை ஒன்றன்பால் ஒருமை என்பதால் 'அஃது' என்னும் சுட்டுப்பெயர் வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "ARadJ85NKRgvhQClNkxB",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறை வினைமுற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தன்மைப் பன்மை எதிர்மறை வடிவம் எது?",
+    "options": [
+      "நாம் அல்லோம்",
+      "நான் அல்லேன்",
+      "நீ அல்லை",
+      "நீவிர் அல்லீர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தன்மைப் பன்மைக்கு 'நாம் அல்லோம்'. 'நான் அல்லேன்' தன்மை ஒருமை.",
+    "active": true
+  },
+  {
+    "id": "B41zUDFnj4wYZIrV06YO",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஒரு அறிவுள்ள மனிதன் என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "ஒரு அறிவுள்ள மனிதன்",
+      "ஒரு அறிவுள்ள மனிதர்",
+      "ஓர் அறிவுள்ள மனிதர்",
+      "ஓர் அறிவுள்ள மனிதன்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'ஒரு' என்னும் சொல் உயிர் எழுத்துக்கு முன் 'ஓர்' என மாறும்; 'மனிதன்' ஒருமை என்பதால் 'மனிதன்' என்பதே சரி.",
+    "active": true
+  },
+  {
+    "id": "BQS0ZlPa8o3lrhJY0HJq",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நீ எங்கே சென்றார்கள்?' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "நீ எங்கே சென்றீர்",
+      "நீ எங்கே சென்றாய்",
+      "நீ எங்கே சென்றனர்",
+      "நீ எங்கே சென்றார்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "முன்னிலை ஒருமையான 'நீ' என்பதற்கு 'சென்றாய்' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "BZ4nmRnIoYSpeVsKJOeV",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "தான், தாம் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அந்தப் பெரியவர் ___ சொன்னதைச் செய்தார். சரியான சொல் எது?",
+    "options": [
+      "தாம்",
+      "தான்",
+      "தன்",
+      "தனது"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பெரியவர் என்னும் மரியாதைப் பன்மைக்குரிய 'தாம்' பொருந்தும். எ.கா: பெரியவர் தாம் சொன்னதைச் செய்தார்.",
+    "active": true
+  },
+  {
+    "id": "Bmksh20HKHveeiEzfoxl",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மேகங்கள் மழையைப் பொழிந்தது' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "மேகங்கள் மழையைப் பொழிந்தன",
+      "மேகம் மழையைப் பொழிந்தனர்",
+      "மேகங்கள் மழையைப் பொழிந்தார்",
+      "மேகங்கள் மழையைப் பொழிந்தான்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'மேகங்கள்' அஃறிணைப் பன்மை என்பதால் 'பொழிந்தன' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "Dg4mZET9O8vdj14EWxQs",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வெற்றிகள் தந்தது என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "வெற்றிகள் தந்தன",
+      "வெற்றிகள் தந்தனர்",
+      "வெற்றி தந்தன",
+      "வெற்றிகள் தந்தான்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'வெற்றிகள்' அஃறிணைப் பன்மை என்பதால் 'தந்தன' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "Enol1j2gokwEQo4tFiAv",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை விதிகள",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "உயர்திணை ஒருமை (ஆண்பால், பெண்பால்) வினைமுற்று எவ்வாறு முடியும்?",
+    "options": [
+      "து",
+      "அன",
+      "ஆன்/ஆள்",
+      "ஆர்கள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "உயர்திணை ஒருமை வினைமுற்று 'ஆன்/ஆள்' என முடியும். எ.கா: மாணவன் படித்தான், மாணவி படித்தாள்.",
+    "active": true
+  },
+  {
+    "id": "Esz5jXlgBqPyJcg53aHa",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மாணவர்கள் பாடம் படித்தான்' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "மாணவர்கள் பாடம் படித்தாள்",
+      "மாணவர்கள் பாடம் படித்தது",
+      "மாணவர்கள் பாடம் படித்தன",
+      "மாணவர்கள் பாடம் படித்தனர்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "உயர்திணைப் பன்மை எழுவாய்க்குப் 'படித்தனர்' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "F2fUrgLorAmHjwYx1lTL",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை விதிகள",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "இக்காலத் தமிழில் பன்மைப் பொருளை உணர்த்த உதவும் விகுதி எது?",
+    "options": [
+      "து",
+      "அன",
+      "இர்",
+      "கள்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "பன்மைப் பொருளை உணர்த்துவதற்குக் 'கள்' என்னும் விகுதி உதவுகிறது. எ.கா: அவர்கள் வந்தார்கள்.",
+    "active": true
+  },
+  {
+    "id": "FZuxGW4ezRR73agauvbJ",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அது என் புத்தகம் அல்ல' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "அது என் புத்தகங்கள் அல்ல",
+      "அது என் புத்தகம் அன்று",
+      "அவை என் புத்தகம் அன்று",
+      "அது என் புத்தகம் அல்லன்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'அது' ஒன்றன்பால் ஒருமை என்பதால் எதிர்மறை 'அன்று' ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "G0ohQMRh2vMnbL4AYvML",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறை வினைமுற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "மணிமேகலை செல்வ வாழ்வை விரும்பியவள் ___ என்னும் தொடரில் வெற்றிடத்தை நிரப்பும் சொல் எது?",
+    "options": [
+      "அல்லன்",
+      "அல்லர்",
+      "அல்லோம்",
+      "அல்லள்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'மணிமேகலை' பெண்பால் ஒருமை என்பதால் எதிர்மறை 'அல்லள்' ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "GRqPme7iDoVeC35pC0Iy",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒவ்வொரு, எல்லா",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'எல்லா' என்னும் சொல்லுக்குப் பொருந்தும் பிழையற்ற வினைமுற்று எது?",
+    "options": [
+      "வந்தது",
+      "வந்தான்",
+      "வந்தனர்",
+      "வந்தாள்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'எல்லா' பன்மையைக் குறிப்பதால் பன்மை வினைமுற்று 'வந்தனர்' பொருந்தும்.",
+    "active": true
+  },
+  {
+    "id": "GatuYVRNuDkg1t2HXzvZ",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அவன் ஓர் அறிவாளி அல்லர்' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "அவர் ஓர் அறிவாளி அல்லர்",
+      "அவன் ஓர் அறிவாளி அல்லள்",
+      "அவன் ஓர் அறிவாளி அல்லன்",
+      "அவர்கள் ஓர் அறிவாளி அல்லர்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'அவன்' ஆண்பால் ஒருமை என்பதால் எதிர்மறை 'அல்லன்' ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "HNerX7kGTQqNU5lD672F",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பெயர்-வினை பொருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பெயர் ஒருமையில் இருந்தால் வினைமுடிபு எவ்வாறு இருக்க வேண்டும்? சரியான தொடரைத் தேர்க.",
+    "options": [
+      "திருடர் பிடிபட்டனர்",
+      "திருடர் பிடிபட்டான்",
+      "திருடன் பிடிபட்டான்",
+      "திருடன் பிடிபட்டனர்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பெயர் ஒருமையில் இருந்தால் வினைமுடிபும் ஒருமையிலேயே இருக்க வேண்டும். எனவே 'திருடன் பிடிபட்டான்' சரியானது.",
+    "active": true
+  },
+  {
+    "id": "HY0Mkm8JMe25nqHt0Zdd",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பசுக்கள் பால் தந்தது' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "பசுக்கள் பால் தந்தது",
+      "பசு பால் தந்தனர்",
+      "பசுக்கள் பால் தந்தான்",
+      "பசுக்கள் பால் தந்தன"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'பசுக்கள்' அஃறிணைப் பன்மை என்பதால் 'தந்தன' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "IfhyDkyoKr831WbnX0zq",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "சரியான தொடர்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பின்வருவனவற்றுள் சரியான தொடர் எது?",
+    "options": [
+      "கவிஞர்கள் தான் எழுதிய கவிதைகளைப் படித்தனர்",
+      "கவிஞர்கள் தாம் எழுதிய கவிதைகளைப் படித்தனர்",
+      "கவிஞர்கள் தன் எழுதிய கவிதைகளைப் படித்தனர்",
+      "கவிஞர்கள் தாம் எழுதிய கவிதைகளைப் படித்தான்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பன்மை எழுவாய் 'கவிஞர்கள்' என்பதற்குப் 'தாம்' மற்றும் பன்மை வினைமுற்று 'படித்தனர்' சரியானவை.",
+    "active": true
+  },
+  {
+    "id": "JNsoXGowEVgwpWWHulrK",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அவள் பாடினார்கள் என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "அவள் பாடினார்",
+      "அவள் பாடினான்",
+      "அவள் பாடினாள்",
+      "அவர்கள் பாடினாள்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'அவள்' பெண்பால் ஒருமை என்பதால் வினைமுற்று 'பாடினாள்' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "JuSPd2iUGqkJcnYLWrhC",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறை வினைமுற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "சித்தர்கள் செயற்கையை விரும்பியவர்கள் அல்லோம் என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "சித்தர்கள் செயற்கையை விரும்பியவர்கள் அல்லன்",
+      "சித்தர்கள் செயற்கையை விரும்பியவர்கள் அல்லீர்",
+      "சித்தர்கள் செயற்கையை விரும்பியவர்கள் அல்லர்",
+      "சித்தர்கள் செயற்கையை விரும்பியவர்கள் அல்லோம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'சித்தர்கள்' பலர்பால் பன்மை என்பதால் எதிர்மறை 'அல்லர்' ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "KRhCMbqkI1M5bjMyLQv2",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறை வினைமுற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அவை என் புத்தகங்கள் அன்று என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "அவை என் புத்தகங்கள் அன்று",
+      "அவை என் புத்தகங்கள் அல்ல",
+      "அஃது என் புத்தகங்கள் அல்ல",
+      "அவை என் புத்தகம் அல்ல"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'அவை' அஃறிணைப் பன்மை என்பதால் எதிர்மறை 'அல்ல' ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "KSr7QUpZ49oMOhUF6FTR",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தங்கப்பனும் செல்லப்பனும் பள்ளிக்குச் சென்ற சரியான தொடர் எது?",
+    "options": [
+      "தங்கப்பனும் செல்லப்பனும் பள்ளிக்குச் சென்றான்",
+      "தங்கப்பனும் செல்லப்பனும் பள்ளிக்குச் சென்றனர்",
+      "தங்கப்பனும் செல்லப்பனும் பள்ளிக்குச் சென்றது",
+      "தங்கப்பனும் செல்லப்பனும் பள்ளிக்குச் சென்றாள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'தங்கப்பனும் செல்லப்பனும்' என்பது இருவரைக் குறிப்பதால் உயர்திணைப் பன்மை. எனவே பயனிலை 'சென்றனர்' என்று பன்மையில் அமைய வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "KtAR7K8horWYWDhn5ReD",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பகைவர் நீவிர் அல்லர்' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "பகைவர் நீவிர் அல்லர்",
+      "பகைவர் நீ அல்லை",
+      "பகைவர் நீவிர் அல்லன்",
+      "பகைவர் நீவிர் அல்லீர்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "முன்னிலை பன்மையான 'நீவிர்' என்பதற்கு 'அல்லீர்' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "M7GFd6XW2ARYkkpe2SED",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறை வினைமுற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "இந்த நிலத்துக்கு உரிமையாளர் ___ அல்லை. சரியான சொல் எது?",
+    "options": [
+      "நீவிர்",
+      "நீ",
+      "நீர்",
+      "நீங்கள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'அல்லை' என்பது முன்னிலை ஒருமை எதிர்மறை என்பதால் 'நீ' பொருந்தும்.",
+    "active": true
+  },
+  {
+    "id": "M7cpLbtdaBeYcH5woZOm",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறை வினைமுற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அதைச் செய்தது நான் அன்று என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "அதைச் செய்தது நான் அல்லேன்",
+      "அதைச் செய்தது நான் அல்லர்",
+      "அதைச் செய்தது நான் அல்லன்",
+      "அதைச் செய்தது நான் அல்லள்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'நான்' தன்மை ஒருமை என்பதால் எதிர்மறை 'அல்லேன்' ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "NAiripq9c2yiEvO9a5M8",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறை வினைமுற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "சரியான எதிர்மறை வடிவம் எது?",
+    "options": [
+      "நான் அல்லேன்",
+      "நான் அல்ல",
+      "நான் அன்று",
+      "நான் அல்லன்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தன்மை ஒருமைக்கு 'நான் அல்லேன்' என்பதே சரியான எதிர்மறை வடிவம். 'அல்லன்' ஆண்பால் ஒருமைக்குரியது.",
+    "active": true
+  },
+  {
+    "id": "NGNAdO3oW2jHg3SLjoBK",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'இது என் குறிக்கோள் அல்ல' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "இவை என் குறிக்கோள் அல்ல",
+      "இது என் குறிக்கோள் அல்லன்",
+      "இது என் குறிக்கோள் அல்லர்",
+      "இது என் குறிக்கோள் அன்று"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'இது' ஒன்றன்பால் ஒருமை என்பதால் எதிர்மறை 'அன்று' ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "Ofet9tEkwOH1dnzLPKZr",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தேன்மொழி கோலம் போட்டார்கள்' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "தேன்மொழி கோலம் போட்டனர்",
+      "தேன்மொழி கோலம் போட்டாள்",
+      "தேன்மொழி கோலம் போட்டார்",
+      "தேன்மொழி கோலம் போட்டான்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'தேன்மொழி' பெண்பால் ஒருமை என்பதால் 'போட்டாள்' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "OiDH3UH49IKPR0UYy6aj",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "எது உனது புத்தகம் அல்ல என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "எது உனது புத்தகம் அன்று?",
+      "எவை உனது புத்தகங்கள் அல்ல?",
+      "எவை உனது புத்தகம் அன்று?",
+      "எது உனது புத்தகம் அல்ல?"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'எது' ஒன்றன்பால் ஒருமை வினாச்சொல் என்பதால் எதிர்மறை 'அன்று' ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "OwJJxBbErnALmDacVngV",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறை வினைமுற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கல்விச் செல்வம் அழிவற்றது அல்ல என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "கல்விச் செல்வம் அழிவற்றது அல்லர்",
+      "கல்விச் செல்வம் அழிவற்றது அன்று",
+      "கல்விச் செல்வம் அழிவற்றது அல்லன்",
+      "கல்விச் செல்வம் அழிவற்றவை அல்ல"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'கல்விச் செல்வம்' ஒன்றன்பால் ஒருமை என்பதால் எதிர்மறை 'அன்று' ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "PRdZL85G3QPCEoFxwBA0",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "மாணவர் தேர்வை நன்றாக எழுதினாள் என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "மாணவர் தேர்வை நன்றாக எழுதினர்",
+      "மாணவர்கள் தேர்வை நன்றாக எழுதினாள்",
+      "மாணவர்கள் தேர்வை நன்றாக எழுதினான்",
+      "மாணவர்கள் தேர்வை நன்றாக எழுதினர்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'மாணவர்கள்' உயர்திணைப் பன்மை என்பதால் 'எழுதினர்' என்னும் பன்மை வினைமுற்று வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "RXpxSLNfStpp5LZ1VVeW",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நாங்கள் படம் பார்த்தான்' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "நாங்கள் படம் பார்த்தேன்",
+      "நாங்கள் படம் பார்த்தனர்",
+      "நாங்கள் படம் பார்த்தோம்",
+      "நாங்கள் படம் பார்த்தார்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "தன்மைப் பன்மையான 'நாங்கள்' என்பதற்கு 'பார்த்தோம்' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "RlhFCsgAhXJlVhqu3Xxx",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறை வினைமுற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அவள் மாணவி அல்லன்' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "அவள் மாணவி அல்லாள்",
+      "அவள் மாணவி அல்லள்",
+      "அவள் மாணவி அன்று",
+      "அவர் மாணவி அல்லர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அவள்' பெண்பால் ஒருமை என்பதால் எதிர்மறை 'அல்லாள்' ஆகும். 'அல்லன்' ஆண்பாலுக்கு உரியது.",
+    "active": true
+  },
+  {
+    "id": "Sw8WHucqaXHNhbiLK0hh",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறை வினைமுற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "முன்னிலை ஒருமை எதிர்மறை வடிவம் எது?",
+    "options": [
+      "நீவிர் அல்லீர்",
+      "நீ அல்லை",
+      "நீ அல்லன்",
+      "நீவிர் அல்லர்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "முன்னிலை ஒருமைக்கு 'நீ அல்லை'; முன்னிலை பன்மைக்கு 'நீவிர் அல்லீர்'.",
+    "active": true
+  },
+  {
+    "id": "SzrZDBS9VboU99znlzW2",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "உயர்வு வழு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஆசிரியர் பாடம் நடத்தினான்' என்பது உயர்வு கருதித் திருத்தப்பட்ட சரியான தொடர் எது?",
+    "options": [
+      "ஆசிரியர் பாடம் நடத்தினர்",
+      "ஆசிரியர்கள் பாடம் நடத்தினான்",
+      "ஆசிரியர் பாடம் நடத்தினார்",
+      "ஆசிரியர் பாடம் நடத்தினாள்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'ஆசிரியர்' என்பது உயர்வு கருதி 'ஆர்' விகுதியுடன் வரும். எனவே 'நடத்தினார்' சரியானது.",
+    "active": true
+  },
+  {
+    "id": "UaVsbnPCyGnyDxmZGzWv",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "காற்று வீசின; மரங்கள் அசைந்தது என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "காற்று வீசியது; மரங்கள் அசைந்தன",
+      "காற்று வீசின; மரங்கள் அசைந்தது",
+      "காற்று வீசினர்; மரங்கள் அசைந்தனர்",
+      "காற்று வீசியது; மரங்கள் அசைந்தது"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'காற்று' ஒருமை என்பதால் 'வீசியது'; 'மரங்கள்' அஃறிணைப் பன்மை என்பதால் 'அசைந்தன' என்று வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "Uukwo0XP93kFKH4JdP9L",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'செடிகள் பூத்துக் குலுங்கியது' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "செடிகள் பூத்துக் குலுங்கியது",
+      "செடிகள் பூத்துக் குலுங்கின",
+      "செடி பூத்துக் குலுங்கினான்",
+      "செடிகள் பூத்துக் குலுங்கினர்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'செடிகள்' அஃறிணைப் பன்மை என்பதால் 'குலுங்கின' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "V5qNu2ONqisifvzWMsF1",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறை வினைமுற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தாங்கள் படிக்க வேண்டிய புத்தகங்கள் இவை ___' என்னும் தொடரில் வெற்றிடத்தை நிரப்பும் சொல் எது?",
+    "options": [
+      "அல்லர்",
+      "அல்லன்",
+      "அல்லள்",
+      "அல்ல"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'இவை' அஃறிணைப் பன்மை என்பதால் எதிர்மறை 'அல்ல' ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "VYSW3hqfbVyIDM2R4sTZ",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஒருமை-பன்மைப் பிழையற்ற தொடர் எது?",
+    "options": [
+      "மேகங்கள் சூழ்ந்து கொண்டது",
+      "மேகம் சூழ்ந்து கொண்டன",
+      "மேகம் சூழ்ந்து கொண்டது",
+      "மேகங்கள் சூழ்ந்து கொண்டான்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'மேகம்' ஒருமை என்பதால் 'சூழ்ந்து கொண்டது' என ஒருமையில் வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "W4LwY92ufQe7tLDa2SKQ",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "நாய் குரைத்தனர் என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "நாய் குரைத்தன",
+      "நாய்கள் குரைத்தனர்",
+      "நாய் குரைத்தது",
+      "நாய் குரைத்தான்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'நாய்' அஃறிணை ஒருமை என்பதால் 'குரைத்தது' என்னும் வினைமுற்று வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "WXhSu96dphlUBBwyGgWz",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "தான், தாம் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கன்று ___ தலையை ஆட்டியது. சரியான சொல் எது?",
+    "options": [
+      "தமது",
+      "தனது",
+      "தம்",
+      "தாம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "கன்று ஒருமை எழுவாய் என்பதால் 'தனது' பயன்படுத்த வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "YfAzh5mwlaXQHmWPFwYN",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை விதிகள",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "எழுவாய் 'அர்' விகுதி பெற்றால் பயனிலை எவ்வாறு அமைய வேண்டும்?",
+    "options": [
+      "து விகுதி பெற வேண்டும்",
+      "அர் விகுதி பெற வேண்டும்",
+      "அன விகுதி பெற வேண்டும்",
+      "ஆன் விகுதி பெற வேண்டும்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "எழுவாய் 'அர்' விகுதி பெற்றால் பயனிலையும் 'அர்' விகுதி பெறுதல் வேண்டும். எ.கா: மூவர் தேவாரத்தைப் பாடினர்.",
+    "active": true
+  },
+  {
+    "id": "Z7cuCS604UJUIBlSFrd0",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறை வினைமுற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அஃறிணைப் பன்மை எதிர்மறைச் சொல் எது?",
+    "options": [
+      "அவை அல்ல",
+      "அவன் அல்லன்",
+      "அது அன்று",
+      "அவர் அல்லர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அஃறிணைப் பன்மைக்கு 'அவை அல்ல' என்பதே எதிர்மறை வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "abLE2np5KotNMmmXki2L",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வயலில் கதிர் முற்றியதுகள்' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "வயலில் கதிர் முற்றியது",
+      "வயலில் கதிர்கள் முற்றின",
+      "வயலில் கதிர்கள் முற்றியது",
+      "வயலில் கதிர்கள் முற்றினான்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'கதிர்கள்' அஃறிணைப் பன்மை என்பதால் வினைமுற்று 'முற்றின' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "ac1L8NfXAOAxwkNLINqg",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஒவ்வொரு குடிமகனும் கடமையைச் செய்தார்கள்' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "ஒவ்வொரு குடிமகனும் கடமையைச் செய்தான்",
+      "ஒவ்வொரு குடிமகனும் கடமையைச் செய்தனர்",
+      "ஒவ்வொரு குடிமகனும் கடமையைச் செய்தார்",
+      "ஒவ்வொரு குடிமக்களும் கடமையைச் செய்தார்கள்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'ஒவ்வொரு' ஒருமையைக் குறிப்பதால் 'குடிமகனும்' என்பதற்கு 'செய்தான்' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "baGJvEk5A7529jv6zs9E",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "உயர்வு வழு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "உயர்வு கருதி பன்மைப் பொருளை ஒருமை வினையால் முடிக்கும் தொடர் எது?",
+    "options": [
+      "மாணவர் வந்தனர்",
+      "ஆசிரியர்கள் வந்தது",
+      "மாணவர்கள் வந்தான்",
+      "ஆசிரியர் வந்தார்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "பழந்தமிழிலும் சில இடங்களில் உயர்வு கருதி ஒருமை வினை வரும். எ.கா: ஆசிரியர் வந்தார்.",
+    "active": true
+  },
+  {
+    "id": "cVXTTpa73FyAuaXLjABm",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறை வினைமுற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஈ மொய்த்த பண்டங்கள் உடலுக்கு நன்மை செய்வன ___ என்னும் தொடரில் வெற்றிடத்தை நிரப்பும் சொல் எது?",
+    "options": [
+      "அல்ல",
+      "அன்று",
+      "அல்லர்",
+      "அல்லன்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'பண்டங்கள்' அஃறிணைப் பன்மை என்பதால் எதிர்மறை 'அல்ல' ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "dQed2iWFt9d0L962EKIB",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறை வினைமுற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "மல்லிகை குளத்தில் பூக்கும் மலர் அல்லை என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "மல்லிகை குளத்தில் பூக்கும் மலர் அல்லன்",
+      "மல்லிகை குளத்தில் பூக்கும் மலர் அல்லள்",
+      "மல்லிகை குளத்தில் பூக்கும் மலர் அல்லர்",
+      "மல்லிகை குளத்தில் பூக்கும் மலர் அன்று"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'மலர்' அஃறிணை ஒன்றன்பால் ஒருமை என்பதால் எதிர்மறை 'அன்று' ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "eo71cTQ53WkHU5de524r",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'குதிரைகள் வேகமாக ஓடியது' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "குதிரைகள் வேகமாக ஓடியது",
+      "குதிரைகள் வேகமாக ஓடினான்",
+      "குதிரை வேகமாக ஓடினர்",
+      "குதிரைகள் வேகமாக ஓடின"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'குதிரைகள்' அஃறிணைப் பன்மை என்பதால் 'ஓடின' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "fQoLOwpLbDQJuqvna2Qk",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நாங்கள் பாடம் படித்தான்' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "நாங்கள் பாடம் படித்தான்",
+      "நாங்கள் பாடம் படித்தேன்",
+      "நாங்கள் பாடம் படித்தது",
+      "நாங்கள் பாடம் படித்தோம்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "தன்மைப் பன்மை 'நாங்கள்' என்பதற்கு 'படித்தோம்' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "fwX249kSbBSsufYUFiuG",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை விதிகள",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "எழுவாய் ஒருமையாக இருந்தால் பயனிலை எவ்வாறு அமைய வேண்டும்?",
+    "options": [
+      "பன்மையில் அமைய வேண்டும்",
+      "ஒருமை அல்லது பன்மை எவ்வாறும் அமையலாம்",
+      "பால் அடிப்படையில் மட்டும் அமைய வேண்டும்",
+      "ஒருமையில் அமைய வேண்டும்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "விதி 1 படி எழுவாயும் பயனிலையும் எண் அடிப்படையில் ஒத்து வர வேண்டும். ஒருமை எழுவாய்க்கு ஒருமைப் பயனிலையும், பன்மை எழுவாய்க்குப் பன்மைப் பயனிலையும் வர வேண்டும். எ.கா: பறவை பறந்தது.",
+    "active": true
+  },
+  {
+    "id": "fzJx4NHvRXFA2IkBU2p0",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'இவை பூக்கள் அன்று' என்பது பிழை. சரியான தொடர் எது?",
+    "options": [
+      "இது பூக்கள் அல்ல",
+      "இவை பூக்கள் அல்லர்",
+      "இவை பூக்கள் அல்ல",
+      "இவை பூ அன்று"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'இவை' பன்மை என்பதால் எதிர்மறை 'அல்ல' ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "gRFCcixHYyGrihp5iepn",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழையற்ற தொடர்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கீழ்க்கண்டவற்றுள் பிழையற்ற தொடர் எது?",
+    "options": [
+      "பூக்கள் பூத்தது",
+      "பூக்கள் பூத்தன",
+      "பூ பூத்தன",
+      "பூக்கள் பூத்தனர்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'பூக்கள்' அஃறிணைப் பன்மை என்பதால் 'பூத்தன' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "iBJyvRtdCLCgN072wbwk",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மாடுகள் புல் மேய்ந்தது' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "மாடுகள் புல் மேய்ந்தன",
+      "மாடுகள் புல் மேய்ந்தனர்",
+      "மாடு புல் மேய்ந்தன",
+      "மாடுகள் புல் மேய்ந்தான்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'மாடுகள்' அஃறிணைப் பன்மை என்பதால் பயனிலை 'மேய்ந்தன' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "iS4VR8I2ehPYQb1JH50m",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அது இலை அசைகிறது என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "அஃது இலை அசைகிறது",
+      "அவை இலை அசைகிறது",
+      "அது இலைகள் அசைகிறது",
+      "அஃது இலைகள் அசைகிறது"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'இலை' அஃறிணை ஒருமை. எனவே ஒருமைச் சுட்டு 'அஃது' என்பதைப் பயன்படுத்த வேண்டும்; 'இலைகள்' என்பது பன்மை.",
+    "active": true
+  },
+  {
+    "id": "ixlUdXwse6MCIYLJm7Xv",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'உங்களோடு வருவோர் ___ அல்லோம்' என்னும் தொடரில் வெற்றிடத்தை நிரப்பும் சொல் எது?",
+    "options": [
+      "நாம்",
+      "நீவிர்",
+      "நாங்கள்",
+      "அவர்கள்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'அல்லோம்' என்பது தன்மைப் பன்மை எதிர்மறை. எனவே தன்மைப் பன்மைச் சொல்லான 'நாங்கள்' பொருந்தும்.",
+    "active": true
+  },
+  {
+    "id": "jFHjGgTW5S3ZZATTieIt",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "வினாச்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பின்வருவனவற்றுள் ஒருமைக்குரிய வினாச்சொல் எது?",
+    "options": [
+      "எவை",
+      "எவை கள்",
+      "எவர்கள்",
+      "எது"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "ஒருமைக்குரிய வினாச்சொல் 'எது'. பன்மைக்கு 'எவை'.",
+    "active": true
+  },
+  {
+    "id": "jGXMmgds6hHVdV21Sx7d",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தேனீக்கள் தேன் சேர்த்தது' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "தேனீக்கள் தேன் சேர்த்தது",
+      "தேனீ தேன் சேர்த்தது",
+      "தேனீக்கள் தேன் சேர்த்தான்",
+      "தேனீக்கள் தேன் சேர்த்தன"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'தேனீக்கள்' அஃறிணைப் பன்மை என்பதால் பயனிலை 'சேர்த்தன' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "jZeF5jwGpc1wWNEEgmXI",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறை வினைமுற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "படிக்காதவர் மதிக்கப்பட மாட்டான் என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "படிக்காதவர்கள் மதிக்கப்பட மாட்டான்",
+      "படிக்காதவர் மதிக்கப்பட மாட்டார்",
+      "படிக்காதவன் மதிக்கப்பட மாட்டார்",
+      "படிக்காதவர் மதிக்கப்பட மாட்டான்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'படிக்காதவர்' பலர்பால் ஒருமை (மரியாதை) என்பதால் வினைமுற்று 'மாட்டார்' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "kE3CoVwpcDyNlciMy58i",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குளங்கள் வற்றியது என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "குளங்கள் வற்றினர்",
+      "குளம் வற்றியது",
+      "குளங்கள் வற்றின",
+      "குளங்கள் வற்றியவை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'குளங்கள்' அஃறிணைப் பன்மை என்பதால் பன்மை வினைமுற்று 'வற்றின' என்று வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "kOqy4XlN0qck7PrvHWLE",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை விதிகள",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அஃறிணை ஒருமைக்குரிய சுட்டுப்பெயர் எது?",
+    "options": [
+      "அது",
+      "அவன்",
+      "அவள்",
+      "அவர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அஃறிணை ஒருமைக்கு 'அது' என்னும் சுட்டுப்பெயரும், பன்மைக்கு 'அவை' என்னும் சுட்டுப்பெயரும் வரும். எ.கா: அது மரம், அவை மரங்கள்.",
+    "active": true
+  },
+  {
+    "id": "kaO0vZRtYThLnoxuk5uF",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறை வினைமுற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பாணையை உடைத்தது கண்ணன் அல்ல என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "பாணையை உடைத்தது கண்ணன் அல்லர்",
+      "பாணையை உடைத்தது கண்ணன் அல்லன்",
+      "பாணையை உடைத்தது கண்ணன் அன்று",
+      "பாணையை உடைத்தது கண்ணன் அல்லள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'கண்ணன்' ஆண்பால் ஒருமை என்பதால் எதிர்மறை 'அல்லன்' ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "lIxdf5uzdDjFv2pD3py2",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அவர்கள் பாடினார்கள் என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "அவர்கள் பாடினார்கள்",
+      "அவர்கள் பாடினர்",
+      "அவர்கள் பாடினாள்",
+      "அவர் பாடினர்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'அவர்கள்' உயர்திணைப் பன்மை என்பதற்குப் பலர்பால் வினைமுற்று 'பாடினர்' என்பதே சரி. 'பாடினார்கள்' என்பது இரட்டை விகுதி.",
+    "active": true
+  },
+  {
+    "id": "ms34jkpyIIYcdfsYL8br",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை விதிகள",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அஃறிணைப் பன்மை வினைமுற்று எந்த விகுதியில் முடியும்?",
+    "options": [
+      "து",
+      "ஆன்",
+      "அன",
+      "ஆர்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அஃறிணை ஒருமை வினைமுற்று 'து' என முடியும்; பன்மை வினைமுற்று 'அன' என முடியும். எ.கா: மாடுகள் மேய்ந்தன.",
+    "active": true
+  },
+  {
+    "id": "nYK2yuxjL5rMx9hKN33M",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பிழையற்ற தொடர் எது?",
+    "options": [
+      "குழந்தைகள் விளையாடினர்",
+      "குழந்தைகள் விளையாடினான்",
+      "குழந்தைகள் விளையாடியது",
+      "குழந்தைகள் விளையாடினாள்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'குழந்தைகள்' உயர்திணைப் பன்மை என்பதால் பன்மை வினைமுற்று 'விளையாடினர்' வர வேண்டும். ஒருமை வினைகள் பொருந்தாது.",
+    "active": true
+  },
+  {
+    "id": "nrTAcnuoBEWS8OUXFpKh",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒவ்வொரு, எல்லா",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பின்வருவனவற்றுள் பிழையான தொடர் எது?",
+    "options": [
+      "ஒவ்வொரு வீட்டிலும் நூலகம் உள்ளது",
+      "ஒவ்வொரு வீடுகளிலும் நூலகம் உள்ளது",
+      "ஒவ்வொரு பள்ளியும் சுற்றுச்சூழல் விழிப்புணர்வை ஏற்படுத்துகிறது",
+      "ஒவ்வொரு குடிமகனும் நாட்டை நேசித்தான்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'ஒவ்வொரு' ஒருமையைக் குறிப்பதால் 'வீடுகள்' என்பது தவறு; 'வீட்டில்' என ஒருமையில் வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "oc23KjXok2bKct4nU0B2",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மயில்கள் அழகாக ஆடியது' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "மயில்கள் அழகாக ஆடியது",
+      "மயில் அழகாக ஆடினாள்",
+      "மயில்கள் அழகாக ஆடின",
+      "மயில்கள் அழகாக ஆடினாள்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'மயில்கள்' அஃறிணைப் பன்மை என்பதால் 'ஆடின' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "p180GPEe8W0CIqepIG2e",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'இவை என் ஆடுகள் அன்று' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "இவை என் ஆடுகள் அல்ல",
+      "இவை என் ஆடுகள் அன்று",
+      "இவை என் ஆடு அல்ல",
+      "இது என் ஆடுகள் அல்ல"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'இவை' பன்மை என்பதால் எதிர்மறை 'அல்ல' ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "pRADmCVDvLs3t8vQ6B7U",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒவ்வொரு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஒவ்வொரு' என்னும் சொல்லுக்குப் பின் வரும் பெயர்ச்சொல் எந்த எண்ணில் இருக்க வேண்டும்?",
+    "options": [
+      "பன்மை",
+      "இருமை",
+      "இரண்டும்",
+      "ஒருமை"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'ஒவ்வொரு' ஒருமையைக் குறிப்பதால் அதன் பின் வரும் பெயர்ச்சொல்லும் ஒருமையில் இருக்க வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "ptjtBGJcx08AjNRTJuJr",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "தான், தாம் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குழந்தை ___ தவற்றை உணர்ந்தது. சரியான சொல் எது?",
+    "options": [
+      "தாம்",
+      "தமது",
+      "தனது",
+      "தம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'குழந்தை' ஒருமை என்பதால் ஒருமைச் சுட்டுச்சொல் 'தனது' பயன்படுத்த வேண்டும்; 'தாம்', 'தமது' பன்மைக்குரியவை.",
+    "active": true
+  },
+  {
+    "id": "ptx9IX5fgUouUoNth1Rp",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "தான், தாம் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "மாடுகள் ___ தலையை ஆட்டின. சரியான சொல் எது?",
+    "options": [
+      "தமது",
+      "தனது",
+      "தன்னை",
+      "தான்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பன்மை எழுவாய்க்குத் 'தமது' பயன்படுத்த வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "puxeEXsgYlev6Bsu9O45",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பூனை எலியைப் பிடித்தன' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "பூனை எலியைப் பிடித்தனர்",
+      "பூனை எலியைப் பிடித்தான்",
+      "பூனை எலியைப் பிடித்தது",
+      "பூனைகள் எலியைப் பிடித்தன"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'பூனை' ஒருமை என்பதால் 'பிடித்தது' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "qEIxX1o50S2Axnsxb9bQ",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "சிங்கம் கர்ச்சித்தன என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "சிங்கங்கள் கர்ச்சித்தன",
+      "சிங்கம் கர்ச்சித்தனர்",
+      "சிங்கம் கர்ச்சித்தான்",
+      "சிங்கம் கர்ச்சித்தது"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'சிங்கம்' ஒன்றன்பால் ஒருமை அல்ல; அஃறிணை ஒருமை என்பதால் வினைமுற்று 'கர்ச்சித்தது' என்று வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "qJj4RpHBZ3CVSN2nbvqj",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "வினாச்சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பன்மைக்குரிய வினாச்சொல் எது?",
+    "options": [
+      "எவை",
+      "எது",
+      "எவன்",
+      "எவள்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஒருமைக்கு 'எது', பன்மைக்கு 'எவை'. எ.கா: எவை ஓடின?",
+    "active": true
+  },
+  {
+    "id": "qWg6nHOZo7l0Ys0Kgw8K",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அவை உன்னுடையது அன்று என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "அவை உன்னுடையது அல்ல",
+      "அவை உன்னுடையன அல்லன்",
+      "அவை உன்னுடையவை அன்று",
+      "அவை உன்னுடையவை அல்ல"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'அவை' அஃறிணைப் பன்மை என்பதால் எதிர்மறை 'அல்ல' ஆகும்; 'உன்னுடையவை' என்பதே பன்மை வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "rQyD2VNsfSaQ2kXHvwNu",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நூலகத்தில் பல புத்தகங்கள் உள்ளது' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "நூலகத்தில் பல புத்தகம் உள்ளன",
+      "நூலகத்தில் பல புத்தகங்கள் உள்ளார்",
+      "நூலகத்தில் பல புத்தகங்கள் உள்ளன",
+      "நூலகத்தில் பல புத்தகங்கள் உள்ளனர்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'புத்தகங்கள்' அஃறிணைப் பன்மை என்பதால் 'உள்ளன' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "rWMfWISKoDCVP1DSpmpE",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஒரு இனிய செய்தி வந்தது என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "ஓர் இனிய செய்தி வந்தது",
+      "ஒரு இனிய செய்தி வந்தன",
+      "ஓர் இனிய செய்தி வந்தன",
+      "ஒரு இனிய செய்திகள் வந்தது"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'ஒரு' என்பது உயிர் எழுத்துக்கு முன் 'ஓர்' என மாறும். வினைமுற்று ஒருமையில் 'வந்தது' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "rXHiv02nEqaEVw2DbbFW",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'காகங்கள் கரைந்தது' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "காகம் கரைந்தன",
+      "காகங்கள் கரைந்தது",
+      "காகங்கள் கரைந்தன",
+      "காகங்கள் கரைந்தனர்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'காகங்கள்' அஃறிணைப் பன்மை என்பதால் 'கரைந்தன' என வர வேண்டும். 'கரைந்தனர்' உயர்திணைக்கு உரியது.",
+    "active": true
+  },
+  {
+    "id": "rsNceHIh8tGxy1TK2DAN",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "தான், தாம் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தம்பி ___ செய்த தவற்றை உணர்ந்தான். சரியான சொல் எது?",
+    "options": [
+      "தாம்",
+      "தம்",
+      "தான்",
+      "தமது"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "தம்பி ஒருமை என்பதால் 'தான்' பயன்படுத்த வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "sJncLSqTzdnvUdafg009",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பறவை வானில் பறந்தன' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "பறவை வானில் பறந்தனர்",
+      "பறவைகள் வானில் பறந்தது",
+      "பறவைகள் வானில் பறந்தான்",
+      "பறவை வானில் பறந்தது"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'பறவை' ஒருமை என்பதால் 'பறந்தது' என ஒருமையில் வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "sroxsqXYnK3oVIXjYrWJ",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'எல்லா மாணவர்களும்' என்னும் தொடருக்குப் பொருத்தமான பிழையற்ற தொடர் எது?",
+    "options": [
+      "எல்லா மாணவர்களும் வந்தான்",
+      "எல்லா மாணவர்களும் வந்தனர்",
+      "எல்லா மாணவனும் வந்தான்",
+      "எல்லா மாணவர்களும் வந்தது"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'எல்லா' பன்மையைக் குறிப்பதால் 'மாணவர்களும்' என்பதற்குப் பன்மை வினைமுற்று 'வந்தனர்' பொருந்தும்.",
+    "active": true
+  },
+  {
+    "id": "tbfDlZsIqr4XwepRBCxb",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "தான், தாம் சொற்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தலைவர் ___ கையால் பரிசு வழங்கினார். சரியான சொல் எது?",
+    "options": [
+      "தன்னை",
+      "தனது",
+      "தமது",
+      "தான்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "தலைவர் ஒருவரைக் குறித்தாலும் இது மரியாதைப் பன்மை. எனவே 'தமது' பயன்படுத்த வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "vkKQ219mCLvLg4sPh8ER",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை விதிகள",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பின்வருவனவற்றுள் பிழையற்ற தொடர் எது?",
+    "options": [
+      "மாணவர்கள் படித்தான்",
+      "மாணவன் படித்தனர்",
+      "மாணவர் படித்தது",
+      "மாணவர்கள் படித்தனர்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "உயர்திணைப் பன்மை எழுவாய்க்குப் பன்மை வினைமுற்று வர வேண்டும். எனவே 'மாணவர்கள் படித்தனர்' சரியானது.",
+    "active": true
+  },
+  {
+    "id": "wT8jhZMyBzTKbiH785MD",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒவ்வொரு, எல்லா",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஒவ்வொரு' என்னும் சொல் குறிக்கும் எண் எது?",
+    "options": [
+      "பன்மை",
+      "இருமை",
+      "மூவிடம்",
+      "ஒருமை"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'ஒவ்வொரு' ஒருமையைக் குறிக்கும். அதன் பின் வரும் பெயர்ச்சொல்லும் பயனிலையும் ஒருமையில் அமைய வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "xwKlWPsUOOn1XoYKLNBK",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அவர் வந்தார்கள் என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "அவர் வந்தார்",
+      "அவர் வந்தார்கள்",
+      "அவர் வந்தனர்",
+      "அவர்கள் வந்தார்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அவர்' மரியாதை ஒருமை என்பதால் 'வந்தார்' என்பதே சரி. 'வந்தார்கள்' இரட்டை விகுதி.",
+    "active": true
+  },
+  {
+    "id": "zKPkHYIOuBXc5mLe0b2P",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அது ஒரு இன்பமான பொழுது என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "அது ஒரு இன்பமான பொழுது",
+      "அஃது ஒரு இன்பமான பொழுது",
+      "அஃது ஓர் இன்பமான பொழுது",
+      "அது ஓர் இன்பமான பொழுதுகள்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'அஃது' ஒன்றன்பால் ஒருமைச் சுட்டு; 'ஒரு' உயிர் எழுத்தின் முன் 'ஓர்' என வரும்.",
+    "active": true
+  },
+  {
+    "id": "zMYbk5FoyoX90PW8Kf8L",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'எறும்புகள் வரிசையாகச் சென்றது' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "எறும்புகள் வரிசையாகச் சென்றனர்",
+      "எறும்புகள் வரிசையாகச் சென்றன",
+      "எறும்புகள் வரிசையாகச் சென்றான்",
+      "எறும்புகள் வரிசையாகச் சென்றார்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'எறும்புகள்' அஃறிணைப் பன்மை என்பதால் 'சென்றன' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "zda1cAlcBFh7x62osMdR",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "எதிர்மறை வினைமுற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பலர்பால் ஒருமை (மரியாதை) எதிர்மறை வடிவம் எது?",
+    "options": [
+      "அவன் அல்லன்",
+      "அவள் அல்லள்",
+      "அவர்கள் அல்லர்",
+      "அவர் அல்லர்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "பலர்பால் ஒருமை (மரியாதை) எதிர்மறை 'அவர் அல்லர்'. 'அவர்கள் அல்லர்' பலர்பால் பன்மை.",
+    "active": true
+  },
+  {
+    "id": "ziv8nfSlALVMSbPtAIM6",
+    "subject": "group4series",
+    "class": "Unit 3 - ஒருமை - பன்மை",
+    "topic": "ஒருமை-பன்மை பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "மலைகள் உயரமாக இருந்தது என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "மலை உயரமாக இருந்தது",
+      "மலைகள் உயரமாக இருந்தது",
+      "மலைகள் உயரமாக இருந்தனர்",
+      "மலைகள் உயரமாக இருந்தன"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'மலைகள்' அஃறிணைப் பன்மை என்பதால் 'இருந்தன' என்னும் பன்மை வினைமுற்று வர வேண்டும்.",
+    "active": true
+  }
+]

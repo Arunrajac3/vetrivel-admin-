@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "0GKG46ee2SMPVXO2nLFs",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வினை மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கோலம்' என்னும் பொருளுக்குரிய வினை மரபுச்சொல் எது?",
+    "options": [
+      "கடை",
+      "இடு",
+      "உடை",
+      "அடி"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "கோலத்துக்கு 'இடு' என்பதே மரபுச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "0o0iY8ka0jwO4PLtKUIn",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வழு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நாய் கத்தும்' என்பது எவ்வகை வழு?",
+    "options": [
+      "திணை வழு",
+      "மரபு வழு",
+      "கால வழு",
+      "விடை வழு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "நாய் குரைக்கும் என்பதே மரபு; 'கத்தும்' என்பது மரபுக்கு மாறான வழு.",
+    "active": true
+  },
+  {
+    "id": "0oZrbrT1U5jEhNE5j6Jr",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "இருப்பிட மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'குதிரை' இருக்கும் இடத்திற்குரிய மரபுச்சொல் எது?",
+    "options": [
+      "கொட்டில்",
+      "தொழுவம்",
+      "பண்ணை",
+      "வலை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "குதிரையின் இருப்பிடம் 'கொட்டில்'.",
+    "active": true
+  },
+  {
+    "id": "1hxs0Orit4Bgpbv46NfA",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "காலம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'படித்தான், ஆடினாள், பறந்தது' என்பன எந்தக் காலம்?",
+    "options": [
+      "நிகழ்காலம்",
+      "எதிர்காலம்",
+      "எதுவுமில்லை",
+      "இறந்த காலம்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "நடந்து முடிந்த செயலைக் குறிப்பது இறந்த காலம்.",
+    "active": true
+  },
+  {
+    "id": "4CFZpdoruzM4QjlyCUUh",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "நால்வகைப் பொருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அவன் பாடம் படித்தான்' என்பது எவ்வகைப் பொருத்தம்?",
+    "options": [
+      "திணைப் பொருத்தம்",
+      "பால் பொருத்தம்",
+      "எண் பொருத்தம்",
+      "இடப் பொருத்தம்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அவன் படர்க்கை எழுவாய், படித்தான் படர்க்கைப் பயனிலை என்பதால் இடப் பொருத்தம்.",
+    "active": true
+  },
+  {
+    "id": "4gjrjU2U2dEOYJ8OyjY3",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மயில்கள் ஆடியது' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "மயில் ஆடினாள்",
+      "மயில்கள் ஆடின",
+      "மயில்கள் ஆடினன்",
+      "மயில் ஆடியது"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'மயில்கள்' அஃறிணைப் பன்மை என்பதால் 'ஆடின' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "5KppqcbpXlP9b51xxrrU",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வினை மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஓவியம்' என்னும் பொருளுக்குரிய வினை மரபுச்சொல் எது?",
+    "options": [
+      "உடை",
+      "கடை",
+      "புனை",
+      "அடி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஓவியத்துக்கு 'புனை' என்பதே மரபுச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "6l9GHVsbKCwDDPkZl2Km",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வழாநிலை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பின்வருவனவற்றுள் வழாநிலைத் தொடர் எது?",
+    "options": [
+      "என் மாமா வந்தது",
+      "கண்ணகி உண்டான்",
+      "செழியன் வந்தான்",
+      "நேற்று வருவான்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'செழியன் வந்தான்' என்பதில் எழுவாயும் பயனிலையும் திணை, பால், காலம் ஒத்து வருவதால் வழாநிலை.",
+    "active": true
+  },
+  {
+    "id": "6sodnOWRSSHASLl5h4YH",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "இருதிணை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பகுத்தறிவுடைய மக்கள், தேவர், நரகர் ஆகியோர் அடங்கும் திணை எது?",
+    "options": [
+      "அஃறிணை",
+      "உயர்திணை",
+      "இருதிணை",
+      "இடத்திணை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பகுத்தறிவுடைய மக்கள், தேவர், நரகர் ஆகியோர் உயர்திணையில் அடங்குவர்.",
+    "active": true
+  },
+  {
+    "id": "7PQnvj199QukjbrdhOPL",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வினை மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஆடை' என்னும் பொருளுக்குரிய வினை மரபுச்சொல் எது?",
+    "options": [
+      "கடை",
+      "அடி",
+      "நெய்",
+      "உடை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஆடைக்கு 'நெய்' என்பதே மரபுச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "7YiAN0d4Y4Blr8GbeLkh",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "ஒன்றொழி பொதுச்சொல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நாட்டைக் காக்க ஐவர் போர்க்களம் சென்றனர்' என்னும் தொடரில் 'ஐவர்' எந்தப் பாலை உணர்த்துகிறது?",
+    "options": [
+      "ஆண்பால்",
+      "பெண்பால்",
+      "ஒன்றன்பால்",
+      "பலவின்பால்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'சென்றனர்' என்னும் குறிப்பால் பெண்பாலை நீக்கி ஆண்பாலை உணர்த்துகிறது.",
+    "active": true
+  },
+  {
+    "id": "8K8KoTGMuov0BZMhVXbY",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வினை மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சோறு' என்னும் பொருளுக்குரிய வினை மரபுச்சொல் எது?",
+    "options": [
+      "தின்",
+      "பருகு",
+      "குடி",
+      "உண்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "சோறு என்பதற்கு 'உண்' என்பதே மரபுச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "8kUizhGSFsRVQwBia2zu",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வழாநிலை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "இலக்கண முறைப்படி குற்றமில்லாமல் பேசுவதும் எழுதுவதும் எனப்படுவது?",
+    "options": [
+      "வழு",
+      "வழாநிலை",
+      "வழுவமைதி",
+      "மரபு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இலக்கண முறைப்படி குற்றமில்லாமல் பேசுவதும் எழுதுவதும் வழாநிலை எனப்படும்.",
+    "active": true
+  },
+  {
+    "id": "8me3qFeXPVyY0iAxExKQ",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "விதை மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கொய்யா' விதைக்குரிய மரபுப் பெயர் எது?",
+    "options": [
+      "மணி",
+      "விதை",
+      "கொட்டை",
+      "முத்து"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "கொய்யாவின் விதை 'விதை' எனப்படும்.",
+    "active": true
+  },
+  {
+    "id": "9iLWJFCUUKap7dZnUuQ9",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஔவையார், அதியமானிடம் பரிசில் பெறச் சென்றான்' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "சென்றாள்",
+      "சென்றது",
+      "சென்றன",
+      "சென்றார்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "ஔவையார் மரியாதைக்குரிய ஒருமையாதலால் 'சென்றார்' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "AkVXo7XH3TYghERoLE3U",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "பால்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பசுக்கள், மலைகள்' என்பன எந்தப் பால்?",
+    "options": [
+      "ஆண்பால்",
+      "ஒன்றன்பால்",
+      "பலவின்பால்",
+      "பெண்பால்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அஃறிணையில் பலவற்றைக் குறிப்பது பலவின்பால்.",
+    "active": true
+  },
+  {
+    "id": "BkvCYkPWjdv6hzQwb7ij",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "இளமைப் பெயர் மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சிங்கம்' என்னும் விலங்கின் இளமைப் பெயர் எது?",
+    "options": [
+      "பறழ்",
+      "கன்று",
+      "குருளை",
+      "குட்டி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "சிங்கத்தின் இளமைப் பெயர் 'குருளை'.",
+    "active": true
+  },
+  {
+    "id": "BnvvtiK4srEYa8E6nGJJ",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "காலம",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கபிலன் வேலை செய்தால் ஊதியம் பெறுவான் - இத்தொடரின் காலம் எது?",
+    "options": [
+      "இறந்த காலம்",
+      "நிகழ் காலம்",
+      "எதிர் காலம்",
+      "முக்காலம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'செய்தால்' என்ற நிபந்தனையும் 'பெறுவான்' என்ற வினைமுற்றும் எதிர்காலத்தைக் குறிப்பதால் இது எதிர் காலம்.",
+    "active": true
+  },
+  {
+    "id": "DxRMQ4AmVY6tAWGfoKMB",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "பால்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'யானை, புறா, மலை' என்பன எந்தப் பால்?",
+    "options": [
+      "பலவின்பால்",
+      "ஒன்றன்பால்",
+      "பலர்பால்",
+      "பெண்பால்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அஃறிணையில் ஒன்றையே குறிப்பது ஒன்றன்பால்.",
+    "active": true
+  },
+  {
+    "id": "EsGVifgKMlkLUJUA3huo",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அரசர் பலர் வந்தார்' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "அரசர் பலர் வந்தனர்",
+      "அரசர் பலர் வந்தான்",
+      "அரசர் பலர் வந்தது",
+      "அரசர் பலர் வந்தாள்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அரசர் பலர்' பலர்பால் பன்மை என்பதால் 'வந்தனர்' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "FiDjpQ7EnKWMAlwLB9kE",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "மரபுப் பிழை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நேற்று தென்றல் காற்று அடித்தது' என்பதில் 'அடித்தது' என்பதற்குப் பொருத்தமான மரபுச்சொல் எது?",
+    "options": [
+      "கொட்டியது",
+      "வீசியது",
+      "கொடுத்தது",
+      "சுழன்றது"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "காற்றுக்கு 'வீசியது' என்பதே மரபுச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "GYHdMVyEIGTSZRQ3LYbY",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "தாவர மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கரும்பு, நாணல்' ஆகியவற்றின் இலைக்குரிய மரபுப் பெயர் எது?",
+    "options": [
+      "ஓலை",
+      "மடல்",
+      "தாள்",
+      "தோகை"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "கரும்பு, நாணல் ஆகியவற்றின் இலைக்குத் 'தோகை' என்பதே மரபுப் பெயர்.",
+    "active": true
+  },
+  {
+    "id": "GfQ454gqzPbEpXJe5jeB",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "இளமைப் பெயர் மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அணில்' என்னும் விலங்கின் இளமைப் பெயர் எது?",
+    "options": [
+      "குட்டி",
+      "கன்று",
+      "பிள்ளை",
+      "குருளை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அணிலின் குட்டி 'பிள்ளை' எனப்படும்.",
+    "active": true
+  },
+  {
+    "id": "H2Tqq9TkIqzS8HHnyfSA",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "விதை மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நெல்' என்னும் விதைக்குரிய மரபுப் பெயர் எது?",
+    "options": [
+      "கொட்டை",
+      "முத்து",
+      "மணி",
+      "விதை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "நெல் விதை 'மணி' எனப்படும்.",
+    "active": true
+  },
+  {
+    "id": "HEnnNnd4bXxPffj4czCZ",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "விதை மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஆமணக்கு' விதைக்குரிய மரபுப் பெயர் எது?",
+    "options": [
+      "முத்து",
+      "விதை",
+      "மணி",
+      "வித்து"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஆமணக்கு விதை 'முத்து' எனப்படும்.",
+    "active": true
+  },
+  {
+    "id": "HYDABiXlY8TrggrPvGnz",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "காலம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அண்ணன் வந்ததும் உனக்குப் பரிசு உண்டு' என்பதில் 'உண்டு' எந்தக் காலம்?",
+    "options": [
+      "இறந்த காலம்",
+      "நிகழ்காலம்",
+      "எதிர்காலம்",
+      "எதுவுமில்லை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "நடக்கவிருக்கும் நிகழ்வைக் குறித்து 'உண்டு' வருவதால் எதிர்காலம்.",
+    "active": true
+  },
+  {
+    "id": "IEhQelSu1QojBolDQUTJ",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வினை மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சுவர்' என்னும் பொருளுக்குரிய வினை மரபுச்சொல் எது?",
+    "options": [
+      "எழுப்பு",
+      "இடு",
+      "கட்டு",
+      "வேய்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "சுவருக்கு 'எழுப்பு' என்பதே மரபுச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "IO69GwBEesMjwISb1O1A",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வழுவமைதி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "மாறன் தன்னைப் பற்றிக் 'இந்த மாறன் ஒருநாளும் பொய் கூறமாட்டான்' எனக் கூறுவது எவ்வகை வழுவமைதி?",
+    "options": [
+      "இட வழுவமைதி",
+      "திணை வழுவமைதி",
+      "கால வழுவமைதி",
+      "பால் வழுவமைதி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தன்னைத் தன்மை இடத்தில் கூறாமல் படர்க்கை இடத்தில் கூறுவது இட வழுவமைதி.",
+    "active": true
+  },
+  {
+    "id": "LhUwdoC5vssI1DftAyJE",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வழுவமைதி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "இலக்கண முறைப்படி பிழையுடையதெனினும், இலக்கண ஆசிரியர்களால் ஏதேனும் ஒரு காரணம் கருதிப் பிழையன்று என ஏற்றுக்கொள்ளப்படுவது?",
+    "options": [
+      "வழு",
+      "வழாநிலை",
+      "மரபு",
+      "வழுவமைதி"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "இதுவே வழுவமைதி ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "LxW4gLJaJCIPZ0nPP81a",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வழு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வழு' என்னும் சொல்லின் பொருள் எது?",
+    "options": [
+      "அழகு, சிறப்பு",
+      "வளர்ச்சி, முன்னேற்றம்",
+      "மரபு, பண்பாடு",
+      "பிழை, தவறு, குற்றம்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "வழு என்பது பிழை, தவறு, குற்றம் ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "M93ntX7P0wBqsW8Ht4I9",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "ஒலி மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'யானை' எழுப்பும் ஒலி மரபுச்சொல் எது?",
+    "options": [
+      "முழங்கும்",
+      "உறுமும்",
+      "கனைக்கும்",
+      "பிளிறும்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "யானை பிளிறும்.",
+    "active": true
+  },
+  {
+    "id": "MyQwelFqQNDWPQ2WfIJ3",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வினை மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மரம்' என்னும் பொருளுக்குரிய வினை மரபுச்சொல் எது?",
+    "options": [
+      "அரி",
+      "வெட்டு",
+      "எழுப்பு",
+      "பறி"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மரத்துக்கு 'வெட்டு' அல்லது 'தடி' என்பதே மரபுச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "NFft9ZBbDWFgfru9yN5B",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "தாவர மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தென்னை மரத்தின் இலைக்குரிய மரபுச்சொல் எது?",
+    "options": [
+      "தோகை",
+      "தாள்",
+      "கவளம்",
+      "ஓலை"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "தென்னை இலையின் மரபுச்சொல் 'ஓலை'. தோகை மயிலின் இறகு என்பதால் இது பொருந்தாது.",
+    "active": true
+  },
+  {
+    "id": "OYArFcfMX5HSMGXFHR6U",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "பால்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வீரன், அண்ணன், மருதன்' என்பன எந்தப் பால்?",
+    "options": [
+      "ஆண்பால்",
+      "பெண்பால்",
+      "பலர்பால்",
+      "ஒன்றன்பால்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஆண் மக்களைக் குறிப்பதால் இவை ஆண்பால் பெயர்கள்.",
+    "active": true
+  },
+  {
+    "id": "Oq7mWSLFSSAyp9hTlT43",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "மரபுப் பிழை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அம்பு வீசி மான்குட்டியைக் காயப்படுத்தினாள்' என்பதில் 'வீசி' என்பதற்குப் பதிலாக வர வேண்டிய மரபுச்சொல் எது?",
+    "options": [
+      "வீசி",
+      "அடித்து",
+      "பாய்ச்சி",
+      "எய்து"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அம்புக்கு 'எய்து' என்பதே மரபுச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "OtpKcfb9rP5GakVXiuU8",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "திணை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மனிதர் அல்லாத உயிருள்ளவையும் உயிரற்றவையும்' எத்திணையில் அடங்கும்?",
+    "options": [
+      "உயர்திணை",
+      "பலர்பால்",
+      "ஆண்பால்",
+      "அஃறிணை"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "மனிதர் அல்லாத உயிருள்ளவையும் உயிரற்றவையும் அஃறிணை ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "PuMJ0TiKJmOJy2N6AyOl",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வழு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'குழலி நடனம் ஆடியது' - இத்தொடரில் உள்ள திணை, பால் வழுவைத் திருத்திய சரியான தொடர் எது?",
+    "options": [
+      "குழலி நடனம் ஆடுவாள்",
+      "குழலி நடனம் ஆடிநாள்",
+      "குழலி நடனம் ஆடுகின்றாள்",
+      "குழலி நடனம் ஆடினாள்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "'குழலி' உயர்திணை பெண்பால் ஒருமை என்பதால் 'ஆடினாள்' என்பதே சரியான வினை வடிவம்.",
+    "active": true
+  },
+  {
+    "id": "QDpNaBfADIhHhI2rQYax",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "இளமைப் பெயர்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கோழியின் இளமைப் பெயர் எது?",
+    "options": [
+      "குஞ்சு",
+      "குட்டி",
+      "கன்று",
+      "பறழ்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கோழியின் இளமைப் பெயர் 'குஞ்சு'. குட்டி, கன்று, பறழ் ஆகியவை பிற விலங்குகளுக்கு உரியவை.",
+    "active": true
+  },
+  {
+    "id": "RwnA3cDEXnGQ7aRXzDTy",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வழு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நாங்கள் வந்தார்கள்' என்பதில் உள்ள வழு எது?",
+    "options": [
+      "திணை வழு",
+      "பால் வழு",
+      "கால வழு",
+      "இட வழு"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "தன்மைப் பெயர் 'நாங்கள்' படர்க்கை வினை 'வந்தார்கள்' கொண்டு முடிந்துள்ளதால் இட வழு.",
+    "active": true
+  },
+  {
+    "id": "SBfgUBR2mvsvUW5rs7FV",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "மரபுச்சொல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குதிரை எழுப்பும் ஒலிக்குரிய மரபுச்சொல் எது?",
+    "options": [
+      "பிளிறும்",
+      "கனைக்கும்",
+      "அகவும்",
+      "கரையும்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "குதிரையின் ஒலி 'கனைத்தல்'; அதற்கான மரபு வினை 'கனைக்கும்'. பிளிறுவது யானை, அகவுவது மயில், கரைவது காக்கை.",
+    "active": true
+  },
+  {
+    "id": "SpXRsb36MkdXts5VWkeW",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வழாநிலை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வழாநிலை' என்பதன் பொருள் எது?",
+    "options": [
+      "பிழையின்மை, தவறின்மை",
+      "பிழையுடைய பேச்சு",
+      "மரபுத் தொடர்",
+      "பிழை ஆனால் பிழையாகக் கொள்ளாமை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "வழாநிலை என்பது பிழையின்மை, தவறின்மை.",
+    "active": true
+  },
+  {
+    "id": "TGmR4PYpzHZzIzH5v2Ur",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "ஒலி மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சிங்கம்' எழுப்பும் ஒலி மரபுச்சொல் எது?",
+    "options": [
+      "அகவும்",
+      "கனைக்கும்",
+      "முழங்கும்",
+      "உறுமும்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "சிங்கம் முழங்கும்; புலி உறுமும்; மயில் அகவும்.",
+    "active": true
+  },
+  {
+    "id": "TvaeAjkPl9GbpcTBJpro",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வினை மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பூ' என்னும் பொருளுக்குரிய வினை மரபுச்சொல் எது?",
+    "options": [
+      "பறி",
+      "இடு",
+      "கொடு",
+      "கொய்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "பூவுக்கு 'கொய்' என்பதே மரபுச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "V9KfamDdPmXmbl5WBBah",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "திணை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "உலகம் முழுவதையும் தமிழ் மரபில் எவ்விரு திணைகளாகப் பிரிப்பர்?",
+    "options": [
+      "ஆண்பால், பெண்பால்",
+      "தன்மை, முன்னிலை",
+      "உயர்திணை, அஃறிணை",
+      "ஒருமை, பன்மை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "தொல்காப்பியர் காலம் தொட்டு உலகம் முழுவதையும் உயர்திணை, அஃறிணை என இரண்டாகப் பிரிப்பது தமிழ் மரபு.",
+    "active": true
+  },
+  {
+    "id": "VTzuCTHcKk4t1rGq7qV9",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வினை மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'காய்கறி' என்னும் பொருளுக்குரிய வினை மரபுச்சொல் எது?",
+    "options": [
+      "அரி",
+      "பறி",
+      "கொய்",
+      "வெட்டு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "காய்கறிக்கு 'அரி' என்பதே மரபுச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "VpPcTPkWP1G6eA5o3Y5f",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "ஒலி மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'குயில்' எழுப்பும் ஒலி மரபுச்சொல் எது?",
+    "options": [
+      "அகவும்",
+      "கூவும்",
+      "கனைக்கும்",
+      "பிளிறும்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "குயில் கூவும்; மயில் அகவும்.",
+    "active": true
+  },
+  {
+    "id": "WPPFRin7bzGiPxPVZKwg",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "நால்வகைப் பொருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பாவேந்தர், பாரதியைப் புகழ்ந்து பாடினார்' என்பது எவ்வகைப் பொருத்தம்?",
+    "options": [
+      "திணைப் பொருத்தம்",
+      "இடப் பொருத்தம்",
+      "சிறப்புப் பொருத்தம்",
+      "எண் பொருத்தம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'பாவேந்தர்' என்பது பாரதிதாசனைக் குறிக்கும் சிறப்புப் பெயர் என்பதால் சிறப்புப் பொருத்தம்.",
+    "active": true
+  },
+  {
+    "id": "WRKZN6Y8Eg4VjmaS0r95",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "மரபுப் பிழை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அணில் பழம் சாப்பிட்டது' என்பதில் 'சாப்பிட்டது' என்பதற்குரிய மரபுச்சொல் எது?",
+    "options": [
+      "உண்டது",
+      "குடித்தது",
+      "தின்றது",
+      "பருகியது"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பழத்துக்கு 'தின்' என்பதே மரபுச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "WsQasOonjoupP4N2DPrS",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வழு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பால் வழுவுக்கு எடுத்துக்காட்டான தொடர் எது?",
+    "options": [
+      "அவன் வந்தாள்",
+      "அவன் வந்தான்",
+      "அவர்கள் வந்தனர்",
+      "அவள் வந்தாள்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'அவன்' ஆண்பால்; அதற்கு 'வந்தாள்' என்ற பெண்பால் வினை கொடுக்கப்பட்டுள்ளதால் பால் வழு.",
+    "active": true
+  },
+  {
+    "id": "XNs4cipSoRKxnZeHUjPE",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "மரபுப் பிழை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கஞ்சி சாப்பிட்டால் காய்ச்சலுக்கு நல்லது' என்பதில் 'சாப்பிட்டால்' என்பதற்குரிய மரபுச்சொல் எது?",
+    "options": [
+      "உண்டால்",
+      "குடித்தால்",
+      "தின்றால்",
+      "கொறித்தால்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "கஞ்சிக்கு 'குடி' என்பதே மரபுச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "XPOI9BridaFVrrjbe7yv",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "பால்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "உயர்திணைப் பால்கள் எத்தனை?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "உயர்திணைப் பால்கள் மூன்று: ஆண்பால், பெண்பால், பலர்பால்.",
+    "active": true
+  },
+  {
+    "id": "Xq70NVN6hffeoasdvg78",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "நால்வகைப் பொருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வண்டுகள் தேன் குடித்தன' என்பது எவ்வகைப் பொருத்தம்?",
+    "options": [
+      "திணைப் பொருத்தம்",
+      "பால் பொருத்தம்",
+      "எண் பொருத்தம்",
+      "இடப் பொருத்தம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வண்டுகள் (பலவின்பால் எழுவாய்), குடித்தன (பலவின்பால் பயனிலை) ஆகியவை பால் பொருத்தத்தைக் காட்டுகின்றன.",
+    "active": true
+  },
+  {
+    "id": "YH3HpTXzzFCrRHJDt7yE",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "ஒலி மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'குதிரை' எழுப்பும் ஒலி மரபுச்சொல் எது?",
+    "options": [
+      "உறுமும்",
+      "பிளிறும்",
+      "குரைக்கும்",
+      "கனைக்கும்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "குதிரை கனைக்கும்; யானை பிளிறும்; நாய் குரைக்கும்.",
+    "active": true
+  },
+  {
+    "id": "YgHwDH9nLE0HfP2lVXwh",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வழு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'இன்று வருவான்' என்பதில் உள்ள வழு எது?",
+    "options": [
+      "பால் வழு",
+      "கால வழு",
+      "இட வழு",
+      "திணை வழு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'இன்று' நிகழ்காலத்தைக் குறிக்க, எதிர்கால வினை 'வருவான்' வந்ததால் கால வழு.",
+    "active": true
+  },
+  {
+    "id": "YnaEaPMTNXOmS8rcQ6mJ",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அரசர் பலர் வந்தார்' - பிழை திருத்திய சரியான தொடர் எது?",
+    "options": [
+      "அரசர் பலர் வந்தான்",
+      "அரசர் பலர் வந்தனர்",
+      "அரசர் பலர் வந்தாள்",
+      "அரசர் பலர் வந்தது"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'அரசர்' பலர்பாலைக் குறிப்பதால், பலர்பால் வினைமுற்றான 'வந்தனர்' என்பதே சரி.",
+    "active": true
+  },
+  {
+    "id": "ZS8LafRNqiNKGvTuEam8",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "தொகை மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பசு' ஒன்றாக இருப்பதற்கான தொகை மரபுச்சொல் எது?",
+    "options": [
+      "மந்தை",
+      "கூட்டம்",
+      "நிரை",
+      "படை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பசுக்கள் ஒன்றாக இருப்பது 'நிரை' எனப்படும்.",
+    "active": true
+  },
+  {
+    "id": "ZfB5ixi7h3bY214x2uRe",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "ஒலி மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நாய்' எழுப்பும் ஒலி மரபுச்சொல் எது?",
+    "options": [
+      "குரைக்கும்",
+      "கத்தும்",
+      "அலறும்",
+      "கூவும்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நாய் குரைக்கும் என்பதே மரபு.",
+    "active": true
+  },
+  {
+    "id": "ZuHpaDxXaja1imhIMFGt",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "இருதிணை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "இருதிணைக்கும் பொதுவாக வரும் சொல் எது?",
+    "options": [
+      "மரம்",
+      "மக்கள்",
+      "குழந்தை",
+      "பூ"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'குழந்தை', 'கதிரவன்' போன்ற சொற்கள் உயர்திணை, அஃறிணை இரண்டிற்கும் பொதுவாக வரும்.",
+    "active": true
+  },
+  {
+    "id": "ajyWnCXxzPlN5rZhRaQJ",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "திணை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "மனிதர் எத்திணையைச் சார்ந்தவர்?",
+    "options": [
+      "அஃறிணை",
+      "உயர்திணை",
+      "இருதிணை",
+      "எதுவுமில்லை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மனிதர் உயர்திணையைச் சார்ந்தவர்.",
+    "active": true
+  },
+  {
+    "id": "bSOt70hvZ70qbr37YoIN",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வழு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நாளை பள்ளி திறக்கப்படுமா?' என்னும் வினாவுக்கு 'என் அத்தைக்கு உடல்நலமில்லை' எனக் கூறுவது?",
+    "options": [
+      "வினா வழு",
+      "மரபு வழு",
+      "விடை வழு",
+      "பால் வழு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "வினாவுக்குப் பொருத்தமற்ற விடை அளிப்பது விடை வழு.",
+    "active": true
+  },
+  {
+    "id": "bmdl2bXRcdpxRl334uqr",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "இளமைப் பெயர் மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மயில்' என்னும் பறவையின் இளமைப் பெயர் எது?",
+    "options": [
+      "குட்டி",
+      "குஞ்சு",
+      "கன்று",
+      "குருளை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மயிலின் இளமைப் பெயர் 'குஞ்சு'.",
+    "active": true
+  },
+  {
+    "id": "bpLbuma6gCghewt7sy9e",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "தொகை மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'காகம்' கூடி இருப்பதற்கான தொகை மரபுச்சொல் எது?",
+    "options": [
+      "கூட்டம்",
+      "குழு",
+      "மந்தை",
+      "நிரை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "காகங்கள் ஒன்றாக இருப்பது 'குழு' எனப்படும்.",
+    "active": true
+  },
+  {
+    "id": "bvd6I8lh8LS8VK2rm0Be",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "ஒன்றொழி பொதுச்சொல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வீட்டின்முன் ஐவர் கோலமிட்டனர்' என்னும் தொடரில் 'ஐவர்' எந்தப் பாலை உணர்த்துகிறது?",
+    "options": [
+      "ஆண்பால்",
+      "பெண்பால்",
+      "ஒன்றன்பால்",
+      "பலவின்பால்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'கோலமிட்டனர்' என்னும் குறிப்பால் ஆண்பாலை நீக்கிப் பெண்பாலை உணர்த்துகிறது. இது ஒன்றொழி பொதுச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "by0y3mJ3BYGjYQetzNjU",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வழு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கண்ணகி வந்தான்' என்பதில் உள்ள வழு எது?",
+    "options": [
+      "திணை வழு",
+      "இட வழு",
+      "பால் வழு",
+      "கால வழு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பெண்பால் பெயர் 'கண்ணகி' ஆண்பால் வினை 'வந்தான்' கொண்டு முடிந்துள்ளதால் பால் வழு.",
+    "active": true
+  },
+  {
+    "id": "ckE1hBXzcqHSGpbxVB7H",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "இருப்பிட மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சிலந்தி' வாழும் இடத்திற்குரிய மரபுச்சொல் எது?",
+    "options": [
+      "கூடு",
+      "தொழுவம்",
+      "புற்று",
+      "வலை"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "சிலந்தியின் இருப்பிடம் 'வலை'.",
+    "active": true
+  },
+  {
+    "id": "gSSq7coOOjVOe7MdrjpJ",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "அளபெடை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பொய்ய்ய்' என்பதில் நீண்டு ஒலிப்பது எது?",
+    "options": [
+      "பொ",
+      "ய்",
+      "பொய்",
+      "ஒலி"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மெய்யெழுத்தாகிய 'ய்' நீண்டு ஒலித்தது. இது ஒற்றளபெடை.",
+    "active": true
+  },
+  {
+    "id": "hcPKHUDKs0sjciHiRjEh",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வினை மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கோழியின் ஒலிக்குரிய சரியான மரபுவினை எது?",
+    "options": [
+      "அகவும்",
+      "கரையும்",
+      "பிளிறும்",
+      "கொக்கரிக்கும்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "கோழி 'கொக்கரிக்கும்'. அகவும் மயிலுக்கும், கரையும் காக்கைக்கும், பிளிறும் யானைக்கும் உரியவை.",
+    "active": true
+  },
+  {
+    "id": "i2eAr3tpvoQvZfnEvPiW",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "இருப்பிட மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நண்டு' வாழும் இடத்திற்குரிய மரபுச்சொல் எது?",
+    "options": [
+      "வளை",
+      "கூடு",
+      "புற்று",
+      "தொழுவம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நண்டு வளையில் வாழும்; அதன் இருப்பிடம் 'வளை'.",
+    "active": true
+  },
+  {
+    "id": "idYY8G3Bl8jBeBtxOsTc",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "ஆண்-பெண் மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'யானை'யின் ஆண்பாலுக்குரிய மரபுப் பெயர் எது?",
+    "options": [
+      "பிடி",
+      "பேடு",
+      "கடுவன்",
+      "களிறு"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "யானையின் ஆண் 'களிறு'; பெண் 'பிடி'.",
+    "active": true
+  },
+  {
+    "id": "ii3BXMhB75OtqkWFnOyx",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "அளபெடை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'உப்பூஉஉஉ' என்பது எவ்வகை அளபெடை?",
+    "options": [
+      "ஒற்றளபெடை",
+      "இன்னிசை அளபெடை",
+      "உயிர் அளபெடை",
+      "சொல்லிசை அளபெடை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "உயிர் எழுத்தாகிய 'ஊ' நீண்டு ஒலித்ததால் உயிர் அளபெடை.",
+    "active": true
+  },
+  {
+    "id": "jUzXTrikTmUbvfmeh4PK",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "தொகை மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஆடு' ஒன்றாக இருப்பதற்கான தொகை மரபுச்சொல் எது?",
+    "options": [
+      "கூட்டம்",
+      "மந்தை",
+      "நிரை",
+      "குழு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஆடுகள் ஒன்றாக இருப்பது 'மந்தை' எனப்படும்.",
+    "active": true
+  },
+  {
+    "id": "jePe9HKh9wOmyb06DlRr",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வினை மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தண்ணீர்' என்னும் பொருளுக்குரிய வினை மரபுச்சொல் எது?",
+    "options": [
+      "பருகு",
+      "குடி",
+      "உண்",
+      "தின்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "தண்ணீர், நீர் ஆகியவற்றுக்கு 'குடி' என்பதே மரபுச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "juUhmHtBcmAesE8bLIgB",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "இளமைப் பெயர் மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'குதிரை' என்னும் விலங்கின் இளமைப் பெயர் எது?",
+    "options": [
+      "குஞ்சு",
+      "கன்று",
+      "குருளை",
+      "குட்டி"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "குதிரையின் இளமைப் பெயர் 'குட்டி'.",
+    "active": true
+  },
+  {
+    "id": "kmcRfJzwnGoIeRr0DRzt",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கனிமொழி பாடம் படித்தாய்' (கனிமொழி என்பவள் பெண்) என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "கனிமொழி பாடம் படித்தான்",
+      "கனிமொழி பாடம் படித்தனர்",
+      "கனிமொழி பாடம் படித்தாள்",
+      "கனிமொழி பாடம் படித்தது"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "கனிமொழி பெண்பால் ஒருமை என்பதால் 'படித்தாள்' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "l896ONqEgS2oOYWNikEy",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "காலம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பார்க்கிறான், ஆடுகின்றாள், பறக்கின்றது' என்பன எந்தக் காலம்?",
+    "options": [
+      "இறந்த காலம்",
+      "எதிர்காலம்",
+      "நிகழ்காலம்",
+      "முக்காலம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "நடந்துகொண்டிருக்கும் செயலைக் குறிப்பது நிகழ்காலம்.",
+    "active": true
+  },
+  {
+    "id": "lBskXYtRLJm51p1W6xem",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வழு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'என் மாமா வந்தது' என்பதில் உள்ள வழு எது?",
+    "options": [
+      "பால் வழு",
+      "திணை வழு",
+      "இட வழு",
+      "கால வழு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "உயர்திணைப் பெயர் 'மாமா' அஃறிணை வினை 'வந்தது' கொண்டு முடிந்துள்ளதால் திணை வழு.",
+    "active": true
+  },
+  {
+    "id": "lMiXOt79gp2fGbKW6ybL",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வினை மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பானை' என்னும் பொருளுக்குரிய வினை மரபுச்சொல் எது?",
+    "options": [
+      "வனை",
+      "செய்",
+      "கட்டு",
+      "அடி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பானைக்கு 'வனை' என்பதே மரபுச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "lhttIaipMqeKWmghCO0o",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "இடைச்சொல் பொருள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மான் கொல்? மயில் கொல்?' என்னும் தொடரில் 'கொல்' என்னும் சொல் உணர்த்தும் பொருள் எது?",
+    "options": [
+      "ஐயம்",
+      "வியப்பு",
+      "வினா",
+      "இடம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'கொல்' என்னும் சொல் பெரும்பாலும் ஐயப்பொருளில் வரும். இவள் மானோ மயிலோ எனப் பொருள்.",
+    "active": true
+  },
+  {
+    "id": "mBPMh2SAhv5IoKJ07bfn",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "பொருந்தா சொல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பொருந்தாத சொற்றொடரைத் தேர்ந்தெடு.",
+    "options": [
+      "மாடு கத்தும்",
+      "யானை பிளிறும்",
+      "குயில் கொஞ்சும்",
+      "மயில் அகவும்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "குயில் 'கூவும்' என்பதே மரபு. 'கொஞ்சும்' பொருந்தாது. மாடு கத்தும், யானை பிளிறும், மயில் அகவும் ஆகியவை சரி.",
+    "active": true
+  },
+  {
+    "id": "mcdkXK9zngJgCWU3jrlv",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "மரபுப் பிழை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தென்னை இலையால் கீற்றுப் பின்னுவார்கள்' என்பதில் 'இலையால்' என்பதற்குப் பதிலாக வர வேண்டிய மரபுச்சொல் எது?",
+    "options": [
+      "கீற்றால்",
+      "இலைகளால்",
+      "ஓலையால்",
+      "நாரால்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "தென்னை இலைக்கு 'ஓலை' என்பதே மரபுப் பெயர்.",
+    "active": true
+  },
+  {
+    "id": "muLL48MuqBQ4b9cJOVMk",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வழு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'முட்டையிட்டது சேவலா பெட்டையா?' என்னும் வினா எவ்வகை வழு?",
+    "options": [
+      "வினா வழு",
+      "விடை வழு",
+      "மரபு வழு",
+      "பால் வழு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "சேவல் முட்டையிடாது என்பதை அறிந்தும் பொருத்தமற்ற வினா கேட்பதால் வினா வழு.",
+    "active": true
+  },
+  {
+    "id": "n8GIfBUeKUgt6Gv4BUfu",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "காலம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'காண்பான், ஆடுவாள், பறக்கும்' என்பன எந்தக் காலம்?",
+    "options": [
+      "எதிர்காலம்",
+      "இறந்த காலம்",
+      "நிகழ்காலம்",
+      "எதுவுமில்லை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நடக்கவிருக்கும் செயலைக் குறிப்பது எதிர்காலம்.",
+    "active": true
+  },
+  {
+    "id": "oxCX1aSLNF12EvxaebKk",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "தாவர மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அகத்தி, பசலை, முருங்கை' ஆகியவற்றின் இலைக்குரிய மரபுப் பெயர் எது?",
+    "options": [
+      "கீரை",
+      "கீற்று",
+      "இலை",
+      "பூ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அகத்தி, பசலை, முருங்கை ஆகியவற்றின் இலைகள் 'கீரை' எனப்படும்.",
+    "active": true
+  },
+  {
+    "id": "pnfTxLkOx4ogP8S8Cvki",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "பால்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மகள், கண்ணகி, தலைவி' என்பன எந்தப் பால்?",
+    "options": [
+      "ஒன்றன்பால்",
+      "பலவின்பால்",
+      "ஆண்பால்",
+      "பெண்பால்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "பெண் மக்களைக் குறிப்பதால் இவை பெண்பால் பெயர்கள்.",
+    "active": true
+  },
+  {
+    "id": "qHdnAi5yhIjPHZXMpxkL",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "பிழை திருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தாமரை (என்னும் பெண்) படம் வரைந்தான்' என்பதன் சரியான வடிவம் எது?",
+    "options": [
+      "தாமரை படம் வரைந்தாள்",
+      "தாமரை படம் வரைந்தது",
+      "தாமரைகள் படம் வரைந்தன",
+      "தாமரை படம் வரைந்தன"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தாமரை பெண்பால் ஒருமை என்பதால் 'வரைந்தாள்' என வர வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "qfV01xBuiGVPfKJaga0O",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "நூல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'உயர்திணை என்மனார் மக்கட் சுட்டே அஃறிணை என்மனார் அவரல பிறவே' என்னும் நூற்பா இடம்பெற்ற இலக்கண நூல் எது?",
+    "options": [
+      "நன்னூல்",
+      "அகத்தியம்",
+      "இலக்கண விளக்கம்",
+      "தொல்காப்பியம்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "இந்த நூற்பா தொல்காப்பியத்தில் இடம்பெற்றுள்ளது.",
+    "active": true
+  },
+  {
+    "id": "qfa9Yyc59ixJqNNGCeAM",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "காலம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பாத்திமா தேர்வை நன்றாக எழுதவில்லை' என்பதில் 'எழுதவில்லை' எந்தக் காலம்?",
+    "options": [
+      "நிகழ்காலம்",
+      "இறந்த காலம்",
+      "எதிர்காலம்",
+      "முக்காலம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'இல்லை' என முடியும் வினை நடந்த செயலை எதிர்மறையாகக் குறிப்பதால் இறந்த காலம்.",
+    "active": true
+  },
+  {
+    "id": "s79Z1GtR5g2zdKUw4dv1",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "இளமைப் பெயர் மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'புலி' என்னும் விலங்கின் இளமைப் பெயர் எது?",
+    "options": [
+      "பறழ்",
+      "பிள்ளை",
+      "கன்று",
+      "குஞ்சு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "புலியின் இளமைப் பெயர் 'பறழ்'.",
+    "active": true
+  },
+  {
+    "id": "tM4LjV5YaIG8vhXS7WP2",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "வழுவமைதி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "உவகை, சிறப்பு, உயர்வு, உறுதி, சினம் காரணமாக வழுவமைதியாக ஏற்றுக்கொள்ளப்படுபவை எவை?",
+    "options": [
+      "மரபு வழுவமைதி மட்டும்",
+      "இட வழுவமைதி மட்டும்",
+      "திணை வழுவும் பால் வழுவும் காலவழுவும்",
+      "வினா வழுவும் விடை வழுவும்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "இக்காரணங்களால் திணை, பால், கால வழுக்கள் வழுவமைதியாக ஏற்கப்படும்.",
+    "active": true
+  },
+  {
+    "id": "uE4RKCFxc1mVm8K4ALQA",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "தாவர மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அருகு, கோரை' ஆகியவற்றின் மரபுப் பெயர் எது?",
+    "options": [
+      "தாள்",
+      "புல்",
+      "கீரை",
+      "தழை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அருகு, கோரை ஆகியவை 'புல்' எனப்படும்.",
+    "active": true
+  },
+  {
+    "id": "vcBce9oj9SE0aavtIpCu",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "தாவர மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பனை, தென்னை' ஆகியவற்றின் இலைக்குரிய மரபுப் பெயர் எது?",
+    "options": [
+      "மடல்",
+      "தோகை",
+      "ஓலை",
+      "சூந்தல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பனை, தென்னை இலைகளுக்கு 'ஓலை' என்பதே மரபுப் பெயர்.",
+    "active": true
+  },
+  {
+    "id": "wIjO96ak3LyAb2ziN7tY",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "இருப்பிட மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கரையான்' வாழும் இடத்திற்குரிய மரபுச்சொல் எது?",
+    "options": [
+      "வளை",
+      "வலை",
+      "புற்று",
+      "தொழுவம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "கரையானின் இருப்பிடம் 'புற்று'.",
+    "active": true
+  },
+  {
+    "id": "wM2pWy3LNLF4Ff90dYzx",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "திணை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பின்வருவனவற்றுள் அஃறிணைப் பெயர் எது?",
+    "options": [
+      "ஆசிரியர்",
+      "அரசி",
+      "கண்ணன்",
+      "பூ"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "பூ, மரம், பூனை, குருவி போன்றவை மனிதர் அல்லாத உயிரினங்களையும் உயிரற்ற பொருள்களையும் குறிப்பதால் அஃறிணைப் பெயர்கள்.",
+    "active": true
+  },
+  {
+    "id": "wfkd4fyjRugFCwKUW8c4",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "மரபுப் பிழை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தோட்டத்தில் உள்ள வாழைச் செடி' என்பதில் 'செடி'க்குப் பதிலாக வர வேண்டிய மரபுச்சொல் எது?",
+    "options": [
+      "கன்று",
+      "குட்டி",
+      "குஞ்சு",
+      "கொடி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "வாழையின் இளமை நிலைக்கு 'கன்று' என்பதே மரபுச்சொல்.",
+    "active": true
+  },
+  {
+    "id": "wgBbl3lVi94UGtLlMTOA",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "தொகை மரபு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வீரர்கள்' ஒன்றாக இருப்பதற்கான தொகை மரபுச்சொல் எது?",
+    "options": [
+      "குழு",
+      "நிரை",
+      "மந்தை",
+      "படை"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "வீரர்கள் ஒன்றாக இருப்பது 'படை' எனப்படும்.",
+    "active": true
+  },
+  {
+    "id": "wgnBcPQfNkhBEFWPDe14",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "நால்வகைப் பொருத்தம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'விண்கலங்கள் விண்ணில் பறந்தன' என்பது எவ்வகைப் பொருத்தம்?",
+    "options": [
+      "எண் பொருத்தம்",
+      "பால் பொருத்தம்",
+      "திணைப் பொருத்தம்",
+      "இடப் பொருத்தம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "விண்கலங்கள் பன்மை, பறந்தன பன்மை வினை என்பதால் எண் பொருத்தம்.",
+    "active": true
+  },
+  {
+    "id": "xQ5533Wv0EC2tIegMFC8",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "பால்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பால் என்பது எதன் உட்பிரிவு?",
+    "options": [
+      "திணை",
+      "காலம்",
+      "இடம்",
+      "வினா"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பால் என்பது திணையின் உட்பிரிவு.",
+    "active": true
+  },
+  {
+    "id": "yaOS5DCet0aakmOYtA47",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "காலம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "நூலின்படி காலம் எத்தனை வகைப்படும்?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "காலம் மூன்று வகைப்படும்: இறந்த காலம், நிகழ்காலம், எதிர்காலம்.",
+    "active": true
+  },
+  {
+    "id": "zjAgx4gv3PXKlsVlQ8TI",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "திணை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வீரன், அம்மா, நடிகன், கண்ணகி' ஆகியவை எத்திணைப் பெயர்கள்?",
+    "options": [
+      "உயர்திணைப் பெயர்கள்",
+      "அஃறிணைப் பெயர்கள்",
+      "இடப்பெயர்கள்",
+      "காலப்பெயர்கள்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பகுத்தறிவுடைய மக்களைக் குறிப்பதால் இவை உயர்திணைப் பெயர்கள்.",
+    "active": true
+  },
+  {
+    "id": "zskURdTS5AKQgkrNnIu2",
+    "subject": "group4series",
+    "class": "Unit 3 - மரபுத் தமிழ்",
+    "topic": "காலம",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'குமரன் மழையில் நனைந்தான்' - இத்தொடரின் காலம் எது?",
+    "options": [
+      "நிகழ் காலம்",
+      "இறந்த காலம்",
+      "எதிர் காலம்",
+      "காலவழு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'நனைந்தான்' மழை பெய்து முடிந்த செயலைக் குறிப்பதால் இறந்த காலம்.",
+    "active": true
+  }
+]

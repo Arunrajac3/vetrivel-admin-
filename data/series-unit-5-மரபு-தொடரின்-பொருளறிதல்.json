@@ -1,0 +1,2472 @@
+[
+  {
+    "id": "0d1jcCbeY0DGMk07tYbg",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - காலம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஆயிரங்காலத்துப் பயிர்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "விரைவில் அழியும் பயிர்",
+      "ஆயிரம் நாளில் விளையும் பயிர்",
+      "நீண்டகாலமாக இருப்பது",
+      "மழையில்லாத நிலம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "நீண்ட காலம் நிலைத்திருப்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "0ugPNkpbpKU2tSwDymk8",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பிடிவாதம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஒற்றைக் காலில் நிற்றல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "நடனம் ஆடுதல்",
+      "ஒரு காலால் நிற்றல்",
+      "பிடிவாதமாக இருத்தல்",
+      "தவமிருத்தல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "எவ்வளவு சொன்னாலும் தன் நிலையை விடாமல் இருப்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "1E58dfj9XLLW1mM3xdFG",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பொருள் (விளைவு)",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அள்ளியிறைத்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "நீரை அள்ளி எறிதல்",
+      "பணத்தை எண்ணிச் சேமித்தல்",
+      "அதிகமாகச் செலவு செய்தல் / அளவுக்கு மீறி அளித்தல்",
+      "நெல்லை அள்ளித் தெளித்தல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அள்ளியிறைத்தல் என்பது அளவின்றி செலவு செய்வதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "1YK8hkIRcx0owhPROcIF",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - மறைத்தல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பூசி மெழுகுதல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "வண்ணம் தீட்டுதல்",
+      "வீட்டில் பூச்சு வேலை செய்தல்",
+      "மறைத்தல்",
+      "மெழுகால் பூசுதல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "குறையை வெளியில் தெரியாமல் மறைப்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "1pJUdAA9wAqxo5MmYh6x",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - வேலை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஆணை வந்துவிட்டது' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "வேலை கிடைத்துவிட்டது",
+      "தண்டனை கிடைத்தது",
+      "அரசன் ஆணையிட்டான்",
+      "சட்டம் வந்துவிட்டது"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அரசு ஆணை வந்தது போல வேலை கிடைத்ததைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "2Z7UaSXjm7oiAWA5zHIG",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - வெளிப்பாடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சாயம் வெளுத்தது' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "நிறம் மங்குதல்",
+      "துணி வெளுத்தல்",
+      "சாயம் பூசுதல்",
+      "உண்மை வெளிப்படுதல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "போலித்தனம் வெளிப்பட்டு உண்மை தெரிவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "2uE2Sk6ntOSfn74dW40W",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பரம்பரை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வாழையடி வாழையாக வேளாண்மைத் தொழில் செய்து வருகின்றனர்' - 'வாழையடி வாழை' என்பதன் பொருள் எது?",
+    "options": [
+      "பரம்பரை பரம்பரையாக",
+      "தாளம் போடுதல்",
+      "வாழை பயிரிடுதல்",
+      "பயிர்த்தொழில் செய்தல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தலைமுறை தலைமுறையாகத் தொடர்ந்து வருவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "2xNwpmhUndeRDTfqLO7e",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - காலம் கடத்தல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பழுக்கப்போடு' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "பழங்களைத் தேர்ந்தெடுத்தல்",
+      "பழத்தை வேக வைத்தல்",
+      "பழுக்க வைத்தல்",
+      "காலம் கழித்துதல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "காலம் தாழ்த்துவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "4u8haBgK1j0yq4yWqy4g",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - விரைவு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சிட்டாய்ப் பறத்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "விரைவாகச் செல்லுதல்",
+      "சிறகு இல்லாமல் பறத்தல்",
+      "சிட்டுக்குருவியைப் பிடித்தல்",
+      "மெதுவாக நடத்தல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "சிட்டுக்குருவி போல மிக வேகமாகச் செல்வதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "4ugsgA8cCnu87QKkr9y3",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - ஆதாரம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சுவரில்லாமற் சித்திரம்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "சுவர் கட்டுதல்",
+      "சுவரில் சித்திரம் வரைதல்",
+      "ஓவியம் அழகாக இருத்தல்",
+      "ஆதாரமின்றிச் செயல்படுதல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அடிப்படை ஆதாரம் இல்லாமல் செயல்படுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "53FlsKKb9lCuD4JFhre0",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - மகிழ்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'உச்சி குளிர்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "மகிழ்ச்சியடைதல்",
+      "தலையில் தண்ணீர் ஊற்றுதல்",
+      "உடல் நடுங்குதல்",
+      "தலை குளிர்தல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மனம் மிக மகிழ்ந்து குளிர்ச்சி அடைவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "5MiHA9SEj394638QGuAH",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பொருத்தமின்மை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அவலை நினைத்து உரலை இடித்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "வேலையைச் சிறப்பாகச் செய்தல்",
+      "அவலும் உரலும் ஒன்றாக இருத்தல்",
+      "எண்ணமும் செயலும் ஒத்துவராமை",
+      "உணவு தயாரித்தல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "எண்ணியதற்கும் செய்வதற்கும் பொருத்தம் இல்லாததை உணர்த்தும்.",
+    "active": true
+  },
+  {
+    "id": "5bld971LGBHSyJZRMrKW",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - அறியாமை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கிணற்றுத்தவளை' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "கிணற்றில் குதித்தல்",
+      "வெளியுலகம் அறியாதிருத்தல்",
+      "தவளை போல் துள்ளுதல்",
+      "நீரில் வாழும் உயிரினம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "குறுகிய வட்டத்திற்குள் இருந்து பரந்த உலக அறிவு இல்லாதவரைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "6aKeAnDB0pieQeReiydj",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - உழைப்பு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஊண்உறக்கமின்றி' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "உணவு உண்ணாமல் இருத்தல்",
+      "உறக்கத்தில் பேசுதல்",
+      "ஓய்வின்றி உழைத்தல்",
+      "நன்றாகத் தூங்குதல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "உணவையும் உறக்கத்தையும் பொருட்படுத்தாமல் தொடர்ந்து உழைப்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "6bN8Bi43x5PA8V7tptz0",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - மீறல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வாளாட்டுதல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "போர் செய்தல்",
+      "மீறி நடத்தல்",
+      "வாளை ஆட்டுதல்",
+      "வாளை விற்றல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "கட்டுப்பாடுகளை மீறி அடங்காமல் நடப்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "7KA9pzCaBtxiXXoPiUNI",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - வெளிப்படை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'உள்ளங்கை நெல்லிக்கனி' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "நெல்லிக்கனி கசப்பானது",
+      "உள்ளங்கையில் நெல்லிக்கனியை வைத்தல்",
+      "கனியை மறைத்தல்",
+      "வெளிப்படையாகத் தெரிதல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "உள்ளங்கை நெல்லிக்கனி போல எளிதில் அனைவருக்கும் தெளிவாகத் தெரியும் என்பது பொருள்.",
+    "active": true
+  },
+  {
+    "id": "7YWC8KSQe20MPBPvWJcK",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - உண்மையின்மை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'உதட்டளவு' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "மனதார இல்லாமல் வாயளவில் மட்டும்",
+      "உதடு தடித்தல்",
+      "உதட்டில் அணியும் அளவு",
+      "உதட்டில் சாயம் பூசுதல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மனத்திலிருந்து வராமல் வெறும் வார்த்தையளவில் மட்டும் சொல்வதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "8mHizlwRTKlfcBFGplbZ",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - மகிழ்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மேளதாளத்துடன்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "இசைக் கருவிகளுடன்",
+      "சத்தத்துடன்",
+      "ஊர்வலம் செல்லுதல்",
+      "மகிழ்ச்சியுடனும் சிறப்புடனும்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "இசையும் ஆரவாரமுமாக மகிழ்ச்சியுடன் நிகழ்வதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "8xh1Es4T3tjFBjy1sDPt",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பொருள் (செயல்)",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அவசரக்குடுக்கை' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "எண்ணிச் செயல்படாமை",
+      "பொறுமையாகக் காத்திருத்தல்",
+      "குடுவை நிறைய நீர் வைத்தல்",
+      "நிதானமாகச் செயல்படுதல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "எதையும் ஆராயாமல் அவசரமாகச் செயல்படுபவரைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "905ABdblwud2sxePCipb",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - எதிர்ப்பு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஏட்டிக்குப் போட்டி' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "ஏட்டில் போட்டி வைத்தல்",
+      "ஏடு எழுதுதல்",
+      "எதிர்த்துப் பேசுதல்",
+      "போட்டியில் வெற்றி பெறுதல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஒருவர் சொல்வதற்கு மாறாக மற்றவர் எதிர்த்துப் பேசுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "9cn5kHw0lFj8zlOEZApa",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - ஏமாற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'காதில் பூச்சுற்றுதல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "ஏமாற்றுதல்",
+      "காதைச் சுத்தம் செய்தல்",
+      "காதணி அணிதல்",
+      "காதில் பூ வைத்தல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பொய் சொல்லிப் பிறரை நம்ப வைத்து ஏமாற்றுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "9eUR14VxAijEsI2MpXPt",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - சுயமுயற்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சொந்தக்காலில் நிற்றல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "நடக்க முடியாமல் இருத்தல்",
+      "பிறர் காலில் விழுதல்",
+      "சொந்த உழைப்பில் முன்னேறுதல்",
+      "காலை நீட்டி நிற்றல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பிறரை எதிர்பாராமல் தன் முயற்சியால் வாழ்வதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "ABoCGpjJ6Pj0LCEz1Ay4",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - கைவிடுதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கை கழுவுதல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "கையில் பணம் சேர்த்தல்",
+      "விட்டு விடுதல் / ஒதுக்கி விடுதல்",
+      "கைகளால் கழுவுதல்",
+      "கையைச் சுத்தம் செய்தல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஒரு பொறுப்பிலிருந்தும் தொடர்பிலிருந்தும் விலகிவிடுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "Aa3xeFOJekZHa4UbRlWP",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - அறிவு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கண் திறத்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "கண் அறுவை சிகிச்சை செய்தல்",
+      "அறிவு புகட்டுதல்",
+      "கண்ணைத் திறந்து பார்த்தல்",
+      "தூங்கி எழுதல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஒருவருக்கு உண்மையை உணர்த்துவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "AkimVJ5HpL0LxSWnF41f",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - உறுதி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஆணி அடித்தாற்போல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "எளிதில் கழன்று விழுதல்",
+      "சத்தமாக ஒலித்தல்",
+      "தொடர்ந்து அசைதல்",
+      "நிலையாக நிற்றல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "ஆணி அடித்ததைப் போல உறுதியாக நிலைத்து நிற்றலைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "Al4VGpjO2I3sF2zXQmto",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - அளவின்மை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தங்குதடையின்றி' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "தடையை எதிர்த்து",
+      "அளவின்றி ஏராளமாக",
+      "தங்கும் இடமின்றி",
+      "தங்கத்தால் ஆன"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "தடையின்றி அதிகமாகச் செல்வதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "AoDaxq5a5YsZvGVHjYP1",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - மன்னிப்பு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'காலில் விழுதல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "கால் வலி ஏற்படுதல்",
+      "மன்னிப்புக் கேட்டல் / ஆசி பெறுதல்",
+      "காலில் அடிபடுதல்",
+      "நிலத்தில் விழுதல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பணிந்து மன்னிப்புக் கேட்பதையோ பெரியவர்களின் ஆசி பெறுவதையோ குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "BcQliwop86XRQPya3bYI",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - சமாளித்தல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பல்லைக் காட்டுதல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "பல் துலக்குதல்",
+      "பல் வலியால் துடித்தல்",
+      "பல்லால் கடித்தல்",
+      "தவறைச் சிரித்துச் சமாளித்தல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "தவறை மறைக்க இளித்துக் கொண்டு நிற்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "CNOAn3d2hyAUjVWFFBvm",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - அச்சம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வயிற்றில் புளியைக் கரைத்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "புளி சாப்பிடுதல்",
+      "பயப்படுதல்",
+      "வயிற்றுவலி ஏற்படுதல்",
+      "உணவு சமைத்தல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பெரும் பயத்தால் மனம் கலங்குவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "CTF4rkCLaLzn6IYcnzYF",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பொறாமை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கண்ணை உறுத்துகிறது' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "கண்ணில் வலி ஏற்படுதல்",
+      "கண் பார்வை மங்குதல்",
+      "பொறாமை",
+      "கண்ணுக்கு இதமாக இருத்தல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பிறரின் நலனைக் கண்டு பொறாமைப்படுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "CWN3kqhqFXhO5tqWwkAQ",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பொய்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பச்சைப்பொய்' என்பதன் பொருள் எது?",
+    "options": [
+      "பேச்சில் பொய்",
+      "சிறிது உண்மையும் கலந்த பொய்",
+      "ஏமாற்றுதல்",
+      "முற்றிலும் பொய்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "சிறிதும் உண்மையற்ற, முற்றிலும் பொய்யான செய்தியைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "CY2xuOxALHcqk7aGFMWC",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - அறிவு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'புத்தகப் பூச்சி' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "உலக அறிவின்றி நூலறிவு மட்டுமே உள்ளவன்",
+      "புத்தகம் விற்பவன்",
+      "புத்தகத்தில் வாழும் பூச்சி",
+      "படிக்கத் தெரியாதவன்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நடைமுறை அறிவின்றி புத்தக அறிவு மட்டுமே உடையவரைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "EJFb9CDk7e1TgjoOKxCN",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - எதிர்ப்பு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'எதிர்நீச்சல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "தோல்வியை ஏற்றல்",
+      "போராடி வெல்லுதல்",
+      "நீரில் பின்னோக்கி நீந்துதல்",
+      "எதிர்ப்பின்றிச் செல்லுதல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "தடைகளை எதிர்த்துப் போராடி வெற்றி பெறுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "F4vxKbphZR4CUYTGcYqt",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பரந்த மனம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சங்கப் பலகை' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "சிறிய இடத்தில் சுருங்குதல்",
+      "விரிந்து அனைவருக்கும் இடம் கொடுப்பது",
+      "சங்கத்தில் பலகை பயன்படுத்துதல்",
+      "பலகை நிறைய எழுதுதல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பரந்த மனத்துடன் எல்லோருக்கும் வாய்ப்பு அளிப்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "F513gIGg0ViYDLT9rlj5",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - மறைவு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஒளிவுமறைவு' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "வெளிச்சம் பெறுதல்",
+      "ரகசியமாக மறைத்தல்",
+      "இருட்டில் நடத்தல்",
+      "ஒளி மங்குதல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஒன்றை வெளிப்படுத்தாமல் மறைத்து வைப்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "FgTz2yW0XLLsiLTz5pqj",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பேச்சு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'இரட்டை நாக்கு பேர்வழி' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "அதிகம் பேசுபவர்",
+      "இனிமையாகப் பேசுபவர்",
+      "மாற்றி மாற்றிப் பேசுபவர்",
+      "பேசவே தெரியாதவர்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஒருவரிடம் ஒன்றும் மற்றவரிடம் வேறொன்றும் பேசுபவரைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "GWhXprtmlpVveoyA45Aa",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - உறுதி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஆணித்தரம்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "உறுதியாக",
+      "ஆணி அடித்தல்",
+      "தரம் குறைவாக",
+      "மெல்லியதாக"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "வாதம் அல்லது கருத்து மிகத் தெளிவாகவும் உறுதியாகவும் இருப்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "GeuFQAbRHKREcdKAv9gC",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பொருள் (அரிது)",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அத்தி பூத்தாற் போல' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "வேகமாக, விரைவாக",
+      "அரிதாக, அதிசயமாக",
+      "அழகாக, நேர்த்தியாக",
+      "அடிக்கடி, தொடர்ந்து"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அத்தி மரம் அரிதாகவே பூக்கும்; அதுபோல அரிதாக நிகழ்வதைக் குறிக்கிறது.",
+    "active": true
+  },
+  {
+    "id": "H0TedzqQFv4OoN9PFC4P",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பொறுப்பு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தட்டிக் கழித்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "பொறுப்பை ஏற்காமை",
+      "தட்டில் உணவைக் கழித்தல்",
+      "கதவைத் தட்டித் திறத்தல்",
+      "தட்டிக் கேட்டுப் பொறுப்பேற்றல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தனக்குரிய வேலையைப் பிறர் மீது தள்ளிவிடுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "H94RdAapfXkBfql8Box2",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - ஆசை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கண்பார்த்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "கண் தெரியாமல் இருத்தல்",
+      "கண்காணித்தல்",
+      "ஆசைப்படுதல்",
+      "பார்வை பரிசோதித்தல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஒன்றின் மீது விருப்பம் கொள்வதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "HhWzVvlB4CUxUNhg9mzO",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பொய் அழுகை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தான் பணத்தைத் திருடவில்லையென்று கண்ணன் முதலைக்கண்ணீர் வடித்தான்' - இத்தொடரில் 'முதலைக்கண்ணீர்' என்பதன் பொருள் எது?",
+    "options": [
+      "முதலை போல் வாயைத் திறத்தல்",
+      "ஆற்றங்கரையில் அழுதல்",
+      "கண்ணீரால் கழுவுதல்",
+      "பொய்யாக அழுதல் / ஏமாற்றுதல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "உண்மையான வருத்தம் இல்லாமல் ஏமாற்றுவதற்காக அழுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "HvD8S3wPYGeuQL1ZiWpU",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - கையும்களவு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கையும்களவுமாக' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "கையில் களவு செய்தல்",
+      "கையைக் கழுவிய பின் திருடுதல்",
+      "கையால் கள் குடித்தல்",
+      "தவறு செய்த இடத்திலேயே அகப்படுதல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "குற்றம் செய்யும் போதே பிடிபடுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "I73u5fzRmM8oost51ll4",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - அறிவு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கரைத்துக் குடித்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "அனைத்தையும் நன்றாக அறிதல்",
+      "நீரில் கரைத்துக் குடித்தல்",
+      "மாவைக் கரைத்தல்",
+      "மருந்தைக் குடித்தல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஒரு பாடத்தையோ துறையையோ முழுவதும் கற்று அறிந்திருப்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "IcE94bS3Tm9gRI1cBsgw",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - தப்பித்தல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஓட்டம் பிடித்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "மெதுவாக நடத்தல்",
+      "ஓட்டத்தில் வெற்றி பெறுதல்",
+      "ஓட்டப்பந்தயத்தில் பங்கேற்றல்",
+      "தப்பித்தல் / விரைந்து ஓடிவிடுதல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "ஆபத்திலிருந்தோ பொறுப்பிலிருந்தோ விரைவாகத் தப்பிச் செல்வதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "Ih2Z6kGPcvDl5k2vOi3w",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - வெளியேறுதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கம்பி நீட்டுதல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "நீண்ட கம்பி வாங்குதல்",
+      "கம்பியால் வேலி அமைத்தல்",
+      "விரைந்து வெளியேறுதல் / சொல்லிக்கொள்ளாமல் செல்லல்",
+      "கம்பி வளைத்தல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பிரச்சனையிலிருந்து தப்பி விரைவாக வெளியேறுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "IjDEn9pd1U7vmPM1DQyT",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - இயலாமை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கல்லில் நார் உரித்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "கல் உடைக்கும் முறை",
+      "நார் உரிக்கும் கருவி",
+      "கல்லில் நார் கிடைத்தல்",
+      "இயலாத செயல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "நடைமுறையில் சாத்தியமில்லாத செயலைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "IyH75cPs35yrm1Bwh1Ho",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - இல்லாமை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'முயற்கொம்பு' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "காட்டு விலங்கு",
+      "இல்லாத ஒன்று",
+      "முயலின் கொம்பு",
+      "வேட்டைக்குப் பயன்படும் கருவி"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "முயலுக்குக் கொம்பு இல்லை என்பதால் இல்லாத ஒன்றைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "JZGTz7aZ6fUCVpdlPEcO",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - சிறப்பு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நிறைகுடம்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "நீர் நிறைந்த குடம்",
+      "அதிகம் பேசுபவர்",
+      "தண்ணீர் சேமிக்கும் பாத்திரம்",
+      "அறிவிலும் பண்பிலும் சிறந்தவர் (அடக்கமானவர்)"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "நிறைகுடம் தளும்பாது என்பது போல அடக்கமான சான்றோரைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "JZlCjBJFSWFLa19ZjAjS",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பிடிவாதம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'குரங்குப்பிடி' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "குரங்கு ஏறுதல்",
+      "குரங்கைப் பிடித்தல்",
+      "பிடிவாதம்",
+      "குரங்கை வளர்த்தல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "குரங்கு கிளையை விடாமல் பிடிப்பது போல விடாப்பிடியாகப் பிடித்திருப்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "KazIo84LQWhoKt9yMbWF",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - மிகைப் பேச்சு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வாய் சவடால்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "அளவுக்கதிகமாகப் பேசுவது",
+      "வாயைச் சுத்தம் செய்தல்",
+      "வாய் வலி ஏற்படுதல்",
+      "மௌனமாக இருத்தல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "செய்ய முடியாததையும் வீண் பெருமையாகப் பேசுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "LAttSYBiB4QtHPxhoWF0",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - மிகைப் பேச்சு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கொட்டியளத்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "மிகுதியாகப் பேசுதல்",
+      "குறைவாகப் பேசுதல்",
+      "தானியத்தை அளத்தல்",
+      "நெல்லைக் கொட்டுதல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அளவுக்கு மீறிப் பேசுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "MDI17jR671UogV8zAcLo",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - சண்டை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஒரு கை பார்த்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "உதவி கேட்டல்",
+      "கையால் பார்த்தல்",
+      "சண்டைக்குப் போதல் / தன் திறமையைக் காட்டுதல்",
+      "ஒரு கையில் பொருள் வாங்குதல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "எதிரியைச் சமாளிக்க முனைவதையும் தன் திறமையைக் காட்டுவதையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "MW0uTtzBGxAVrbxyRyQ9",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - விரைவு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பம்பரமாகச் சுழலுதல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "விரைவாகச் செயல்படுதல்",
+      "தலை சுற்றி நிற்றல்",
+      "பம்பரம் விளையாடுதல்",
+      "சோம்பலாக இருத்தல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஓய்வின்றி வேகமாக வேலை செய்வதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "Ms1qyGoCilQVgG5g7zOL",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - ஒற்றுமையின்மை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நெல்லிக்காய் மூட்டை' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "நெல்லை மூட்டையாகக் கட்டுதல்",
+      "நெல்லிக்காய் சேமிப்பு",
+      "ஒற்றுமை இல்லாமை",
+      "நெல்லிக்காய் விற்பனை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஒன்றுபடாமல் தனித்தனியாகச் சிதறிக் கிடப்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "N2jQJmWHklOlFhbTNNMW",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பொதுச் சொத்து",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கோயில் பெருச்சாளி' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "கோயிலில் பணிபுரிபவர்",
+      "கோயிலில் வாழும் விலங்கு",
+      "பொதுச் சொத்தைத் திருடித் தின்பவன்",
+      "கோயிலைக் காக்கும் காவலன்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பொதுச் சொத்தைக் கொள்ளையடித்துப் பயன்படுத்துபவரைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "NQkKddw79dsgh9lCUaoa",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பிடிவாதம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'உடும்பு பிடி' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "பிடி தளர்தல்",
+      "உறுதியாக இருத்தல்",
+      "எளிதில் பிடித்தல்",
+      "விட்டு விலகுதல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "உடும்பு பிடித்தால் விடாதது போல் உறுதியாக இருத்தலைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "Nkf9X0Vdb3U8RY813giY",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - ஏமாற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கடுக்காய் கொடுத்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "உதவி செய்தல்",
+      "ஏமாற்றுதல்",
+      "மருந்து கொடுத்தல்",
+      "பரிசு அளித்தல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வெளியில் நன்மை போலக் காட்டி ஏமாற்றுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "OX5pMK5SHisG6zQFtrGv",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பட்டறிவு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஏட்டுச் சுரைக்காய் கறிக்குதவாது' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "ஏட்டில் சுரைக்காய் படம் வரைதல்",
+      "சுரைக்காய் சமையலுக்குப் பயன்படும்",
+      "படிப்பறிவு மட்டுமே சிறந்தது",
+      "பட்டறிவில்லாத படிப்பறிவு பயனற்றது"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "நடைமுறை அனுபவம் இல்லாத படிப்பு பயனற்றது என்பதை உணர்த்தும்.",
+    "active": true
+  },
+  {
+    "id": "OXhETTbauDgvuRlen9zs",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பழக்கம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கண்மூடிப் பழக்கம்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "பழமையான செயல்",
+      "கண்களை மூடிக்கொண்டு செய்யும் பழக்கம்",
+      "தூக்கத்தில் செய்யும் செயல்",
+      "புதிய பழக்கம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஆராயாமல் பழமையை அப்படியே பின்பற்றுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "P8as6RUJ9u3POYlxI77m",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - அதிர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தூக்கிவாரிப் போடுதல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "தூக்கி எறிதல்",
+      "வாரிப் போடுதல்",
+      "அதிர்ச்சியடைதல்",
+      "தலைமுடி வாருதல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "திடீர் செய்தியால் மிகவும் திடுக்கிடுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "PDtcwQkMTyikonHcDvui",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - ஆராயாமை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கண்ணை மூடிக்கொண்டு' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "இருட்டில் நடத்தல்",
+      "ஆராய்ந்து பாராமல்",
+      "கண்களை மூடித் தூங்குதல்",
+      "கண்ணால் பார்த்து ஆராய்தல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "எதையும் ஆராயாமல் செயல்படுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "PfanYKGcXpghOSYO4efM",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - துன்பம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'உணவுக்கே தாளம் போடுகின்றான்' - இத்தொடரில் 'தாளம் போடுதல்' என்பதன் பொருள் எது?",
+    "options": [
+      "துன்பப்படுதல்",
+      "எதையும் கவனியாமல் இருத்தல்",
+      "இசைக்கு ஏற்பத் தாளம் தட்டுதல்",
+      "பாடல் பாடுதல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "வேலை கிடைக்காமல் உணவுக்காகத் துன்பப்படுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "Q1j7TE5tYO7CILuA3o2a",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - நிச்சயமின்மை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மதில்மேல் பூனை' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "பூனையை வளர்த்தல்",
+      "சுவர் மேல் பூனை நிற்றல்",
+      "மதிலில் ஏறுதல்",
+      "நிச்சயம் இல்லாத நிலை"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "எந்தப் பக்கமும் சாயாமல் குழப்பத்தில் இருப்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "RLBi3mGknqgoS5MDbJfG",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - நடைமுறை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பழக்கவழக்கம்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "நாள்தோறும் செய்யும் வேலை",
+      "பின்பற்றும் நடைமுறைகள் / நம்பிக்கைகள்",
+      "பழகிய நண்பர்கள்",
+      "உணவு உண்ணும் முறை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "சமூகத்தில் பின்பற்றப்படும் வழக்கங்களையும் நம்பிக்கைகளையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "TX4w73q7KslFR6M6OGC5",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பழமை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தொன்றுதொட்டு' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "புதிய காலம் முதல்",
+      "பழமை காலம் தொட்டு",
+      "தொட்டுப் பார்த்து",
+      "சிறிது காலம் மட்டும்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மிகப் பழங்காலத்திலிருந்து தொடர்ந்து வருவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "TY7HkIoZFOvahPa2vDpf",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - திறமை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கை வந்த கலை' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "கையால் செய்யும் கலை",
+      "கை நழுவிய வாய்ப்பு",
+      "கையில் வந்த பொருள்",
+      "திறமை"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "நன்கு பழகிய திறமையைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "TgeWKQkRavxLdKnC6GsN",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - தள்ளிப்போடுதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஆறப் போடுதல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "தள்ளிப்போடுதல் / நீட்டித்தல்",
+      "சூடாக்குதல்",
+      "உடனே முடித்தல்",
+      "உணவை ஆறவைத்தல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "செயலைத் தள்ளிப்போடுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "TuLDfOwTSshfUk9fTUMs",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - அவமானம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கரி பூசுதல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "கரியால் ஓவியம் வரைதல்",
+      "அவமானப்படுத்துதல்",
+      "கரிக்கட்டையால் எழுதுதல்",
+      "நிறம் மாற்றுதல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பிறரின் மதிப்பைக் கெடுத்து இழிவுபடுத்துவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "UJs26Hi9iPBWKtVzvbqN",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - தொடக்கம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'எடுத்த எடுப்பில்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "தொடக்கத்திலேயே",
+      "முடிவில்",
+      "பொருளை எடுக்கும் நேரத்தில்",
+      "எடுத்துக்கொண்டு போகும் போது"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "முதல் முயற்சியிலேயே அல்லது தொடக்கத்திலேயே என்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "UbzChuhTaNWrowwGfiGl",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பிடிவாதம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஒருகாலில் நிற்றல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "பிடிவாதம் காட்டுதல்",
+      "ஒரு காலில் நின்று வேலை செய்தல்",
+      "ஓய்வெடுத்தல்",
+      "பணிவுடன் நிற்றல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "எதற்கும் இணங்காமல் பிடிவாதமாக நிற்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "UyLe9jsrsZQa33GVOAqH",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - துரோகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'முதுகில் குத்தி விட்டான்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "முதுகில் ஆயுதம் வைத்தல்",
+      "முதுகில் அடித்தல்",
+      "முதுகு வலி ஏற்படுதல்",
+      "துரோகம் செய்தல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "நம்பிக்கை வைத்தவருக்கு மறைமுகமாகத் தீங்கு செய்வதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "VWqlO83S5lwGG9UUh1Sh",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - கவனம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கண்ணுங்கருத்துமாக' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "மிகுந்த அக்கறை",
+      "அக்கறையின்றிப் பேசுதல்",
+      "கருத்தின்றி இருத்தல்",
+      "கண்ணை மூடிக்கொண்டிருத்தல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஒரு செயலில் மிகுந்த அக்கறையுடன் ஈடுபடுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "VgiLpkT9XEMHJvK2qxGW",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - கற்பனை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கானல் நீர்' எனும் உவமை தரும் பொருள் எது?",
+    "options": [
+      "நீண்ட காலமாக இருப்பது",
+      "இருப்பது போல் தோன்றும்; ஆனால் இராது",
+      "எண்ணியது முடியாமை",
+      "இயலாத செயல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பொய்யான தோற்றத்தையும் நடைமுறையில் இல்லாத ஒன்றையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "VkTJbMmNawhwYPPUAevI",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - கற்பனை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மனப்பால் குடித்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "பாலைக் குடித்து மகிழ்தல்",
+      "பால் விற்பனை செய்தல்",
+      "கற்பனை செய்தல்",
+      "மனம் சோர்ந்து போதல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "உண்மையில் நடக்காத ஒன்றைக் கற்பனை செய்து மகிழ்வதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "WsXn4uIgIL0cseUna2u9",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - சந்தர்ப்பம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பிடி கொடுத்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "பிடிவாதம் காட்டுதல்",
+      "கையால் பிடித்துக் கொடுத்தல்",
+      "சந்தர்ப்பம் அளித்தல்",
+      "பிடியாகக் கட்டிக் கொடுத்தல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பிறர் தவறு செய்வதற்கு அல்லது சிக்குவதற்கு வாய்ப்பளிப்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "WzghputMLm9ML5ToD112",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - ஆடம்பரம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வாய்ப்பந்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "வாயில் பந்து வைத்தல்",
+      "வாயால் பந்தல் அமைத்தல்",
+      "குறைவாகப் பேசுதல்",
+      "ஆடம்பரப் பேச்சு"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "செயலுக்குப் பயன்படாத, வெறும் ஆரவாரமான பேச்சைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "X4nDj0XnOJCn36jPQEYc",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - வீணடித்தல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'குரங்கின் கை பூமாலை' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "மாலை அணிவித்தல்",
+      "பூமாலை தொடுத்தல்",
+      "வீணடித்தல்",
+      "குரங்கு விளையாடுதல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "தகுதியற்றவரிடம் பொருள் இருந்து அதைப் பயனின்றி வீணாக்குவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "XBouljpEcoDnRyhzC5GR",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - அவசரம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'காலில் வெந்நீர் ஊற்றிக்கொண்டு நிற்கிறான்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "வெந்நீரில் நடத்தல்",
+      "ஓய்வெடுத்தல்",
+      "அவசரப்படுதல்",
+      "குளிப்பதற்கு நிற்றல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அவசரமாகச் செயல்பட முனைவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "YETMpTNJQJTY0dBifJgr",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - கைவிடுதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'முழுக்குப் போடுதல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "கைவிடுதல்",
+      "குளித்து முடித்தல்",
+      "நீச்சல் பழகுதல்",
+      "நீரில் முழுகுதல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஒரு செயலை அல்லது பழக்கத்தை முழுவதுமாக விட்டுவிடுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "YWdLrNV9eQFXaWHzyasg",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - புகழ்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'காக்கை பிடித்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "காக்கையைப் பிடித்தல்",
+      "காரியம் சாதிக்க இனிமையாகப் பேசுதல்",
+      "காக்கைக்கு உணவிடுதல்",
+      "காவல் காத்தல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "தன் வேலை ஆக வேண்டும் என்பதற்காகப் பிறரைப் புகழ்ந்து பேசுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "YlCE1LPrMizp4K2K4foC",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - திட்டு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பாட்டு வாங்குதல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "திட்டு வாங்குதல்",
+      "பாடல் கேட்டல்",
+      "பாட்டுப் பாடுதல்",
+      "பாராட்டுப் பெறுதல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "தவறுக்காகக் கண்டிப்பையும் திட்டையும் பெறுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "Yyi9VCIMqBZPf80BVbzO",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - அலைதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பஞ்சாய்ப் பறத்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "மேலே உயர்ந்து பறத்தல்",
+      "காற்றில் பறத்தல்",
+      "பஞ்சைப் பறக்க விடுதல்",
+      "அலைந்து திரிதல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "பயனின்றி இங்குமங்கும் திரிவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "ZF3vocQS7M08cfri3r1y",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பொறுமை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பல்லைக் கடித்துக்கொண்டு' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "சிரித்துக்கொண்டு இருத்தல்",
+      "பல்லால் கடித்தல்",
+      "பொறுத்துக் கொண்டு இருத்தல்",
+      "பல் வலியால் துடித்தல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "வலியையோ அவமானத்தையோ பொறுமையுடன் தாங்கிக் கொள்வதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "ZX3fI4pk5Pj7k3HVI7CS",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பொருள் (எப்போதும்)",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அல்லும்பகலும்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "இரவில் மட்டும்",
+      "ஒரு சில நேரம் மட்டும்",
+      "பகலில் மட்டும்",
+      "எப்பொழுதும்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "இரவும் பகலுமாகத் தொடர்ந்து என்பதே பொருள்.",
+    "active": true
+  },
+  {
+    "id": "ZbfY4EOieQQqxNlCZoZH",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - கவனம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஒருமுகமாக' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "ஒரு முகத்துடன்",
+      "முகத்தை ஒருமுறை பார்த்து",
+      "முகம் மாறாமல்",
+      "கவனமாக / ஒரே நோக்கத்துடன்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "எந்த வேறு சிந்தனையும் இல்லாமல் ஒரே கவனத்துடன் செயல்படுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "Zf6MmObsbJPg8rucZsxL",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - ஒற்றுமை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'உரித்து வைத்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "வேறுபட்டு இருத்தல்",
+      "ஒரே மாதிரி இருத்தல்",
+      "பழத்தை உரித்தல்",
+      "தோலை உரித்து வைத்தல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "இரண்டு பொருள்களோ நபர்களோ அப்படியே ஒன்று போல இருப்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "ZkJZ4M84w4O7dM4SYM0v",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - உண்மை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'குட்டு வெளிப்படல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "உண்மை வெளிவரல்",
+      "தலையில் குட்டு விழுதல்",
+      "குட்டையாக இருத்தல்",
+      "குட்டுதல் நடைபெறுதல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மறைந்திருந்த தவறோ உண்மையோ வெளிப்படுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "Znf7dZoCQXAYBTVbI7HS",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - வஞ்சகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பசுந்தோல் போர்த்திய புலி' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "பசுமை நிறைந்த காடு",
+      "நயவஞ்சகம்",
+      "பசுவைப் பாதுகாக்கும் வீரன்",
+      "பசு போன்ற அமைதியான விலங்கு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "நல்லவர் போல நடித்து தீமை செய்பவரைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "asUKdd0vGhMX4IkaJF8V",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - குறுக்கீடு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தலையீடு' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "குறுக்கிடுதல்",
+      "தலையில் அடித்தல்",
+      "தலைமை ஏற்றல்",
+      "தலை வணங்குதல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பிறர் விவகாரத்தில் நுழைந்து தலையிடுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "b0mzIAdv3AM70uvF5tDV",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - எல்லை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கங்கு கரையில்லை' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "எல்லை இல்லை",
+      "கரை அமைந்த ஆறு",
+      "கங்கை ஆற்றின் கரை",
+      "குறைந்த அளவு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "எல்லையற்ற நிலையைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "c209CJKIi2JBqm9IU7ER",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - தடை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வாய்ப்பூட்டு' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "பேச்சுப் போட்டி நடத்துதல்",
+      "வாயில் பூட்டு போடுதல்",
+      "பேசக் கூடாது என்று தடை விதித்தல்",
+      "வாய் கட்டிக்கொண்டு இருத்தல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பிறர் பேசுவதற்குத் தடை விதிப்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "cKBKzBKIU8juEquPqatA",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - வெளிப்படை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வெட்ட வெளிச்சம்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "இருட்டாக இருத்தல்",
+      "வெட்டிய இடத்தில் ஒளி தோன்றுதல்",
+      "வெட்டவெளியில் வெயில் அடித்தல்",
+      "எல்லோருக்கும் தெரிதல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "மறைவின்றி எல்லோருக்கும் தெளிவாகத் தெரிவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "eudyYdo7wJm1XYOPwJ0M",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - ஏமாற்று",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கண் துடைப்பு' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "கண்ணைச் சுத்தம் செய்தல்",
+      "கண்ணீரைத் துடைத்தல்",
+      "கண்ணாடி துடைத்தல்",
+      "ஏமாற்றுதல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "உண்மையில் பயனில்லாமல் ஏமாற்றுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "fN6YyMDE4ycMAXJHZ3Ao",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - கிடைக்காத பொருள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'எட்டாக்கனி' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "அடைய முடியாத ஒன்று",
+      "எட்டும் தூரத்தில் உள்ள கனி",
+      "எளிதில் கிடைக்கும் கனி",
+      "பழுத்த கனி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "எட்டி எடுக்க முடியாத பொருளைப் போல அடைய முடியாததைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "fTOxkE398psTY8J6MXmd",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - உறுதி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கங்கணம் கட்டுதல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "கயிறு கட்டுதல்",
+      "உறுதி பூணுதல்",
+      "வளையல் அணிதல்",
+      "பிணி நீக்குதல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஒரு செயலைச் செய்வதற்கு உறுதியேற்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "fsDA9xkTwgaNcu9IqxKw",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - புகழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பேரும்புகழும்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "பெயர் சொல்லாமல் இருத்தல்",
+      "பெரும் புகழ் பெற்று விளங்குதல்",
+      "பெயரை மறைத்தல்",
+      "பெயரும் புகழும் இழத்தல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பெரும் புகழுடன் இருப்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "i6RMnqLp3HWGZloEieF7",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - கண்டித்தல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தட்டிக் கேட்டல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "கேட்டதைத் தட்டிப் பறித்தல்",
+      "கண்டித்தல்",
+      "கைதட்டி வரவேற்றல்",
+      "கதவைத் தட்டிக் கேட்டல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "தவறு செய்பவரைக் கண்டித்துக் கேள்வி கேட்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "iD9HoZk8RbGOBxOdsOXH",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - உணர்ச்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'நீறு பூத்த நெருப்பு' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "உணர்ச்சி குன்றாமை",
+      "அணைந்த நெருப்பு",
+      "சூடு இல்லாத நெருப்பு",
+      "சாம்பல் நிறைந்த நெருப்பு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மேலே சாம்பல் மூடியிருந்தாலும் உள்ளே தீ இருப்பது போல உள்ளே உணர்ச்சி இருப்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "iDMmgULiwbtRWO4WW2oF",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - கவனம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கண்ணியாயிருத்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "பாதுகாப்பின்றி இருத்தல்",
+      "தூங்கி வழிதல்",
+      "கண் தெரியாமல் இருத்தல்",
+      "மிகுந்த கவனத்துடன் இருத்தல் / விழிப்பாயிருத்தல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "மிக விழிப்புடன் கவனமாக இருப்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "iMqF5fgfCMNvQ2bpBy1A",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - விரைவு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சுடச்சுடக் கொடுத்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "தாமதமாகக் கொடுத்தல்",
+      "சூடாக உணவளித்தல்",
+      "சுட்டுக் கொடுத்தல்",
+      "உடனே செய்தல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "காலம் தாழ்த்தாமல் உடனே செய்து தருவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "iRmwcEgsZbMuknPnKOlT",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பாராட்டு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தட்டிக் கொடுத்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "தட்டில் உணவு வைத்தல்",
+      "முதுகில் அடித்தல்",
+      "கதவைத் தட்டுதல்",
+      "பாராட்டுதல் / ஊக்குவித்தல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "ஒருவரின் முயற்சியைப் பாராட்டி ஊக்கப்படுத்துவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "j6MZN33dsxPRA81edp8y",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - மெதுவாக",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஆற அமர' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "சத்தமாக",
+      "கவனக்குறைவாக",
+      "விரைவாக",
+      "மெதுவாக / நிதானமாக"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "நிதானமாகச் செயல்படுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "khtds8wSrCZBKKmvwH3n",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - உயிர் தப்புதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தலை தப்பினால் போதும்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "தலையில் காயம் ஏற்படுதல்",
+      "முடியை வெட்டுதல்",
+      "தலைப்பாகை அணிதல்",
+      "உயிர் தப்பித்தல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "ஆபத்திலிருந்து உயிர் தப்பினால் போதும் என்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "lBJfwWCeofCPmtT1xXut",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பழக்கம் மறைதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மலையேறிவிட்டது' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "பழைய பழக்கம் மறைந்துவிட்டது / மாற்றம்",
+      "மலை தாண்டிவிட்டது",
+      "மலை இடிந்துவிட்டது",
+      "மலை மீது ஏறிவிட்டது"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பழைய வழக்கம் காலப்போக்கில் வழக்கொழிந்து போவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "lSHAmjVz0vRdTzUvtthG",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பாராட்டு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தலையில் வைத்துக் கொண்டாடு' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "தலையை மூடுதல்",
+      "தலையில் சுமத்துதல்",
+      "அளவு கடந்து பாராட்டுதல்",
+      "தலைமுடியில் வைத்தல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஒருவரை மிகுந்த மரியாதையுடன் போற்றுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "lxPjAGL6ImzbeTVtMMuO",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - மனநிலை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஆழம் பார்த்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "நீரின் ஆழத்தை அளத்தல்",
+      "மனநிலை அறிதல்",
+      "ஆழமான கிணறு தோண்டுதல்",
+      "கடலில் நீந்துதல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஒருவரின் மனநிலையை மறைமுகமாக அறிந்துகொள்வதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "mQGdxlmAN430PbPsRlgv",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பொய்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கயிறு திரித்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "இல்லாததைச் சொல்லுதல்",
+      "கயிறு தயாரித்தல்",
+      "கயிற்றால் கட்டுதல்",
+      "கயிறு இழுத்தல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "இல்லாத ஒன்றைப் பொய்யாகச் சொல்லுதல் என்பதே பொருள்.",
+    "active": true
+  },
+  {
+    "id": "mVq25wMMxgwpLuTea4ae",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - புகழ்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கொடிகட்டிப் பறத்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "எண்ணிச் செயல்படாமை",
+      "நீண்ட காலமாக இருத்தல்",
+      "புகழ்பெற்று விளங்குதல்",
+      "விரைந்து வெளியேறுதல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "மிகுந்த புகழுடனும் வெற்றிகரமாகவும் விளங்குவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "nbgNMyZSchA4eon5OZG1",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - ரகசியம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஒட்டைவாய்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "வாய் வறண்டு போதல்",
+      "பல் இல்லாத வாய்",
+      "வாயில் ஓட்டை விழுதல்",
+      "ரகசியத்தைக் காப்பாற்றாமை"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "ரகசியங்களைப் பிறரிடம் சொல்லிவிடும் இயல்பைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "o1ti4SizyCXnQymsjlGS",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பிழைப்பு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'வயிற்றில் அடித்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "வயிற்றைத் தட்டிக் கொடுத்தல்",
+      "பிழைப்பைக் கெடுத்தல்",
+      "வயிற்றில் குத்துதல்",
+      "வயிறு நிறைய உண்ணுதல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஒருவரின் வாழ்வாதாரத்தைப் பறிப்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "o3FF2HirfF8FFP4TCQC3",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பொருள் (இல்லாத)",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஆகாயத்தாமரை' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "உயரமான மரம்",
+      "இல்லாத ஒன்று",
+      "வானத்தில் பூக்கும் மலர்",
+      "நீரில் மிதக்கும் மலர்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஆகாயத்தாமரை என்பது இல்லாத ஒன்றைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "ob2B2VsZclJatU26ppe3",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பொருளின்மை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'பஞ்சாய்ப் பறந்தான்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "பொருளின்றி அலைந்தான்",
+      "பஞ்சு வாங்கிச் சென்றான்",
+      "பணம் சேர்த்தான்",
+      "விமானத்தில் பறந்தான்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கையில் பொருள் இல்லாமல் அலைந்து திரிந்ததைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "ohCcgOHPwBDQqiUDigST",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - வேலை இழப்பு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'சீட்டு கிழிந்து விட்டது' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "வேலை போய்விட்டது",
+      "பணம் கிடைத்தது",
+      "அடையாள அட்டை கிடைத்தது",
+      "சீட்டாட்டத்தில் தோற்றல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பணி நீக்கம் அல்லது வேலை இழப்பைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "org4zdBN2XpPoKrqvQG3",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பேச்சு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அளவளாவுதல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "சண்டையிடுதல்",
+      "அளவாகச் சாப்பிடுதல்",
+      "மகிழ்ச்சியாகப் பேசுதல் / உரையாடுதல்",
+      "அளவு பார்த்தல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "நண்பர்கள் கூடி மனம் விட்டு உரையாடுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "pF0KcwNat7vTNf6frWnV",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - நஷ்டம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கையைக் கடித்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "கையால் கடித்தல்",
+      "நஷ்டமடைதல்",
+      "கை தட்டுதல்",
+      "கைகளில் காயம் ஏற்படுதல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "முன்பு நம்பி வைத்தவரால் அல்லது செயலால் இழப்பு அடைவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "qNEJS5YGewmrLBMNlmhb",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - அவமானம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மூக்கறுபட்டுப்போனான்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "மூக்கால் பேசுதல்",
+      "மூச்சுத் திணறுதல்",
+      "அவமானப்படுதல்",
+      "மூக்கில் காயம் ஏற்படுதல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "மதிப்பும் மரியாதையும் இழந்து அவமானப்படுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "qWyq1CGR7RXg8RMmV5RT",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - தீவிரம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கச்சை கட்டிக் கொண்டு' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "துணியால் கட்டுதல்",
+      "ஓய்வு எடுத்தல்",
+      "தீவிரம் காட்டுதல்",
+      "ஆடை அணிதல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஒரு வேலையில் மிகுந்த ஆர்வத்துடன் ஈடுபடுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "qjQQ3btwS0V6TA7PAkrk",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - உதவி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கை கொடுத்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "கையால் அடித்தல்",
+      "உதவி செய்தல்",
+      "கையைக் குலுக்குதல்",
+      "கையை உயர்த்துதல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "துன்பத்தில் இருப்பவருக்கு உதவுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "rSiLir228Hsqh3TYTGXz",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - சரிசெய்தல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'ஈடுகட்டுதல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "பொருள் சேமித்தல்",
+      "ஈயால் கட்டுதல்",
+      "சரி செய்தல் / நஷ்டத்தை நிரப்புதல்",
+      "ஈட்டி கட்டுதல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "இழப்பைச் சரி செய்து நிறைவு செய்வதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "t143XU0a3BdkXZ5Nj8VV",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - எடுத்தெறிதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'முகத்தில் அடித்தாற்போல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "மகிழ்ச்சியாகப் பேசுதல்",
+      "எடுத்தெறிந்து பேசுதல்",
+      "முகத்தை அடித்துக் காயப்படுத்துதல்",
+      "முகம் வாடிப் பேசுதல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "எவரையும் பொருட்படுத்தாமல் கடுமையாகப் பேசுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "t7GeDkmVCCfESaH5nZ4G",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - காலதாமதம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'இழுத்தடித்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "வேகமாக முடித்தல்",
+      "இழுத்துக் கொண்டு போதல்",
+      "இழுவை வண்டி ஓட்டுதல்",
+      "நேரம் கடத்துதல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "ஒரு வேலையைத் தேவையின்றித் தாமதப்படுத்துவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "temSAcowMNcuWOi61kz5",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - எளிமை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'கிள்ளுக்கீரை' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "எளிமையாகக் கையாளக்கூடியது",
+      "கிள்ளி எடுக்கும் கீரை",
+      "கிள்ளிப் போடும் பொருள்",
+      "கிள்ளும் அளவு உப்பு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கிள்ளும் அளவிற்கே எளிதில் அழிக்கக்கூடியது அல்லது எளிதாக முடிக்கக்கூடியது என்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "u6lCTp3xvYatuzFv8TwW",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - ஒத்துப்போதல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'தலையாட்டிப் பொம்மை' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "தலையை ஆட்டும் பொம்மை",
+      "பொம்மை செய்பவர்",
+      "ஒத்துப்பாடுதல் / எதிர்க்காமல் இருப்பவர்",
+      "விளையாட்டுப் பொருள்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "சொந்த கருத்து இல்லாமல் மற்றவர் சொல்வதற்கெல்லாம் தலையாட்டுபவரைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "ucXV6KjEQtqBBWNbJVcp",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பிழையான இணை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கீழ்க்காணும் மரபுத்தொடர் - பொருள் இணைகளில் பிழையான இணையைக் கண்டறிக.",
+    "options": [
+      "ஆயிரங்காலத்துப் பயிர் - நீண்ட காலமாக இருப்பது",
+      "கம்பி நீட்டுதல் - விரைந்து வெளியேறுதல்",
+      "கல்லில் நார் உரித்தல் - ஆராய்ந்து பாராமல்",
+      "கானல் நீர் - இல்லாத ஒன்று"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'கல்லில் நார் உரித்தல்' என்பது இயலாத செயலைக் குறிக்கும்; 'ஆராய்ந்து பாராமல்' என்பது அதன் பொருள் அல்ல.",
+    "active": true
+  },
+  {
+    "id": "vMaTJBGZS3opcxDh6IpL",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பொருள் (செயல்)",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'அகலக்கால் வைத்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "அளவுக்கு மீறிச் செயல்படுதல்",
+      "அகலமான நிலத்தில் நடத்தல்",
+      "பெரிய வேலை செய்தல்",
+      "கால்களை அகற்றி நிற்றல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அகலக்கால் வைத்தல் என்பது தன் தகுதிக்கு மீறிச் செயல்படுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "xh1QsS2AczdvfA2iONtC",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - பயனின்மை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'குட்டிச்சுவர்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "குட்டையான சுவர்",
+      "வீட்டின் அழகிய சுவர்",
+      "சுவர் கட்டுதல்",
+      "பயனன்றி இருத்தல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "பயன்படாமல் வீணாக இருப்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "y5ciqBtKmYm4JZxNzQyX",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - மற்றவர் சொல்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'எடுப்பார் கைப்பிள்ளை' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "தானாக முடிவெடுப்பவர்",
+      "பிள்ளையை எடுத்துச் செல்பவர்",
+      "தன் சிந்தனையின்றி சொல்பவர் பேச்சைக் கேட்டு நடப்பவர்",
+      "பாடம் படிப்பவர்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பிறர் சொல்வதைக் கேட்டு எளிதில் மாறுபவரைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "yUU6mF4lB5nxWB3cWpRF",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - அறிவுரை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'இடித்துரைத்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "இடையில் பேசுதல்",
+      "இடித்துத் தள்ளுதல்",
+      "இடம் மாற்றிக் கூறுதல்",
+      "கண்டித்து அறிவுரை கூறுதல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "தவறைச் சுட்டிக்காட்டிக் கடுமையாக அறிவுரை கூறுவதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "zYgv9DGDlxeIJ4bpYsWA",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - கவனம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'செவி சாய்த்தல்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "காதை மூடுதல்",
+      "செவியில் எண்ணெய் விடுதல்",
+      "கவனமாகக் கேட்டல்",
+      "காது சாய்ந்து நிற்றல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஒருவர் சொல்வதைக் கருத்தூன்றிக் கேட்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "zsWqbLhpv9iDbKiw2PAO",
+    "subject": "group4series",
+    "class": "Unit 5 -  மரபு தொடரின் பொருளறிதல்",
+    "topic": "மரபுத்தொடர் - ஏற்ற இறக்கம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'மேடும்பள்ளமும்' என்ற மரபுத்தொடரின் பொருள் எது?",
+    "options": [
+      "சமதளமான நிலம்",
+      "ஏற்ற இறக்கம்",
+      "உயரமான கட்டடம்",
+      "மலையும் காடும்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "வாழ்வின் நல்ல நிலையும் கெட்ட நிலையும் மாறி மாறி வருவதைக் குறிக்கும்.",
+    "active": true
+  }
+]

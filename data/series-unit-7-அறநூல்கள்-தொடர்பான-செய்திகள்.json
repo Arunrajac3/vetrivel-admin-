@@ -1,0 +1,2833 @@
+[
+  {
+    "id": "0CpMc2kfPW4arOweJ1Lx",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நாலடியார்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அணியர்’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "அழகானவர்",
+      "நண்பர்",
+      "நெருங்கி இருப்பவர்",
+      "உறவினர்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "நாலடியாரில் ‘அணியர்’ என்பது நெருங்கி இருப்பவரைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "0QBV2b0fZIWW1cFBgxYL",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பழமொழி நானூறு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தொல்காப்பியர் பழமொழியை எவ்வாறு குறிப்பிடுகிறார்?",
+    "options": [
+      "தீச்சொல்",
+      "நற்சொல்",
+      "முதுசொல்",
+      "இன்சொல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "தொல்காப்பியர் பழமொழியை ‘முதுசொல்’ என்று குறிப்பிடுகிறார்.",
+    "active": true
+  },
+  {
+    "id": "0xOIOBUqd3EcEKj556xt",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "முதுமொழிக்காஞ்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“அழகுடையவராக இருப்பதினும்” என்ற அடியின்படி அழகைவிட மேலானது எது?",
+    "options": [
+      "நாணமுடையவராக இருப்பது",
+      "செல்வம் உடையவராக இருப்பது",
+      "கல்வி உடையவராக இருப்பது",
+      "வீரம் உடையவராக இருப்பது"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அழகை விட நாணம் உடையவராக இருப்பதே மேலானது.",
+    "active": true
+  },
+  {
+    "id": "1Aaa7aGIFObcBk8nQUX5",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஔவையார் பாடல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“ஆடவர்” என்ற சொல் இப்பாடலில் எதனைக் குறிக்கிறது?",
+    "options": [
+      "விலங்குகளை",
+      "அரசர்களை",
+      "பெண்களை",
+      "மனிதர்களை (பொதுவாக)"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "இங்கு ‘ஆடவர்’ என்பது மனிதர்களைப் பொதுவாகக் குறிக்கிறது.",
+    "active": true
+  },
+  {
+    "id": "1EQUsLwrxbDIeCCcUXuw",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "முதுமொழிக்காஞ்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "முதுமொழிக்காஞ்சியின் அதிகாரங்களுள் ஒன்றல்லாதது எது?",
+    "options": [
+      "இன்பப்பத்து",
+      "தண்டாப்பத்து",
+      "அல்லப்பத்து",
+      "சிறந்த பத்து"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "சிறந்த, அறிவு, பழியா, துவ்வா, அல்ல, இல்லை, பொய், எளிய, நல்கூர்ந்த, தண்டா ஆகிய பத்துகள் உள்ளன; இன்பப்பத்து இல்லை.",
+    "active": true
+  },
+  {
+    "id": "1S5MhZ5SMNz3TngbHil9",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஆசாரக்கோவை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஒப்புரவு’ என்பதன் பொருள் யாது?",
+    "options": [
+      "அறிவு பெறுதல்",
+      "நட்புக் கொள்ளுதல்",
+      "கல்வி கற்றல்",
+      "பிறருக்கு உதவி செய்தல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "‘ஒப்புரவு’ என்பது பிறருக்கு உதவி செய்தல் என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "23qjY8twVEOUHuUaM3TT",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "சிறுபஞ்சமூலம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மூலம்’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "காய்",
+      "இலை",
+      "பூ",
+      "வேர்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "‘மூலம்’ என்பது வேர் என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "27cHZWNon2TUSet9VqJd",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நீதிநெறி விளக்கம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குமரகுருபரரின் ஊர் எது?",
+    "options": [
+      "திருவைகுண்டம்",
+      "மதுரை",
+      "திருச்செந்தூர்",
+      "காஞ்சி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "குமரகுருபரரின் ஊர் திருவைகுண்டம்.",
+    "active": true
+  },
+  {
+    "id": "2GOqI3ZZliqOVtDm3uHm",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பிற்கால நீதிநூல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நல்வழி’ நூலின் ஆசிரியர் யார்?",
+    "options": [
+      "ஔவையார்",
+      "குமரகுருபரர்",
+      "வேதநாயகர்",
+      "அதிவீரராமபாண்டியர்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நல்வழியின் ஆசிரியர் ஔவையார்.",
+    "active": true
+  },
+  {
+    "id": "2iu9gyrvS9JML6RkfzNf",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "இலக்கணம் - பிரித்தெழுதுதல் மற்றும் சந்திப்பு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“அறிவு + உடைமை” என்பதைச் சேர்த்து எழுதக் கிடைக்கும் சொல் எது?",
+    "options": [
+      "அறிவுஉடைமை",
+      "அறிவுடைமை",
+      "அறி உடைமை",
+      "அறியுடைமை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அறிவு + உடைமை = அறிவுடைமை.",
+    "active": true
+  },
+  {
+    "id": "2ogfACVSuYxmClvBN13X",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "அற நூல்கள் - அறிமுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“அறம்” என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "இன்பம் துய்ப்பது",
+      "பொருள் சேர்ப்பது",
+      "தீமையை அறுப்பது, நீக்குவது",
+      "போர் செய்வது"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "‘அறம்’ என்பது ‘அறு + அம்’ எனப் பிரிந்து தீமையை அறுப்பது, நீக்குவது என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "3RWZFl61ZiPf3GBzc607",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "திரிகடுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நிறை ஒழுக்கம்’ என்பதன் பொருள் யாது?",
+    "options": [
+      "நீண்ட ஆயுள்",
+      "பழைய பழக்கம்",
+      "மேலான ஒழுக்கம்",
+      "நிரம்பிய உணவு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "நிறை ஒழுக்கம் என்பது மேலான ஒழுக்கம் ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "3j2F3jHUIqGHdyiYeFuF",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நான்மணிக்கடிகை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "நான்மணிக்கடிகையின் ஆசிரியர் யார்?",
+    "options": [
+      "பூதஞ்சேந்தனார்",
+      "முன்றுறை அரையனார்",
+      "கபிலர்",
+      "விளம்பி நாகனார்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "நான்மணிக்கடிகையின் ஆசிரியர் விளம்பி நாகனார்.",
+    "active": true
+  },
+  {
+    "id": "3qsaOoZWSzjaEwrrcHu5",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "முதுமொழிக்காஞ்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஒதல்’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "பாடுதல்",
+      "படித்தல்",
+      "உழுதல்",
+      "எழுதுதல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஒதுதல் என்பது படித்தல் ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "3ufAzb96L93OcuiTNGjj",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "அறநெறிச்சாரம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பைங்கூழ்’ என்பதன் பொருள் யாது?",
+    "options": [
+      "காய்ந்த பயிர்",
+      "வளமற்ற நிலம்",
+      "வேண்டாத களை",
+      "பசுமையான பயிர்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "‘பைங்கூழ்’ என்பது பசுமையான பயிர் என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "4XairTCSOVfkfuAACV42",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "இலக்கணம் - பிரித்தெழுதுதல் மற்றும் சந்திப்பு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“பிணியின்மை” என்பதைப் பிரித்து எழுதுக.",
+    "options": [
+      "பிணி + இன்மை",
+      "பிணி + மை",
+      "பினி + இன்மை",
+      "பிணை + இன்மை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பிணியின்மை = பிணி + இன்மை.",
+    "active": true
+  },
+  {
+    "id": "4fjVTHdXi3KYWAXJ0wEw",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நீதிநெறி விளக்கம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "நீதிநெறி விளக்கத்தில் உள்ள வெண்பாக்கள் எத்தனை?",
+    "options": [
+      "80",
+      "100",
+      "120",
+      "102"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "கடவுள் வாழ்த்து உட்பட 102 வெண்பாக்கள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "5JUCb9tNtxpOLwYFJyTm",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "அறநெறிச்சாரம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வன்சொல்’ என்பதன் பொருள் யாது?",
+    "options": [
+      "இன்சொல்",
+      "ஈகை",
+      "கடுஞ்சொல்",
+      "உண்மை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "வன்சொல் என்பது கடுஞ்சொல் ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "5f0Bei9jGpW97SF0YECs",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பழமொழி நானூறு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘முன்றில்’ என்பதன் பொருள் யாது?",
+    "options": [
+      "சமையலறை",
+      "வீட்டின் மேல்தளம்",
+      "வீட்டின் பின் இடம்",
+      "வீட்டின் முன் இடம் (திண்ணை)"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "‘முன்றில்’ என்பது வீட்டின் முன் இடம் (திண்ணை) ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "5vYjHr3Afyf45EWewlZ9",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஏலாதி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மாண்டார்’ என்ற சொல் எதனைக் குறிக்கும்?",
+    "options": [
+      "அறிவிலார்",
+      "அரசர்",
+      "மாண்புடைய சான்றோர்",
+      "மாண்டவர்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "‘மாண்டார்’ என்பது மாண்புடைய சான்றோரைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "60kaGq7WUL7dISMOiHUX",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நாலடியார்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "நாலடியார் எந்தப் பா வகையால் ஆனது?",
+    "options": [
+      "வெண்பா",
+      "கலிப்பா",
+      "வஞ்சிப்பா",
+      "ஆசிரியப்பா"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நாலடியார் வெண்பாக்களால் ஆனது.",
+    "active": true
+  },
+  {
+    "id": "6hrWYNbLIhYaTmTDOMnu",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நாலடியார்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“நாலும் இரண்டும் சொல்லுக்குறுதி” என்பதில் “நாலு” எந்த நூலைக் குறிக்கும்?",
+    "options": [
+      "பழமொழி நானூறு",
+      "திருக்குறள்",
+      "நாலடியார்",
+      "நான்மணிக்கடிகை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "‘நாலு’ நாலடியாரையும், ‘இரண்டு’ திருக்குறளையும் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "6kGecKgSLkljVcWp3S1z",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "சிறுபஞ்சமூலம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "சிறுபஞ்சமூலத்தில் உள்ள ஐந்து வேர்களின் எந்தப் பகுதி மருத்துவக் குணம் கொண்டது?",
+    "options": [
+      "பட்டை",
+      "வேர்",
+      "இலை",
+      "காய்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "சிறுபஞ்சமூலத்தில் குறிப்பிடப்படும் ஐந்து மூலிகைகளின் வேர்கள் மருத்துவக் குணம் கொண்டவை.",
+    "active": true
+  },
+  {
+    "id": "6plaoGO6Oxx0wsrlwGxo",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "முதுமொழிக்காஞ்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நாணம்’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "மகிழ்ச்சி அடைதல்",
+      "செய்யக் கூடாததனைச் செய்ய அச்சப்படுதல்",
+      "பொறுமை கொள்ளுதல்",
+      "பொய் சொல்லுதல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "நாணம் என்பது செய்யக் கூடாததைச் செய்ய அச்சப்படுதல்.",
+    "active": true
+  },
+  {
+    "id": "7oXQejiKSSdRwe73fWhK",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஆசாரக்கோவை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஆசாரக்கோவையின் ஆசிரியர் யார்?",
+    "options": [
+      "கூடலூர் கிழார்",
+      "பெருவாயின் முள்ளியார்",
+      "காரியாசான்",
+      "கணிமேதாவியார்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஆசாரக்கோவையின் ஆசிரியர் பெருவாயின் முள்ளியார்.",
+    "active": true
+  },
+  {
+    "id": "8GKu8XR5b7A4dWf0kcx2",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "அறநெறிச்சாரம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அறநெறிச்சாரத்தின் ஆசிரியர் யார்?",
+    "options": [
+      "பெருவாயின் முள்ளியார்",
+      "முனைப்பாடியார்",
+      "கபிலர்",
+      "திருவள்ளுவர்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "அறநெறிச்சாரத்தின் ஆசிரியர் முனைப்பாடியார்; இவரது ஊர் திருமுனைப்பாடி.",
+    "active": true
+  },
+  {
+    "id": "8XO5fZQTlaWQON6zAOvP",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நாலடியார்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“வேளாண் வேதம்” எனப் பெயர் பெற்ற நூல் எது?",
+    "options": [
+      "இன்னா நாற்பது",
+      "ஏலாதி",
+      "பழமொழி நானூறு",
+      "நாலடியார்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "நாலடியார், நாலடி நானூறு, வேளாண் வேதம், குட்டித் திருக்குறள் எனவும் வழங்கப்படுகிறது.",
+    "active": true
+  },
+  {
+    "id": "8gQab2z2p7x3T1vb11zI",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பழமொழி நானூறு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மடமகள்’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "இளமகள்",
+      "அரசி",
+      "தோழி",
+      "வேலைக்காரி"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "‘மடமகள்’ என்பது இளமகளைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "8rmWIyPTH8kw6j4aMULJ",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பதினெண் கீழ்க்கணக்கு நூல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“பதினெண்” என்பதன் பொருள் யாது?",
+    "options": [
+      "பத்து",
+      "பதினொன்று",
+      "பதினாறு",
+      "பதினெட்டு"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "பதினெண் என்பதற்குப் பதினெட்டு என்பது பொருள்.",
+    "active": true
+  },
+  {
+    "id": "8vdlf1yqtYreDizY2DMl",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பதினெண் கீழ்க்கணக்கு நூல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "களவழி நாற்பதை இயற்றியவர் யார்?",
+    "options": [
+      "கபிலர்",
+      "பொய்கையார்",
+      "காரியாசான்",
+      "பூதஞ்சேந்தனார்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "களவழி நாற்பதை இயற்றியவர் பொய்கையார்.",
+    "active": true
+  },
+  {
+    "id": "9IW2iJ2rXmfY7ISe0HOo",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஏலாதி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கணிமேதாவியார் வாழ்ந்த நூற்றாண்டு யாது?",
+    "options": [
+      "கி.பி. இரண்டாம் நூற்றாண்டு",
+      "கி.பி. மூன்றாம் நூற்றாண்டு",
+      "கி.பி. ஐந்தாம் நூற்றாண்டு",
+      "கி.பி. நான்காம் நூற்றாண்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஏலாதியின் ஆசிரியர் கணிமேதாவியார் 5 ஆம் நூற்றாண்டைச் சேர்ந்தவர்.",
+    "active": true
+  },
+  {
+    "id": "9Ln7fpAXw19bYnhgFw7h",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஏலாதி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஏலாதியின் ஆசிரியர் யார்?",
+    "options": [
+      "நல்லாதனார்",
+      "ஔவையார்",
+      "காரியாசான்",
+      "கணிமேதாவியார்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "ஏலாதியின் ஆசிரியர் கணிமேதாவியார்.",
+    "active": true
+  },
+  {
+    "id": "9MGJauzqIvOedUogRkHD",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "சிறுபஞ்சமூலம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "சிறுபஞ்சமூலத்தின் ஆசிரியர் யார்?",
+    "options": [
+      "காரியாசான்",
+      "நல்லாதனார்",
+      "கூடலூர் கிழார்",
+      "கணிமேதாவியார்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "சிறுபஞ்சமூலத்தின் ஆசிரியர் காரியாசான்.",
+    "active": true
+  },
+  {
+    "id": "A8PD22eOZf88N3HqphKk",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நான்மணிக்கடிகை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "நான்மணிக்கடிகை என்ற பெயர்க்காரணம் யாது?",
+    "options": [
+      "நான்கு மணிகள் பதிக்கப்பெற்ற அணிகலன் போல ஒவ்வொரு பாடலிலும் நான்கு அரிய கருத்துக்கள்",
+      "நான்கு நகரங்களைப் பற்றிய நூல்",
+      "நான்கு அடிகளைக் கொண்ட பாடல்கள்",
+      "நான்கு வேதங்களின் சாரம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஒவ்வொரு பாடலிலும் நான்கு அரிய கருத்துக்கள் கூறப்படுவதால் இப்பெயர் பெற்றது.",
+    "active": true
+  },
+  {
+    "id": "A8dof7qrXxL47U1bWDF8",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நாலடியார்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“நாய்க்கால் சிறுவிரல்போல்” என்ற அடியில் ‘நாய்க்கால்’ என்பதன் பொருள் யாது?",
+    "options": [
+      "நாயின் கால்",
+      "நரியின் கால்",
+      "நாயின் வால்",
+      "நண்பனின் கால்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நாய்க்கால் என்பது நாயின் கால்.",
+    "active": true
+  },
+  {
+    "id": "AAvsJdVDwQ8vhsNEbqPC",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "அறநெறிச்சாரம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஈன’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "பெற",
+      "தேடு",
+      "கொடு",
+      "இழ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "‘ஈன’ என்பது பெற என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "AH4cUgp75ybkXLdwv8AP",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நான்மணிக்கடிகை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மனக்கினிய’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "நல்ல மனமுடைய",
+      "தன்னம்பிக்கை மிக்க",
+      "மனம் கலங்கிய",
+      "மனத்துக்கு இனிய"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "‘மனக்கினிய’ என்பது மனத்துக்கு இனிய என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "Bk1LGdNfyHajtp1u23qS",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நாலடியார்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வவ்வார்’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "கொடுக்க முடியாது",
+      "கவர முடியாது",
+      "பெற முடியாது",
+      "அறிய முடியாது"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "‘வவ்வார்’ என்பது கவர முடியாது என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "C7pGrsvFb23N8uBJ2M1F",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "முதுமொழிக்காஞ்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“ஆர்கலி உலகத்து மக்கட்கெல்லாம் ஒதலில் சிறந்தன்று ஒழுக்கம் உடைமை” என்ற அடிகள் இடம்பெறும் நூல் எது?",
+    "options": [
+      "நற்றிணை",
+      "புறநானூறு",
+      "முதுமொழிக்காஞ்சி",
+      "நன்னெறி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "இவ்வடிகள் முதுமொழிக்காஞ்சியின் சிறந்த பத்தில் உள்ளன; இது அறவுரைக்கோவை எனவும் வழங்கும்.",
+    "active": true
+  },
+  {
+    "id": "CKY9QyBLZvCya206eH3L",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பிற்கால நீதிநூல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "நல்வழிப் பாடலின்படி இறந்தவர் திரும்பாத நிலையில் நாம் செய்ய வேண்டியது யாது?",
+    "options": [
+      "போரில் வீர மரணம் அடைய வேண்டும்",
+      "பொருளைச் சேர்த்து வைக்க வேண்டும்",
+      "இறந்தவருக்காக அழுது வாழ வேண்டும்",
+      "தமக்கெனச் சேர்த்து வைக்காமல் முடிந்தவரை பிறருக்குக் கொடுத்து வாழ வேண்டும்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "பல ஆண்டுகள் அழுதாலும் இறந்தவர் திரும்ப வருவதில்லை; எனவே தமக்கெனச் சேர்த்து வைக்காமல் பிறருக்குக் கொடுத்து வாழ வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "DyAqopFHWXThTP1AVXCl",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பழமொழி நானூறு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அரையன்’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "வணிகர்",
+      "அரசன்",
+      "அமைச்சர்",
+      "புலவர்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "‘அரையன்’ என்பது அரசனைக் குறிக்கும்; முன்றுறை என்பது ஊர்ப்பெயர்.",
+    "active": true
+  },
+  {
+    "id": "EFSjImZJ360qqpAdoTC4",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "திரிகடுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘சாயினும்’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "உயர்ந்தாலும்",
+      "வளர்ந்தாலும்",
+      "சிரித்தாலும்",
+      "அழியினும்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "‘சாயினும்’ என்பது அழியினும் என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "EGxbvy5DHmHtfejarkwm",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பிற்கால நீதிநூல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நறுந்தொகை’ நூலின் ஆசிரியர் யார்?",
+    "options": [
+      "வேதநாயகர்",
+      "ஔவையார்",
+      "குமரகுருபரர்",
+      "அதிவீரராமபாண்டியர்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "நறுந்தொகையின் ஆசிரியர் அதிவீரராமபாண்டியர்.",
+    "active": true
+  },
+  {
+    "id": "EPsOcorgnVpLgJ5V7W4U",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "அறநெறிச்சாரம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அறநெறிச்சாரத்தின் ஆசிரியர் வாழ்ந்த நூற்றாண்டு யாது?",
+    "options": [
+      "பதின்மூன்றாம் நூற்றாண்டு",
+      "இருபதாம் நூற்றாண்டு",
+      "ஒன்பதாம் நூற்றாண்டு",
+      "ஐந்தாம் நூற்றாண்டு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "முனைப்பாடியார் பதின்மூன்றாம் நூற்றாண்டில் வாழ்ந்தவர்.",
+    "active": true
+  },
+  {
+    "id": "EcRHcqEtVtMj2RyXW97E",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஔவையார் பாடல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அறநெறிப் பாடல்களைப் பாடிய ஔவையார் வாழ்ந்த நூற்றாண்டு யாது?",
+    "options": [
+      "எட்டாம் நூற்றாண்டு",
+      "நான்காம் நூற்றாண்டு",
+      "பன்னிரண்டாம் நூற்றாண்டு",
+      "இரண்டாம் நூற்றாண்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "அறநெறிப் பாடல்களைப் பாடிய ஔவையார் 12 ஆம் நூற்றாண்டில் வாழ்ந்தவர்.",
+    "active": true
+  },
+  {
+    "id": "ErwydOkAnbr1KcRQ9SUk",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "சிறுபஞ்சமூலம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“கண்டல் அவிர் பூங் கதுப்பினாய்” என்பதன் பொருள் யாது?",
+    "options": [
+      "தாமரை அணிந்த கூந்தலையுடையவளே",
+      "குவளை அணிந்த கூந்தலையுடையவளே",
+      "தாழைமலர் அணிந்த கூந்தலையுடையவளே",
+      "மல்லிகை அணிந்த கூந்தலையுடையவளே"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "‘கண்டல்’ என்பது தாழையைக் குறிக்கும்; இதன் பொருள் தாழைமலர் அணிந்த கூந்தலையுடையவளே என்பதாகும்.",
+    "active": true
+  },
+  {
+    "id": "F2FGrXijgdbDd7xjnK0D",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நாலடியார்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வைப்புழிக் கோட்படா’ என்பதன் பொருள் யாது?",
+    "options": [
+      "ஒருவரால் கொள்ளப்படாதது",
+      "கொடுக்கப்படாதது",
+      "விற்கப்படாதது",
+      "வைக்கப்படாதது"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "‘கோட்படா’ என்பது ஒருவரால் கொள்ளப்படாதது என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "FVkuRfMZCZtCtAO3JiyM",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பதினெண் கீழ்க்கணக்கு நூல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பதினெண் கீழ்க்கணக்கு நூல்களில் அக நூல்களின் எண்ணிக்கை எத்தனை?",
+    "options": [
+      "6",
+      "18",
+      "1",
+      "11"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அற நூல்கள் 11, அக நூல்கள் 6, புற நூல் 1; மொத்தம் 18.",
+    "active": true
+  },
+  {
+    "id": "FbzmmtRzaWV9pdIsYIQf",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பழமொழி நானூறு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“மரம் வளர்த்தால் ---- பெறலாம்” என்ற தொடரில் கோடிட்ட இடத்திற்குரிய சொல் எது?",
+    "options": [
+      "காரி",
+      "பாரி",
+      "மாரி",
+      "மாறி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "மரம் வளர்த்தால் மழையைப் பெறலாம்; எனவே ‘மாரி’ பொருத்தமானது.",
+    "active": true
+  },
+  {
+    "id": "FcP5hO6ifWv8n3DyOiue",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "இலக்கணம் - பிரித்தெழுதுதல் மற்றும் சந்திப்பு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“பொறையுடைமை” என்பதைப் பிரித்து எழுதுக.",
+    "options": [
+      "பொறுமை + உடைமை",
+      "பொறைய + உடைமை",
+      "பொறை + உடைமை",
+      "பொறை + யுடைமை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பொறையுடைமை = பொறை + உடைமை.",
+    "active": true
+  },
+  {
+    "id": "FhRqCBQy8fHkGfXmXbhu",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பிற்கால நீதிநூல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கபிலர் அகவல் பாடல் வலியுறுத்தும் கருத்து யாது?",
+    "options": [
+      "செயல்களை விட்டுவிடலாம்",
+      "தீய செயலையும் செய்யலாம்",
+      "நல்ல செயலை அன்றே அப்பொழுதே செய்து முடிக்க வேண்டும்",
+      "செயல்களைப் பின்னர் செய்யலாம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "நாம் செய்யும் செயல் நல்லதாக இருக்க வேண்டும்; அச்செயலை அன்றே அப்பொழுதே செய்து முடிக்க வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "GEUw8vY16TM3LTW3LAuw",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஆசாரக்கோவை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நன்றியறிதல்’ என்பதன் பொருள் யாது?",
+    "options": [
+      "பிறரைத் தண்டித்தல்",
+      "பிறர் செய்த உதவியை மறவாமை",
+      "பிறருக்கு உதவி செய்தல்",
+      "நட்புக் கொள்ளுதல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "‘நன்றியறிதல்’ என்பது பிறர் செய்த உதவியை மறவாமை ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "GsBj1PiwUkRLCgXQ6Nkj",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஔவையார் பாடல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“சிறு எறும்பும் அதன் கையினால் எண் சாண் உடையதே” என்பதன் கருத்து யாது?",
+    "options": [
+      "போரில் வீரமே சிறந்தது",
+      "ஒவ்வொருவரும் தனித்துவமான பெருமை உடையவர்கள்",
+      "செல்வம் நிலையானது",
+      "கல்வியே அழகு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஒவ்வொருவரும் தத்தமது ஆற்றலுக்கு ஏற்ப தனித்துவமான பெருமை உடையவர்கள் என்பதை இப்பாடல் உணர்த்துகிறது.",
+    "active": true
+  },
+  {
+    "id": "GsLbAwThttQIYewvjZP2",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஏலாதி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வணங்கி’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "வணக்கமாய்",
+      "வாழ்ந்து",
+      "வளைந்து",
+      "பணிந்து"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "‘வணங்கி’ என்பது பணிந்து என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "H88socWaVpVE4ovGEAQ6",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஔவையார் பாடல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பாடாண் திணை’ என்பது யாது?",
+    "options": [
+      "ஒருவருடைய புகழ், வலிமை, கொடை, அருள் போன்ற நல்லியல்புகளைச் சிறப்பித்துக் கூறுவது",
+      "காதலைக் கூறுவது",
+      "பிரிவைக் கூறுவது",
+      "போரைக் கூறுவது"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பாடாண் திணை என்பது ஒருவருடைய நல்லியல்புகளைச் சிறப்பித்துக் கூறுவதாகும்.",
+    "active": true
+  },
+  {
+    "id": "HivhGptyEDFX9opQJfSL",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பழமொழி நானூறு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஒவ்வொரு பாடலின் இறுதியிலும் ஒரு பழமொழியைச் சேர்த்து நீதி புகட்டும் நூல் எது?",
+    "options": [
+      "பழமொழி நானூறு",
+      "நாலடியார்",
+      "ஏலாதி",
+      "கார் நாற்பது"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பழமொழி நானூறு ஒவ்வொரு பாடலின் இறுதியிலும் பழமொழியைச் சேர்த்து நீதி புகட்டுகிறது.",
+    "active": true
+  },
+  {
+    "id": "HkfBCQDh5hLNjvSiarp2",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நீதிநெறி விளக்கம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“கற்றோர்க்குக் கல்வி நலனே கலனல்லால் மற்றொரு அணிகலம் வேண்டாவாம்” என்ற பாடலின்படி கற்றோருக்கு அணிகலன் எது?",
+    "options": [
+      "கல்வி",
+      "வைரம்",
+      "முத்து",
+      "பொன்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "கற்றோருக்குக் கல்வியே அணிகலன்; வேறு அணிகலன்கள் வேண்டியதில்லை.",
+    "active": true
+  },
+  {
+    "id": "IFdl6GEYKIiLWWx4dRzu",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பிற்கால நீதிநூல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பதினைந்தாம் நூற்றாண்டைச் சார்ந்த கபிலர் இயற்றிய நூல் எது?",
+    "options": [
+      "நறுந்தொகை",
+      "கபிலர் அகவல்",
+      "நன்னெறி",
+      "நல்வழி"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பதினைந்தாம் நூற்றாண்டைச் சேர்ந்த கபிலர் என்னும் புலவரால் இயற்றப்பட்டது கபிலர் அகவல்.",
+    "active": true
+  },
+  {
+    "id": "IIfW6NvUtWtYD1gyRaWL",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பிற்கால நீதிநூல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "விவேகசிந்தாமணியின்படி ஒழுக்கத்துடன் வாழ்பவர் பெறுவது யாது?",
+    "options": [
+      "அறிவும் புகழும்",
+      "செல்வமும் பதவியும்",
+      "அழகும் இளமையும்",
+      "வீரமும் வெற்றியும்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஒழுக்கத்துடன் வாழ்பவர் அறிவும் புகழும் பெறுவர்; ஒழுக்கமில்லாதவர் நரகத்தை அடைவர்.",
+    "active": true
+  },
+  {
+    "id": "IKrqJmWL6HBOQmixwFf3",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பிற்கால நீதிநூல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘புதிய ஆத்திசூடி’ இயற்றியவர் யார்?",
+    "options": [
+      "குமரகுருபரர்",
+      "வேதநாயகர்",
+      "பாரதியார்",
+      "ஔவையார்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "புதிய ஆத்திசூடியை இயற்றியவர் பாரதியார்.",
+    "active": true
+  },
+  {
+    "id": "IRGj8QNNdypiO3fjWoiF",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஆசாரக்கோவை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“பிறரிடம் நான் ---- பேசுவேன்” என்ற தொடரில் கோடிட்ட இடத்திற்குரிய சொல் எது?",
+    "options": [
+      "வன்சொல்",
+      "கடுஞ்சொல்",
+      "இன்சொல்",
+      "கொடுஞ்சொல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பிறரிடம் இனிய சொற்களையே பேசவேண்டும்; எனவே ‘இன்சொல்’.",
+    "active": true
+  },
+  {
+    "id": "Ip13pGlBr9RlBZ7EuI0O",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நாலடியார்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "நாலடியாரின் ஆசிரியர்கள் யார்?",
+    "options": [
+      "திருவள்ளுவர்",
+      "கபிலர்",
+      "சமண முனிவர்கள்",
+      "ஔவையார்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "சமண முனிவர்கள் பலர் பாடிய பாடல்களின் தொகுப்பு நாலடியார்.",
+    "active": true
+  },
+  {
+    "id": "IsUz0u9gIxqcH7AJrW6J",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "சிறுபஞ்சமூலம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "97 வெண்பாக்களிலும் மனநோய் போக்கும் ஐந்து கருத்துகள் கொண்ட நூல் எது?",
+    "options": [
+      "திரிகடுகம்",
+      "மலைபடுகடாம்",
+      "சிறுபஞ்சமூலம்",
+      "ஏலாதி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "சிறுபஞ்சமூலத்தின் ஒவ்வொரு பாடலிலும் ஐந்து அறக் கருத்துகள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "J5KJyuiEv7joZ6GZiHau",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "திரிகடுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நெறி’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "வழி",
+      "மனம்",
+      "மக்கள்",
+      "நிலம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "‘நெறி’ என்பது வழி என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "J6Q9YMECEKLyl71Hr4sd",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "முதுமொழிக்காஞ்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘இளமையைக் காட்டிலும் சிறந்தது’ எது எனக் கூறப்படுகிறது?",
+    "options": [
+      "செல்வம்",
+      "புகழ்",
+      "பதவி",
+      "நோயற்ற வாழ்வு"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "இளமையைக் காட்டிலும் நோயற்ற வாழ்வே சிறந்தது என முதுமொழிக்காஞ்சி கூறுகிறது.",
+    "active": true
+  },
+  {
+    "id": "JevGp7N7cvmEa4GnxJSL",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "திரிகடுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வனப்பு’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "வலிமை",
+      "அறிவு",
+      "வளமை",
+      "அழகு"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "‘வனப்பு’ என்பது அழகு என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "KzxmkwcarN3fsLFtzm6B",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பதினெண் கீழ்க்கணக்கு நூல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பதினெண் கீழ்க்கணக்கில் உள்ள ஒரே புற நூல் எது?",
+    "options": [
+      "ஐந்திணை ஐம்பது",
+      "இன்னா நாற்பது",
+      "களவழி நாற்பது",
+      "கார் நாற்பது"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "களவழி நாற்பது ஒன்றே புற நூல். கார் நாற்பது அக நூல்.",
+    "active": true
+  },
+  {
+    "id": "LMbZdFkDbwEEhHIjDcIc",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஆசாரக்கோவை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“பிறர் நமக்குச் செய்யும் தீங்கைப் பொறுத்துக்கொள்வது ---- ஆகும்” என்ற தொடரில் கோடிட்ட இடத்திற்குரிய சொல் எது?",
+    "options": [
+      "பொறை",
+      "பகை",
+      "நாணம்",
+      "வம்பு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பிறர் செய்யும் தீங்கைப் பொறுத்துக்கொள்வது பொறை ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "LkWp8G09lmweugxclFMU",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பழமொழி நானூறு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பழமொழி நானூறு எத்தனை அதிகாரங்களைக் கொண்டது?",
+    "options": [
+      "34",
+      "24",
+      "40",
+      "10"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பழமொழி நானூறு 34 அதிகாரங்களைக் கொண்டது.",
+    "active": true
+  },
+  {
+    "id": "MUhPQfPbUr9a8SimYitQ",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "திரிகடுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘தேற்றாதான்’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "தேவையற்றவன்",
+      "கடைப்பிடிக்காதவன்",
+      "தெளிவானவன்",
+      "தோற்றவன்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "தேற்றாதான் என்பது கடைப்பிடிக்காதவன் என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "Mv3qTSdWCKWqVRRJyXJF",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பழமொழி நானூறு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பழமொழி நானூறு நூலில் 'மாரி' என்பதன் பொருள் யாது?",
+    "options": [
+      "காற்று",
+      "மழை",
+      "இருள்",
+      "நெருப்பு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "‘மாரி’ என்பது மழையைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "NmkHJ50GGLaWX6htW8Ih",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஔவையார் பாடல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "புறநானூற்றில் ஔவையார் பாடல்கள் எத்தனை?",
+    "options": [
+      "33",
+      "15",
+      "4",
+      "7"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஔவையார் பாடிய 59 பாடல்களில் புறநானூற்றில் 33 பாடல்கள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "OHMCzLKFNb6EW9yUxqu4",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஔவையார் பாடல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“நிலனே” என விளிக்கப்படுவது எது?",
+    "options": [
+      "கடல்",
+      "நிலம்",
+      "மலை",
+      "வானம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "“எவ்வழி நல்லவர் ஆடவர் அவ்வழி நல்லை வாழிய நிலனே” என்று நிலம் விளிக்கப்படுகிறது.",
+    "active": true
+  },
+  {
+    "id": "Ol8Y9mPrSlk0pRj6Hbzn",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "இலக்கணம் - பிரித்தெழுதுதல் மற்றும் சந்திப்பு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“பழியில்லா மன்னன்” என்பதன் இலக்கணக் குறிப்பு யாது?",
+    "options": [
+      "உவமைத்தொகை",
+      "ஈறுகெட்ட எதிர்மறைப் பெயரெச்சம்",
+      "பண்புத்தொகை",
+      "வினைத்தொகை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "‘பழியில்லா’ என்பது ஈறுகெட்ட எதிர்மறைப் பெயரெச்சம்.",
+    "active": true
+  },
+  {
+    "id": "Oo1BTrSuBGlwcoW96Smm",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "முதுமொழிக்காஞ்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மேதை’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "செல்வம்",
+      "பகை",
+      "உடல் வலிமை",
+      "அறிவு நுட்பம்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "‘மேதை’ என்பது அறிவு நுட்பத்தைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "Q6trYNPhCSQQT3rEa1KN",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நான்மணிக்கடிகை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "நான்மணிக்கடிகை குறிப்பிடும் நான்கு மணிகளுள் ஒன்று அல்லாதது எது?",
+    "options": [
+      "பவளம்",
+      "மரகதம்",
+      "வைரம்",
+      "முத்து"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "நான்கு மணிகள்: முத்து, பவளம், மரகதம், மாணிக்கம்.",
+    "active": true
+  },
+  {
+    "id": "QHIgiDlw1dugNsbU1VVb",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "இலக்கணம் - பிரித்தெழுதுதல் மற்றும் சந்திப்பு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“மக்கட்கெல்லாம்” என்பதைப் பிரித்து எழுதுக.",
+    "options": [
+      "மக்க + கெல்லாம்",
+      "மக்கள் + எல்லாம்",
+      "மக்கட்கு + எல்லாம்",
+      "மக்கட்கெல் + லாம்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "மக்கட்கெல்லாம் = மக்கட்கு + எல்லாம்.",
+    "active": true
+  },
+  {
+    "id": "QdYH6AFMqW27rldHYOvZ",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஔவையார் பாடல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மூதுரை’ என்பதன் பொருள் யாது?",
+    "options": [
+      "மூத்தோர் கூறும் அறிவுரை",
+      "நகைச்சுவைப் பேச்சு",
+      "புதிய பாடல்",
+      "பழைய கதை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "மூதுரை என்பது மூத்தோர் கூறும் அறிவுரை.",
+    "active": true
+  },
+  {
+    "id": "RCr94XttMSqTeeM0OQx2",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஔவையார் பாடல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“கற்றது கைம்மண்ணளவு, கல்லாதது உலகளவு” என்று கூறியவர் யார்?",
+    "options": [
+      "கபிலர்",
+      "பரணர்",
+      "ஔவையார்",
+      "கம்பர்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "‘கற்றது கைம்மண்ணளவு கல்லாதது உலகளவு’ என்பது ஔவையாரின் புகழ்பெற்ற வாக்கு.",
+    "active": true
+  },
+  {
+    "id": "RFnYze6tXr4taXT3PnsH",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "அறநெறிச்சாரம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘களை’ என்பதன் பொருள் யாது?",
+    "options": [
+      "விதை",
+      "வேண்டாத செடி",
+      "நீர்",
+      "உரம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "‘களை’ என்பது வேண்டாத செடியைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "RsPANPtNdMnbGlIRrPIq",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "முதுமொழிக்காஞ்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“அறிவுரைக்கோவை” எனவும் வழங்கப்படும் நூல் எது?",
+    "options": [
+      "நான்மணிக்கடிகை",
+      "திரிகடுகம்",
+      "ஏலாதி",
+      "முதுமொழிக்காஞ்சி"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "முதுமொழிக்காஞ்சி அறிவுரைக்கோவை எனவும் வழங்கப்படுகிறது.",
+    "active": true
+  },
+  {
+    "id": "SHW9i7J2l2GPcO0zhC6S",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பிற்கால நீதிநூல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பதினெண் கீழ்க்கணக்கிற்குப் பின் தோன்றிய அறநூல்கள் எதனைப் பேசின?",
+    "options": [
+      "அரசர்களின் வரலாற்றை",
+      "தனிமனித அறத்தையும் சமூக அறத்தையும்",
+      "போர் வீரத்தை",
+      "மொழி இலக்கணத்தை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பதினெண் கீழ்க்கணக்கிற்குப் பின் தோன்றிய அறநூல்கள் தனிமனித அறத்தையும் சமூக அறத்தையும் பேசின.",
+    "active": true
+  },
+  {
+    "id": "SfHIsFVr45POEztGti7s",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நீதிநெறி விளக்கம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கலன்’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "உணவு",
+      "அணிகலன்",
+      "ஆடை",
+      "மாளிகை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "‘கலன்’ என்பது அணிகலன் என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "SjmRDWibs5u3EG66cEHf",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "சிறுபஞ்சமூலம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அரசனாகச் செயலாற்றுவதற்குரிய தகுதியுடையவன் உடைய ஐந்து குணங்களில் ஒன்று எது?",
+    "options": [
+      "கல்வியில் வல்லவனாதல்",
+      "புகழ் விரும்புதல்",
+      "அறிவுடைமை",
+      "பிறிதோர் உயிரின் துன்பங்கண்டு இரங்குதல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "பொருள் இழக்கும் காலத்தும் அஞ்சாமை, இன்பம், இடுக்கண் வந்த காலத்து அஞ்சாமை, பிறிதோர் உயிரின் துன்பங்கண்டு இரங்குதல், நிலையான அறம் ஆகிய ஐந்தும் உடையவனே அரசனாகச் செயலாற்றத் தகுதியுடையவன்.",
+    "active": true
+  },
+  {
+    "id": "VOsW4CKYFxjmdzPcQLID",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஔவையார் பாடல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அதியமான் ஔவையாருக்கு அளித்த கனி எது?",
+    "options": [
+      "நெல்லிக்கனி",
+      "வாழைப்பழம்",
+      "மாங்கனி",
+      "பலாப்பழம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அதியமான் தான் உண்ணாது ஔவையாருக்கு நெல்லிக்கனி அளித்தான்.",
+    "active": true
+  },
+  {
+    "id": "WKNcTdpyT1w2FeILDueL",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஔவையார் பாடல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“வாயிலோயே” என்ற பாடலின் பா வகை யாது?",
+    "options": [
+      "கலிப்பா",
+      "வெண்பா",
+      "வஞ்சிப்பா",
+      "நேரிசை ஆசிரியப்பா"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "புறநானூற்றுப் பாடல்கள் பெரும்பாலும் ஆசிரியப்பாவில் அமைந்தவை; இப்பாடல் நேரிசை ஆசிரியப்பா.",
+    "active": true
+  },
+  {
+    "id": "WcxBGpbrrJ8pxoFQDT2W",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நீதிநெறி விளக்கம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "நீதிநெறி விளக்கத்தின் ஆசிரியர் யார்?",
+    "options": [
+      "ஔவையார்",
+      "குமரகுருபரர்",
+      "கம்பர்",
+      "சிவப்பிரகாசர்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "நீதிநெறி விளக்கத்தின் ஆசிரியர் குமரகுருபரர்.",
+    "active": true
+  },
+  {
+    "id": "Wgqh8rjwTM2FwSzY7qS0",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஔவையார் பாடல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பரிசில் துறை’ என்பது யாது?",
+    "options": [
+      "தானம் வழங்குவது",
+      "பகைவரை வெல்வது",
+      "பரிசு வேண்டி வாயிலில் நிற்பது",
+      "போரில் வெற்றி பெறுவது"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பரிசில் துறை என்பது பரிசு வேண்டி வாயிலில் நிற்பதைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "WiszVMWNTezbN8i31d55",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நீதிநெறி விளக்கம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "குமரகுருபரர் வாழ்ந்த நூற்றாண்டு யாது?",
+    "options": [
+      "பதின்மூன்றாம் நூற்றாண்டு",
+      "பதினாறாம் நூற்றாண்டு",
+      "பதினேழாம் நூற்றாண்டு",
+      "பதினெட்டாம் நூற்றாண்டு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "குமரகுருபரர் கி.பி. பதினேழாம் நூற்றாண்டைச் சேர்ந்தவர்.",
+    "active": true
+  },
+  {
+    "id": "XrSwVu8NsXmBKcRmLjZ3",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஔவையார் பாடல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஔவையார் இயற்றிய நூல் அல்லாதது எது?",
+    "options": [
+      "நல்வழி",
+      "ஏலாதி",
+      "மூதுரை",
+      "ஞானக்குறள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "ஏலாதி கணிமேதாவியார் இயற்றிய நூல்.",
+    "active": true
+  },
+  {
+    "id": "YGebMaj4f050muuLPLcJ",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஔவையார் பாடல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“வாயிலோயே” என்பதன் பொருள் யாது?",
+    "options": [
+      "வழி காட்டுபவனே",
+      "வாயில் காப்போனே",
+      "வாசல் பூட்டுபவனே",
+      "வாயில் திறப்பவனே"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "‘வாயிலோயே’ என்பது வாயில் காப்போனே என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "ZoEKe9RgLFZbOy6gPLPr",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நாலடியார்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "நாலடியார் பாடலின்படி பிறரால் கொள்ளப்படாத செல்வம் எது?",
+    "options": [
+      "நிலம்",
+      "பொன்",
+      "ஆடை",
+      "கல்வி"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "கல்வியைப் பொருள் போல வைத்திருந்தாலும் அது பிறரால் கொள்ளப்படாது; அதுவே நிலையான செல்வம்.",
+    "active": true
+  },
+  {
+    "id": "ZsndatIrkTChgD5x8mRd",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "இலக்கணம் - பிரித்தெழுதுதல் மற்றும் சந்திப்பு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“நூல்நோக்கி” என்பதன் இலக்கணக் குறிப்பு யாது?",
+    "options": [
+      "உவமைத்தொகை",
+      "வினைத்தொகை",
+      "பண்புத்தொகை",
+      "இரண்டாம் வேற்றுமைத்தொகை"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "‘நூலை நோக்கி’ என்பது இரண்டாம் வேற்றுமைத்தொகை.",
+    "active": true
+  },
+  {
+    "id": "avcj3viFiva5QFvHwTZV",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பிற்கால நீதிநூல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நீதிபேதம்’ நூலின் ஆசிரியர் யார்?",
+    "options": [
+      "வேதநாயகர்",
+      "ஔவையார்",
+      "அதிவீரராமபாண்டியர்",
+      "பாரதியார்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நீதிபேதம் வேதநாயகர் இயற்றியது.",
+    "active": true
+  },
+  {
+    "id": "aweMFa6cgv1BECY5jEda",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பழமொழி நானூறு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பழமொழி நானூறு நூலில் உள்ள பாடல்கள் எத்தனை?",
+    "options": [
+      "104",
+      "100",
+      "1330",
+      "400"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "பழமொழி நானூறு நானூறு வெண்பாக்களைக் கொண்டது.",
+    "active": true
+  },
+  {
+    "id": "bKQbVrNUt6ahnDzFtKg5",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "முதுமொழிக்காஞ்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "முதுமொழிக்காஞ்சியின் ஆசிரியர் யார்?",
+    "options": [
+      "விளம்பி நாகனார்",
+      "பெருவாயின் முள்ளியார்",
+      "மதுரைக் கூடலூர் கிழார்",
+      "நல்லாதனார்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "முதுமொழிக்காஞ்சியை இயற்றியவர் மதுரைக் கூடலூர் கிழார்.",
+    "active": true
+  },
+  {
+    "id": "bsoa0dpUTPgDSCsLrR0s",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நாலடியார்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வாய்த்தீயிற் ஈயில்’ என்பதன் பொருள் யாது?",
+    "options": [
+      "தீயில் இடுதல்",
+      "கேட்கும்படி சொல்லுதல்",
+      "வாய்க்கும்படி கொடுத்தல்",
+      "மறைத்து வைத்தல்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "‘வாய்த்தீயிற் ஈயில்’ என்பது வாய்க்கும்படி கொடுத்தலைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "c2zGPj7ihqisaVTDD04s",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "திரிகடுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "வறியவர்க்குப் பொருளை அளித்தல் முதலிய மூன்றும் எந்த வழியில் நடக்கும் மக்களுக்கே என்றும் உண்டு?",
+    "options": [
+      "வணிகவழி",
+      "போர்வழி",
+      "உழவுவழி",
+      "அறவழி"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "இம்மூன்றும் அறவழியில் நடக்கும் மக்களுக்கே என்றும் உண்டு என திரிகடுகம் கூறுகிறது.",
+    "active": true
+  },
+  {
+    "id": "dEhnhEysFPiB82hHxXDW",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "இலக்கணம் - பிரித்தெழுதுதல் மற்றும் சந்திப்பு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“மாரி + ஒன்று” என்பதைச் சேர்த்து எழுதக் கிடைக்கும் சொல் எது?",
+    "options": [
+      "மாரியின்று",
+      "மாரியொன்று",
+      "மாரியன்று",
+      "மாரிஒன்று"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மாரி + ஒன்று = மாரியொன்று (உடம்படுமெய் ‘ய்’ சேர்ந்தது).",
+    "active": true
+  },
+  {
+    "id": "dWc0dN2Uv4bjIT2Jn4Ns",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "இலக்கணம் - பிரித்தெழுதுதல் மற்றும் சந்திப்பு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“நன்கணியர்” என்பதைப் பிரித்து எழுதுக.",
+    "options": [
+      "நன்கு + ஆணியர்",
+      "நன்கணி + யர்",
+      "நன்கு + அணியர்",
+      "நன்க + அணியர்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "நன்கு + அணியர் = நன்கணியர் (உகரம் கெடுதல்).",
+    "active": true
+  },
+  {
+    "id": "dcGX3Jo36Bx5R7gvNW8U",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "இலக்கணம் - பிரித்தெழுதுதல் மற்றும் சந்திப்பு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“நட்பென்னாம்” என்பதைப் பிரித்து எழுதுக.",
+    "options": [
+      "நட்பு + என்னாம்",
+      "நட் + பென்னாம்",
+      "நட்பெ + ன்னாம்",
+      "நட்பு + ஏன்னாம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நட்பு + என்னாம் = நட்பென்னாம் (உகரம் கெடுதல்).",
+    "active": true
+  },
+  {
+    "id": "eNBXVpOPyW2r5iwZqL4j",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "சிறுபஞ்சமூலம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "சிறுபஞ்சமூலத்தில் கடவுள் வாழ்த்துடன் உள்ள வெண்பாக்கள் எத்தனை?",
+    "options": [
+      "தொண்ணூற்றேழு",
+      "தொண்ணூற்றொன்று",
+      "தொண்ணூற்றாறு",
+      "நூற்றெட்டு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "சிறுபஞ்சமூலத்தில் கடவுள் வாழ்த்துடன் மொத்தம் 97 வெண்பாக்கள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "egtgmEmLw7zmS9HzRwuL",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "அறநெறிச்சாரம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அறநெறிச்சாரத்தில் உள்ள பாடல்கள் எத்தனை?",
+    "options": [
+      "200",
+      "100",
+      "250",
+      "225"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "அறநெறிச்சாரம் 225 பாடல்களைக் கொண்டது.",
+    "active": true
+  },
+  {
+    "id": "eyMNMaDpuFk80unfAYQ1",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஆசாரக்கோவை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஆசாரக்கோவையில் உள்ள வெண்பாக்கள் எத்தனை?",
+    "options": [
+      "நூறு",
+      "தொண்ணூற்றேழு",
+      "எண்பத்திரண்டு",
+      "நூற்றொன்று"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஆசாரக்கோவை நூறு வெண்பாக்களைக் கொண்டது.",
+    "active": true
+  },
+  {
+    "id": "fT3ai7qUqPlAS3axnqZl",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நாலடியார்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "நாலடியார் எவ்வாறு பகுக்கப்பட்டுள்ளது?",
+    "options": [
+      "அகம் ஆறு, புறம் ஒன்று என",
+      "அறம், பொருள், இன்பம் என முப்பாலாக",
+      "ஐந்திணை, கைக்கிளை, பெருந்திணை என",
+      "இயல், இசை, நாடகம் என"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "நாலடியார் அறம், பொருள், இன்பம் என்ற முப்பால் பகுப்பில் அமைந்துள்ளது.",
+    "active": true
+  },
+  {
+    "id": "ffsqp5bcb4F0PWjAQ3jP",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "இலக்கணம் - பிரித்தெழுதுதல் மற்றும் சந்திப்பு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“இவை + எட்டும்” என்பதைச் சேர்த்து எழுதக் கிடைக்கும் சொல் எது?",
+    "options": [
+      "இவைஎட்டும்",
+      "இவையெட்டும்",
+      "இவளெட்டும்",
+      "இவ்வெட்டும்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "இவை + எட்டும் = இவ்வெட்டும்.",
+    "active": true
+  },
+  {
+    "id": "gI9kShBJ7zwC5SWkKiAV",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நான்மணிக்கடிகை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "நிலையில்லாப் பொருள்களின் மீது நாட்டம் கொள்ளாமல் தேடியடைவதே மனித வாழ்வின் நோக்கம் எனக் கூறப்படுவது எது?",
+    "options": [
+      "மெய்ப்பொருள்",
+      "இன்பம்",
+      "புகழ்",
+      "செல்வம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நிலையில்லாப் பொருள்களின் மீது நாட்டம் கொள்ளாமல் மெய்ப்பொருளைத் தேடுவதே நோக்கம் என நான்மணிக்கடிகை கூறுகிறது.",
+    "active": true
+  },
+  {
+    "id": "gJ5mds9lZAExNDsMud3k",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஏலாதி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஏலாதி எனப் பெயர் பெற்றதற்குக் காரணமான ஆறு பொருள்கள் எவை?",
+    "options": [
+      "ஏலம், இலவங்கப்பட்டை, நாககேசரம், மிளகு, திப்பிலி, சுக்கு",
+      "சுக்கு, திப்பிலி ஆகிய இரண்டு",
+      "ஏலம், மிளகு, திப்பிலி ஆகிய மூன்று",
+      "ஏலம், இலவங்கம், மஞ்சள், திப்பிலி, மிளகு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "ஏலம், இலவங்கப்பட்டை, சிறுநாவற்பூ, சுக்கு, மிளகு, திப்பிலி ஆகிய ஆறு கருத்துக்களைக் கொண்ட மருந்தாதலால் ஏலாதி எனப்பெயர் பெற்றது.",
+    "active": true
+  },
+  {
+    "id": "h2y5lsEYXvVUN6L8CNXO",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஔவையார் பாடல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வறுந்தலை’ என்பதன் பொருள் யாது?",
+    "options": [
+      "வெறுமையான இடம்",
+      "உயர்ந்த மேடு",
+      "செழிப்பான நிலம்",
+      "நீர் நிறைந்த குளம்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "‘வறுந்தலை’ என்பது வெறுமையான இடம் என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "hMrQ5BpUcb7cghgOWUBC",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "திரிகடுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஈயும்’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "மறைக்கும்",
+      "அளிக்கும்",
+      "எடுக்கும்",
+      "பெறும்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "‘ஈயும்’ என்பது அளிக்கும் என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "iy9QLJ4UNNiNENblhdIW",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஏலாதி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கணிமேதாவியார் இயற்றிய மற்றொரு நூல் எது?",
+    "options": [
+      "சிறுபஞ்சமூலம்",
+      "திணைமாலை நூற்றைம்பது",
+      "இன்னா நாற்பது",
+      "நான்மணிக்கடிகை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "கணிமேதாவியார் திணைமாலை நூற்றைம்பது நூலையும் இயற்றியவர்.",
+    "active": true
+  },
+  {
+    "id": "jIObQP6CwaHMQAa28JP1",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நாலடியார்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "நாலடியாரை ஆங்கிலத்தில் மொழிபெயர்த்தவர் யார்?",
+    "options": [
+      "கால்டுவெல்",
+      "உ.வே. சாமிநாதையர்",
+      "வீரமாமுனிவர்",
+      "ஜி.யு. போப்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "நாலடியாரை ஆங்கிலத்தில் மொழிபெயர்த்தவர் ஜி.யு. போப்.",
+    "active": true
+  },
+  {
+    "id": "jRAz8vLs6GWZe1HNtxGp",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "முதுமொழிக்காஞ்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வண்மை’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "அறிவு",
+      "அழகு",
+      "ஈகை, கொடை",
+      "வலிமை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "‘வண்மை’ என்பது ஈகை, கொடை என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "kJZVJoxQWi2KEFxJIR2f",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "சிறுபஞ்சமூலம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“மழைக்கை மாக்காரி யாசான்” என்ற தொடர் எதனைப் புலப்படுத்துகிறது?",
+    "options": [
+      "நூலாசிரியர் கொடை வள்ளல் என்பதை",
+      "நூலாசிரியர் வணிகர் என்பதை",
+      "நூலாசிரியர் அந்தணர் என்பதை",
+      "நூலாசிரியர் அரசன் என்பதை"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "‘மழைக்கை மாக்காரி யாசான்’ என்ற தொடர் நூலாசிரியர் கொடை வள்ளல் என்பதைப் புலப்படுத்துகிறது.",
+    "active": true
+  },
+  {
+    "id": "kSmBTbDfYZTIdh0MLtE4",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "திரிகடுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "திரிகடுகம் நூலில் உள்ள வெண்பாக்கள் எத்தனை?",
+    "options": [
+      "200",
+      "110",
+      "100",
+      "90"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "திரிகடுகம் நூறு வெண்பாக்களைக் கொண்டது (காப்புச் செய்யுளுடன் 101 எனவும் குறிப்பிடப்படுகிறது).",
+    "active": true
+  },
+  {
+    "id": "kTHE5xhae7fjmQiOf4gk",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "சிறுபஞ்சமூலம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "சிறுபஞ்சமூலம் கூறும் அரசனின் கடமை எது?",
+    "options": [
+      "வரி வசூலித்தல்",
+      "மக்களைக் காப்பது",
+      "போர் செய்தல்",
+      "செல்வம் சேர்த்தல்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "மக்களைக் காப்பது அரசனின் கடமை; ‘மன்னன் எவ்வழியோ மக்கள் அவ்வழி’ என்பது ஆன்றோர் வாக்கு.",
+    "active": true
+  },
+  {
+    "id": "l4AduWVw12vtqq5G8Lzo",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நீதிநெறி விளக்கம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘கந்தர்கலிவெண்பா’ இயற்றியவர் யார்?",
+    "options": [
+      "ஔவையார்",
+      "நக்கீரர்",
+      "குமரகுருபரர்",
+      "கம்பர்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "கந்தர்கலிவெண்பா குமரகுருபரர் இயற்றிய நூல்.",
+    "active": true
+  },
+  {
+    "id": "lYX02Twkj1iPhdUHIoiM",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "சிறுபஞ்சமூலம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "சிறுபஞ்சமூலத்தில் இடம்பெறும் ஐந்து மூலிகைகளுள் ஒன்றல்லாதது எது?",
+    "options": [
+      "சிறுமல்லி",
+      "கண்டங்கத்திரி",
+      "ஏலம்",
+      "நெருஞ்சி"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "சிறுபஞ்சமூலத்தின் ஐந்து வேர்கள்: கண்டங்கத்திரி, சிறுவழுதுணை, சிறுமல்லி, நெருஞ்சி, பெருமல்லி. ஏலம் இதில் இல்லை.",
+    "active": true
+  },
+  {
+    "id": "lbkdnGupY9xjyAiBhB8j",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நாலடியார்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "நாலடியாரில் உள்ள பாடல்கள் எத்தனை?",
+    "options": [
+      "104",
+      "400",
+      "100",
+      "1330"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "நாலடியாரில் 400 பாடல்கள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "m8N1CU42qR0XcnbNxzaV",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "இலக்கணம் - பிரித்தெழுதுதல் மற்றும் சந்திப்பு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“குலனுடைமை” என்பதைப் பிரித்து எழுதுக.",
+    "options": [
+      "குல + நுடைமை",
+      "குலன் + உடைமை",
+      "குலம் + நுடைமை",
+      "குலன் + நுடைமை"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "குலனுடைமை = குலன் + உடைமை.",
+    "active": true
+  },
+  {
+    "id": "mVyuj8jGPSG5VmxJS5IT",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "திரிகடுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "'திரிகடுகம்' பற்றிய கூற்றுகளில் பொருந்தாததைக் குறிப்பிடுக.",
+    "options": [
+      "பதினெண் கீழ்க்கணக்கு நூல்களுள் ஒன்று",
+      "திரிகடுகம் நூற்று இரண்டு வெண்பாக்களைக் கொண்டது",
+      "ஆசிரியர் நல்லாதனார்",
+      "சுக்கு, மிளகு, திப்பிலியால் ஆன மருந்துப் பெயர் திரிகடுகம்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "திரிகடுகம் நூறு வெண்பாக்களைக் கொண்டது; நூற்று இரண்டு என்பது தவறு.",
+    "active": true
+  },
+  {
+    "id": "n0wd23Pm03sUX1C09fJi",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பிற்கால நீதிநூல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நன்னெறி’ நூலின் ஆசிரியர் யார்?",
+    "options": [
+      "உலகநாதர்",
+      "சிவப்பிரகாசர்",
+      "குமரகுருபரர்",
+      "ஔவையார்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "நன்னெறியின் ஆசிரியர் சிவப்பிரகாசர்.",
+    "active": true
+  },
+  {
+    "id": "oMUvOMjGU8Qxx5Lsefxx",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "திரிகடுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "திரிகடுகம் நூலின் ஆசிரியர் யார்?",
+    "options": [
+      "கபிலர்",
+      "ஔவையார்",
+      "முன்றுறை அரையனார்",
+      "நல்லாதனார்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "திரிகடுகத்தின் ஆசிரியர் நல்லாதனார்; ஊர் திருத்து.",
+    "active": true
+  },
+  {
+    "id": "oaSoiwPuHVb32FYQT1eY",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "சிறுபஞ்சமூலம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பஞ்ச’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "ஆறு",
+      "ஐந்து",
+      "நான்கு",
+      "மூன்று"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "‘பஞ்ச’ என்பது ஐந்து என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "pGFkUyXRDZMFr4WVNdYq",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஔவையார் பாடல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘வள்ளியோர்’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "அரசர்கள்",
+      "புலவர்கள்",
+      "வீரர்கள்",
+      "வள்ளல்கள்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "‘வள்ளியோர்’ என்பது வள்ளல்களைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "pnv4NdNRuHtjhqSCGwO6",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "முதுமொழிக்காஞ்சி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "முதுமொழிக்காஞ்சியில் உள்ள அதிகாரங்கள் எத்தனை?",
+    "options": [
+      "பன்னிரண்டு",
+      "பத்து",
+      "எட்டு",
+      "இருபத்து நான்கு"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "சிறந்த பத்து, அறிவுப்பத்து உள்ளிட்ட பத்து அதிகாரங்களைக் கொண்டது.",
+    "active": true
+  },
+  {
+    "id": "q9bra8MMdeALwJRg4ja7",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பதினெண் கீழ்க்கணக்கு நூல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "தமிழின் தலைசிறந்த அற இலக்கியங்களாகக் கருதப்படுபவை எவை?",
+    "options": [
+      "ஐம்பெருங்காப்பியங்கள்",
+      "பதினெண் கீழ்க்கணக்கு நூல்கள்",
+      "எட்டுத்தொகை நூல்கள்",
+      "பத்துப்பாட்டு நூல்கள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "பதினெண் கீழ்க்கணக்கு நூல்களின் தொகுப்பே தமிழின் தலைசிறந்த அற இலக்கியங்களாகக் கருதப்படுகின்றன.",
+    "active": true
+  },
+  {
+    "id": "qcL79AvKNrwVpCb4VYit",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஔவையார் பாடல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "மூதுரையில் உள்ள பாடல்கள் எத்தனை?",
+    "options": [
+      "41",
+      "30",
+      "33",
+      "31"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "மூதுரையில் 31 பாடல்கள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "rGtyURL7JgXgBSwqRVYu",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஏலாதி",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘நுணங்கிய நூல்’ என்பதன் பொருள் யாது?",
+    "options": [
+      "நுண்ணறிவு நூல்கள்",
+      "சிறிய நூல்கள்",
+      "எளிய நூல்கள்",
+      "பழைய நூல்கள்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "‘நுணங்கிய நூல்’ என்பது நுண்ணறிவு நூல்களைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "rQ84t5Ig66pTpZY7dgl1",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பதினெண் கீழ்க்கணக்கு நூல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“இன்னது இன்பம் பயக்கும்” எனத் தொடங்கும் நாற்பது நூல் எது?",
+    "options": [
+      "இனியவை நாற்பது",
+      "கார் நாற்பது",
+      "இன்னா நாற்பது",
+      "களவழி நாற்பது"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "இனியவை நாற்பது, பூதஞ்சேந்தனார் பாடியது; வாழ்விற்கு இன்பம் பயப்பனவற்றை எடுத்துரைக்கிறது.",
+    "active": true
+  },
+  {
+    "id": "so91iDIOPEMeLLhdDMcs",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பதினெண் கீழ்க்கணக்கு நூல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "கழுமலப் போரில் சோழன் கோச்செங்கணான் சேரன் கணைக்கால் இரும்பொறையை வென்று சிறையிலிட்டதால், அவனை மீட்கப் பொய்கையார் பாடிய நூல் எது?",
+    "options": [
+      "இனியவை நாற்பது",
+      "இன்னா நாற்பது",
+      "முதுமொழிக்காஞ்சி",
+      "களவழி நாற்பது"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "கழுமலப் போரைப் பாடியது களவழி நாற்பது; இது புறப்பொருள் பற்றிய நூல்.",
+    "active": true
+  },
+  {
+    "id": "tQyWZdpGLkTWhYDA15oC",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பழமொழி நானூறு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“தாமிருந்த கோடு குறைத்து விடல்” என்ற பழமொழியின் பொருள் யாது?",
+    "options": [
+      "தன் வீட்டிலுள்ள சுற்றத்தாரை வெளியேற்றிவிடுதல்",
+      "தன் எதிரிகளைக் குறைத்து மதிப்பிடல்",
+      "தான் தங்கியிருக்கும் வீட்டின் உயரத்தைக் குறைத்தல்",
+      "தான் தங்கியிருக்கும் கிளையை வெட்டி தானும் வீழ்ந்து உயிர் விடல்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "தான் தங்கியிருந்த கிளையின் அடியை வெட்டி வீழ்த்தி உயிர்விடுதலைப் போன்றது இப்பழமொழியின் பொருள்.",
+    "active": true
+  },
+  {
+    "id": "tVO56GsvWCbg92kXoLoP",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நான்மணிக்கடிகை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“மனைக்கு விளக்கம் மடவார்” என்பதில் ‘மடவார்’ என்பதன் பொருள் யாது?",
+    "options": [
+      "அரசர்கள்",
+      "பெண்கள்",
+      "ஆண்கள்",
+      "வணிகர்கள்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "‘மடவார்’ என்பது பெண்கள் என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "u2goToZmto1LWaU2suxs",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "திரிகடுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘பாற்பற்றி’ என்பதன் பொருள் யாது?",
+    "options": [
+      "ஒருபக்கச் சார்பு",
+      "நடுநிலை",
+      "நீர்",
+      "உணவு"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "பாற்பற்றி என்பது ஒருபக்கச் சார்பு (நடுநிலையிலிருந்து மாறுதல்) என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "v4hwEZ0MF0jVIuawYb1D",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஆசாரக்கோவை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "ஆசாரக்கோவை எந்த நூல் தொகுப்பைச் சார்ந்தது?",
+    "options": [
+      "ஐம்பெருங்காப்பியம்",
+      "பத்துப்பாட்டு",
+      "எட்டுத்தொகை",
+      "பதினெண் கீழ்க்கணக்கு"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "ஆசாரக்கோவை பதினெண் கீழ்க்கணக்கு நூல்களுள் ஒன்று.",
+    "active": true
+  },
+  {
+    "id": "vnGJS7jWdl59nPr15UXF",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஔவையார் பாடல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "அதியமானின் போர் எதிரி யார்?",
+    "options": [
+      "கரிகாற் சோழன்",
+      "சேரன் செங்குட்டுவன்",
+      "தொண்டைமான்",
+      "பாண்டியன் நெடுஞ்செழியன்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஔவையார் அதியமானின் போர் எதிரியான தொண்டைமானிடம் சென்று போரைத் தவிர்த்தார்.",
+    "active": true
+  },
+  {
+    "id": "wAgr8OMkkhXfJLszlUfT",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பழமொழி நானூறு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "பழமொழி நானூறு நூலின் ஆசிரியர் யார்?",
+    "options": [
+      "நல்லாதனார்",
+      "சமண முனிவர்",
+      "முன்றுறை அரையனார்",
+      "விளம்பி நாகனார்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "பழமொழி நானூறு ஆசிரியர் முன்றுறை அரையனார்.",
+    "active": true
+  },
+  {
+    "id": "wyAH5pWF2ZnqUXaiz9aB",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "திரிகடுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "திரிகடுகம் என்ற பெயர்க்காரணம் யாது?",
+    "options": [
+      "சுக்கு, மிளகு, திப்பிலி ஆகிய மூன்றும் கலந்த மருந்து போல ஒவ்வொரு செய்யுளிலும் உள்ள மூன்று கருத்துக்கள்",
+      "மூன்று வகைத் தமிழ் நூல்கள்",
+      "மூன்று வகை வேத நூல்கள்",
+      "நெல்லி, கடுக்காய், தான்றிக்காய் ஆகிய மருந்து"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "சுக்கு, மிளகு, திப்பிலி ஆகியவற்றால் ஆன மருந்து திரிகடுகம் எனப்படும்; அதுபோல இந்நூலின் ஒவ்வொரு பாடலிலும் மூன்று கருத்துக்கள் உள்ளன.",
+    "active": true
+  },
+  {
+    "id": "xAqD4P37crgQH6Tpxe4t",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஆசாரக்கோவை",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘ஆசாரம்’ என்பதன் பொருள் யாது?",
+    "options": [
+      "அரசர்களின் வரலாறு",
+      "வேளாண் அறிவு",
+      "நல்ல ஒழுக்கங்கள்",
+      "இசைக்கலை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ஆசாரக்கோவை என்பது நல்ல ஒழுக்கங்களின் தொகுப்பு ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "xBiq1ShHM4lfw6lN71fi",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "இலக்கணம் - பிரித்தெழுதுதல் மற்றும் சந்திப்பு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“நன்றியறிதல்” என்பதைப் பிரித்து எழுதுக.",
+    "options": [
+      "நன்றி + அறிதல்",
+      "நன்றி + யறிதல்",
+      "நன்றி + தல்",
+      "நன்று + அறிதல்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "நன்றியறிதல் = நன்றி + அறிதல்.",
+    "active": true
+  },
+  {
+    "id": "xDblPMbSSofqNpDYtV3r",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "திரிகடுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘மாந்தர்’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "அரசர்கள்",
+      "விலங்குகள்",
+      "மக்கள்",
+      "மரங்கள்"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "‘மாந்தர்’ என்பது மக்களைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "xKXLGQXICheuYrUIfHWt",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "அற நூல்கள் - அறிமுகம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“அற நூல்கள்” என அழைக்கப்படுவது எவை?",
+    "options": [
+      "மனிதர்களின் ஒழுக்கமான வாழ்க்கைக்கும் நல்வழிப்படுத்துவதற்கும் வழிகாட்டும் நூல்கள்",
+      "மன்னர்களின் போர் வரலாற்றைக் கூறும் நூல்கள்",
+      "காதல் உணர்வுகளை மட்டும் பாடும் நூல்கள்",
+      "இலக்கண விதிகளை மட்டும் கூறும் நூல்கள்"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "அற நூல்கள் மனிதர்களுக்கு ஒழுக்கமான வாழ்வையும் நல்வழியையும் காட்டும் நீதி நூல்கள் ஆகும்.",
+    "active": true
+  },
+  {
+    "id": "xWGv0stYPc1kd9x2ElUO",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "அறநெறிச்சாரம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“இன்சொல் விளைநிலமாக” எனும் பாடலில் ‘விதை’ எனக் குறிப்பிடப்படுவது எது?",
+    "options": [
+      "வன்சொல்",
+      "இன்சொல்",
+      "ஈகை",
+      "உண்மை"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "இனிய சொல்லையே விளைநிலமாகக் கொண்டு அதில் ஈகை என்னும் பண்பை விதையாக விதைக்க வேண்டும்.",
+    "active": true
+  },
+  {
+    "id": "y2MNy6mes0hH7VwXCGZ5",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "ஔவையார் பாடல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘அவல்’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "வயல்",
+      "காடு",
+      "பள்ளம்",
+      "மேடு"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "‘அவல்’ என்பது பள்ளத்தைக் குறிக்கும்; ‘மிசை’ என்பது மேட்டைக் குறிக்கும்.",
+    "active": true
+  },
+  {
+    "id": "yBAnd0QDAuue0NMNbS3T",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நாலடியார்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“ஈக்கால்” என்ற சொல் எதனைக் குறிக்கும்?",
+    "options": [
+      "ஈயின் தலை",
+      "ஈயின் கால்",
+      "ஈயின் சிறகு",
+      "எறும்பின் கால்"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "‘ஈக்கால்’ என்பது ஈயின் கால் ஆகும்; நாலடியார் உவமையாகக் கூறுகிறது.",
+    "active": true
+  },
+  {
+    "id": "yYMVdhyRLl2apHKn10KE",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "பிற்கால நீதிநூல்கள்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘உலகநீதி’ நூலின் ஆசிரியர் யார்?",
+    "options": [
+      "ஔவையார்",
+      "வேதநாயகர்",
+      "முனைப்பாடியார்",
+      "உலகநாதர்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "உலகநீதியின் ஆசிரியர் உலகநாதர்.",
+    "active": true
+  },
+  {
+    "id": "z56GiyewmxfhwmUXFQtE",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நீதிநெறி விளக்கம்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘முற்ற’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "நிறைய",
+      "முழுவதும்",
+      "வாட",
+      "ஒளிர"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "‘முற்ற’ என்பது ஒளிர என்று பொருள்படும்.",
+    "active": true
+  },
+  {
+    "id": "zdN3ZxD6eSWG4jdNpoVy",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "இலக்கணம் - பிரித்தெழுதுதல் மற்றும் சந்திப்பு",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "“நாய்க்கால்” என்பதைப் பிரித்து எழுதுக.",
+    "options": [
+      "நாய + கால்",
+      "நாய்க் + ஆல்",
+      "நா + ய்க்கால்",
+      "நாய் + கால்"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "நாய்க்கால் = நாய் + கால். இங்கு க் ஒற்று மிகுந்துள்ளது.",
+    "active": true
+  },
+  {
+    "id": "zvoDuuz4R9dvsNeEXnfb",
+    "subject": "group4series",
+    "class": "Unit 7 -  அறநூல்கள் தொடர்பான செய்திகள்",
+    "topic": "நாலடியார்",
+    "difficulty": "Moderate",
+    "isPYQ": false,
+    "pyqYear": null,
+    "questionText": "‘எச்சம்’ என்ற சொல்லின் பொருள் யாது?",
+    "options": [
+      "மக்கள்",
+      "செல்வம்",
+      "உணவு",
+      "கல்வி"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "நாலடியாரில் ‘எச்சம்’ என்பது செல்வத்தைக் குறிக்கும்.",
+    "active": true
+  }
+]
